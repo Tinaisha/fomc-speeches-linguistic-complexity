@@ -1,0 +1,140 @@
+https://www.ft.com/content/813f2850-1972-4f9f-afe1-3899bac4e7af?accessToken=zwAAAZfz9c_ukdOBPyhQGXJPn9Ov4TiZusTnrw.MEUCIQC45qihSxB09lj4mga6jFXBI5YyMKThp1Ju8waMYgKovwIgGpOgJoM3kr8jL8hVulOSIESrks-jyaNTPjZNn2LMPsQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=a665bc9d-1d00-44c5-aa51-7c939d2a14a0
+
+Interview with St. Louis Fed President Alberto Musalem
+
+June 6, 2025
+
+Alberto Musalem; FT
+
+Financial Times
+
+
+	FT: Alberto Musalem, let’s start with the big picture. How do you think the economy compares now, midway through 2025 with you thinking at the beginning of this year?
+
+Musalem: The pace of activity has moderated a little bit in the last few months, but the economy still has underlying strength. We have more uncertainty now than we did on January 1st. We’ve had higher tariffs and higher retaliation than expected, and then de-escalation, that has been new. [But] I think monetary policy is well positioned.
+
+ Given the state of the economy today remains good, we have the labour market solid, at full employment, and inflation has continued to make progress towards 2 per cent. So, the initial condition on the economy is good and policy at the beginning of the year and now for me was and is modestly restrictive, and is well positioned because inflation is still a little bit above target and the labour market is in a good place. When I look at financial conditions, which are also a function of, monetary policy, they remain supportive of the economy.
+
+FT: Do you think that moderately restrictive policy is helpful in providing reassurance to the public that the Fed is serious about fighting any inflation that we might see in coming months?
+
+Musalem: We have seen a large increase in tariffs and that’s going to, potentially raise, the inflation rate, at least for some time and probably dampen economic activity. In terms of policy, what we need to do is follow a balanced approach because we’re talking about one policy instrument. The interest rate needs to address two different policy objectives, which are moving in different directions. The balanced approach considers the size of the deviation of inflation from target and the employment shortfall from maximum employment and also the duration of that deviation.
+
+The way I’m thinking about policy is that is my playbook. And that playbook requires inflation expectations to remain well anchored.
+
+FT: At the June meeting, you need to make your economic projections amid great uncertainty. How are you thinking about that challenge?
+
+Musalem: The challenge there is that we’re asked to put down our median scenario, if you like. And there are several scenarios that are possible. Right now, those scenarios in my mind have similar probabilities, so you have to take some sort of expected value.
+
+We prepare for these things with a lot of, modelling and a lot of time interacting with, businesses and people across the entire Eighth District to gather impressions of how they’re thinking about the economy. We also look at what market-implied outcomes are for our dual mandate and what, market participants are expecting and we put it all together.
+
+I would say that while uncertainty has increased I don’t expect to change my numbers very much relative to the March around. The picture seems kind of similar to me in terms of the uncertainty and the potential scenarios.
+
+FT: Does the progress in the US-China talks or the UK-US deal make you feel a bit more reassured?
+
+Musalem: I think we still have some uncertainty. Through the summer we need to understand what the trade negotiations may be, what legal challenges there may be, or how that resolves in terms of the tariffs. I’m also focusing on fiscal policy and what the shape of that is going to be along with immigration policy and regulatory policy. So there are a lot of things in addition to tariffs that I’m focused on and our job is to understand the net and total impact of all these policies and the underlying economy.
+
+FT: There’s been a lot of focus on the one big, beautiful bill. The CBO came out with its number this week, $2.4 trillion over the next decade added to total US debt. Is that a game-changer in terms of how you’re looking at the evolution of the economy?
+
+Musalem: I monitor fiscal policy carefully with the same attention that I look at consumers or businesses or other countries through the net exports channel. You know, the government is an important participant in the economy and it can have an impact on our congressionally mandated dual goals, directly and indirectly. It can have an impact directly through government expenditures; it can have an impact indirectly through taxation and incentives to households and businesses, and also indirectly through its impact on financial conditions.
+
+ I’m looking at the totality of it to try and understand what the trajectory of the fiscal picture looks like, what the trajectory of the debt may look like and understand what it means for aggregate demand, inflation and the labour market.
+
+FT: So, what is your sense on the overall fiscal picture? Is it going to boost to aggregate demand?
+
+Musalem: I think it depends what you’re thinking about. So if you look at the bill on its own, it would seem like it boosts aggregate demand. But if you add the potential tariff revenue, then it may be neutral. So, it depends how you look at it. And the numbers are still in flux. 
+
+FT: Let’s talk first about tariffs and prices. How long is it going to take to see the wave of price increases?
+
+Musalem: What we’re hearing is that different businesses will pass on tariff costs at different rates. I think it might take three to six months, once companies understand what the tariff structures are, to pass on costs. Some types of businesses will be able to pass on costs more than others.
+
+These are the direct effects, right? Then there are the indirect effects, which are on non-imported goods and services which have imported goods and services as inputs. That may take a little while longer, six to nine months to play out. And once the economy goes through the direct and indirect effects, then you have to observe whether there are any second-round effects.
+
+ So, there is a scenario where the tariff impact on prices could be very shortlived — a matter of a quarter or two — but I see an equally likely scenario where the impact of tariffs on prices could last longer — 6-9 months, or maybe longer. And during that period, I’m going to be focused on inflation expectations and whether they are rising further.
+
+FT: The Fed’s focus has been on market-based inflation expectations, and not so much on the survey based measures. What’s your stance on that?
+
+ Musalem: I have learned that you have to look at everything. You know, it is true that, market participants are putting real money to work in determining asset prices. Asset prices are a great aggregator of information at any given point in time, so there’s tremendous value from looking at market-implied inflation expectations and trajectories. At the same time, businesses and households who are making everyday decisions about, producing things and buying things — their opinions matter a lot. If, for example, households believe that inflation is going to rise, they may bring forward a lot of their demand and they may actually cause inflation to rise. So the behaviour of households and businesses, as measured through surveys is very important to follow.
+
+FT: The Bureau of Labor Statistics has said it’s had to stop producing some of I think the survey indices of the PPI and it’s had data collection problems with the CPI. How concerned are you about the quality of US data?
+
+Musalem: US economic data is of the highest quality and the US economy is the best measured economy in the world. That’s what makes it so interesting to follow. So, it’s very important that our data quality remain high. That will lead to much better decisions by people like me — policymakers, and businesses and households.
+
+I’m comfortable that we have a good picture of inflation because in addition to looking at the BLS and official statistical releases, we look at many other types of data and we have many conversations with business and households — businesses that are setting prices.
+
+FT: What was your thinking about non-farm payrolls today? How did you judge that report?
+
+Musalem: From my perspective, the story it told was the labour market remains at or near full employment. It remains resilient. I saw compensation growth tick up and stay at a very healthy pace. Consumers will be supported in their consumption by that number. The labour force continues to grow even with the changes to immigration policy that have been in place for about a year now. And so for me, it was a good labour market report that tells a story of stability of the labour market. 
+
+FT: What would you need to see in terms of changes in the labour market in order for you to drop the wait-and-see attitude and shift to rate cuts?
+
+Musalem: I would need to see two things. I would need to see something on the inflation side and something on the labour market side because, as I said, I am focused on a balanced approach going forward.
+
+On the labour market specifically, if I saw a weakening with respect to employment, with respect to different flows in and out of the labour market, more people are coming out of the labour force, not being able to find jobs. If I saw, quit rates go down materially and if I saw lay-off rates go up materially. And if you started to see unemployment rise materially above a level which is consistent with full employment and do so at a fast rate, that would certainly get my attention.
+
+At the same time, I would have to be looking at the inflation side of the picture, to make sure that I would have confidence inflation continues to converge towards 2 per cent and we can achieve price stability over the policy horizon.
+
+FT: What unemployment rate do you think is consistent with full employment?
+
+ Musalem: One number doesn’t do the analysis full justice. But just to summarise it in a number, an unemployment rate at around 4.5 per cent for me is consistent with full employment, an unemployment rate of 4.7 per cent would be consistent with full unemployment and a rate of 4.3 per cent would be consistent with full employment. So, somewhere in the mid fours plus or minus some margin.
+
+FT: We’ve seen some good inflation numbers of late. Do you think, if it weren’t for tariffs, the Fed would be would least be considering cutting rates by now?
+
+Musalem: It’s hard to answer that hypothetical, because that’s not the world we live in. But I have been very encouraged by the decline in core inflation. I tend to focus more on core PCE inflation because I think it’s a more stable and accurate measure of the underlying inflation trend. It has come down from around 2.9 per cent in December to 2.5 per cent in the April release. And that’s been a very welcome development. 
+
+That’s still half a per cent above our inflation target of 2 per cent. And, it’s very important that we continue to work to bring our inflation back down to 2 per cent, just as it was very important to work on getting inflation up from around 1.5 to 2 per cent before the pandemic. 
+
+FT: There has been an unusual correlation between falling equity and Treasury bond prices and also fall in the value of the dollar. How much damage was done in early April and, given your experience in markets, how unusual is that correlation?
+
+Musalem: Well, it certainly caught my attention. I know the simultaneous fall in equities and the dollar and an increase in 10-year yields suggests something changed. There are days when markets send you a very clear message and that was one of those days. It could suggest a reduced demand for U.S assets at least in that period of time, that doesn’t mean permanently, but in that period of time.
+
+ I’ve been trying to understand what the picture really is. And when I look at portfolio flows into US assets, I do not see a reversal of those flows. So I don’t see a reversal, of the demand for US assets. Particularly on the equity side, portfolio flows into US equities from foreigners has continued to increase; the portfolio flows into fixed income have levelled off some, they haven’t reversed, possibly related to the levelling off by official investors, but that’s very hard to measure.
+
+ In conversations in my market outreach with asset managers, that suggests that asset managers are looking to gradually rebalance their portfolios. The situation had been one of overweight US assets and underweight assets in other countries. And asset managers are indicating that may change going forward. Lastly, on the dollar side of the question, there’s some evidence that, there’s increased currency risk hedging by long term foreign investors that invest in US fixed income, mainly Asian life insurance companies. So that could have contributed to those correlations.
+
+ FT: Would any unwinding of holdings of US assets have an impact on growth and on jobs?
+
+ Musalem: I think it’s important to look at all US assets. There are portfolio flows and there’s also foreign direct investment flows, through channels like onshoring or reshoring. So I think it’s premature to say that because there’s been a levelling off of some of the flows but other flows have continued at the same pace, that would necessarily cause reduced growth or impact inflation, because we need to also look at the foreign direct investment side of the balance of payments. And the foreign direct investment side, there’s a lot of work going on to try to have more flows. So I have to look at the whole picture. Now, it is true that, if a country experiences a sudden stop of capital inflows into it, which is not what happened or is happening, it is true that there is less financing available to the economy, and that could reduce growth and could contribute to inflation through a weaker currency. But again, that’s not what is happening.
+
+ FT: Talking about timing of any further move, Christopher Waller said we could have a good news cut by the end of the year. Do you think it’s feasible that the Fed could do something in September?
+
+ Musalem: I don’t know the answer to that. I prefer to think of monetary policy not in terms of time, but in terms of scenarios and what the actual evolution of the economy is.
+
+ And right now, for September, I don’t have a clear view as to which scenario we’re going to have, whether it’s going to be a scenario where all the trade uncertainty goes away in July, and all the fiscal uncertainty goes away in July, and the economy remains on a path very similar to the one it was on, with full employment and inflation declining towards 2% gradually. If we are in that scenario, we can maintain the kind of policy focus that we’ve had, which is to reduce rates as inflation continues to converge towards 2 per cent.
+
+ However, we might find ourselves in a scenario where inflation begins to rise materially and we will not know whether that is a temporary, one-off increase in the price level or whether it has more persistence. Right now, I think it’s probably a fifty-fifty assessment
+
+ That’s my personal assessment. And so I’m unclear right now as to whether September, might be an active meeting and again I’d prefer to think about this in terms of scenarios rather than time.
+
+ FT: If we have a worst-case scenario, unemployment does leap up, but inflation also looks pretty dicey, do you think that situation is impossible? What would you prioritise?
+
+ Musalem: If we find ourselves in September and beyond in a situation where inflation is rising and more persistent than we thought and the labour market is weaker than we thought, at that point we need to balance the two objectives. And we can balance between these two objectives as long as inflation expectations are anchored. So, if medium-to long term expectations are anchored, we can consider which of the two objectives is further away from target and how long it’s going to take to get back to target. That’s going to guide a balancing act in terms of how to set policy. We’re starting from a good position.
+
+ The economy is in a good position in terms of employment and on a good trajectory in terms of inflation. So that gives us a good starting point, and so that’s how I would think about things.
+
+ Now, should inflation expectations become unanchored, so if market-implied and/or survey measures of medium- to long-term inflation expectations begin to rise, at that point it becomes very important to prioritise price stability, because price stability is the foundation on which we can build maximum employment and a durable economic expansion for the American people.
+
+ If that sort of situation would happen, that’s how we would have to prioritise things.
+
+ FT: Chair Powell has come under a lot of pressure from the US president to cut interest rates. How difficult is it to work in that sort of environment? And do you view these comments by the administration as a threat to the Fed’s independence?
+
+ Musalem: The way I see our job is to look at the data, form forward looking views on the economic outlook, listen to the people that we represent, you know, businesses, households, do broad outreach and that’s a full-time job, that requires 24 hours a day, seven days a week. That is my entire focus.
+
+ I think it’s very important that the Fed continues to be an apolitical organisation focused squarely on the dual mandate. There’s long literature about the benefits of central bank independence in terms of lower and more stable inflation, and higher and more stable employment across countries and across time. In previous roles I’ve had, in the 1990s, I worked with many countries, and when I was with the International Monetary Fund I observed that literature to be true. The countries I worked with that had more independent central banks had better inflation and better employment outcomes, and the ones that had central banks that were not as independent had employment and inflation outcomes that were not as good. So it’s really important the Fed remains independent. Independence is important because it allows for more anchored inflation expectations. The more anchored inflation expectations are, the more we can respond with policy to both sides of the mandate. It’s very important that independence go hand-in-hand with accountability and transparency. So we need to continue to be accountable to Congress and to the American people and we need to continue to be very transparent in communicating to the public what we’re doing, how we’re doing it and why we’re doing it, at every chance we can.
+
+ FT: Are you worried that the Fed will get the blame if there is a US recession towards the latter half of this year?
+
+ Musalem: We have a dual mandate. It’s about inflation and employment. We need to make sure that we’re delivering on both of those goals for the people we serve. And we need to be receptive to what the public is saying. At the same time, we need to be making the best informed decisions with the most technical merit, given the outlook for the economy.
+
+ FT: How does immigration policy affect your thinking on monetary policy?
+
+ Musalem: The supply side is very important for the economy. We had a lot of immigrants come in after Covid. Exactly a year ago, there was a
+
+change in immigration policy and there were more changes this year, so the border has effectively closed for illegal immigration. But the labour force has continued to grow, including in today’s numbers, at a rate above the long-term growth rate of the labour force. The labour force is still growing about 1.6 per cent or 1.8 per cent somewhere in that range, which is still above the long term average, which is about 1.3 or 1.4 per cent.
+
+ So, I am not seeing yet the broad impact of immigration policy on the labour force or on the supply side of the economy. When we talk to our business contacts from the Eighth District, there are some reports of tightness in some sectors, but these are marginal reports and there’s no broad-based concern yet, and of course I’m talking about agriculture, hospitality and construction.   
+
+ So far, the supply side seems not very impacted and actually the labour force is growing at a rate consistent with or above the long-term average.
+
+ FT: What’s your best guess now on whether or not the Fed will cut rates by the end of this year?
+
+ Musalem: So, you know, I can’t answer that question because that assumes I know what all the other participants of the FOMC are thinking. This weekend and next week I am going to sit down with the team and we’re going to fill out our projections under optimal policy. And so I will be thinking about that next week.

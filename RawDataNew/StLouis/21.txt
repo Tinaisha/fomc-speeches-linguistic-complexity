@@ -1,0 +1,62 @@
+https://www.stlouisfed.org/from-the-president/remarks/2024/introductory-remarks-women-in-economics-symposium
+
+Introductory Remarks at the 2024 Women in Economics Symposium
+
+April 4, 2024
+
+Alberto Musalem
+
+Federal Reserve Bank of St. Louis
+
+Good evening, and welcome to the St. Louis Fed!
+
+This is the sixth Women in Economics Symposium hosted by the Bank, and it is my first. This also happens to be only my third day on the job, and I’m still finding my way around the building. I’m glad that I was able to find the auditorium and that you did, too! I’m told that there are around 2,000 people joining virtually from some 100 watch parties and individually. I also welcome all of you.
+
+I am proud that the Women in Economics Symposium is the first major event of my tenure at the Bank, and I am particularly pleased to introduce this evening’s keynote speaker, Federal Reserve Governor Adriana Kugler.
+
+The Federal Reserve Bank of St. Louis has a longstanding commitment to encouraging and supporting women in the economics profession, and I firmly stand behind it. Although there are many outstanding female economists serving in consequential government, academic and private sector roles, the profession remains less diverse than it should be. This symposium is meant to help rectify female underrepresentation by providing information to young women about careers in economics and by giving attendees an opportunity to network with and hear from highly accomplished women in the profession.
+
+Earlier this afternoon, Oksana Leukhina presented interesting information on gender diversity in economics, and I will highlight a few data points from her presentation:
+
+Although women make up more than 50 percent of all college students, only about 35 percent of seniors majoring in economics are women, and just 30 percent of new Ph.D.s in economics are awarded to women.1 These percentages are considerably higher than they were in the 1970s and ’80s, but unfortunately there hasn’t been much improvement over the past 20 years or so.2
+
+As Oksana mentioned, the pipeline of women in academic economics has been leaky. Women are less represented in senior positions, in academia and elsewhere than they are at lower levels. While more than 30 percent of assistant economics professors are women, less than 20 percent of full economics professors are women.3
+
+How does economics compare with other fields of study? Women are particularly underrepresented in economics compared with other social sciences, where women receive 65 percent of all Ph.D.s awarded. In STEM fields, economics is roughly on par with engineering, and women are somewhat more represented among Ph.D.s awarded in economics than in math and computer science, where only about 25 percent are women.4
+
+The underrepresentation of women in STEM fields is concerning because the problems faced by the next generation of engineers, scientists and, yes, economists, will be complex, difficult and consequential, and will require the brightest minds if they are to be tackled successfully. If women are blocked or discouraged from pursuing degrees in economics or other STEM fields, or simply not given the information to help them decide if a STEM career may be right for them, the world will be the worse for it.
+
+The U.S. economy has reaped the benefits of greater female labor force participation since World War II. In early 1950, approximately 33 percent of all women were in the labor force. By the late 1990s, the percentage had risen to 60 percent, and it has hovered between 55 and 60 percent since then.5 Higher female labor force participation has contributed to a growing economy, reducing gender pay gaps and producing per capita GDP gains.
+
+There is also evidence that the greater female labor force participation enabled more efficient use of resources in the production of goods and services. Recent research finds that because women and men bring different skills and perspectives to the workplace, diverse teams are often more productive than teams made up exclusively of men or of women. Scaled up to a macroeconomic level, this suggests that the rising female labor force participation has contributed to higher productivity growth and living standards for all.6
+
+The benefits of diversity hold true in economic policymaking as well. Creative solutions to problems are more likely to flow from policymaking bodies made up of women and men with diverse backgrounds and perspectives. Such bodies are less susceptible to “groupthink.” As my colleague Mary Daly, president of the Federal Reserve Bank of San Francisco, said in a Women in Economics Podcast Series episode, “Ultimately, economics … is the study of people, and it is the single profession that is most influential in policymaking. … So we need to represent the people we serve.”7
+
+Women are increasingly playing important economics roles as leaders in academia, in the private sector and in the public sector. Our speaker this evening, Governor Adriana Kugler, is a notable example, and I am very glad to have the opportunity to introduce her to you.
+
+Governor Kugler has been a member of the Federal Reserve’s Board of Governors since September 2023. Before joining the Fed, Dr. Kugler served as the U.S. executive director at the World Bank Group. She is currently on leave from Georgetown University, where she is a professor at the McCourt School of Public Policy and Economics and was vice provost for faculty. Dr. Kugler served as chief economist at the U.S. Department of Labor from 2011 to 2013. Her research interests include labor markets and policy evaluation in developed and developing countries, and her work has been published in the top general interest and specialized journals in economics and public policy.
+
+Please join me in welcoming Governor Adriana Kugler!
+
+Notes
+
+See National Center for Education Statistics (2022) and Levenstein (2023).
+See Lundberg and Stearns (2019) and Levenstein (2023).
+See Figure 1 in Levenstein (2023).
+Author’s calculations using National Center for Science and Engineering Statistics (2023) data.
+https://fred.stlouisfed.org/series/LNS11300002.
+See Albanesi (2020) and Espinoza et al. (2019).
+See the March 28, 2018, episode.
+References
+
+Albanesi, Stefania. “Changing Business Cycles: The Role of Women’s Employment (PDF),” University of Miami, unpublished manuscript, Jan. 5, 2020.
+
+Espinoza, Raphael; Ostry, Jonathan D. and Papageorgiou, Chris. “The Armistice of the Sexes: Gender Complementarities in the Production Function,” CEPR Discussion Paper No. 13792, June 12, 2019.
+
+National Center for Science and Engineering Statistics. Doctorate Recipients from U.S. Universities: 2022, NSF 24-300, 2023. Alexandria, Va.: National Science Foundation.
+
+Levenstein, Margaret. “Status of Women in the Economics Profession,” in Anusha Chari, The 2023 Report of the Committee on the Status of Women in the Economics Profession (PDF), American Economic Association, Dec. 12, 2023.
+
+Lundberg, Shelly and Stearns, Jenna. “Women in Economics: Stalled Progress,” Journal of Economic Perspectives, Winter 2019, 33(1), pp. 3-22.
+
+National Center for Education Statistics. Digest of Education Statistics, 2022. Washington, D.C.: U.S. Department of Education.

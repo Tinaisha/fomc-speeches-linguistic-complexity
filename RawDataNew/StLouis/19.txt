@@ -1,0 +1,118 @@
+https://www.stlouisfed.org/from-the-president/remarks/2024/remarks-economic-outlook-monetary-policy
+
+Musalem: Remarks on the Economic Outlook and Monetary Policy
+
+June 18, 2024
+
+Alberto Musalem
+
+CFA Society St. Louis event in St. Louis
+
+Good afternoon. It is a great pleasure to offer my first public remarks on monetary policy and the U.S. economy as St. Louis Fed president to the CFA Society St. Louis.1
+
+We have some background in common. I have been a practitioner in economics and financial markets for nearly three decades, and now a policymaker. Because we have finance in common, I thought you would be interested in how I view the connection between monetary policy, financial markets, and economic outcomes like inflation and employment.
+
+I will begin by discussing the transmission of monetary policy to the economy through financial conditions. I will follow with some observations about current economic developments, focusing on the Fed’s dual mandate of stable prices and maximum employment. Finally, I will discuss scenarios under which adjustments in the stance of monetary policy could be appropriate.
+
+I will offer my own views and not necessarily those of my colleagues on the Federal Open Market Committee (FOMC).
+
+Transmission of Monetary Policy
+As the central bank of the United States, the Fed influences the economy in two ways through monetary policy.2 The FOMC takes policy action by setting the current target range for the federal funds rate. This is the interest rate that banks charge each other for overnight loans. The FOMC also communicates with the public and affects expectations about the future path of the federal funds rate.3 Communications can be as impactful as policy action.4 Both transmit through financial markets onto economic growth, employment and inflation outcomes.
+
+Of course, factors other than FOMC actions and communications can also affect financial conditions. For example, financial markets may react to new information about corporate earnings, credit quality of issuers, economic growth, inflation, and risk events like political uncertainty, armed conflict and pandemics, to name a few. In these remarks, my focus is on the effects of monetary policy.
+
+A lower federal funds rate, or a lower expected future path of the federal funds rate, eases financial conditions. Interest rates on Treasury debt, bank loans, mortgages and corporate debt decline. For businesses, the cost of equity financing also declines. Households respond by increasing their consumption of goods and services as well as their investment in real estate. Businesses increase their investment on equipment and structures used in production. The overall positive impact on aggregate demand tends to precede higher supply, supporting growth and employment, with positive and variable lagged effects on inflation.5
+
+Households and businesses respond directly and indirectly to a lower interest rate. Directly, they face lower returns on savings and lower costs of financing. This supports higher current spending. Indirectly, lower interest rates raise the value of their debt, equity and real estate. This raises the value of collateral that households and businesses can use for debt financing of consumption and investment activities. Also, higher asset values are perceived as strengthening their balance sheets, producing positive confidence effects that support demand.
+
+Thus far, I have considered a lower federal funds rate, or a lower expected future path of the federal funds rate. A higher federal funds rate, or a higher expected future path of the federal funds rate, works in reverse through the same channels, tightening financial conditions, restraining economic activity and reducing inflation.
+
+Communications
+So, how do Fed communications have an impact? They affect market expectations about the future path of the federal funds rate in two ways. They inform the public about how the FOMC will likely react to different economic scenarios to achieve its dual mandate of stable prices and maximum employment over time. This is commonly referred to as the FOMC’s “policy reaction function.” Fed communications also reveal how the FOMC perceives incoming information about current and future economic scenarios. This involves communicating about the shape and probability of scenarios for inflation and employment.
+
+In short, the Fed’s monetary policy communications reflect how the FOMC perceives its reaction function and the inputs to its reaction function in terms of scenarios for the economy and their likelihood. The Fed seeks to provide clarity about what the scenarios are, how likely they are, and how policymakers would respond in each scenario.
+
+In providing clarity, I believe it is critical to communicate both about the most likely scenario and about less likely scenarios that could be consequential if they materialize. Communicating about a range of scenarios, rather than only the most likely, is an important component of robust policymaking. A forecast can prove to be incorrect. An unlikely scenario can materialize, instead of the most likely scenario. As Mark Twain purportedly said, “it is difficult to make predictions, especially about the future.”6 For me, a lesson of the past few years has been that humility is a virtue when it comes to forecasting and robust policymaking. I will say more about this later.
+
+Economic Conditions
+Turning to economic conditions, the past year has seen substantial progress toward the Fed’s dual mandate goals of stable prices and maximum employment.
+
+Real GDP Growth
+Economic activity has continued to expand at a solid pace underpinned by robust demand, especially in services. The downshift in first-quarter real GDP growth largely reflected declines in inventory investment and net exports, which are notoriously volatile. Growth in final sales to private domestic purchasers remained strong and close to trend. However, April data, especially on real consumer spending and nominal retail sales, mostly underwhelmed, and the few May data reported to date have been mixed. As reported this morning, May retail sales were weaker than expected, suggesting that aggregate demand is growing at a moderate pace thus far this quarter.
+
+Consumption Growth
+There are crosscurrents in the outlook for aggregate consumption growth. The cumulative effects of inflation and higher interest rates are straining low- and moderate-income households and those with high levels of debt. These consumers are becoming more price sensitive, trading down in product quality, shifting into nondiscretionary goods and services, and resorting to rising levels of credit card debt to sustain consumption growth. Other consumers are benefiting from higher interest income on bank deposits, higher dividends on money market funds, and gains in the value of equity and real estate assets. These consumers are continuing to propel a shift into the consumption of services, a fast-growing segment. Overall, I expect aggregate consumption to moderate in coming quarters, without stalling, and then return to or slightly exceed trend by 2026.
+
+Labor Market
+The labor market has continued to rebalance. It no longer seems overheated but remains tight. I expect some further cooling in coming months, as evidenced by the recent decline in job openings, the modest increase in new claims for unemployment insurance, and the uptick in the unemployment rate. However, the large and broad-based growth in payroll employment and the increase in average hourly earnings reported in the May establishment survey suggest demand for labor remains strong. Continued high employment and compensation growth, approximately in line with productivity growth, should moderate the impact of easing labor market conditions on aggregate demand.
+
+Inflation
+There are potential early signs of continued progress on inflation. We at the St. Louis Fed are hearing reports from contacts in the Eighth District about price cuts and discounting because consumers are becoming more price sensitive. Favorable national reports on consumer and producer prices suggest the monthly reading for the personal consumption expenditures price index, or PCE price index, should show a welcome downshift of inflation in May. I am hopeful this could mark a resumption of progress toward 2 percent inflation. However, it takes more than one data point to establish a trend. Data for the first four months of 2024 indicated that inflation remained too high and was moving more sideways than down. Moreover, recent elevated readings on PCE inflation have been broad-based across expenditure categories of goods and services.
+
+Monetary and Financial Conditions
+I will now turn to an overview of monetary and financial conditions. The current target range of 5.25 to 5.5 percent for the federal funds rate seems restrictive. I believe that monetary policy is continuing to exert downward pressure on aggregate demand and inflation. I also perceive some uncertainty about the degree of restrictiveness for reasons that I will now explore.
+
+First, measures of monetary policy restrictiveness depend on views for underlying inflation and the long-run neutral rate of interest. Policy appears materially restrictive if the underlying rate of inflation is around 2.8 percent and the long-run neutral rate of interest is assumed at around 0.5 percent.7 However, policy appears less restrictive if the underlying rate of inflation is higher, say the 3.5 percent year-to-date PCE inflation rate that forecasters expect through May8, or if the long-run neutral rate of interest is thought to be higher.9 I believe the long-run neutral rate is higher than 0.5 percent.
+
+Second, the effects of restrictive policy on some sectors of the economy have yet to become fully evident on inflation and aggregate demand. High interest rates continue to restrain residential investment as well as consumption of durable and nondurable goods.10 Other sectors and components of demand are also being restrained as loans made at low interest rates, two or more years ago, continue to reprice at higher rates. However, nonresidential investment and the consumption of services continue at a strong pace. Services inflation continues to be elevated.
+
+Third, it is possible that monetary policy transmission may be slower this cycle. Contributing factors include the mortgage lock-in effect and the meaningful refinancing of corporate debt before the federal funds rate began to rise in early 2022.11 Housing markets continue to experience low transaction volumes, low supply, increasing demand and rising home prices. This amounts to a lower interest rate sensitivity of an otherwise traditionally strong transmission channel. Debt refinancing appears to have reduced the interest rate sensitivity of corporate investment activities, otherwise another traditionally strong transmission channel.
+
+Fourth, financial conditions feel accommodative for some parts of the economy while restrictive for others. A look at a cross-section of financial conditions indices12 suggests that financial conditions are accommodative for some parts of the economy.* Credit is generally available to businesses, households and municipalities. There is robust issuance in capital markets, ample financing in private credit markets and modest bank loan growth. Businesses with access to capital markets are taking advantage of compressed credit spreads and equity risk premia to issue debt and equity at a higher pace than in 2022 and 2023. Mergers and acquisition activity is rising. Margin debt is also rising. However, credit availability has remained tight and financial conditions are restrictive for small businesses and for households with low and moderate income or low credit scores. Borrowing costs are elevated and delinquencies are rising for these segments of the economy. I am keenly aware of these hardships from my frequent interactions with people and firms throughout our region.
+
+Monetary Policy Scenarios
+Given my assessment of economic and financial conditions, I supported the FOMC’s decision last week to maintain its target range for the federal funds rate at 5.25 to 5.5 percent.
+
+I also supported the Committee’s statement that it “does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent.” This conditional statement provides an option to ease policy in the more likely scenario of achieving confidence that inflation can be expected to converge to 2 percent.
+
+The current policy posture balances the risk of easing policy too early with the risk of easing policy too late. It allows the Committee to patiently observe economic developments going forward. I will need to observe a period of favorable inflation, moderating demand and expanding supply before becoming confident that a reduction in the target range for the federal funds rate is appropriate. These conditions could take months, and more likely quarters to play out.
+
+I am also attentive to alternative scenarios where inflation becomes stuck meaningfully above 2 percent or moves higher. As discussed earlier, I believe that robust policymaking requires considering, and communicating about, less likely but consequential scenarios. Should evidence of alternative inflation scenarios begin to materialize, I would support an additional firming of monetary policy.
+
+To be clear, I do not view the inflation “getting stuck” or “rising” as the most likely scenarios. But it is prudent to plan for and communicate about plausible scenarios that could play out.
+
+If progress toward achieving 2 percent inflation stalls or reverses, I believe it would be appropriate for the Committee to act promptly to ensure that high inflation does not become entrenched. If the public came to believe that high inflation would persist, it would make restoring price stability harder to achieve and could entail greater economic costs.
+
+I am optimistic that price stability can be achieved and will remain vigilant until inflation is clearly and convincingly well on its way back to target.
+
+Thank you.
+
+*This sentence was updated after the written remarks were initially posted on the website. The text “for some parts of the economy” was added to reflect President Musalem’s spoken comments.
+
+Notes
+
+I would like to thank my colleagues Riccardo DiCecio, Carlos Garriga, Fernando Martin and David Wheelock for help in preparing these remarks.
+These remarks describe the transmission of monetary policy through interest rates and related financial channels. The academic literature on the transmission of monetary policy is long, and it is impossible to do it justice here. Mishkin (1996) remains a valuable survey of the literature. More recently, economists have made valuable contributions using New Keynesian models with heterogeneous agents. Kaplan et al. (2018) and Garriga et al. (2021) are important examples.
+The FOMC communicates through its policy statements and meeting minutes, the Summary of Economic Projections (SEP), Congressional testimonies, and speeches, all of which may affect expectations about future changes in the Fed’s policy rate and, in turn, financial conditions more broadly. The Fed also publishes the Beige Book and the Financial Stability Report to communicate economic and financial conditions.
+There is some evidence that changes in expectations about the future path of the federal funds rate, as captured by changes in 10-year Treasury interest rates around FOMC meetings, have more impact on financial conditions and economic activity than actual changes to the federal funds rate (see Hatzius and Stehn, 2018). Arnaut and Bauer (2024) document that financial conditions persistently and significantly tighten in response to a surprise monetary policy tightening.
+The exchange rate is another channel of transmission. A decline in the federal funds rate, or a decline in the expected path of the federal funds rate, tends to reduce the trade-weighted dollar exchange rate. This tends to be favorable for exporters and unfavorable for importers, producing a net positive effect on demand. There are direct and indirect positive effects on inflation—direct effects through the higher prices of imported goods and indirect effects through higher demand.
+This quote has been attributed to an old Danish proverb, Niels Bohr, Mark Twain and Yogi Berra.
+The median projection for core PCE inflation for 2024 (Q4-on-Q4) in the FOMC’s June SEP is 2.8 percent.
+The Cleveland Fed nowcast for May core PCE was 0.1 percent month-on-month as of June 14. This would imply a year-to-date reading of 3.5 percent in May.
+The long-run neutral rate (r*) is unobservable. A median across several r* estimation methods suggests a value around 1.5 percent with 1 percent uncertainty bands around it. Forward contracts for Treasury Inflation-Protected Securities (TIPS) suggest financial markets expect the neutral real rate to be in the range of 1.5 to 2.0 percent. Factors affecting r* include demographics, productivity growth, income inequality, government debt, risk premia and the demand for safe assets, international capital flows, and shifts in investment associated with, for example, higher energy demand or near-shoring.
+Consumption patterns have also been marked by a shift from discretionary into nondiscretionary categories.
+Batzer et al. (2024) quantify the effect of mortgage lock-in on home sales and prices.
+The Bloomberg Financial Conditions Index (FCI) documented in Rosenberg (2009); the Goldman Sachs FCI (Hatzius and Stehn, 2018); the Chicago Fed’s National FCI and adjusted National FCI (Brave and Butters, 2011); the Federal Reserve Board’s FCI-G 1-year lookback (Ajello et al., 2023); the Kansas City Financial Stress Index (FSI) described in Hakkio and Keeton (2009); the St. Louis Fed’s FSI (Marks et al., 2022).
+References
+
+Ajello, Andrea, Michele Cavallo, Giovanni Favara, William B. Peterman, John Schindler, and Nitish R. Sinha. “A New Index to Measure U.S. Financial Conditions,” FEDS Notes, Board of Governors of the Federal Reserve System, June 30, 2023.
+
+Arnaut, Zoë and Michael Bauer. “Monetary Policy and Financial Conditions,” Economic Letter, Federal Reserve Bank of San Francisco, No. 2024-07, March 4, 2024.
+
+Batzer, Ross M., Jonah R. Coste, William M. Doerner, and Michael J. Seiler. “The Lock-In Effect of Rising Mortgage Rates,” Working Paper No. 24-03, Federal Housing Finance Agency, March 18, 2024.
+
+Brave, Scott A. and R. Andrew Butters. “Monitoring Financial Stability: A Financial Conditions Index Approach,” Economic Perspectives, Federal Reserve Bank of Chicago, Vol. 35, First Quarter 2011, pp. 22-43.
+
+Garriga, Carlos, Finn E. Kydland, and Roman Šustek. “MoNK: Mortgages in a New-Keynesian Model,” Journal of Economic Dynamics and Control, Vol. 123, February 2021.
+
+Hakkio, Craig S. and William R. Keeton. “Financial Stress: What Is It, How Can It Be Measured, and Why Does It Matter? (PDF),” Economic Review, Federal Reserve Bank of Kansas City, Vol. 94, Second Quarter 2009, pp. 5-50.
+
+Hatzius, Jan and Sven Jari Stehn. “The Case for a Financial Conditions Index (PDF),” Global Economics Paper, Goldman Sachs, July 16, 2018.
+
+Kaplan, Greg, Benjamin Moll, and Giovanni L. Violante. “Monetary Policy According to HANK,” American Economic Review, Vol. 108, No. 3, March 2018, pp. 697-743.
+
+Marks, Cassandra, Kevin Kliesen, and Michael McCracken. “The St. Louis Fed’s Financial Stress Index, version 4,” The FRED Blog, Federal Reserve Bank of St. Louis, Nov. 10, 2022.
+
+Mishkin, Frederic S. “The Channels of Monetary Transmission: Lessons for Monetary Policy,” Working Paper No. 5464, National Bureau of Economic Research, February 1996.
+
+Rosenberg, Michael R. Financial Conditions Watch (PDF), Vol. 2, No. 6, Bloomberg, Sept. 11, 2009.

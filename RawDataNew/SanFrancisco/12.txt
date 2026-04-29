@@ -1,0 +1,139 @@
+https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2025/11/modern-central-banking-monetary-policy-implementation-and-communication/
+
+Modern Central Banking: Monetary Policy Implementation and Communication
+
+Mary C. Daly
+
+November 13, 2025
+
+Institute of International and European Affairs (IIEA), Dublin, Ireland
+
+Introduction
+Good afternoon. Thank you for the kind introduction. I am delighted to be in Dublin again and speaking to all of you. Thank you very much for having me. 
+
+I was last here in February 2020. We were on the eve of the pandemic and wondering just how bad it would be. One month later, we had the answer, and nations across the globe responded. Fortunately, those days are behind us.
+
+But the lesson remains. We live in an ever-changing, and sometimes surprising, world. And institutions must be agile and prepared. 
+
+Central banks are no exception. We must adapt and change to meet our goals in good times and in bad.1 Modernizing our tools and operating frameworks to achieve our mandates, no matter how the world evolves.
+
+Over the past two decades, central banks have done just this. Using their balance sheets, among other tools, to support the economy during the Global Financial Crisis (GFC) and the pandemic. That work has been largely successful. But it is only part of the job. Our other responsibility is to explain what we’ve done, where it has worked and where it hasn’t, and how it informs us in future actions.
+
+So, today I will talk about monetary policy implementation. How central banks operationalize their policies to support the economy, provide liquidity, and promote financial stability. 
+
+The key message is that no tool or tactic is perfect. Each involves tradeoffs. And all must evolve as the economy changes. That is what decades of monetary theory have taught us, and modern central banking demands.
+
+It is also what the public expects.
+
+Before I go further, let me remind you that my views are my own and do not necessarily reflect those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+Principles Define Actions
+Central banks across the globe set monetary policy in accordance with their mandates. They implement these policies based on a set of principles: interest rate control, liquidity provision, and supporting financial stability. 
+
+For most of central bank history, this could be accomplished with small and stable balance sheets and management of scarce reserves—cash and central bank deposits held by financial institutions. Our balance sheet liabilities mostly reflected currency in circulation, required reserves for commercial banks, and official government accounts.  
+
+But that was not a perfect system.2 With scarce reserves, banks had to compete for a key operational resource—liquidity.3 And they relied on each other—the interbank markets— to manage short-term cash needs. Since reserves were idle resources, they only kept a minimal stock of them to meet regulatory requirements, meaning that the banking system had a very limited aggregate buffer. This worked reasonably well in normal times. But it was less resilient in times of stress, when interbank markets faltered or macro shocks led banks to need liquidity simultaneously to meet customer demands.4
+
+These vulnerabilities played out in the GFC. Stresses rose, liquidity dried up, and most central banks had to provide emergency support to repair disrupted financial markets. Central banks bought government securities and other assets to flood the system with reserves and meet the broad demand for liquidity.
+
+But, as you know, asset purchases weren’t limited to repairing market functioning. Facing a financial crisis and the zero lower bound on interest rates, central banks also used asset purchases to support monetary accommodation and the economy.5 These interventions worked, lessening the impact of an already severe crisis.
+
+Central banks took a similar approach to manage the pandemic, providing reserves for market functioning and monetary support for a weakened economy.6 Again, these interventions were successful.
+
+So then, what is the problem with balance sheets? Why are there so many critics?
+
+Criticisms, Consequences, and Communication
+I will offer three reasons and address them in turn.
+
+First, central bank balance sheets are much larger than they used to be, creating a concern that we are playing an undue role in shaping the economy.7
+
+It is true that balance sheets have grown. Indeed, they increased substantially during the GFC and the pandemic as central banks supported financial markets and their economies (see Figure 1). Balance sheets reached roughly 45, 65, and 35 percent of GDP in the United Kingdom, Eurosystem, and United States, respectively. They have come down from their peak but remain larger than before the financial crisis.
+
+Figure 1.
+Central Bank Assets as a Share of GDP
+
+
+Note: 4-week moving average. Eurosystem consists of EU countries that have adopted the euro. Bank of England data reflect reporting changes starting 2014. Gray shaded areas represent NBER recession dates.
+Source: Federal Reserve Board of Governors, Bureau of Economic Analysis, Bank of England, UK Office for National Statistics, European Central Bank, and Eurostat.
+And this is where things get complicated. In nominal terms, balance sheets will never return to pre-GFC levels.8 This is because central bank liabilities other than reserves have also been growing. For example, currency in circulation, a core liability, has increased roughly threefold over the past two decades in all three jurisdictions.9 The other large liability is government accounts, influenced by how national treasuries receive and make payments. This has also grown and been a particularly important part of balance sheet expansion at the Federal Reserve.10
+
+Importantly, neither of these liabilities is controlled by central banks. They expand naturally as the economy expands. This means that central bank balance sheets grow, even when there are no liquidity or policy interventions.
+
+The second reason there are concerns about balance sheets is they rise rapidly and fall very slowly. This point is well illustrated in Figure 1. In crises, central banks provide immediate and often sizable support, trying to stave off worse outcomes. Since financial markets are already challenged, the impact on market functioning, and the economy, is beneficial.
+
+But the reverse is not usually true. When markets are healthy and functioning normally, central banks must move more carefully, reducing balance sheets gradually to avoid disrupting market pricing. As such, central banks communicate their normalization plans well in advance to allow financial markets sufficient time to adjust. As we gain more experience using these tools, balance sheet normalization could proceed more quickly, but likely will always be slower than the expansions.
+
+The third reason balance sheets draw criticism is that it’s often unclear to the public why they are changing.11 This is understandable given the multiple purposes balance sheets serve, including emergency liquidity provision, policy accommodation when interest rates are near zero, support for financial stability, and effective interest rate control.12 In many cases, these purposes get intertwined, occurring at the same time and blurring the lines from one to the other. This makes communication essential, acknowledging the multiple uses and, when possible, identifying how each is driving balance sheet growth.
+
+Rising to the Conversation
+Facing these concerns, what should central banks do? First, we should assume that people want to know. It’s better to explain our actions than to assume they speak for themselves. Providing detailed and abundant information improves understanding and respects the public’s ability to judge.
+
+Second, we should show our work. That includes explaining how we balanced the costs and benefits of competing actions and why we settled on the decision we made. A key lesson of central banking is that transparency improves accountability, which ultimately increases credibility and improves monetary policy transmission.13
+
+Finally, we should be willing to change. Tools and tactics used in emergencies teach us a lot. But they are not a playbook for all events. We must distinguish what works in normal times from what works in times of crisis or constraint and be clear about those lessons.
+
+Ultimately, we must rise to the public conversation. Telling people what they need to know, revealing how we arrive at our decisions, and being willing to change when experience or the economy demands it.
+
+This is modern central banking.
+
+Thank you, and I look forward to our discussion.
+
+Footnotes
+1. The mandates differ by country, but whether central banks have a single mandate of price stability or a dual mandate, as in the case of the Federal Reserve, the policy analysis tends to be similar (see Plosser 2012).
+
+2. Perli (2025) discusses costs of scarce reserves regimes. Those costs include a higher variability of the policy rate. A potential benefit may be more informative market signals (see Bowman 2025).
+
+3. See Logan (2025).
+
+4. For an account of the liquidity demand around the events of September 11, 2001, see McAndrews and Potter (2002). Keister, Martin, and McAndrews (2008) discuss the tradeoff between implementing the policy stance and providing liquidity in times of stress.
+
+5. For a discussion of the lessons from using quantitative easing in the United States and other jurisdictions, see Bernanke (2020). Luck and Zimmermann (2019) summarize empirical evidence on quantitative easing.
+
+6. Among them were the European Central Bank, Bank of Japan, Bank of England, the Reserve Bank of Australia, and the Bank of Canada.
+
+7. See Bank for International Settlements (2019) for a detailed account of the impact of a large central bank balance sheet on the functioning of financial markets.
+
+8. Afonso et al. (2023) provide a theoretical framework for the optimal supply of central bank reserves.
+
+9. See https://www.bankofengland.co.uk/statistics/banknote for the Bank of England, https://www.ecb.europa.eu/stats/policy_and_exchange_rates/banknotes+coins/circulation/html/index.en.html for the ECB, and https://fred.stlouisfed.org/series/WCICL for the Federal Reserve.
+
+10. In the United States, the Treasury General Account (TGA) has increased significantly during this time as well (see Waller 2025). The TGA represents the U.S. government’s deposits held with the Federal Reserve. It is used to facilitate payments to and from the government (see Vissing-Jorgensen 2025).
+
+11. For the Federal Reserve, Foerster and Leduc (2019) discuss the reasons behind a large balance sheet.
+
+12. There are differences in the specifics of implementation frameworks across central banks. In the United States, the baseline level of reserves is ample and a backstop facility exists to obtain extra liquidity during spikes in liquidity demand (see Powell 2025). Some central banks, like the European Central Bank or the Bank of England, provide fewer reserves as a baseline but rely on more frequent uses of facilities through which banks can access reserves on demand (see Williams 2025).
+
+13. For a fuller treatment on Federal Reserve communication, see Daly (2025).
+
+References
+Afonso, Gara, Gabriele La Spada, Thomas M. Mertens, and John C. Williams. 2023. “The Optimal Supply of Central Bank Reserves Under Uncertainty.” Federal Reserve Bank of New York Staff Reports No. 1077 (December). 
+
+Bernanke, Ben S. 2020. “The New Tools of Monetary Policy.” American Economic Review 110(4, April), pp. 943–983. 
+
+Bank for International Settlements. 2019. “Large Central Bank Balance Sheets and Market Functioning.” Report prepared by a study group chaired by Lorie Logan (Federal Reserve Bank of New York) and Ulrich Bindseil (European Central Bank), October.
+
+Bowman, Michelle. 2025. “Thoughts on Monetary Policy Decisionmaking and Challenges Ahead.” Speech at the Forecasters Club of New York Luncheon, New York, NY, September 26.
+
+Daly, Mary C. 2025. “Dynamic Central Bank Communication.” Speech at the Western Economic Association’s International Annual Conference, San Francisco, CA, June 22.
+
+Foerster, Andrew, and Sylvain Leduc. 2019. “Why Is the Fed’s Balance Sheet Still So Big?” FRBSF Economic Letter 2019-16 (June 3).
+
+Keister, Todd, Antoine Martin, and James McAndrews. 2008. “Divorcing Money from Monetary Policy.” Federal Reserve Bank of New York Economic Policy Review 14 (September), pp. 41–56. 
+
+Logan, Lorie. 2025. “Ample Liquidity for a Safe and Efficient Banking System.” Remarks delivered at “The Evolving Landscape of Bank Funding” conference at the Federal Reserve Bank of Dallas, TX, October 31.
+
+Luck, Stephan, and Thomas Zimmermann. 2019. “Ten Years Later–Did QE Work?” Liberty Street Economics, May 8.
+
+McAndrews, James J., and Simon M. Potter. 2002. “Liquidity Effects of the Events of September 11, 2001.” Federal Reserve Bank of New York Economic Policy Review 8(2, November), pp. 59–79.
+
+Perli, Roberto. 2025. “The Evolution of the Federal Reserve’s Monetary Policy Implementation Framework.” Remarks at the New York Fed-Columbia SIPA Monetary Policy Implementation Workshop, Federal Reserve Bank of New York, NY, May 22.
+
+Plosser, Charles I. 2012. “Macro Models and Monetary Policy Analysis.” Speech at the Bundesbank–Federal Reserve Bank of Philadelphia Spring 2012 Research Conference, Eltville, Germany, May 25.
+
+Powell, Jerome H. 2025. “Understanding the Fed’s Balance Sheet.” Speech at the 67th Annual Meeting of the National Association for Business Economics, Philadelphia, PA, October 14.
+
+Vissing-Jorgensen, Annette. 2025. “Fluctuations in the Treasury General Account and Their Effect on the Fed’s Balance Sheet.” FEDS Notes. August 6.
+
+Waller, Christopher J. 2025. “Demystifying The Federal Reserve’s Balance Sheet.” Speech delivered at the Federal Reserve Bank of Dallas, TX, July 10.
+
+Williams, John C. 2025. “Theory and Practice of Monetary Policy Implementation.” Speech delivered at the ECB Conference on Money Markets 2025, European Central Bank, Frankfurt, Germany, November 7.

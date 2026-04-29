@@ -1,0 +1,74 @@
+https://www.stlouisfed.org/from-the-president/remarks/2025/policy-panel-opening-remarks-hoover-monetary-policy-conference
+
+Policy Panel Opening Remarks at Hoover Monetary Policy Conference
+
+May 9, 2025
+
+Alberto Musalem
+
+Stanford, Calif
+
+Key Takeaways from President Musalem’s Remarks:
+Monetary policy is currently modestly restrictive and, I believe, appropriately so for an economy at full employment with inflation above target and some measures of inflation expectations moving higher.
+Trade policy changes from the beginning of April are likely to move employment and inflation in opposite directions. Monetary policy can manage the resulting trade-off by weighing the size and persistence of inflation’s deviation from target and that of the employment shortfall.
+Beyond tariffs, I am also focused on the net total impact of evolving fiscal, immigration and regulatory policies on the economic outlook.
+I consider it prudent to navigate according to two key principles. First, I continuously update my outlook for the U.S. economy and my assessment of the balance of risks with incoming information to discern the most likely scenario and appropriate monetary policy. Second, prioritizing well-anchored inflation expectations is crucial to ensure that a policy approach that responds both to inflation deviations from target and to employment shortfalls remains feasible.
+I believe the FOMC’s current monetary policy stance aligns with these principles and is best positioned to deliver stable prices and maximum employment for the people we serve.
+
+Full Text of Prepared Remarks
+The text is as prepared for delivery.
+
+Good afternoon. I would like to thank the conference organizers, Mike Bordo and John Cochrane, for the opportunity to participate in this panel with distinguished colleagues and policymakers. Conferences at the intersection of research and policymaking provide an invaluable opportunity for enriching both worlds. I will share my personal views, which do not necessarily reflect those of my FOMC colleagues.1
+
+Let me begin by reviewing my perspective on the current state of the U.S. economy. Activity has moderated. Business and consumer sentiment has declined. Financial conditions have tightened some but remain broadly supportive of the real economy. The labor market has been cooling but remains resilient and near full employment. Inflation has declined toward our 2% target since 2022 but remains above target, and progress has been slow since mid-2024. Inflation expectations have been mixed. Near-term expectations have risen while most measures of long-term inflation expectations have remained stable.
+
+Monetary policy is currently modestly restrictive and, I believe, appropriately so for an economy at full employment with inflation above target and some measures of inflation expectations moving higher.
+
+Consequential trade, immigration, fiscal and regulatory policies are being implemented. They are intended, and have the potential, to substantially change the flow of goods, services, capital and people across and within countries, including the U.S. They are also likely to change the taxation of and the incentives for consumption, savings and production. Without judging or evaluating their merits, I am focused on the net total effect of these policies on the U.S. economy through the short and long run and through demand and supply channels.
+
+In this context, I believe an effective monetary policy can successfully navigate toward our congressionally mandated goals of maximum employment and price stability.
+
+Trade policy changes from the beginning of April are likely to move employment and inflation in opposite directions. Monetary policy can manage the resulting trade-off by weighing the size and persistence of inflation’s deviation from target and that of the employment shortfall. An implication of this balanced policy approach is some short-term tolerance of higher inflation to lessen the cost of an employment shortfall, provided that medium- to long-term inflation expectations remain anchored.2
+
+In fact, a balanced policy approach requires anchored inflation expectations. Because price stability is necessary for maximum employment, I believe policy must prioritize inflation if expectations threaten to become unanchored. The experience of the 1970s showed that sustaining maximum employment and a durable economic expansion is difficult when inflation is elevated and volatile—and when the public expects it to remain so. If inflation expectations are not well anchored, history tells us that restoring price stability is more costly in terms of forgone employment and economic activity.
+
+To date, announced tariffs are higher, are broader and have prompted stronger retaliation than many had expected. If a cycle of high tariffs and retaliation is sustained, economic activity and employment are likely to be meaningfully dampened. The impact on prices and the persistence of inflation will be determined by the relative size and persistence of opposing demand and supply factors.3
+
+I expect direct one-off effects on the prices of imported final goods, indirect effects on the prices of domestically produced goods and services, and possibly second-round effects on inflation. In the other direction, reduced economic activity will likely have some dampening effect on inflation.
+
+After an initial uptick in inflation, I perceive two equally likely inflation scenarios ahead. It is possible that higher inflation will be short lived and mostly concentrated in the second half of 2025, as businesses run down inventories and pass tariffs on new goods purchased onto customers as one-off price increases. It is equally likely that inflation could prove to be more persistent.
+
+The risks of higher and more persistent inflation are currently elevated because:
+
+The pre-tariff starting point for inflation is above target;
+The recent period of elevated inflation likely has raised the public’s sensitivity to it;
+Some measures of inflation expectations have risen; and
+Tariffs apply broadly to intermediate inputs, prompting global supply chains’ rearrangement.
+Thus far, I have focused on a scenario of high and broad-based tariffs being sustained along with retaliation. It is also possible that fruitful trade negotiations and de-escalation will lead to a resumption of global trade flows and a modest reconfiguration of supply chains. If this scenario were to happen soon, the U.S. economy could remain close to the path it was on—one with a resilient labor market and ongoing convergence of inflation to target.
+
+Appropriate monetary policy will differ according to which scenario will come to pass. It could be appropriate to look through inflation and potentially ease policy if tariffs are sustained but inflation is short lived, inflation expectations remain anchored, and economic activity is meaningfully slower. Otherwise, I will be focused on a policy path to ensure that a tariff-related adjustment in prices does not turn into persistently higher inflation, and that inflation expectations remain well anchored. If instead there is a de-escalation of trade tensions soon, the current policy stance will remain appropriate. That stance is focused on further progress of inflation toward 2% in the context of a full employment labor market.
+
+Committing now to looking through the inflation impact of tariffs, or to an easing of policy, runs the risk of underestimating the level and persistence of inflation.4 Implementing a corrective policy switch to lean against inflation is a classic issue in central banking.5 Real-time parsing of direct price-level effects from indirect and second-round inflation effects is difficult. Mistiming the policy switch can be costly for the public in terms of inflation and employment outcomes, especially if inflation expectations were to rise further. The difficulty would be further compounded because trade policy does not happen in a vacuum. Beyond tariffs, I am also focused on the net total impact of evolving fiscal, immigration and regulatory policies on the economic outlook.
+
+To conclude, I consider it prudent to navigate according to two key principles. First, I continuously update my outlook for the U.S. economy and my assessment of the balance of risks with incoming information to discern the most likely scenario and appropriate monetary policy. Second, prioritizing well-anchored inflation expectations is crucial to ensure that a policy approach that responds both to inflation deviations from target and to employment shortfalls remains feasible.
+
+I believe the FOMC’s current monetary policy stance aligns with these principles and is best positioned to deliver stable prices and maximum employment for the people we serve.
+
+Thank you, and I look forward to an engaging discussion.
+
+Notes
+
+I would like to thank Riccardo DiCecio, Carlos Garriga, Fernando Martin and David Wheelock for assistance with these remarks.
+See FOMC (2024).
+Bergin and Corsetti (2023) show that a tariff shock is different from both efficient (productivity) and inefficient (cost-push) supply shocks. For example, a tariff shock can have a demand component—the decline in global demand—in the case of retaliation.
+The rationale for looking through the inflationary effects of temporary negative supply shocks is well understood. With long and variable lags, a policy tightening would affect inflation only after the effects of the temporary increases in prices have dissipated. Silvana Tenreyro’s speech at the 2023 ECB Forum on Central Banking provides details and caveats. (See Bandera et al., 2023.)
+See Beaudry, Carter and Lahiri (2023) for a discussion of risks and costs of a threshold strategy that switches from looking through to leaning against inflation.
+References
+
+Bandera, Nicolò, Lauren Barnes, Matthieu Chavaz, Silvana Tenreyro, and Lukas von dem Berge. “Monetary Policy in the Face of Supply Shocks: The Role of Inflation Expectations (PDF).” Paper presented at the ECB Forum on Central Banking on June 27, 2023.
+
+Beaudry, Paul, Thomas J. Carter, and Amartya Lahiri. “The Central Bank’s Dilemma: Look Through Supply Shocks or Control Inflation Expectations?” NBER Working Paper No. 31741, September 2023.
+
+Bergin, Paul R. and Giancarlo Corsetti. “The Macroeconomic Stabilization of Tariff Shocks: What Is the Optimal Monetary Response?” Journal of International Economics, Vol. 143, July 2023.
+
+Federal Open Market Committee. “Statement on Longer-Run Goals and Monetary Policy Strategy (PDF).” Adopted effective Jan. 24, 2012; as reaffirmed effective Jan. 30, 2024.

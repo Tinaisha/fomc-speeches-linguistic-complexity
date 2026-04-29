@@ -1,0 +1,83 @@
+https://www.stlouisfed.org/from-the-president/remarks/2025/remarks-on-the-us-economic-outlook-and-monetary-policy
+
+Remarks on the U.S. Economic Outlook and Monetary Policy
+
+April 11, 2025
+
+Alberto Musalem
+
+the Arkansas Bankers Association convention in Hot Springs, Ark
+
+Key Takeaways from President Musalem’s Remarks:
+Data indicate the U.S. economy continued to expand at a moderate rate in the first quarter with a labor market at full employment. However, the downside risks to economic growth and employment have increased.
+Inflation has remained elevated with slower further progress toward the Fed’s 2% target since mid-2024. The risks that inflation will move higher in the near term have increased.
+At this time, I believe continued vigilance, careful monitoring of economic data, and thorough assessment of the outlook and risks for employment and inflation remain appropriate for monetary policy.
+
+Good morning. I would like to thank the Arkansas Bankers Association for hosting this event, and I look forward to an engaging dialogue with Commissioner Marshall. Community and regional banks are vital to the people of the Federal Reserve’s Eighth District, and Arkansas has a strong network of banking institutions. I have learned much and benefited enormously from my interactions with members of the Arkansas Bankers Association, and it’s my pleasure to be here with you this morning.
+
+I am guessing that you have some questions for me, and I look forward to addressing them. First let me offer some context about the U.S. economic outlook and monetary policy, drawing on recent banking conditions data and comments we have received from bankers in Arkansas and other parts of the Eighth District. Yesterday, I had the opportunity to meet with a group of community leaders here in Hot Springs, and later today I will do the same in Little Rock. These conversations are an especially valuable source of insights that inform my monetary policy views.
+
+Before proceeding, let me stress that these are my personal views and not necessarily those of my colleagues on the Federal Open Market Committee (FOMC). I have a few main observations:
+
+First, data indicate the U.S. economy continued to expand at a moderate rate in the first quarter with a labor market at full employment. However, the downside risks to economic growth and employment have increased.
+
+Second, inflation has declined considerably from its peak in 2022 with little or no cost of forgone employment or economic activity. However, inflation has remained elevated with slower further progress toward the Fed’s 2% target since mid-2024. The risks that inflation will move higher in the near term have increased.
+
+Third, a key focus of mine is keeping inflation expectations well anchored. When people expect inflation to increase, it can be self-fulfilling. Therefore, I am closely monitoring measures of inflation expectations for signs that elevated near-term expectations may seep into higher long-term inflation expectations—a scenario that would make restoring price stability and maintaining full employment more difficult.
+
+Fourth, monetary policy is currently well positioned given the state of the economy and the balance of risks. Uncertainty about the net effects and timing of new trade, immigration, fiscal and regulatory policies on prices, employment and economic activity is high, and a scenario in which inflation rises while at the same time the labor market softens is a distinct possibility that must be considered. At this time, I believe continued vigilance, careful monitoring of economic data, and thorough assessment of the outlook and risks for employment and inflation remain appropriate for monetary policy.
+
+Let me now provide more context for my observations.
+
+Economic Activity, Labor Markets and Inflation
+The U.S. economy entered 2025 on a solid footing, with strong growth and a full employment labor market, but inflation still above our 2% target.1
+
+Moving into 2025, the pace of consumer spending moderated in the first two months of the year, and tracking estimates suggest real GDP growth slowed in the first quarter. Rough winter weather undoubtedly contributed to reduced household spending, and I expect some rebound in the spring. Reports indicate light vehicle sales and purchases at brick-and-mortar establishments rose when the weather improved. Strong vehicle sales continued in recent weeks, reportedly because consumers sought to purchase before new tariffs were to take effect.
+
+A strong labor market—reflected in solid payroll growth, a low unemployment rate and rising real wages—has helped propel consumer spending and the economy forward. The labor market has normalized over the last 18 months and is no longer a significant source of inflationary pressure.
+
+While a solid labor market is a tail wind for continued spending growth, there are notable actual or potential headwinds, including: declining consumer confidence, higher prices and lower real incomes associated with tariffs, and diminished wealth resulting from lower equity prices. Even before the recent tariff announcements, surveys indicated consumer confidence had declined, which poses downside risk to household spending and the overall pace of economic activity going forward.
+
+U.S. banking conditions are generally sound, with several positive performance metrics. Data for the fourth quarter of 2024 showed profitability across the banking sector had improved from a year earlier, and that net interest margins rose as funding costs stabilized and asset yields moved higher. As you likely know—we have just heard—Arkansas banks have generally outperformed the national averages on many banking performance metrics.
+
+The Community Bank Sentiment Index from the Conference of State Bank Supervisors is among important measures we watch to gauge sentiment of bankers and their customers. In the fourth quarter of 2024, this measure of sentiment was at its highest level since the index was created in 2019.2
+
+While fourth-quarter business sentiment was strong and orders for durable goods and other factory orders both rose in the first two months of the year, recent business surveys and conversations with Eighth District bankers and other firms suggest that sentiment has declined. Several commented that many of their business customers have adopted a wait-and-see posture as they seek more clarity about economic conditions and policies. Increasingly, bankers report softening of business loan demand, signs of weakness in consumer loan portfolios and, of course, very challenging conditions for the agricultural sector. On the whole, these reports suggest the economic expansion is continuing but at a reduced pace.
+
+As I mentioned a few minutes ago, inflation remains above the FOMC’s 2% target and further progress toward 2% has been slower since mid-2024. Core PCE inflation, which I consider a good measure of underlying inflation, has drifted sideways before new tariffs were announced, and stood at 2.8% in February. Headline inflation was a bit lower at 2.5%.
+
+The risks that inflation will move higher in the near term have increased. Market and survey measures indicate near-term inflation expectations have risen, with higher tariffs often cited as the main driver.3 Thus far, market data and surveys suggest long-term inflation expectations have been stable and consistent with the FOMC’s 2% target. The recent University of Michigan survey of consumers is a notable exception.4
+
+Several recent surveys indicate more firms have raised or are planning to raise prices in coming months compared with surveys from the fourth quarter of 2024.5 Those results are consistent with reports from Eighth District business leaders who tell us they expect to pass high materials costs on to their customers. Firms also tell us their suppliers have recently raised prices or warned increases are coming once tariffs are implemented.6 At the same time, firms report that consumers have become increasingly price-sensitive and may resist price increases by switching to lower-tier or domestic products and reducing overall spending.
+
+Monetary Policy
+Looking ahead, based on data reported to date, I expect the economic expansion will continue at a more moderate pace, the supply and demand of labor will remain roughly in balance, and inflation will decline to 2% over the medium term. However, I see near-term risks as skewed toward inflation rising alongside slower economic growth and a further cooling of the labor market. This aligns with views of many professional forecasters, who have tended to mark down their expectations of economic growth and mark up their forecasts for inflation for 2025.
+
+A scenario involving above-target and rising inflation and a softening of the labor market would present a challenging environment for monetary policy and could arise for several reasons. Recently, higher tariffs have been front and center and thought by many economists as likely to raise prices and soften aggregate demand and employment, at least in the near term.
+
+How should monetary policy respond?
+
+A “textbook” view is that monetary policymakers should “look through” price increases associated with higher tariffs because they are likely to have only a brief and limited impact on inflation. However, there are challenges and risks with a look-through strategy. Changes in tariffs can have various direct and indirect effects on prices and economic activity, depending on how they are implemented and the extent of retaliation by trading partners. Whereas the direct effects might have only a brief and limited impact on inflation, indirect and second-round effects could have a more persistent impact. Therefore, I would be wary of assuming the impact of high tariffs on inflation would be only brief and limited. I consider it appropriate to “lean against” second-round effects with monetary policy, although discerning between underlying inflation and the direct, indirect and second-round effects of tariffs is likely to be challenging in real time.7
+
+Once inflation is entrenched, it can be difficult and costly to rein in, especially if the public expects high inflation to persist. With inflation already above 2%, the stakes are potentially higher than they would be if inflation were at or below target. Consumers and businesses have recently experienced high inflation and are already sensitive to it. Thus, in the current environment, the risk of any increase in inflation feeding onto long-term inflation expectations could be greater than if inflation were at or below 2%.
+
+If long-term inflation expectations are anchored, a monetary policy approach that is responsive to both employment and price stability concerns is feasible.8 But if the public begins to expect inflation will remain high over the long term, the job of restoring price stability and maximum employment would be much more difficult. Thus, ensuring medium- to long-term inflation expectations remain well anchored is central to monetary policy. The combination of high economic policy uncertainty, tighter financial conditions, and retaliation to U.S. tariffs by trading partners poses downside risks to economic growth and employment. Ensuring that inflation expectations remain well anchored allows for a balanced approach to monetary policy with appropriate focus on the maximum employment side of the mandate.
+
+Conclusion
+To wrap up, the U.S. economy is continuing to expand, but the pace of growth appears to have moderated. There is still more work to do to bring inflation back down to our 2% target. I am committed to working with my FOMC colleagues to achieve price stability while doing all we can to foster maximum employment and a durable economic expansion for the American people.
+
+Finally, let me again thank the Arkansas Bankers Association and its members for hosting today’s event, and for your continued dedication to serving the banking needs of households, businesses and other stakeholders of Arkansas, the Eighth Federal Reserve District, and the United States.
+
+Thank you.
+
+Notes
+
+The St. Louis Fed’s dashboard Economy at a Glance, which is powered by FRED®, the St. Louis Fed’s signature database, provides a high-level overview of current U.S. economic conditions. For a recent analysis of labor market conditions, see the St. Louis Fed’s flash report on March’s unemployment rate.
+See the Community Bank Sentiment Index.
+For example, the Federal Reserve Bank of Atlanta Business Inflation Expectations (BIE) survey shows respondents’ one-year ahead inflation expectations have risen each month since December.
+See University of Michigan Surveys of Consumer Expectations.
+For example, the National Federation of Independent Business reported in March the net percentage of businesses raising average selling prices rose 10 points between its January and February surveys, which was the largest one-month increase since April 2021. While that net share has since declined six points in the March survey, it remains historically high. See the April 8, 2025, NFIB article, “Small Business Optimism Slips.”
+In a March survey of manufacturers by the Federal Reserve Bank of Philadelphia, 48% of respondents reported increases in input prices and none reported decreases. A prices paid index based on the survey has risen for four consecutive months to its highest level since July 2022.
+For a discussion of “optimal” monetary policy in response to a sequence of supply shocks, see Paul Beaudry, Thomas J. Carter and Amartya Lahiri, “The Central Bank’s Dilemma: Look Through Supply Shocks or Control Inflation Expectations?,” NBER Working Paper No. 31741, September 2023.
+In a recent speech, I discussed two disinflation episodes where the economic costs of lowering inflation were markedly different. In the first, which took place in the early 1980s, the costs were high, but in the second, which began in 2022 and is ongoing, the costs have been low. A key difference between the two episodes is that in the early 1980s the public expected high inflation to continue, but in the recent episode longer-term inflation expectations have remained low and stable.
+

@@ -1,0 +1,66 @@
+https://www.stlouisfed.org/from-the-president/remarks/2024/remarks-on-u-s-economy-and-monetary-policy
+
+Remarks on the U.S. Economy and Monetary Policy
+
+Dec. 4, 2024
+
+Alberto Musalem
+
+New York City
+
+Good morning. It is great to see many friends and former colleagues again. I would like to thank Bloomberg and the Global Interdependence Center for the invitation to participate in this symposium, and for the opportunity to share a few observations about the U.S. economy and implications for monetary policy.1
+
+First, let me state that these are my personal views and not necessarily those of the Federal Reserve or my colleagues on the Federal Open Market Committee (FOMC).
+
+Current Conditions
+Let me begin by summarizing current conditions as follows: The dual mandate goals of maximum employment and stable prices are within sight, monetary policy is well positioned, and there is more work to do on inflation.
+
+Economic activity has been robust with real GDP above its long-term potential in terms of both levels and growth rates. Spending by households and businesses has remained elevated, and financial conditions are broadly supportive of a growing economy. The fourth quarter is also looking strong.
+
+Labor market conditions are consistent with full employment. The unemployment rate is low and below estimates of its natural rate. Businesses remain healthy in terms of revenues, earnings and balance sheets, providing some confidence that layoffs are expected to remain low.
+
+The labor market has been gradually cooling in an orderly manner. Job creation, hiring and quits rates have slowed, along with worker transition rates between labor market states—for example, transitions from unemployment to employment. The labor market is no longer overheated or posing as much upside risk to inflation, though average hourly earnings growth remains above long-term trends.
+
+Inflation has declined materially since peaking in June 2022, and headline PCE inflation is close to the FOMC’s 2% target. However, in the remainder of my remarks I will focus on core PCE inflation because it is a better measure of underlying trends.
+
+Core PCE inflation remains closer to 3% than to the FOMC’s 2% target. Convergence toward 2% has been bumpy and recently slowed. Recent progress has relied more on falling goods and energy prices, and less on lower housing and services inflation.
+
+Monetary policy is well positioned. At its two most recent meetings, the FOMC reduced its target range for the federal funds rate by a total of 75 basis points. This lessened but did not eliminate monetary restraint. The policy rate remains above plausible levels for the neutral policy rate, appropriately so with inflation above target and a labor market close to full employment.
+
+Baseline Outlook
+With that overview of current conditions, I will now look ahead and share my baseline outlook.
+
+Based on current information, I expect inflation will converge toward 2% over the next two years. Progress should become more evenly balanced, shifting from a reliance on falling goods and energy prices and toward lower housing and services inflation. I expect economic activity will moderate toward its long-term potential in level and growth terms. Some further gradual labor market cooling is likely, accompanied by moderating compensation growth. I expect the labor market will remain consistent with full employment while the unemployment rate rises modestly toward estimates of its natural rate.
+
+My baseline scenario reflects an expectation that monetary policy remains appropriately restrictive while inflation is above 2%. Based on what we know today, further easing toward a neutral policy stance will likely be appropriate over time to support maximum employment, provided inflation is projected to continue to converge toward 2%. The path toward a neutral policy stance could be accelerated, slowed or paused depending on how the economic environment and outlook evolve.
+
+Scenarios and Risks
+There are of course alternative scenarios to consider and risks to manage around the baseline outlook that I have just outlined.
+
+From my perspective, it will be important at upcoming FOMC meetings to achieve optionality that best positions monetary policy for managing risks around the dual mandate goals and uncertainty about the neutral policy rate and productivity trends. I believe a patient and careful approach to further policy easing is warranted for three reasons:
+
+First, and while it is not in my baseline scenario, information received since September suggests a higher risk that progress toward 2% inflation could stall, or possibly reverse. At the same time, the risk of an unwelcome deterioration in the labor market has remained unchanged or possibly fallen. Since September, the economy has been stronger than expected, inflation has been higher than desired, and the labor market has remained close to full employment. Election uncertainty has subsided, and in recent months monetary policy uncertainty has declined with interest rates beginning to fall.
+
+In the current environment, easing policy too much too soon poses a greater risk than easing too little, or too slowly. To be clear, both could lead to undesirable outcomes. Easing too much too soon could prompt an increase in demand that initially outpaces supply, delaying efforts to get inflation back to 2%, or possibly causing inflation expectations to move higher. Easing too much too soon could also increase term premia, putting undesired upward pressure on long-term interest rates and downward pressure on employment. A rapid easing of policy could be detrimental to both sides of the FOMC’s dual mandate.
+
+Second, there is uncertainty about the long-run neutral federal funds rate. It could plausibly lie between 3% and 4%, depending, among other things, on productivity trends. With core PCE inflation currently closer to 3% than to the FOMC’s 2% target, monetary policy rules suggest a federal funds rate between 4.3% and 5.4% for the fourth quarter of 2024.2 At 4.6%, the midpoint of the current federal funds target range is already well within the range suggested by policy rules, and below the median of this range. Further reductions in the federal funds rate will therefore require careful management and depend crucially on an expectation of further convergence toward 2% inflation.
+
+Third, there is uncertainty about the durability of productivity trends. In recent quarters, strong productivity growth reconciled continued disinflation with a strong economy and above-trend labor compensation growth. But will this last?
+
+If productivity growth has durably risen, disinflation could continue even if the economy continues to grow at its current rapid pace. In this scenario, the neutral policy rate might be higher than before, and conceivably the policy rate could be reduced more quickly. However, if productivity growth slows, inflation convergence could be challenged. The neutral policy rate could be lower than before, and more time may be required to get to the neutral rate to ensure that inflation does converge to 2%.
+
+Of course, we would all prefer sustained high-productivity growth. Perhaps new business formations, capital deepening, a broader adoption of labor-saving automation technology, and AI have put the economy on a new higher-productivity path. Over the past year, labor productivity has returned to its cyclically adjusted long-term trend, and there are reasons for optimism. Productivity growth has been higher for industries with higher technology and AI intensity and a higher share of college graduates. But whether productivity growth will remain high is an open question. In the meantime, it seems preferable to remain careful about relying on higher productivity growth to return inflation to target.
+
+Conclusions
+To conclude, I expect that inflation will converge to the FOMC’s 2% target and that additional easing of moderately restrictive policy toward neutral will be appropriate over time. Along this baseline path, it seems important to maintain policy optionality, and the time may be approaching to consider slowing the pace of interest rate reductions, or pausing, to carefully assess the current economic environment, incoming information and evolving outlook.
+
+I favor a patient approach that focuses on returning inflation sustainably to 2% for several reasons: In the current environment, core PCE inflation is above target, the economy is strong and growing above its long-term potential, and the labor market is consistent with full employment. Also, the balance of risks around the price stability and maximum employment goals has shifted, and there is uncertainty about the neutral policy rate and productivity trends.
+
+Going the last mile to return inflation to 2% will help keep inflation expectations anchored and provide the price stability underpinning needed to maintain maximum employment and a sustained economic expansion.
+
+Thank you.
+
+Notes
+
+I would like to thank David Wheelock and Riccardo DiCecio for assistance in preparing these remarks.
+The range is derived from the 10th and 90th percentiles of a distribution obtained by using a variety of common monetary policy rule specifications, each using alternative long-run neutral nominal policy rates of 3% and 4%. For the fourth quarter of 2024, the 10th and 90th percentiles are approximately 4.3% and 5.4%, respectively, and the median is approximately 5.2%.

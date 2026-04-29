@@ -1,0 +1,155 @@
+https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2024/02/price-stability-built-to-last/
+
+Price Stability Built to Last
+
+Mary C. Daly
+
+February 16, 2024
+
+National Association for Business Economics, Washington, DC
+
+The day after the December Federal Open Market Committee (FOMC) meeting, just a few months back, a man came up to me in the dry cleaner.  He told me that he and his wife had gone to dinner the night before, partly to celebrate the end of the Fed’s rate tightening cycle, but mostly to mark the end of the long, hard battle to bring inflation down.  He felt the worst was behind us, and that he and his family could finally take a breath.
+
+The relief he described is not unique.  I hear it everywhere.  Businesses, communities, and families exhaling, just a bit, as they see inflation falling without the economy breaking.
+
+There is no doubt things are better. But progress is not victory, and we, the FOMC, need to deliver more than a few fleeting moments of relief.
+
+Our goals are sustainable price stability and full employment, working together in a balance that will last.  There is more work to do to deliver on that commitment.
+
+Today, I will discuss the progress we have made, the risks we face, and what we will need to do to finish the job.
+
+As always, let me remind you that the views I express are my own and do not necessarily reflect those of anyone else in the Federal Reserve System.
+
+Significant Progress
+
+So, let’s start with progress.  Relative to a year ago, the economy is in a very good place.  Inflation is heading down, the labor market is rebalancing, and many of the post-pandemic disruptions are dissipating.
+
+The inflation progress has been remarkable.  In the latest personal consumption expenditures (PCE) inflation release,1 prices were up just 2.6 percent compared to a year ago.  Still not price stability, but a lot of improvement from its peak of 7.1 percent back in June of 2022.
+
+A big part of the story on inflation has been supply.  Global production, warehousing, and distribution networks have largely returned to normal.  Bottlenecks, wait times, and price pressures have followed.2
+
+These things aren’t surprising.  They’ve just finally happened.  And they’ve helped ease goods price inflation substantially, bringing it back to near pre-pandemic levels.
+
+The supply-side “surprise,” if you will, has been the positive news on labor and productivity.  Defying all the pessimists, U.S. workers in the prime of their working age came back to work last year, including women and mothers.  This drove prime-age participation to its highest level in two decades.3 At the same time, we saw a surge in immigration.4 Both of these developments boosted labor availability.
+
+But we didn’t just have more workers, these workers also became more productive. Productivity growth picked up notably last year, surpassing its pre-pandemic trend.5
+
+Together, these supply developments eased labor market tightness and helped to bring wage inflation closer to a level consistent with our 2 percent inflation target.6
+
+But perhaps the best news about the decline in inflation is that supply wasn’t the only story.  Improvement also has come from a gradual slowing in demand, the portion that monetary policy directly affects.
+
+We hear this from our contacts and see it in surveys, but we can also quantify it using analysis developed at the San Francisco Fed.7 The researchers focus on the PCE index and separate individual price changes into those driven by demand, where prices and quantities move in the same direction, from those driven by supply, where prices and quantities move in opposite directions.  Their analysis shows that about two-thirds of the decline in core inflation in 2023 came from the demand side. Demand played less of a role for headline PCE, where supplies of food and energy drive a lot of the inflation dynamic.8
+
+Putting all of this together, it is clear that things changed in 2023.  Supply bounced back, tighter monetary policy gained traction, and inflation came down rapidly.  For households and businesses, the treadmill of persistently high and rising inflation slowed down.  All without a significant decline in growth or employment.
+
+This is unequivocally good news, and real progress.
+
+Minding the Risks
+
+The question is, should we expect it to continue.  The modal outlook of many professional forecasters seems to say yes.9 The median of the December FOMC Summary of Economic Projections portrayed a similar view.10
+
+Most striking perhaps is the confidence that households, businesses, and markets show for continued progress on inflation. Among households, once elevated year-ahead inflation expectations have fallen substantially and are now near pre-pandemic levels.11 Business inflation expectations have also improved.  According to the Atlanta Fed Inflation Project, businesses see prices in the coming year rising just slightly above 2 percent, about the norm for that series.12 Financial markets have similar expectations—inflation around 2 percent at the end of the year.13
+
+Of course, projections and expectations are just that: views about what we think will happen. We need more time and data to be sure that they will be realized.  And we need to monitor risks that could get in the way, especially since uncertainty is so high.
+
+There is a myriad of risks to consider, but I will focus on two: slower inflation progress and fragilities in the labor market.
+
+On inflation, there is a risk that the positive supply developments we saw last year might be hard to sustain.  Labor force participation for prime-age workers is close to historical highs, and with the labor market cooling and wage gains slowing, we might not see additional outsized contributions coming from this group.14 The large influx of foreign-born workers also may slow, further limiting labor force growth.15 I always bet on workers, but at this point, it is hard to predict, and it does pose a risk to further rapid reductions in inflation.
+
+The same is true of productivity growth.  It’s highly uncertain whether we will continue to see the strong numbers of last year.  There are many reasons to be optimistic, but productivity trends are notoriously hard to forecast, and at this point, we just can’t be sure.
+
+And of course, we live in a dynamic world, and there are always new shocks, like disruptions in the Red Sea and Panama Canal, to disrupt supply. I know this was a concern you mentioned in the NABE survey.16 Although not currently binding, these challenges may impair goods distribution and push up costs in the future.
+
+On the demand side, momentum remains a risk, especially among consumers.  We’ve repeatedly expected spending to slow, only to be wrong.  Ongoing economic momentum that outstrips available supply remains a risk to the inflation outlook.
+
+But slower progress on inflation is not the only risk we face.  On the other side of our mandate, the labor market could falter.
+
+Let me be clear.  We do not see that right now.  So far, labor market conditions have eased without a rise in unemployment.  In technical terms, we’ve been sliding down the steep portion of the Beveridge curve, where changes in labor demand reduce vacancies without reducing jobs and pushing up unemployment.17 As the vacancy rate gets closer to its pre-pandemic average, these favorable conditions could end, and the tradeoff between falling labor demand and unemployment could be more stark.
+
+Of course, with employment growth as strong as it has been, this seems like a distant risk. But given the speed at which labor market pivots historically occur, it’s a risk we must keep in mind.
+
+Finishing the Job
+
+So that’s the landscape.  The economy is healthy.  Price stability is within sight.  But there is more work to do.
+
+To finish the job will take fortitude.  We will need to resist the temptation to act quickly when patience is needed and be prepared to respond agilely as the economy evolves.
+
+This is not a new situation for the Fed or any central bank. Uncertainty is a fact of life. The economy rarely signals exactly where it is headed.
+
+The constant in our changing environment is our goals.  They are always sustainable price stability and full employment for a healthy economy.
+
+And these are more than just words, a fact I’m reminded of nearly every day.
+
+After the dry cleaner last December, I went to the hardware store.  I was standing in line behind a dad and his college-age daughter.  When the total rang up, the dad asked the cashier why it was so high.  Without hesitation, the cashier said, inflation—everything costs more.
+
+As the two walked out of the store, the daughter said, “I never heard about inflation before the pandemic.”  Her dad responded, “I hope you never do again.”
+
+That is really what we are after. An economy unburdened by inflation, where people can step off the treadmill and make decisions about their lives and livelihoods without worrying about rapidly changing prices. We want price stability built to last.
+
+Thank you.
+
+Footnotes
+
+1. As of December 2023.
+
+2. See the New York Fed’s Global Supply Chain Pressure Index for the latest data, and Liu and Nguyen (2023) for analysis.
+
+3. See, for example, Prabhakar and Valletta (2024). Labor force participation surged for prime-age workers through mid-2023, reaching a historical high for women and reattaining the pre-pandemic peak for men.
+
+4. The share of foreign-born people in the U.S. labor force reached a new high in 2022, at 18.1 percent (Bureau of Labor Statistics 2023).
+
+5. Productivity growth in 2023 was 2.7 percent. By comparison, estimated trend productivity growth prior to the pandemic was between 1 and 1¼ percent (Fernald and Li 2019).
+
+6. That level is estimated to be about 3½ percent.  See, for example, Almuzara, Audoly, and Melcangi (2023).
+
+7. Shapiro (2022a, b).
+
+8. For the full analysis and regularly updated series see Supply- and Demand-Driven PCE Inflation. See also Shapiro (2022a, b). Similarly, Guerrieri et al. (2023) argue that the rise and fall of energy prices in both the United States and the euro area played an important role in shaping observed inflation patterns after the pandemic.
+
+9. See, for example, the February 2024 Blue Chip Economic Indicators.
+
+10. Board of Governors (2023).
+
+11. In the Michigan survey, year-ahead inflation expectations eased to 2.9 percent in January, the lowest value since December 2020 and within the 2.3 to 3.0 percent range reported during the two years prior to the pandemic. In the New York Fed’s Survey of Consumer Expectations, one-year inflation expectations were 3.0 percent in January, similar to their level in 2018 through early 2019.
+
+12. See the Atlanta Fed’s Business Inflation Expectations survey.
+
+13. Based on updated analysis from Mertens and Zhang (2023).
+
+14. Prabhakar and Valletta (2024).
+
+15. For example, the Congressional Budget Office (2024) expects immigration flows to be little changed in 2024 and then decline somewhat in 2025-26, returning to historic averages after that.
+
+16. See NABE Economic Policy Survey: February 2024.
+
+17. Figura and Waller (2022) and Bok et al. (2022). Crust, Lansing, and Petrosky-Nadeau (2023) link analysis of the Beveridge curve to the Phillips curve tradeoff between unemployment and inflation, reinforcing the view that inflation can fall without a sharp increase in unemployment.
+
+References
+
+Almuzara, Martin, Richard Audoly, and Davide Melcangi. 2023. “A Turning Point in Wage Growth?” Liberty Street Economics, Federal Reserve Bank of New York, February 23.
+
+Board of Governors of the Federal Reserve System. 2023. “Summary of Economic Projections.” December 13.
+
+Bok, Brandyn, Nicolas Petrosky-Nadeau, Robert G. Valletta, and Mary Yilma. 2022. “Finding a Soft Landing along the Beveridge Curve.” FRBSF Economic Letter 2022-24 (August 29).
+
+Bureau of Labor Statistics. 2023. “Foreign-Born Workers Were a Record High 18.1% of the U.S. Civilian Labor Force in 2022.” The Economics Daily, June 16.
+
+Congressional Budget Office. 2024. The Demographic Outlook: 2024 to 2054. CBO Publication 59899.
+
+Crust, Erin E., Kevin J. Lansing, and Nicolas Petrosky-Nadeau. 2023. “Reducing Inflation along a Nonlinear Phillips Curve.” FRBSF Economic Letter 2023-17 (July 10).
+
+Fernald, John, and Huiyu Li. 2019. “Is Slow Still the New Normal for GDP Growth?” FRBSF Economic Letter 2019-17 (June 24).
+
+Figura, Andrew, and Chris Waller. 2022. “What Does the Beveridge Curve Tell Us about the Likelihood of a Soft Landing?” Federal Reserve Board of Governors FEDS Notes, July 29.
+
+Guerrieri, Veronica, Michala Marcussen, Lucrezia Reichlin, and Silvana Tenreyro. 2023. “Geneva 26: The Art and Science of Patience: Relative Prices and Inflation.” Report, CEPR, September 28.
+
+Liu, Zheng, and Thuy Lan Nguyen. 2023. “Global Supply Chain Pressures and U.S. Inflation.” FRBSF Economic Letter 2023-14 (June 20).
+
+Mertens, Thomas M., and Tony Zhang. 2023. “A Financial New Keynesian Model.” Federal Reserve Bank of San Francisco Working Paper 2023-35.
+
+Prabhakar, Deepika Baskar and Robert G. Valletta. 2024. “Why Is Prime-Age Labor Force Participation So High?” FRBSF Economic Letter 2024-03 (February 5).
+
+Shapiro, Adam Hale. 2022a. “Decomposing Supply and Demand Driven Inflation.” Federal Reserve Bank of San Francisco Working Paper 2022-18.
+
+Shapiro, Adam Hale. 2022b. “How Much Do Supply and Demand Drive Inflation?” FRBSF Economic Letter 2022-15 (June 21).

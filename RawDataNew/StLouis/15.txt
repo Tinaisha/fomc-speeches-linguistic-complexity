@@ -1,0 +1,102 @@
+https://www.stlouisfed.org/from-the-president/remarks/2024/remarks-financial-conditions-economic-outlook-monetary-policy
+
+Musalem: Financial Conditions, the Economic Outlook and Monetary Policy
+
+Oct. 7, 2024
+
+Alberto Musalem
+
+Money Marketeers of New York University Inc. event in New York
+
+Good evening. Thank you for inviting me to speak with you today and for the kind introduction. It is a pleasure to be in New York City among so many friends and former colleagues.
+
+At its September meeting, the Federal Open Market Committee (FOMC) reduced the target range for the federal funds rate by 50 basis points and released a Summary of Economic Projections (SEP) with a median projection of additional reductions in the quarters ahead. I supported the policy action and penciled in a baseline policy path slightly above the median. I did so because monetary policy was and remains moderately restrictive for an economy that appears close to equilibrium with respect to inflation and employment. The improved outlook for inflation and cooling of the labor market that occurred over the summer gave me greater confidence in achieving our dual mandate objectives.
+
+I believe it will likely be appropriate to further reduce the target range for the federal funds rate over time toward a neutral posture, with the size and timing of reductions depending on incoming data, the evolving outlook and the forward-looking balance of risks around this outlook. Over a policy horizon comprising the next few quarters, under my baseline outlook, the U.S. economy will continue to grow at a solid pace with a healthy labor market at or near full employment and inflation converging to 2%.
+
+In this talk, I will first discuss current financial conditions for different parts of the economy and their implications for the outlook. Next, I will share my baseline outlook for the economy and associated policy path. Finally, I will discuss some plausible alternative scenarios and their policy implications.
+
+Let me stress that these are my personal views and not necessarily those of my FOMC colleagues.
+
+Financial Conditions
+Because financial conditions play a central role in monetary policy transmission to the broader economy, in my preparation for FOMC meetings I focus a great deal on understanding the availability and pricing of financing.1 Here is how I see financial conditions today.
+
+Broad Measures of Financial Conditions
+At present, overall financial conditions in the United States appear broadly supportive of continued economic growth with financing generally available. Conditions do vary across different parts of the economy.
+
+Most closely watched indexes show that financial conditions were relatively tight in 2022 and early 2023. They began to ease after the spring 2023 banking turmoil and have been more accommodative than average over the past four quarters. Falling inflation in the second half of 2023 and resulting changes in expectations about the path of the Fed’s policy rate undoubtedly contributed to this easing. Yields on corporate and Treasury debt rose modestly in the first five months of 2024 as inflation progress stalled and caused expectations of the Fed’s rate path to revise upward, but overall financial conditions remained accommodative. Yields have since fallen as inflation has eased and the labor market has cooled somewhat.
+
+Unpacking the broad measures, financial conditions appear favorable for businesses, municipalities and households with access to capital markets but less favorable for some smaller firms and households. Low credit spreads and strong demand continue to provide an environment supporting sizable corporate bond, leveraged loan, and private credit issuance. New equity issues and initial public offerings remain below pre-pandemic levels but have risen over the past two years as companies have taken advantage of the lower cost of equity financing to raise cash.
+
+Financial conditions are less accommodative for smaller businesses that rely on banks for financing. Credit is generally available, but nominal interest rates on short-term loans to small businesses remain meaningfully above their pre-pandemic levels.2 Banks have been tightening their lending standards for a few quarters, albeit at a decreasing rate, and the Fed’s most recent survey of senior loan officers indicates that lending standards are somewhat tighter now than before the pandemic.3
+
+As with interest rates on loans to small businesses, rates charged to household borrowers remain higher than before the pandemic but have begun to ease. Credit card and auto loan rates have been sticky, but mortgage rates have declined from their peaks, with the average rate on 30-year fixed loans down more than 100 basis points over the past year.4 Data reported by the Mortgage Bankers Association (MBA) show a significant increase in refinancings in recent weeks as loan rates have fallen.5 The MBA also reports that home mortgage applications have risen to their highest level in more than two years, suggesting that sales might finally begin to pick up.6
+
+Credit Quality and Financial Stress
+Measures of credit quality and financial stress have deteriorated modestly in recent months among all borrower classes but remain low, especially for prime borrowers. Outside of commercial real estate, overall credit quality is strong for most corporate debt, home mortgages and other secured debt. Corporate bond and leveraged loan default rates are near their low pre-pandemic levels, and delinquency rates on small-business loans are also low. Loan modifications have been rising for both bank and private credit issuers for a few quarters. Modifications can help some stressed borrowers avoid delinquency and defaults, and thereby maintain production and employment.
+
+Delinquency rates on auto loans and credit cards have been rising for several months and are now somewhat higher than before the pandemic. Rising delinquency rates are indicative of greater financial stress among some households, especially low- and moderate-income (LMI) households. This bears watching, as I will discuss shortly.
+
+Low financing costs for borrowers with access to capital markets, and wealth gains from historically elevated equity, home values and other assets, suggest that at the present time, the economy might be unusually sensitive to asset prices. In this environment, the link between monetary policy, financial conditions, asset prices and broader economic outcomes could be tighter than usual. With that in mind, I will now provide my assessment of current economic conditions and the outlook.
+
+Economic Conditions and Baseline Outlook
+The U.S. economy is continuing to expand at a solid pace with the Fed’s dual mandate objectives in sight. What could go wrong? Before getting into possible scenarios, let’s begin by reviewing some of the recent data that feed into my outlook for the economy.
+
+Economic Activity
+My baseline outlook is for continued economic expansion over the next several quarters, supported by a gradual easing of monetary policy and accommodative financial conditions. The first half of 2024 saw strong growth in real GDP and labor productivity. Tracking forecasts indicate that third-quarter real GDP growth was also strong.7 Estimates of potential GDP are highly uncertain, but through the third quarter, both the level and growth rate of real GDP appear to have been somewhat above the long-term potential. Recent data revisions did not materially alter these facts and did give me greater confidence in them by largely eliminating a puzzling gap between GDP and gross domestic income (GDI).
+
+A full-employment labor market and accumulated wealth from gains in equities, home values and other assets are reasons to expect steady consumption growth in the quarters ahead. August core retail sales exceeded market expectations but growth in total real consumer expenditures was soft, and auto and light truck sales have been running below pre-pandemic levels. However, upward revisions to the household savings data suggest that consumers may have more residual spending power than previously thought. Recent declines in home mortgage rates are spurring cash-out refinancings, providing homeowners with additional funds for consumption or for paying down other forms of debt.
+
+Of course, not everyone owns a home or a stock portfolio. The combination of high inflation and high interest rates has been especially challenging for LMI households, necessitating tradeoffs in their spending and financial decisions. In the aggregate, lower-income households have maintained consumption growth at similar rates to higher-income households. They have done so by trading down to lower-tier brands and products, switching from discretionary to nondiscretionary products, and relying more heavily on debt. Rising auto loan and credit card delinquency rates indicate that many households are financially stretched, which may ultimately weigh on their ability to maintain consumption growth. Accordingly, some modest slowing in aggregate consumption growth over the next few quarters would not be surprising, especially if the labor market were to soften. The recent lowering of earnings forecasts for businesses in the consumer discretionary sector reflects market concerns about consumer spending growth.
+
+As with consumption spending, the outlooks for other major sectors of the economy and GDP components do not suggest a significant slowing of economic activity is imminent. The services sector remains strong, as evidenced recently by the September ISM Services PMI, which has risen for three consecutive months.8
+
+To be sure, there are pockets of weakness. Manufacturing output rose in August after two consecutive down months, but the pace of growth remains low. Conceivably, some of the weakness in manufacturing reflects the ongoing rotation of consumer spending toward services in the post-pandemic environment.
+
+The housing market has been weak for several quarters with relatively high mortgage rates restraining both supply and demand. More recently, falling mortgage rates have begun to provide some relief to the market, as evidenced by increased refinancing. Housing starts have also picked up and housing completions recently reached a 17-year high.
+
+Uncertainty about the path of interest rates and about the outcome of the upcoming election could be weighing on activity, perhaps causing some hesitancy on the part of firms to increase capacity or add workers. Some 30% of respondents to a recent survey by the Atlanta and Richmond Feds in conjunction with Duke University reported that election-related uncertainty has caused them to postpone, scale down, delay or cancel investment plans.9
+
+I’ve heard much the same in conversations with businesspeople in the Eighth Federal Reserve District and around the country. Of course, there is always uncertainty about future policies and other environmental factors, but I’ve heard enough “survive until 2025” comments from businesspeople and others to believe that resolving some uncertainty about the path for interest rates or the election could provide a meaningful boost to investment and spending.
+
+Inflation and Employment
+Turning now to the Fed’s dual mandate objectives, both the labor market and inflation are in a good place, and I see the risks to the two objectives as roughly balanced around the baseline.
+
+Recent data have given me greater confidence that inflation is converging toward the FOMC’s 2% target. Falling goods prices continue to offset still elevated services and housing inflation, producing benign overall inflation numbers. Falling rent inflation should bring down the housing component of the overall price indexes over time. I expect headline and core PCE inflation to converge to 2% on a 12-month basis over the next few quarters. It is possible that inflation will cease to converge, but I believe the risks that inflation becomes stuck above 2% or rises from here have diminished.
+
+My outlook for inflation is based in part on the condition of the labor market. Unlike a year ago, the labor market is no longer overheated or posing upside risk to inflation. While the market has cooled from a year ago, it remains strong at or near maximum employment.
+
+The increase in the unemployment rate over the last year has been notable, but at 4.1% it remains low by historical standards and below the 4.2% median long-run projection of FOMC participants.10 Substantial immigration and higher labor force participation have increased the available supply of workers since 2021, though more recently, immigration has slowed, and the labor force participation rate has been roughly stable. Job openings, which reflect the strength of labor demand, have gradually declined over the past year, but are still elevated relative to historical levels. Together, these developments led to the increase in the unemployment rate that has occurred since mid-2023. The decline in the unemployment rate in each of the last two months is mainly attributable to an increase in the job finding rate among unemployed workers and a decline in separations to unemployment.
+
+The modest degree of labor market cooling over the past year is consistent with an economy that remains strong with rising labor productivity. Softer demand for labor has not translated into widespread layoffs. Instead, firms have relied mainly on attrition, reduced hours, and shifts to right-size their workforces. The business sector is generally healthy; corporate earnings have been strong, with small-business earnings less so. The consensus outlook for earnings is generally stable, albeit with some differentiation across industries, such as the outlook for the consumer discretionary sector I noted earlier.
+
+Some Alternative Scenarios
+I now return to the question, “What could go wrong?” Any number of shocks could change the outlook. Disruptions to global shipping and energy supplies from expanded conflict in the Middle East or elsewhere, more frequent or prolonged labor strikes, and slower immigration flows, as observed over the last few months of data, are front-and-center risks that have the potential to impact the broader economy and progress on inflation, and thus bear on the outlook. I have not factored these events into my baseline outlook thus far but may do so should they worsen or become prolonged.
+
+In recent months, the risks that inflation would become stuck above 2% or rise have diminished somewhat, while the risk of an unwelcome deterioration in the labor market has increased. At present, I see those risks as roughly balanced. Neither risk seems especially high, but we should be mindful of alternative scenarios that could play out and think about how to respond to them.
+
+One possibility is that inflation ceases to converge to 2% or moves higher, perhaps because the economy responds more vigorously than expected to lower interest rates and easier financial conditions, as well as to resolution of election uncertainty. Should such a scenario arise, with demand increasing at a faster pace than supply, it would be appropriate to maintain a restrictive policy stance with fewer, if any, reductions in the policy rate until such time as inflation does continue to converge. The possibility that this scenario could arise is why, in the current environment, it is appropriate to withdraw monetary restraint at a pace and magnitude that allow time to evaluate the effects of policy easing.
+
+Another possible scenario is that the labor market softens by more than expected while inflation remains on the path to 2% or falls below it. If that situation were to arise, then it would be appropriate to move the policy rate down more quickly and by a greater amount than my baseline projection.
+
+Both easing too much too soon, and easing too little too late, can produce costly outcomes. Considering the costs of such policy paths is useful for framing decisions. Given where the economy is today, I view the costs of easing too much too soon as greater than the costs of easing too little too late. That is because sticky or higher inflation would pose a threat to the Fed’s credibility and to future employment and economic activity. Of course, I am not advocating easing too little too late. I am simply weighing the dual mandate costs of two undesirable policy paths and their outcomes.
+
+Conclusion
+To conclude, I supported the FOMC’s recent decision to reduce the target range for the federal funds rate, thereby beginning to normalize the stance of policy to align with 2% inflation and maximum employment. I concluded that a 50-basis-point reduction in the policy rate was appropriate because data suggested that inflation was falling more quickly toward 2% than I had previously anticipated.
+
+I believe that further gradual reductions in the policy rate will likely be appropriate over time. Patience has served the FOMC well in its pursuit of price stability and remains appropriate now, but I will not prejudge the size or timing of future adjustments to policy. As the poet Robert Burns wrote, “The best laid plans of mice and men often go awry.” That is true for monetary policymakers who must be attuned to shocks and other events that cause the economy to deviate from forecasts and projections. Robust policymaking requires being cognizant of the possibility—even the reality—that the economy will not evolve precisely, or even substantially, in line with baseline projections, and there is value in being prepared to pivot accordingly. Ultimately, incoming data, unanticipated shocks, evolving forecasts and the balance of risks around these forecasts will determine the policy path.
+
+Thank you.
+
+Notes
+
+In a prior speech, I discussed in detail the transmission of monetary policy through financial conditions to the broader economy.
+This refers to interest rates on small-business loans with maturities of one year or less, based on surveys of firms that report borrowing regularly. See the Small Business Economic Trends report from the National Federation of Independent Business.
+See the Fed’s July 2024 Senior Loan Officer Opinion Survey on Bank Lending Practices.
+See the 30-year fixed-rate mortgage average in the U.S. series in the St. Louis Fed’s economic database FRED®.
+This was reported in a Sept. 25, 2024, Bloomberg article, “Homeowners Eye Over $4,000 in Annual Refi Savings as Rates Drop.”
+See the Sept. 25, 2024, HousingWire article “Mortgage applications rise to highest level since July 2022.”
+Real GDP grew at a 2.3% annual rate in the first half of 2024, while real final sales to private domestic purchasers grew at 2.8%. Many tracking forecasts currently peg third-quarter real GDP growth at around 2.5%. For example, as of Oct. 1, the Atlanta Fed’s tracking forecast projected third-quarter real GDP growth at 2.5%.
+PMI refers to the purchasing managers index. See the Institute for Supply Management’s release for the September 2024 Services ISM Report On Business.
+See the Sept. 25, 2024, Policy Hub: Macroblog analysis by Brent Meyer and Daniel Weitz, “How Does Election Uncertainty Impact Firms?”
+See the FOMC’s Summary of Economic Projections released Sept. 18, 2024.

@@ -1,0 +1,80 @@
+https://www.philadelphiafed.org/consumer-finance/payment-systems/241022-ever-evolving-never-irrelevant-the-philadelphia-feds-fintech-conference
+
+Ever Evolving, Never Irrelevant: The Philadelphia Fed’s Fintech Conference
+
+Patrick T. Harker
+
+22 Oct 2024
+
+The Eighth Annual Fintech Conference | Philadelphia, PA
+
+Good morning, everyone, and welcome to the 8th Annual Fintech Conference hosted by the Federal Reserve Bank of Philadelphia.
+
+Now, I’m not here to distract at all from today’s proceedings. But I still must preface my remarks with the standard Fed disclaimer: The views I express today are my own and do not necessarily reflect those of anyone else on the Federal Open Market Committee (FOMC) or in the Federal Reserve System.
+
+But disclaimer notwithstanding, I believe I can speak for everyone in thanking our panelists and speakers without whom this conference would not be able to work, and also the organizing partners without whom this year’s conference would not be able to happen.
+
+And I must single-out for thanks Julapa Jagtiani, who truly is the visionary behind this entire endeavor.
+
+Back when Julapa proposed a conference focused on the growing fintech space, I gave it the green light not just because it was a timely subject but also because I thought it offered an opportunity for the Philly Fed to showcase the field’s thought leadership. Today we find ourselves at the eighth edition of what is, in my view, among the most influential global fintech conferences.
+
+Julapa was really on to something. Moreover, she has made this convening what it is today. So, Julapa, thank you and congratulations!
+
+But of course, I must give my biggest thanks to all of you with us for this conference, whether you are among the 200 here in person or the more than 1,400 watching online.
+
+I can speak of this conference’s growth — both in attendance and in prominence — through the words of English poet William Blake who penned the line, “What is now proved was once only imagined.”
+
+And looking back at the seven previous conferences, I can also use Blake’s words to sum up another vital aspect of this event: “Without Contraries is no progression.”
+
+Or, maybe in more modern parlance, when I served as a White House Fellow, my former boss, the late FBI Director William Sessions, would say, “No friction, no traction."
+
+Julapa and her team have always brought together speakers and panelists who don’t always complement each other, in which ever way you wish to use the word, “complement.” There have been very spirited and frank conversations about the core issues surrounding the fintech space and its potential broader economic prospects.
+
+This conference has become a platform where experience is valued, with panelists and speakers bringing ever-increasing levels of expertise built on years of research and practice to the stage. Moreover, these are ongoing and evolving discussions. That is, in and of itself, a good thing. The fintech space, for all its dynamism and complexity, is always evolving and if we looked at a topic — any topic — at just a single conference and then moved on, we’d be missing so much.
+
+Consider the focus of the very first conference in 2017: “Fintech: The Impact on Consumers, Banking, and Regulatory Policy.” The sessions in that first conference included, “Fintech Lending and Roles of Alternative Information” and “Machine Learning and Artificial Intelligence.” The keynote address topic was, “Bitcoin, Blockchain, and Cryptocurrencies.”
+
+These have all remained core topics covered at this conference year over year. They remain on the docket today because they not only continue to impact our financial and economic landscape but they are also doing so in new and ever-changing ways.
+
+Today’s conference features an updated and expanded vocabulary, with terms such as “tokenization” and “banking-as-a-service.” And I trust that they will remain in bold print on the agendas of future conferences for the same reason.
+
+Within these conferences we have had some hearty discussions that lean, sometimes slightly and sometimes more overtly, into, well, maybe we’ll call them “spirited discussions.” But that is also good.
+
+We should be engaging in these kinds of discussions regularly and deeply, presenting new evidence and experiences to refine these arguments and improve the technologies themselves.
+
+And no doubt, without these discussions we’d be missing the nuance — and the contraries and frictions — that accompany any advancements. It is perhaps an overused term, but fintech remains a “disrupter” to traditional banking and financial models even as they are adopted by or, at least, partnered with traditional banks and nonbank financial institutions. But as this conference has proven, being called a disrupter doesn’t have to be pejorative.
+
+Take instant payment systems, for example. According to an October 2023 survey conducted by McKinsey, more than 90 percent of respondents reported having used a digital payment platform in the previous year.1 In 2021, that number was 82 percent, which was 10 points higher than it was five years prior2 — the year before the inaugural Fintech Conference.
+
+But it is not necessarily bank-designed-and-operated apps that are handling many of these digital payment transactions. It is many times falling to a banking-as-a-service platform run by a nonbank intermediary, who is conducting the actual movement of money from one account to another. As a quick aside, the leaders of several of these instant payment companies are among the speakers at this conference. And let’s not forget that when I took to this podium a year ago, I lauded the Federal Reserve’s own foray into the instant payments space through the launch of FedNow.
+
+But let’s assume that if we walked out onto Independence Mall and asked a random passerby if they use a “banking-as-a-service” app, we’d likely get a very quizzical look.
+
+Now, if we instead mentioned the name of a specific payment service or loan provider that exists as an app on their phone instead of a brick-and-mortar building, we’d likely get a more knowing response.
+
+If I could make a generalized assumption, it would be this: Being able to directly buy groceries or even secure a car loan through their phone is something that individual would consider a net positive. Fintech has increased the speed and efficiency of the financial system as it pertains to them.
+
+By the way, I’d be interested if anyone here wishes to undertake this particular social experiment during one of the break periods.
+
+So, what does all this have to do with why we are here? Because this conference has established itself at the forefront of discussions on topics that may have once been considered arcane but have since become ubiquitous. And here we’re not just talking about the changes in technologies but we’re also being forced to contend with the need to change the regulatory environment, as well.
+
+For all of us, the task is to make sure we understand the full discussion. That’s why it is vital that we invite all views into these conversations, so we can assure ourselves of actual progress that works for those of us in this room and also for consumers.
+
+So, if I may step into the role of one of Blake’s “contraries” for a moment, I recently read the 2019 book, The Great Reversal, by economist and NYU Professor Thomas Philippon.
+
+In one chapter, he noted something he found peculiar: According to his data, by 2010, the share of U.S. Gross Domestic Product claimed by financial intermediaries reached roughly 8 percent. In 1880, it was 2 percent, and while it had ebbed and flowed over the years, it never exceeded 6 percent until the 1980s and kept growing.3 Certainly, that makes sense as the number of financial products and services being offered has grown exponentially.
+
+Yet, according to Philippon, the unit cost of financial intermediation — or the cost of providing a service to a consumer — has remained roughly constant at around 2 percent. And that goes all the way back to the start of his data in the 1880s. This, as he states, creates a puzzle — if we have so much more invested in the intermediary systems that enhance the efficiency and speed of our financial system, why has the cost at the consumer’s end remained steady? Philippon, in subsequent research, brought in some later data to update this figure, finding that the cost had decreased slightly between 2010 and 2015.4 So, we have grounds for optimism, but overall costs have yet to fall significantly below that stubborn 2 percent.
+
+As the amount of choice before consumers has grown, and as financial technologies have removed so many barriers to entry and movement, why hasn’t this cost decreased by more? Obviously, the financial system in 2024 is not working at the same level of operational efficiency as it was in 1924 — it’s working at far greater magnitudes of efficiency.
+
+So, perhaps this is the challenge I shall leave with you all here: To use this conference not merely as a way for us, in Blake’s words, to prove that which had previously only been imagined, but to prove it in a way that provides both an operational benefit to the financial system and a tangible benefit to the end-use consumers beyond convenience.
+
+Dare I say, if that gets traction and makes progress, there would likely be a lot less friction and many fewer contraries.
+
+And it is in this sentiment that I am honored to turn the podium back over to Julapa, so she can introduce our first speaker. I thank you for allowing me these few minutes and I wish you all a productive and thought-provoking conference.
+
+Chen, Jeana, Deepa Mahajan, Marie-Claude Nadeau, and Roshan Varadarajan. “Consumer digital payments: Already mainstream, increasingly embedded, still evolving,” McKinsey & Company, October 20, 2023, https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/consumer-digital-payments-already-mainstream-increasingly-embedded-still-evolving.
+Goel, Vaibhav, Deepa Mahajan, Marie-Claude Nadeau, Owen Sperling, and Stephanie Yeh. “New trends in US consumer digital payments,” McKinsey & Company, October 26, 2021, https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/new-trends-in-us-consumer-digital-payments.
+Philippon, Thomas. The Great Reversal: How America Gave Up on Free Markets. Cambridge, MA: Harvard University Press, 2019, pp. 210–213.
+Philippon, Thomas. “On fintech and financial inclusion,” BIS Working Papers No 841 (2020).

@@ -1,0 +1,70 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/wil241114
+
+X Marks the Spot: Making Missing Markets
+
+November 14, 2024
+
+John C. Williams, President and Chief Executive Officer
+
+Intermediating Impact: Making Missing Markets, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+Let me add my welcome to the New York Fed, and heartfelt thanks to our speakers and panelists for an incredible afternoon. Over a few short hours, we’ve heard about innovative strategies that will affect real people every day. We’re all leaving this room with a list of action items, and now the real work begins.
+
+Before we close out the day, I want to share why identifying and making missing markets is a way to better deliver investments to under-resourced communities. And I’ll discuss why the New York Fed is the ideal institution to convene this work.  
+
+Before I go on, I will give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+What Is a Missing Market?
+
+The New York Fed is no stranger to “markets.” In fact, we have whole floors of people in this building who are tasked with the unique responsibility of carrying out the Federal Reserve’s monetary policy through our global market operations. But those markets are not the topic of our conference today.
+
+So, what do we mean when we say that there are “missing” markets, and why do we need to “make” them?
+
+As my colleague David Erickson described at the start of our program, many communities across this country experience a similar set of vulnerabilities. There is a high correlation between gaps and deficiencies, including those relating to climate, health, and economic investment.
+
+Fortunately, there are sizable resources available to address these vulnerabilities. Trillions of dollars in government grants and philanthropic efforts are marked specifically for these purposes. There is a great deal of research on these issues, and work is ongoing to identify potential solutions. And networks and partnerships are actively pursuing a variety of initiatives.
+
+Despite the availability of these resources and the good work being done, there is something missing: effective cross-sector interventions are more the exception than the rule. Efforts can often take the form of one-off interventions that lack the adequate dose, duration, or intensity to significantly improve conditions in the community. What’s missing is a holistic coordination and deployment of resources to get at the causes of the vulnerabilities and their interconnections. That’s why a key goal of today’s discussion has been to bring together people who are focused on how to make this a practical, operational process.
+
+Connecting Supply with Demand
+
+As an economist, I naturally think about the missing market issue through the lens of the most fundamental economic principle: supply and demand.
+
+A simple supply and demand curve appears as an “X,” with supply and demand intersecting at some point in the middle. In the scenarios we’re looking at, there’s a lot of supply on one axis, and a lot of demand on the other. But finding the intersection point—the one that leads to the broadest and most effective outcome—can be the biggest challenge.
+
+Here’s an example. A few years ago, as part of my regional visit to the North Country area of New York, I spoke with leaders who said that a lack of access to affordable broadband internet was causing a deep digital divide.1 High-speed internet is no longer a luxury or a “want to have”; today, it’s essential for people and families for things like telehealth appointments, online banking, remote work, schoolwork, and more.2 And unfortunately, access to broadband services has been slow to reach many communities, especially in rural areas.
+
+It’s a health equity issue. It’s a workforce issue. It’s a banking issue. And it’s an education issue. It’s all of the above and more.
+
+Even with the support of billions of dollars made available under the Bipartisan Infrastructure Deal, funding broadband is still a tremendous hurdle. Many capital providers—including foundations, impact investors, private equity, and local anchor institutions—have yet to fully understand the opportunity and benefit of investing in community broadband. That’s why one working group—or “Design Team,” as we are calling such groups—is seeking to create a new asset class for this purpose. This way, we can show capital providers that each has a role to play in the capital stack that could fund this missing market. In essence, our goal is to plug these inputs into our supply and demand equation and find exactly where “X” marks the spot.
+
+The New York Fed and “The Capital of the World”
+
+The supply and demand framing explains why an economist is speaking about missing markets. But why an economist at the New York Fed?
+
+Our mission is to make the U.S. economy stronger and the financial system more stable for all segments of society. Our work around making missing markets is not an extension of our mission—rather, it is an actualization of it.
+
+Like the supply and demand curves, our community development efforts are at the intersection of many of our institution’s critical roles. Our team engages with a network of government and business leaders in our region, as well as experts and practitioners at educational institutions and nonprofit organizations. We rely on our leading economic research to inform our understanding of the challenges and opportunities in these areas. And we are in New York, which has an enormous supply of capital and expertise that can be tapped in support of these efforts.
+
+Our work starts with raising awareness by detailing the Making Missing Markets Initiative and publicizing our strategy. We recently released a report on this as a precursor to today’s conference.3 In just one afternoon, we learned about climate and health challenges in the South Bronx. We heard about incentivizing private equity to fund population health and about the uniqueness of markets in tribal lands. And we explored the role of secondary markets and CDFIs.
+
+This is only the beginning. We’re mobilizing Design Teams of all kinds—just like the one focused on broadband access—to enhance coordination of public and private investment across issue areas. We’re highlighting opportunities for additional private investment by banks and other investors. And we’re monitoring and reporting the results so that we can learn to make this work sustainable.  
+
+The Jenga Tower
+
+I’ve said in the past that prosperity is like a Jenga tower.4 Each individual piece matters to the stability of the entire structure. If one essential piece is removed, the entire thing can collapse. We must not view issues in isolation, but as interrelated and stacked one on top of another. This approach will help communities tap into the funnel of funds that is out there.
+
+We need to make the case to capital providers to view the benefits as interconnected, too. The effects can be great, and everyone benefits in thriving, opportunity-rich communities.
+
+Today’s meeting was just one data point in our larger strategy to bring people together to partner on these efforts. As we continue to join forces, we will find the missing intersection points that can build a better economy for all.
+
+
+1 Federal Reserve Bank of New York, “New York Fed President John Williams to Meet with Government, Business, and Nonprofit Leaders from New York State’s North Country Region on September 7-8,” August 26, 2021.
+
+2 Ambika Nair and Belicia Rodriguez, Digital Equity in the U.S. Northeast, Puerto Rico, and the U.S. Virgin Islands, Federal Reserve Bank of New York, July 2024.
+
+3 Community Development, Making Missing Markets Initiative: Strategic Direction, Federal Reserve Bank of New York, November 2024.
+
+4 John C. Williams, The Jenga Tower of Prosperity: The Strong, Prosperous, And Resilient Communities Challenge (SPARCC), remarks at the SPARCC National Launch Event New York, New York, March 30, 2017. John C. Williams, Bridging the Skills Gap, remarks at the “Skilling the Gap: Building Local Talent for In-Demand Careers,” Columbia-Greene Community College, Hudson, New York, October 21, 2022.

@@ -1,0 +1,112 @@
+https://www.philadelphiafed.org/the-economy/regional-economics/240920-the-federal-reserve-its-more-than-just-interest-rates
+
+The Federal Reserve: It’s More Than Just Interest Rates
+
+Patrick T. Harker
+
+20 Sep 2024
+
+Lecture at Tulane University, A.B. Freeman School of Business | New Orleans, LA
+
+The following text is President Harker’s lecture delivered at Tulane University’s Freeman School of Business on Friday, September 20, 2024. President Harker may make additional comments beyond what is reflected in his prepared remarks.
+
+Thank you all for being here, it truly is a treat to be in the Big Easy.
+
+I must thank my old friend, and your current president, Mike Fitts, who helped set this event in motion. President Fitts and I go back a long way, when he was first Professor Fitts and then Dean Fitts at the University of Pennsylvania’s Carey School of Law and I was a professor and then dean of the Wharton School. His first year as president of Tulane overlapped with my last year as president of the University of Delaware.
+
+There are two things I must do at the outset.
+
+First, I must say the following: The views I express today are my own and do not necessarily reflect those of the Federal Reserve System or the Federal Open Market Committee (FOMC).
+
+That’s the standard Fed disclaimer. But I always boil it down to the following — when you’re recalling today’s discussion you can always say, “Pat said,” you cannot say “the Fed said.”
+
+And second, while we’re talking disclosure, I must admit that I’m not here in New Orleans only to speak with you today. My son and I already booked our trip to watch our Philadelphia Eagles take on the Saints at the Superdome. When I mentioned to President Fitts that I was coming down, he invited me to campus, and I readily accepted.
+
+So, while I recognize I may be in rival territory, I am certainly comforted by all the green I see on campus. I also think Riptide and Swoop the Eagle would be good friends.
+
+So don’t worry, I’ll be rooting for the Green Wave tomorrow against the Ragin’ Cajuns. And if anyone has a recommendation for a good place to watch the game, come see me after!
+
+Now, if you’ll allow, I have some prepared remarks, but then I do want to get out from behind this podium to get to your questions. I have titled this talk “It’s More Than Just Interest Rates.” And that’s on purpose.
+
+I want to hopefully break the views that some of you may hold of what the Federal Reserve is, what it does, and, importantly, what it can offer in terms of career opportunities.
+
+Certainly, if you are an economics major focusing on the minutiae of monetary policy and economic forecasting, there is a potential place for your talents in the Federal Reserve. The Fed is, after all, the largest employer of economists in the nation.
+
+But, that said, while I have been president and chief executive officer of the Philly Fed for nearly a decade, I am not an economist by training. I hold bachelor’s, master’s, and doctoral degrees in civil engineering. I actually received my master’s in economics because I needed to understand the economic underpinnings of a project I was working on about railroads.
+
+So, take it from me, you don’t need to be a Ph.D. economist to make it at the Fed — you just need to be driven by a desire to make our economy healthier, stronger, and more inclusive.
+
+As I hope to lay out, the Fed is diverse and dynamic — both in terms of our work and in our world views across the System. The Fed’s ability to build a more secure economic future that benefits all Americans requires attracting and retaining a diverse and dynamic set of individuals committed to service.
+
+We work to improve the economies of our Districts and constituencies, and even more importantly, improve the lives of the people we serve. And there are plenty of career opportunities across the Federal Reserve for those interested in doing just that.
+
+I would add here that we are committed to also being more diverse in our makeup. At the Philly Fed, we take enormous pride in having not just one of the best thought leadership teams around, but also one that is diverse in its makeup of backgrounds, experiences, and world views. To us, academic excellence is critical, however, lived experience can help make sure we’re asking the right questions.
+
+But perhaps I’m getting a bit ahead of myself. Let’s take a step back to what the Federal Reserve is and why it was created. The Federal Reserve System is only roughly 111 years old. It was created in 1913 to provide centralized economic and financial leadership to a nation whose largely decentralized financial system had failed to protect the economy against financial shocks, panics, scams, and scandals.
+
+The Federal Reserve System is made up of the Board of Governors in Washington, D.C., and 12 district banks — each with a specific geographic footprint, and each of which is an independently chartered institution. While in many areas these district banks work in partnership, each district bank also conducts its own research, oversees the operations of hundreds of banks, and undertakes projects across its own district.
+
+The Philadelphia Fed oversees the Third District, which includes central and eastern Pennsylvania, southern New Jersey, and Delaware. New Orleans is part of the Sixth District which is headquartered in Atlanta and covers much of the southern United States. There is a branch of the Atlanta Fed just a few miles down St. Charles Ave across from Lafayette Square.
+
+Over the past century plus, the Federal Reserve System has provided stability to financial markets, oversight to financial institutions, and confidence to the American people in both. This has required a pragmatic approach to our work. Yes, we live in a political world. But we do not, and cannot, allow our decisions to be made by politics.
+
+We operate in accordance with the two explicit tasks, known as the “dual mandate,” which were handed to us by Congress: one, to ensure stable prices for the American people, and two, to ensure maximum employment.
+
+That first pillar — stable prices — is easy to define. That’s inflation. That’s where the monetary policy tools available to us on the FOMC are our instruments, blunt instruments though they may be. Through the policy interest rate, as well as our own balance sheet of institutional assets, we can influence the push and pull of the economy to maintain price stability and meet our inflation target.
+
+It’s an overly simplistic model but think for a moment of the economy as a bus. If we sense the bus is going too fast, that is, and the economy is at risk of overheating, the FOMC can increase the policy rate, figuratively tapping “the brakes” on the economy to get inflation under control by cooling consumers’ appetites and firms’ investment plans. If we sense that the bus is traveling too slowly, the FOMC can give the economy a little more “gas” by setting policy rates low to stimulate consumption and investment. And if we sense that we’re traveling at an appropriate speed and we just need to keep things, we can choose to do nothing.
+
+Obviously, as with driving a bus, there are many subtleties to take into account. This is why we’ve remained so dependent on surveying all the available data and, importantly, taking a longer-look approach and not over- or under-reacting to one particular month or one particular dataset. We’ve had to watch the entire “road,” and we indeed had quite an “inflation bump” in the first quarter of this year. If we were to press too hard on either the gas or brakes, we could lose control of the bus. If we weren’t paying close attention to the road before us, we could hit a pothole, or worse.
+
+Over the past 30 months, I believe we’ve proven ourselves to have been pretty good drivers — and I’m from New Jersey so we think we know a thing or two about good driving! But please do not ask anyone from outside New Jersey about that.
+
+OK, so that covers one half of our mandate. Now, let’s get to the second: maximum employment. Here is where I believe the breadth of our efforts has an impact.
+
+What Does “Maximum Employment” Mean?
+I take a more nuanced view than many economists. To me, achieving maximum employment is not just about promoting economic conditions through which everyone who wants a job can get a job. Yes, job growth is important but, to me, so is promoting a climate in which work isn’t just something to be rewarded but something that is truly rewarding.
+Put another way, while the quantity of available jobs is important, so, too, is the quality of those jobs.
+So much of life is wrapped up in this part of the equation. Where to work. Where to live. How to travel to work. Whether to go to college. Whether consciously or not, we are making many of these decisions with our own individual concept of “maximum employment” in mind. This is what we try to understand at the Philly Fed.
+Recently, my colleagues at the Philly Fed, in partnership with the Atlanta Fed, created the Worker Voices Project, and spent more than a year speaking with workers in low-wage positions about the job choices they made coming out of the pandemic. What we learned from these conversations is that workers primarily wanted a job where they would be treated with respect and dignity.
+Along with our colleagues at the Cleveland Fed, in 2000 we created an Occupational Mobility Explorer, an online tool where workers in low-wage jobs can map their own potential journeys to higher-paying careers. A revamped version of the Explorer with more resources is going to be launched in the coming days.
+Research Beyond the Expected
+Philly Fed economic research goes far beyond monetary policy and into areas that can help us better understand the totality of life in our communities.
+Take just one example, transportation policy, which as a civil engineer is close to my heart. From measuring the non-monetary costs to communities involved in building highways, to ways in which the location of mass transit can impact the decisions made by commuters, our researchers are asking some really probing questions.
+At the Philadelphia Fed, we also conduct surveys of contacts throughout the Third District. Perhaps the most well-known are the Manufacturing Business Outlook Survey — or MBOS — and the Nonmanufacturing Business Outlook Survey of service industry contacts — or NBOS. Conducted monthly, each survey gives us a real-time assessment of future outlooks and sentiments within these sectors.
+The Philly Fed is also a leader in taking deep dives into consumer behavior through our Consumer Finance Institute (CFI).
+CFI researchers look at all levels of consumer activity, from credit cards to mortgages to rents to car loans. All of this helps create a fuller picture of the economy from a consumer standpoint.
+We are conducting groundbreaking research into the impacts of student loans and the resumption over the past year of student loan payments on the broader economy.
+Earlier in 2024 we launched the Labor, Income, Finances, and Expectations (LIFE) Survey to give us new and comprehensive perspectives on how people earn, spend, save, and invest their money while also allowing us a bigger window into how all of these factors affect the broader economy.
+One area which I am very excited about is the new Center for the REstoration of Economic Data, or CREED. Here, researchers are culling historical archives and bringing previously forgotten-to-time data back into the research fold where it can now help us answer the question of “How did we get here?” Their work includes:
+Racial Covenants research, which has helped us understand how the Philadelphia of today — the poorest large city in America and one of our nation’s most racially segregated — came to be and aims to help us undo that harm by uncovering the relationship between historical housing discrimination and today’s racial wealth gap.
+Historical Housing Prices Project, which has compiled data from more than 100 years of newspaper real estate listings to give us a more complete picture of housing markets, both rental and resale, across multiple generations.
+Direct Community Outreach
+As you can imagine, I’m swimming in so-called “hard data” — official reports on inflation, unemployment, and so on. But I also place significant importance on “soft data” — the real-time experiences and observations that we at the Philadelphia Fed get by talking to contacts and everyday residents.
+Balancing hard and soft data allows me to create a more dynamic approach to the issues. And it can sometimes lead me to change my mind on our course when it comes to monetary policy.
+Our Community Development and Regional Outreach Department (CDRO) helps build partnerships and kick-start local economic initiatives in cities throughout the Third District. Every year, I travel with my colleagues to these partners to check in, see their progress on issues such as affordable housing and small business development, and to help these communities plan future next steps to keep their momentum.
+The Anchor Economy Initiative is measuring the economic impacts that hospitals and institutions of higher education, or “eds and meds,” have on their home regions. For the first time, the Initiative captured these impacts in 524 statistical areas across the nation.
+In New Orleans, the Anchor Economy Initiative calculated that eds and meds institutions impact more than 10 percent of all jobs, more than 7 percent of the region’s income, and more than 9 percent of its GDP. This is captured in a Reliance Index, of which New Orleans registers 1.16 — meaning this region is slightly more reliant on eds and meds than the national average.1
+The Anchor Economy Initiative is tying together individual institutional impacts to show how important they are collectively to regions to spur actionable partnerships.
+By putting this impact into perspective, it can allow us to engage more deeply with these institutions to tackle long-standing economic and social issues in the communities we serve.
+Supervision
+The Philly Fed oversees holding companies and state-chartered member banks throughout the Third District, just as the other 11 regional banks oversee the financial institutions within their districts.
+Our goal is to promote the safety and soundness of our institutions, ensure customers are treated fairly and their deposits are kept safely, and serve as a resource for our banks.
+Our examiners maintain strong relationships throughout the financial sector.
+We offer leadership, support, and expertise on matters concerning supervision, compliance, financial reporting, and credit risk management to the financial services industry.
+We do act swiftly when needed; however, our overall goal is not to respond to a financial emergency but to prevent one from happening in the first place.
+A Leader in Information Technology
+As a Fed president, I don’t just lead the Philadelphia Bank; I am also active in the governance structure that guides the Federal Reserve System. I currently serve as chair of the leadership committee that guides the strategic direction for System-wide information technology (IT) use and development. Circling back to my earlier comments on career direction — my engineering background has served me well in this capacity.
+IT at the Fed involves much more than the computers used by our personnel; it touches deep on the way funds move throughout our economy.
+Last summer, for example, we launched the FedNow® Service, a new system for instant payments.
+We are engaged in long looks at the future of artificial intelligence (AI) not only for its potential impacts on the banking sector, but also for our economy as a whole.
+We are positioning ourselves as thought leaders in the emerging area of quantum computing, or QC, which holds the potential for completely revolutionizing security and problem-solving methodologies.
+Technology systems are going to play an increasingly larger role in the future of the financial sector. We are putting together the teams needed to ensure that the sector’s future is safe and secure so that customers — and the global economy — can have faith in it.
+Conclusion
+So, as you can see, the Federal Reserve is way more than just interest rates. You don’t need to have a Ph.D. in economics to consider a career at the Federal Reserve — just take me as an example!
+
+As I noted, I’ve done this job for a little more than nine years now. Next year, I will hit the Fed’s mandatory retirement age and have to leave this post. But what a way to go — to know that the decisions I have had to make on the FOMC, and the work done by countless dedicated individuals at the Philadelphia Fed and across the Federal Reserve System, have left an indelible and, I hope, positive mark on our nation’s economic future.
+
+I hope my remarks have sparked an interest in the Federal Reserve as well as the personal decisions you will make regarding your own economic futures.
+
+Now, I think I’ve gone on long enough and given you a taste of life at the Fed. Now I want to hear what’s been on your minds, and I am eager to start this Q&A.
+
+Federal Reserve Bank of Philadelphia. Anchor Economy Dashboard, (2019). https://www.philadelphiafed.org/surveys-and-data/community-development-data/anchor-economy-dashboard/.

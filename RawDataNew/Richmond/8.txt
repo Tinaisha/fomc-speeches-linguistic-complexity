@@ -1,0 +1,57 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20240103
+
+Heading for a Soft Landing?
+
+Jan. 3, 2024
+
+Tom Barkin
+
+Raleigh Chamber of Commerce: Launch 2024, Martin Marietta Center for the Performing Arts, Raleigh, N.C.
+
+Highlights:
+A soft landing is increasingly conceivable but in no way inevitable.
+I see four risks. The U.S. economy could run out of fuel. We could experience unexpected turbulence. Inflation could level off at a cruising altitude higher than our 2 percent target. And the landing could be delayed as the U.S. economy continues to defy expectations.
+Is inflation continuing its descent and is the broader economy continuing to fly smoothly? Conviction on both questions will determine the pace and timing of any changes in rates. There’s no autopilot. The data that come in this year will matter.
+Thanks for that nice introduction. I really enjoy kicking off the new year with an audience like this. It gives me an excuse to reflect on the prior year and a reason to lay out my perspective on the year ahead. So, that’s what I’ll try to do today. I caution these are my thoughts alone and not those of anyone else in the Federal Reserve System. I look forward to your questions and input.
+
+You know the big picture. Inflation spiked coming out of the pandemic, and if there is one thing we’ve relearned in the last few years, it is that everybody hates inflation. High inflation creates uncertainty. As prices rise unevenly, it becomes unclear when to spend, when to save or where to invest. Inflation is exhausting. It takes effort to shop around for better prices or to handle complaints from unhappy customers. And inflation feels unfair — the wage increase you earned feels arbitrarily taken away at the gas pump.
+
+The Fed is the agency charged with keeping inflation in line, so we stepped in aggressively. We raised the federal funds rate over 5 percentage points in an 18-month period. We shrunk our balance sheet by over a trillion dollars. And we made crystal clear our resolve to do what’s necessary to return inflation to our 2 percent target.
+
+We’re making real progress. Twelve-month PCE inflation is down to 2.6 percent. Core is at 3.2 percent. Six-month core inflation is even lower, now just below our target at 1.9 percent. Contrary to most predictions, the economy has remained healthy as inflation has fallen. And that’s despite a number of shocks that could have proved destabilizing, like the bank turmoil in March or the escalation of the Gaza conflict in October. GDP growth in 2023 is estimated to be around 2.5 percent. The unemployment rate remains at a historically low 3.7 percent. Frankly, if early last year you had offered me 2.6 percent inflation and 3.7 percent unemployment by year end, I would have taken it.
+
+For sure, we got some help. Consumer demand has remained resilient, buoyed by excess savings, strong employment, high asset prices and continued elevated demand for experiences post-lockdown. Business investment has been supported by an AI-fueled data center boom and bills such as the CHIPS Act. The painful post-pandemic labor shortage made employers reluctant to let workers go. And the supply side recovered nicely. Supply chain challenges eased. Domestic oil production rebounded. Prime-age labor force participation rose. And immigration stepped back up.
+
+Now, everyone is talking about the potential for a soft landing, where inflation completes its journey back to normal levels while the economy stays healthy. And you can see the case for that. Demand, employment and inflation all surged but now seem to be on a path back toward normal. GDP growth, which was 5.8 percent in 2021, is now estimated to be 2.5 percent, closing in on its trend rate of just under 2 percent. Three-month average job growth, which hit 708,000 in 2021, is now 204,000, moving toward its breakeven pace of roughly 100,000. And inflation, which was 7.1 percent in June 2022, is now at 2.6 percent, coming into range of our 2 percent target.
+
+Worth Watching: Risks to a Soft Landing
+
+The airport is on the horizon. But landing a plane isn’t easy, especially when the outlook is foggy, and headwinds and tailwinds can affect your course. It’s easy to oversteer and do too much or understeer and do too little. I see four big flight risks.
+
+First, the U.S. economy could run out of fuel. Last year, we raised rates to put the brakes on the economy, but we didn’t end up losing as much altitude as we might have thought. Credit conditions tightened but didn’t make the economy stall.
+
+However, it’s easy to imagine the net impact of all this tightening will eventually hit the economy harder than it has to date. As an example, I saw data suggesting that corporate interest payments as a percent of revenue and household interest payments as a percent of disposable personal income have both now only gotten back to 2019 levels. These benefits from pandemic-era refinancing and debt repayment won’t last long at current interest rates. If consumers and businesses pull back, they could push the economy into a hard landing.
+
+Second, we could experience unexpected turbulence. By nature, we can’t predict most shocks, when they hit or how hard. The economy is always vulnerable to geopolitical events, a cyber shutdown, unanticipated spillovers from troubled sectors or banks pulling back in force. Such shocks could bring inflation down but at a potentially large cost.
+
+Third, we could be approaching the wrong airport. The inflation numbers have come down, but much of the drop has been the partial reversal of pandemic-era goods price increases as the economy has normalized. Shelter and services inflation remain higher than historical levels, presenting a risk that inflation levels off at a cruising altitude higher than our 2 percent target. As I talk to businesses, I still hear too many planning above-normal price increases. After decades without pricing power, businesses, especially those facing margin pressure, won’t want to back down from raising prices until their customers or competitors force their hands. If that’s the case, I fear more will have to happen on the demand side, whether organically or through Fed action, to convince price-setters that the inflation era is over.
+
+You may wonder whether a different destination — say 3 percent inflation — would be acceptable. The answer is no. Credibility is the Fed’s key asset. Changing the target before reaching it risks that credibility. You can’t expect people to keep boarding planes if they can’t trust where the planes are going.
+
+Finally, the landing could be delayed. The U.S. economy continues to defy expectations. Consumer spending accounts for over 68 percent of the economy, and it is hard to make a case for a pullback so long as equity values are high and the labor market remains as tight as it is. Longer-term rates have dropped recently, which could stimulate demand in interest-sensitive sectors like housing. While you might think this would be a first-class problem, strong demand isn’t the solution to above-target inflation. That’s why the potential for additional rate hikes remains on the table.
+
+So, a soft landing is increasingly conceivable but in no way inevitable.
+
+If we do see the economy weaken, it’s worth remembering that not all slowdowns are created equal. We’ve been scarred by our memories of the Great Recession and the Volcker Recession, but they were particularly long and deep.
+
+As the airlines folks might say, this time there’s foam on the runway.
+
+A slowdown could bring less dislocation in the labor market. Businesses tell me that hiring has become easier, but no one is eager to let go the front-line workers they fought so hard to find. Latent demand might mean a slowdown would have less of an impact on spending, as customers who had to put off purchases due to price and supply constraints finally have the opportunity to buy. And a slowdown wouldn’t catch anyone by surprise, as businesses have been planning for a downturn for nearly two years. They slowed hiring, streamlined costs, managed inventory levels, and deferred investment. Banks cut back on marginal credit. If a slowdown does come, the economy should find itself less vulnerable.
+
+The FOMC’s December meeting got a lot of attention. We acknowledged the progress on inflation and explicitly reaffirmed our willingness to hike if necessary. We also submitted our quarterly forecasts, which showed that FOMC participants expect inflation to settle without additional hikes. In that context — in which our forecasts are right and inflation does in fact continue to settle — most of us forecasted rate normalization to begin sometime this year. But the range of estimates was pretty wide, from no cuts to as many as six.
+
+I would caution you to focus less on the rate path and more on the flight path — is inflation continuing its descent and is the broader economy continuing to fly smoothly? Conviction on both questions will determine the pace and timing of any changes in rates.
+
+To close, I will note that there’s no autopilot. And the data that come in this year will matter. So, I can’t give more guidance from the flight deck. Forecasting is difficult, and conditions are ever evolving. As they do, so too will our approach. So, buckle up. That’s the proper safety protocol even if you expect a soft landing.
+
+Thanks, and I look forward to your questions.

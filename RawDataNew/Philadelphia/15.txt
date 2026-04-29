@@ -1,0 +1,143 @@
+https://www.philadelphiafed.org/the-economy/monetary-policy/240206-an-evening-with-patrick-harker
+
+An Evening with Patrick Harker
+
+Patrick T. Harker
+
+06 Feb 2024
+
+Rowan Institute for Public Policy & Citizenship (RIPPAC), Rowan University | Glassboro, NJ
+
+Good evening, everyone.
+
+First of all, thank you, Rosy, for that introduction. It is not only a treat to have a student introduce me, but an economics student, at that!
+
+I must note that this is my first public engagement of 2024. As a native of South Jersey — I am Gloucester City born and raised — it is an honor to open my year here with all of you. So, I must thank Dr. Ben Dworkin for the invitation to be here.
+
+Institutes such as the Rowan Institute for Public Policy & Citizenship are not just vital for elevating our civic dialogue today, but they are critical for ensuring that the next generation of leaders — the students in this room — have the tools to ensure open, honest, and civil dialogue about tomorrow’s opportunities and challenges.
+
+I also must recognize my friend and former colleague among college presidents, Dr. Ali Houshmand. I was president of the University of Delaware when Dr. Houshmand took the reins here at Rowan and remain impressed by everything he and this university are accomplishing.
+
+The Third Federal Reserve District, while the smallest of the 12 Districts, is home to many of the nation’s leading institutions of higher education — Rowan University definitely included. The Third District punches well above its weight.
+
+Allow me to dispense with a little bit of business right away, and that is the standard Fed disclaimer: The views I express tonight are my own and do not necessarily represent those of anyone else in the Federal Reserve System or my colleagues on the Federal Open Market Committee (FOMC).
+
+As a former university professor, dean, and president, I am approaching this evening as “Fed 101” with a little history of the Federal Reserve System, insight into what we at the Federal Reserve Bank of Philadelphia do, and how I see our work impacting the future regional and national economies.
+
+And for the students here who are considering their own future careers and are not necessarily economics majors, I hope you may hear something tonight — whether in these remarks or during our discussion — through which you can imagine yourself serving our nation and economy at the Fed.
+
+I recognize that for some here the Fed may seem almost like Punxsutawney Phil, where we pop up every six weeks or so to announce a decision on interest rates. But as I hope to show you, while this may be what gets the Fed more headlines than anything, we are much more than just interest rates.
+
+To that, while I recognize that last week’s vote of the rate-setting Federal Open Market Committee — the FOMC — made headlines, I am not going to dive deep into the minutiae of monetary policy in these remarks. That’s for two reasons. One, I don’t want to put anyone to sleep. The second reason is that we are going to have plenty of time for our Q&A.
+
+And, truth be told, while I certainly enjoy speaking to you, I would much rather get into those questions submitted to Ben and have a conversation with you.
+
+So, first, I do want to give a brief history of the Federal Reserve. To understand how the Fed works today, one must first understand how it came into being.
+
+A Brief History of the Federal Reserve
+For much of the first 125 years of our nation’s economic, financial, and political history, the banking sector remained independent and largely unregulated by any central authority. The first two attempts at creating something we might call a central bank — creatively named the First and Second Banks of the United States, respectively — lasted a total of 40 years between 1791 and 1836.
+
+Standing in the center of the national banking effort was someone whose name is familiar to everyone in this room: Alexander Hamilton, our first Secretary of the Treasury and future Broadway sensation. Hamilton believed that the economic future of the United States hinged upon having a sound and stable financial system — and creating such a system, he argued, required a national bank.
+
+While both banks of the United States were the national government’s fiscal agents for their time, they were nothing like what we have with the Federal Reserve today. They were competitor institutions to state and local banks. And neither could set national monetary policy in any true sense. They printed and distributed their own currency — backed by a gold reserve — and could purchase and hold notes issued by state and local banks as a means of controlling the amount of currency in circulation, but that was the extent of it.
+
+But little matter, as neither bank lasted beyond its initial charter. The national bank experiment in the United States seemed over by the time the Second Bank’s congressional charter expired in 1836, and it folded for good when its privatized operations ceased in 1841.
+
+For the next 80 years, the American financial system was underpinned by state-chartered banks and, later during and after the Civil War, nationally chartered banks. But those underpinnings were weak. Absent a central financial or economic authority, the nation’s financial system lurched through a series of panics as banks collapsed under the weight of speculative investments, loan defaults and bankruptcies, or an inability to repay their customers’ deposits.
+
+After a particularly stressing panic in 1907 — a financial storm matched only by the 2008 banking crisis and exceeded only by the Great Depression — the need for a new system of central banking became evident. Out of that experience came the Federal Reserve System, itself a truly American invention.
+
+The Federal Reserve System is, by design, one that can best be described as an independent and decentralized central bank. What do I mean by that? Only the Board of Governors of the Federal Reserve System can be considered anything close to quote-unquote government. They are appointed by the president of the United States with the advice and consent of the Senate.
+
+How the Fed Works
+But the operations of the Fed are largely untethered to the fiscal operations of the United States government, which remain the purview of the president and Congress. And while the Fed operates in the fiscal and economic conditions fostered by the decisions of those policymakers, we do not step explicitly into the political arena.
+
+Additionally, for me and my 11 colleagues at the District level, our banks are independently chartered institutions. And while the Board of Governors does have oversight over the operations of the 12 District banks, as president and CEO of the Federal Reserve Bank of Philadelphia, I do not answer directly to them in most operational matters but rather to the Philadelphia Fed’s own board of directors.
+
+Yet, even while decentralized, the Federal Reserve System has been granted strong central authority. Unlike the nation’s first two attempts at protocentral banking, we do hold a direct responsibility for the nation’s monetary policy. And unlike the First and Second Banks of the United States, we are not a commercial bank. You cannot walk into the Philadelphia Fed and open a personal account. We are a bank for banks.
+
+In Philadelphia, for example, we hold the reserves of the more than 100 regional and local member banks across Delaware, southern New Jersey, and eastern and central Pennsylvania. We clear their payments, and we supervise their operations and ensure their liquidity to instill public confidence in their operation and in our overall financial system.
+
+The Fed’s Dual Mandate
+But even more central to our mission, the Federal Reserve System works under a dual mandate given to us by Congress to ensure price stability and maximum employment across the economy.
+
+What does price stability mean? As monetary policymakers, it means targeting inflation at an annual rate of 2 percent as measured by the price index for personal consumption expenditures — more on that later. And this is the task we are currently focused on — getting inflation back down to 2 percent.
+
+As for maximum employment, I take a perhaps more nuanced view than some economists. To me, achieving maximum employment is not just about promoting economic conditions through which everyone who wants a job can get one. Yes, job growth is important, but, to me, maximum employment also means promoting a climate in which work isn’t just something to be rewarded but something that is truly rewarding. Put another way, while the quantity of available jobs is important, so, too, is the quality of those jobs.
+
+The main instrument for achieving our dual mandate is, as you can guess, the policy interest rate. Or the “target range for the effective federal funds rate,” if you want the full word salad.
+
+Monetary policy works, at a very high level, via demand management. What does that mean? The FOMC will set policy rates low if it believes that it is necessary to give the economy a little more gas by stimulating consumption and investment. If, instead, the FOMC needs to tamp down on an overheated economy to get inflation under control, it can set policy rates high, cooling consumers’ appetites and firms’ investment plans.
+
+There are many subtleties to monetary policy, so sometimes the best action is to do nothing. If the economy’s current pace is on course to achieve the Fed’s dual mandate, we can let monetary policy do its work and see through the vagaries of the data.
+
+Eight times a year, the presidents of all 12 Reserve Banks and the Board of Governors meet in Washington, D.C., to review economic data, discuss what is going on in our respective Districts, and to set the policy rate for the ensuing intermeeting period. That actual rate-setting vote is undertaken by the FOMC, which is composed of the Fed Chair and six other members of the Board of Governors, the president of the New York Fed who has a permanent seat, and four other Bank presidents who get a vote on the FOMC in a yearly rotation.
+
+The Philadelphia Fed is in a rotation with the Banks in Boston and Richmond. My last turn was in 2023, so while I continue to participate in our meetings this year, I will not have a vote on the FOMC. But to be clear, the voices of all 19 members around the table are heard equally.
+
+As a quick aside, my 10-year term-limited stint as president and CEO of the Philadelphia Fed will come to a close early next summer. This means I will have spent three full rotations as a voting member of the FOMC: in 2017, 2020, and 2023. Each turn is important, but looking at just those last two, it means I had a vote during incredibly important years: In 2020, as we worked to insulate the economy as the COVID-19 pandemic took hold and again last year as we wrestled to bring inflation to heel while not simultaneously plunging the economy into recession.
+
+Current View on the Economy
+The FOMC’s most recent decision to hold the policy rate steady is one I support. The data point to continued disinflation, to labor markets coming into better balance, and to resilient consumer spending — three elements necessary for us to stick to the soft landing we remain optimistic to achieve.
+
+And this gets me to the next section of my remarks: how I land at my decisions.
+
+Certainly, monetary policy and economics in general is a science based on numbers and data. And we are not lacking in economic data. For example, when it comes to inflation, we have not one but two monthly indicators on inflation. The first, and probably more widely known, is the Consumer Price Index, or CPI. The other, which is growing in stature, is the aforementioned Personal Consumption Expenditure price index, or PCE index.
+
+As I alluded to earlier, we look more closely at PCE, as it better captures how consumers are reacting to changing prices, perhaps by substituting one good or service for another. This type of information is invaluable in our deliberations, especially in conditions we have seen recently as the economy, even in light of elevated inflation, remained strong on the shoulders of sustained consumer spending.
+
+The PCE data released two Fridays ago highlight the ongoing progress in bringing inflation back to target. The December reading of core inflation that strips out volatile food and energy costs was 2.9 percent year over year from December 2022. That is down 0.3 percent from November and marked the first time since 2021 that core PCE had dipped under 3 percent annual growth. Indeed, one year ago, annual core PCE inflation was 4.9 percent. So, while inflation does remain above target, real progress is being made.
+
+The Dynamic Balance of Hard and Soft Data
+While essential to our jobs, these hard data also come with limitations, the most glaring of which is that each data set is, almost by definition, backward looking. Data are lagging indicators. For example, it is well recognized that the CPI has long been several months behind, if not longer, in capturing on-the-ground changes in rents, so much so that a new measure of rents is being brought online to hopefully close this lag.
+
+So, I also place a significant importance on soft data — the real-time experiences and observations that I get by talking to contacts throughout the Third District. I recently wrote about this in an essay on the Philadelphia Fed website, which I would encourage you to read.
+
+Balancing hard and soft data allows me to create a more dynamic approach to the issues. And it can give me the reasoning I need to even change my course.
+
+About two years ago, I was considered one of the Federal Reserve’s hawks, a supporter of our program of quickly increasing the policy rate to pull back on the economy’s reins to slow inflation.
+
+By last spring, even as the FOMC continued the rate run-up, and even as the hard data showed inflation remaining stubbornly well above target, I began to hear from my contacts that things were slowing more than the numbers were telling us — and that while monetary tightening was having its intended effect, it was also having a potential downside impact on their businesses and operations.
+
+From our community bank partners especially, I heard fears that some small business borrowers could be in precarious positions as their loans matured and rolled over to new lines at higher rates that their business models may not be able to sustain.
+
+At the Philadelphia Fed, we also conduct surveys of contacts throughout the Third District. Perhaps the most well-known are the Manufacturing Business Outlook Survey — or MBOS — and the Nonmanufacturing Business Outlook Survey of service industry contacts — or NBOS. Each gives us a more real-time assessment of future outlooks and sentiments within these sectors.
+
+The soft data were telling me our economy needed time to breathe and catch up. And in time, this became evident in the hard data. So, I adjusted my position accordingly. I was then considered a dove as one of the first members of the FOMC to voice my opinion that we had reached the time for us to hold rates steady.
+
+Although, let’s be honest, I’m not a hawk or a dove. I’m a South Jersey boy who grew up playing football — I’ll always be an Eagle!
+
+Now, was I wrong in my prior support for and votes to increase the policy rate? No. We needed to act to tame inflation. And was I wrong in my early support for holding the rate steady? Also no, because it became evident to me that our prior actions were having their intended effect.
+
+The economy is a very dynamic instrument, and it requires a balanced and dynamic approach. And it is this approach that, I believe, has put us on the path to a soft landing. Now certainly we haven’t touched down, and we’re going to have to keep our seatbelts on, but with inflation continuing to fall back to our 2 percent target, with employment remaining strong, and with consumer sentiment looking up, the runway at our destination is in sight.
+
+This dynamic aspect is the part of the job that I enjoy the most, perhaps because I am not a classically trained economist. By education, I’m actually a Ph.D. engineer moonlighting as an economist. No, really. In fact, the reason why I got into economics was to help solve an engineering problem. I was working on a federal Department of Energy grant back in the 1980s modeling the transport of coal by rail.
+
+I needed to better understand the economic side of these transports for my modeling, so I went back to school and eventually came out with a second master’s degree.
+
+Regardless, if there’s one thing you know about engineers, it’s that we’re always looking for a way to make systems run more efficiently. For me, this includes our economy and everything else that the economy touches, which happens to be just about everything. And this is one reason why I love the work we do at the Philadelphia Fed.
+
+The Philadelphia Fed’s Ongoing Work
+One project in which we are currently engaged is the Anchor Economy Initiative. Through this, our researchers are taking a deep dive into the economic impacts that hospitals and institutions of higher education have on their home regions and, for the first time, have captured these impacts in 524 statistical areas across the nation.
+
+This is work that matters even here at Rowan — after all, this is a research university with a medical school. Because of our proximity tonight to Philadelphia, and the inclusion of Gloucester County in the Philadelphia-Camden-Wilmington statistical area, we can see the additive impact this institution has on the regional economy. In this statistical area alone, anchor institutions directly and indirectly impact the employment of more than 495,000 residents, provide wages totaling nearly $34 billion, and add more than $50 billion in overall economic value.
+
+And toward Atlantic City, the anchor economy accounts for 8 percent of regional employment, 6.5 percent of its income, and nearly 9 percent of its GDP.
+
+No matter how you slice it, these are big numbers.
+
+One reason I have a great amount of passion for the Anchor Economy Initiative is because, by putting this impact into perspective, it can allow us to engage more deeply with these institutions to tackle long-standing economic and social issues in the communities we all serve.
+
+As a former college president, I know that the institution I served — the University of Delaware — wasn’t an island unto its own. I knew it had an outsized role in the economic and social fabric that reached far beyond its Newark campus and into three adjoining states, given both the university’s location and Delaware’s size. I may now be nearly 10 years removed from the president’s office, but I'm increasingly aware of just how big this role is.
+
+And I hope other leaders across the anchor economy space — whether they be higher-education leaders or health-care leaders — can not only see how much of an off-campus impact they have, too, but can imagine how their future impact can be multiplied by working with other institutions in their own neighborhoods.
+
+And beyond that, our Community Development and Regional Outreach Department helps build partnerships and kick-start local economic initiatives in cities throughout the Third District. Every year, I and many of my colleagues travel to these communities to check in, see their progress on issues as varied as affordable housing and small business development, and plan future next steps. You may have read about the trip Fed Chair Jay Powell made to York, Pennsylvania, with me this past October to tour small businesses there and sit down with local business leaders and workers.
+
+Whether I wear my economist or engineer hat, I think this is pretty cool stuff. But it also exemplifies the type of work we do every day at the Philadelphia Fed to be an active and engaged partner in our region’s life and future.
+
+And just as in my former life in academia, I know the Federal Reserve Bank of Philadelphia isn’t an island unto itself, and our work cannot be limited to the financial sector and monetary policy alone. We know the impact that the decisions made by the Fed have on our constituent communities. My goal — our goal — must be for the Philadelphia Fed to be seen as an active partner and participant in the economic life and futures of these communities.
+
+And the best way to do that is to find that balance between hard data and soft data and to always be eager to listen and be open to discussion.
+
+So, on that note, I am eager to open a discussion with all of you. So, allow me to conclude my set remarks by once again thanking Ben, RIPPAC, and Rowan University for the opportunity to join you all this evening. Now, let’s get to your questions.

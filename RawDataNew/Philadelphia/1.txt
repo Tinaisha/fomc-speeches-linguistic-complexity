@@ -1,0 +1,137 @@
+https://www.philadelphiafed.org/the-economy/monetary-policy/250605-economic-outlook-and-final-thoughts
+
+Economic Outlook and Final Thoughts
+
+Patrick T. Harker
+
+05 Jun 2025
+
+Philadelphia Council for Business Economics | Philadelphia, PA
+
+Good afternoon, everyone, and once again welcome to the Federal Reserve Bank of Philadelphia.
+
+Thanks to Paul for that introduction. As many of you know, Paul leads the Philly Fed’s Beige Book effort, speaking with contacts and analyzing a host of regional economic data. He is also a multiple Beigies winner and, he may not like that I share this, is also the Federal Reserve System’s foremost expert in the regional impact of Taylor Swift. In every case, Paul, thank you for all you do.
+
+And I also give my thanks to the Philadelphia Council for Business Economics (PCBE) and, more broadly, the National Association for Business Economics (NABE), for their strong standing relationship with the Philly Fed. We are aligned not just in providing a location here at the Bank for regular meetings, but also in our mutual goal of ensuring an open forum for the timely discussion of economic issues impacting both the city and region. We all look forward to welcoming NABE’s annual meeting to Philadelphia this fall.
+
+I suspect you were drawn here this afternoon more by the lunch than to hear me speak on the economic outlook. Nonetheless, I will do my best to make our time together worthwhile.
+
+Today also marks my last speaking engagement as president and CEO of the Philadelphia Fed before my retirement at the end of the month. Perhaps that’s what’s led to today’s larger-than-usual turnout — though I’d still put my money on the lunch.
+
+So, in addition to my economic outlook, I will also give some final reflections as my time here at the Philly Fed comes to a close. However, I will say that even though I am leaving this position, I am not leaving the public policy arena altogether. I have forged many friendships and working relationships throughout my time here, and there are still many important issues to contemplate.
+
+I must say how pleased I am in the choice of Anna Paulson to succeed me here as president and CEO of the Philly Fed. Anna will be bringing a deep well of research acumen and perspectives honed across a more than two-decade career at the Chicago Fed. Anna also has family roots in our region and I am confident that she’ll be a great voice for the Third District.
+
+But before I get too far off track, allow me to come back to my economic outlook — and with that, the views I am about to express are my own and do not necessarily reflect those of anyone else in the Federal Reserve System or my colleagues on the Federal Open Market Committee (FOMC).
+
+I will begin with an overall statement that, generally, America’s economy remains resilient. I do not see any dangerous cracks in the foundation. But there are stressors on this foundation.
+
+Like many, I have no choice but to use and reuse the term “uncertainty” to describe the overall outlook. But even in a time of uncertainty, we remain as certain and deliberate as ever in our approach. This is why I am supportive of the recent decisions from the FOMC to keep the Fed’s policy interest rate steady.
+
+Take inflation, for example. Inflation continues to be the front-of-mind stressor for countless American households and businesses. To be sure, we have seen great progress in getting inflation nearer to our goal of 2 percent, as measured by the Personal Consumption Expenditures index, or PCE, year-over-year. Yes, disinflation has proceeded only slowly, and that in itself has been reason enough to hold steady, be deliberate in our approach, and allow monetary policy to continue to work.
+
+A deliberate approach is as important as ever given that we do not yet have a clear picture of the ultimate impact on inflation and employment of the changing economic policies and priorities in Washington. Top of mind are the potential impacts of tariff policy. Will any tariff-related inflation be short-lived? Will the policies and the uncertainty associated with them put downward pressure on employment?
+
+We cannot say. First, because we don’t know what the final tariff regime will be or when it may take effect. And second, because those effects are uncertain themselves — with a marked risk that they present the FOMC with a difficult choice.
+
+Let me elaborate. It is far from certain, but it is entirely possible that the Committee will be facing both upward pressures on prices and rising unemployment. Once there is a trade-off between our mandates, the direction of travel is in question. That is quite different from, say, the last tightening cycle. Many have asked whether the Fed was late to pivot — whether it proceeded too fast or too slow. I was a voter at the FOMC in 2023, and we were asking ourselves whether we had done enough already. And I was among the first to argue that the tightening cycle should be concluded.
+
+But nobody questioned that we had to tighten.
+
+Whenever price stability and maximum employment are at odds, a mistake could send policy the wrong way. To go the right way, we need to know more about the magnitude and persistence of the effects on inflation and employment. Which, effectively, means we have to wait and see.
+
+For now, hard data have not shown any concerning effects. However, I have been watching whether consumer expectations over inflation have been reignited. I approach this with great deliberation, as well, as we have learned that we cannot easily dismiss consumer “vibes.”
+
+A report from my colleagues at the New York Fed highlighted that consumer expectations for inflation remain relatively unchanged over the short term, are elevated over the medium term, and decreasing for the long term. Beyond that, the University of Michigan’s monthly consumer survey has seen consumer sentiment drop by roughly 30 percent since January. On top of this, respondents’ inflation expectations also increased.
+
+And in the Philly Fed’s latest Labor, Income, Finances, and Expectations, or LIFE Survey, for April of 2025, respondents’ net sentiment about their individual outlooks plummeted from the January 2025 report to its lowest point since the survey began in January 2023.
+
+For those of us looking for signs of clarity, the first quarter GDP data didn’t do much to help. Consumer spending remained steady despite inflation concerns, but how much of that was from folks making purchases now to head off any expectation of tariff price increases remains to be determined.
+
+On the labor front, the unemployment rate and monthly job growth have remained generally stable. It strongly appears that, overall, workers who are looking for jobs are being paired with employers who are looking for workers.
+
+However, I take a more cautious view of the Philadelphia region given our reliance upon the higher education and healthcare sectors for employment. Higher ed, especially, is facing headwinds from both the potential loss of grant dollars to our larger research universities and demographic shifts which have put the futures of some smaller colleges in doubt. These institutions are significant employers in their respective communities. But keep in mind, too, the impact beyond the campus walls. Countless local small businesses depend upon the people who work and study at those institutions.
+
+All of this leads me to apologize to you if you came here looking for a concrete outlook. I wish I could leave on such a note! The data I am receiving — both hard data and soft data — could allow me to present multiple outlooks. But as I have said before, we must work within that which we know is happening, not what we wish to see happen. Only time can provide the necessary clarity.
+
+Now, while the policy rate gets the headlines, there is also the normalization of the Fed’s balance sheet running mostly in the background. And this is as it should be: The FOMC views the target range for the effective federal funds rate as its primary means of adjusting the stance of monetary policy (find here a comprehensive resource on the FOMC’s policy normalization communications). When rates are constrained by the zero lower bound, then the Committee can choose to conduct Large Scale Asset Purchases (LSAPs) — as it did at the onset of the pandemic.
+
+Once LSAPs are ended, the Committee wishes to return the size of the balance sheet to more “normal” levels — among other reasons, to make sure there is “policy space” if LSAPs were to be needed again. As I said back in 2017, without normalization, “further asset purchases may prove less effective, or perhaps even more difficult to execute, with a large balance sheet still in place.”
+
+Since May 2022, normalization has been proceeding well and according to plan. We started fast, and by now the Fed balance sheet has shed more than $2 trillion in assets. We slowed down the pace twice, first in May of last year and then again this past March. We continue to proceed cautiously and, in as much as possible, in a gradual and predictable manner.
+
+My involvement in balance sheet normalization began pretty much on day one and, it would seem, will continue pretty much until my last day. So, allow me to spend a bit of time discussing why we normalize the way we do while I take a walk down memory lane. Why is it when the FOMC buys assets we talk about “shock and awe,” but when it is time to shed those assets, it is slow, gradual, and predictable — or, as I quipped, as boring as watching paint dry.
+
+First, the Committee wants normalization to run smoothly and, in the background, minimizing the effects it may have on the monetary stance — remember, away from the zero lower bound, the monetary stance is determined by the policy rate and communications associated with it.
+
+Gradual, predictable, and boring are designed to reduce uncertainty for the public, as much as possible. Financial institutions and markets can be prepared, reducing the risk of financial disruptions or oversized responses in rates. Indeed, perhaps in an ideal world, whenever LSAPs are announced, normalization expectations are already accurately formed and priced in. If then normalization can stick to the plan, it would have no further ongoing monetary impact.
+
+But what we want often encounters what we do not know.
+
+The fundamental challenge to normalization is this: there is much we do not know about what is “normal.” We found that out the hard way in 2019. I will get back to this but, before I do, a bit of balance sheet arithmetic.
+
+The Fed balance sheet is very special in many ways, but like every other balance sheet since the Medici, assets equal liabilities. So, as we reduce assets, we reduce liabilities. More importantly, we reduce reserves available to depository institutions.
+
+Normalization aims to provide ample reserves, which you may have heard described as the flat part of the demand curve for reserves. Things do look very different on either side of ample reserves. More reserves than ample, sometimes called “abundant” reserves, banks have no value for any further balances and there are no effects on rates. Less reserves than ample, and now they are scarce, banks are willing to pay a premium for reserves, pushing up money market rates and eventually driving the effective federal funds rate out of the target range set by the FOMC.
+
+We did not know at what level reserves turn from ample to scarce. We had to learn, and quickly. In May 2017, before the normalization started, I shared with my colleagues preliminary estimates from staff analysis suggesting that reserves could become scarce north of a trillion dollars — more than double the baseline estimate at the time. As we found later, I should have tripled, not doubled, the baseline estimate.
+
+Indeed, normalization has felt often like driving at night looking for an unfamiliar destination, and guess what, I recommend slowing down if you want to keep it boring! The Committee manages the pace of normalization, giving as much advance notice as possible, and slowing down on approach.
+
+How can an engineer make something even more boring? Team up with an economist, of course! With Roc Armenter, in January 2019 we proposed a last stage to the normalization process, in which the total size of the balance sheet would be kept constant, but reserves would continue to decline at its slowest pace possible, without offsetting asset purchases. In March 2019, the plan was adopted and announced to start that September but eventually was moved up to August.
+
+It would prove too late.
+
+A lot has already been said and written about the market events in September 2019. In the short time I have here, let’s just say a confluence of idiosyncratic factors slung the supply of reserves around, the upward-sloping demand turned out to be more like a wall, and eventually repo pressures sent federal funds trades outside the target range of the FOMC.
+
+In 48 hours, the two-year normalization process had ended. The Trading Desk at the New York Fed had to step in and provide reserves via open-market operations to restore rate control. Were we still going too fast? Did we try too hard to find out what is “no more than necessary” to end up with “less than necessary”?
+
+Back in 2019, nobody expected that these questions would become relevant again anytime soon. We were wrong.
+
+The pandemic brought up a host of exceptional measures, including Large Scale Asset Purchases (LSAPs). Lots of things happened, but long story short, by May 2022 we were again normalizing the balance sheet.
+
+The fundamental challenge, the uncertainty regarding the demand for reserves, remains. But it is our second go at normalization, we already have one experience — not altogether a successful one, but they do say you learn more from failures. The Trading Desk at the New York Fed has stood up, with help from throughout the System including Philadelphia, a set of monitoring tools. Outreach efforts have become more sophisticated to understand factors driving the demand for reserves.
+
+We remained committed to the gradual, predictable, and boring approach — I got to reuse my quips quite a bit! We were transparent, again, in as much as possible.
+
+And this time around we also have the Standing Repo Facility (SRF). This idea was born in the Saint Louis Fed. Announced by the FOMC on July 2021, the SRF provides a ceiling to money market rates, as a standing facility at which approved counterparties can borrow reserves at the rate at the top of the FOMC target range. The SRF is an important part of the Fed tool kit and the Desk is exploring how to enhance its effectiveness.
+
+Since March of this year, we have been reducing total assets as slowly as possible. The next stage is to hold the total size of the balance sheet flat, as we proposed in 2019.
+
+Now you may think this would mark the end of normalization, but it does not.
+
+First, reserves will continue to shrink. As the currency in circulation grows over time, the supply of reserves will shrink — as slowly as possible. Second, the demand for reserves scales up with nominal aggregates — as anyone would expect. That means that, effectively, the demand is coming to us. And, yes, eventually the balance sheet will need to resume growth to keep up with the demand of reserves — that will mark the end of normalization, and the start of normal.
+
+And we can continue making progress with the composition of the balance sheet. In its principles, the FOMC has clearly stated that it intends to hold primarily Treasury securities in the System Open Market Account. Dallas Fed President Lorie Logan has also discussed issues related to the maturity structure of the Treasury holdings.
+
+Whenever the FOMC decides to hold total assets constant, it may be helpful to frame zero net asset change through offsetting the redemption of mortgage-backed securities with Treasury purchases, perhaps with a short lag. It is reinvestment by anything but name, but it does set the stage for the very last transition, when the Committee will have to articulate that net positive growth in total assets is “normal” or “neutral.”
+
+As I shared with my colleagues, the road we travel is more important than the speed at which we travel. The latter is to be adjusted and managed as we balance risks and anticipate changes in factors affecting reserves, be it the demand or the supply. But normalization is guided by certain principles, and principles are not adjusted or managed.
+
+We are setting precedent on how to normalize. If successful, there would be a known playbook to form their forecasts the next time there are LSAPs, whenever that may be. We would be then one step closer to the ideal world where the effects of normalization are priced in with LSAPs — and have no subsequent monetary effects.
+
+I know I just covered a lot of ground, but before I step away from the podium there are a few final thoughts I wish to leave on after ten years of service here at the Philadelphia Fed and as a member of the FOMC.
+
+First among these is the imperative of the Federal Reserve’s independence. It is absolutely critical that decisions on monetary policy be free of external noises and influences. Our guidepost must be the data, both hard and soft, the good and the not-so-good. From my experience, none of my colleagues has ever taken the Fed’s independence lightly. And I have served alongside 13 Fed governors and 21 Reserve Bank presidents.
+
+In fact, if anything, our independence makes us more focused on being data-driven in arriving at our decisions. Independence makes us recognize and appreciate the gravity of those decisions. It makes us more committed to making sure that we, ourselves, trust the decisions we make. And it makes us take ultimate responsibility for our decisions.
+
+Now, I have taken every effort over the past ten years to explain my views on monetary policy — in the media, in speeches and public appearances, and in smaller settings with any number of local leaders and officials — in simple terms. Perhaps that’s the old professor in me recognizing that the minutia of monetary policy isn’t for the faint of heart.
+
+I was a voting member of the FOMC in two incredibly challenging years — in 2020 when the pandemic was threatening our economy and again in 2023 when we were grappling with reining in post-pandemic inflation on top of several high-profile bank failures which jolted trust in our financial system. At no point did I shy from making the decisions I did based on what the facts on the ground told me was best at the time. Nor have I shied from taking stock of those decisions in hindsight as lessons to be applied to the future. So long as we take these steps, then the imperative of preserving the Fed’s independence becomes ever clearer.
+
+I would say the same to the imperative of not only looking at the hard data before us but also listening to the soft data around us. I have a tremendous staff of researchers here at the Philly Fed whose analyses of all the incoming data and counsel on what it is telling us has been invaluable.
+
+But equally invaluable has been the voices of communities across the Third District. The community bankers helping their customers buy homes or start businesses. The business owners creating jobs. The nonprofit organizations working on any host of issues, from affordable housing to workforce development. The workers trying their best to provide for themselves and their families. In many ways, their stories and insights captured nuances the hard data could not. And, more often than not, their reports from the field foretold something that just hadn’t yet shown up in the official numbers.
+
+Listening to these reports has provided color to the black and white of hard data. It has allowed me, as it has my colleagues, to create a more complete picture of our regional economy. Moreover, these reports are what I relay around the FOMC conference table.
+
+It behooves all of us to pay attention to these voices on equal balance with what we think the numbers are saying. After all, behind each number is a story, a person, a business. When we remember that, ultimately, the economy is about people, it allows us to refocus our work.
+
+And, finally, we also must remember that the Fed is not “the economy.” Yes, the actions of the Fed are of tremendous importance to the direction of the economy. But more so are the actions of tens of millions of individual consumers and millions of businesses — and also governments.
+
+Because of our nonpartisan stance, the Fed does not have a seat at the nation’s fiscal table. It is a necessary aspect of our independence. Yet, our actions must in part respond to the broader conditions set by those decisions.
+
+There is no doubt that, for many years, and across multiple administrations and congresses, levels of debt have steadily increased. There is a tipping point that once passed will weigh down the economy, and whether or not that weight can be lifted by actions of monetary policy alone is a question we should rather not want to deal with. But for my thoughts on that, well, you’ll just have to wait until after July 1.
+
+Thank you all for being here. And thank you to everyone at the Philadelphia Fed for these rewarding past ten years.

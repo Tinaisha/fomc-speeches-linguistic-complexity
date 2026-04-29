@@ -1,0 +1,88 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/wil250115
+
+Mentions of Inventions
+
+January 15, 2025
+
+John C. Williams
+
+the CBIA Economic Summit and Outlook 2025, Hartford, Connecticut
+
+Connecticut is home to many important business ideas and inventions: the toothpaste tube, the can opener, and the Frisbee, which everyone knows really originated here, not in California. And in 1889, inventor William Gray installed the world’s first payphone just a short walk from where we are gathered today. He turned a personal need into a business opportunity. As the saying goes, necessity is the mother of invention.
+
+There’s a wonderful legacy of Connecticut business leadership. And I’m honored to speak before the entrepreneurs and innovators here today who are building a dynamic economy and ensuring a strong future for the state.
+
+In recent years, swings in inflation and the labor market have greatly affected businesses—undoubtedly including many of yours. So today, I’m going to discuss the rise and fall of inflation—from unacceptably high to within striking distance of the Fed’s 2 percent longer-run goal—as well as the labor market’s return to balance. I’ll also talk about how monetary policy is working to achieve the Fed’s dual mandate of maximum employment and price stability. And finally, I’ll speak about what’s going on specifically in this region before providing my economic outlook.
+
+Before I continue, I will give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+Where the Economy Stands Today
+
+With the start of a new year, it’s important to establish where the economy stands today before we dive in to where it’s headed.
+
+Right now, the economy is in a very good place. Over the past two and a half years, the labor market has cooled gradually from its red-hot peaks but remains solid. Inflation has likewise cooled but is still somewhat above our 2 percent longer-run target. And GDP growth continues to be strong, averaging about 3 percent per year over the past two years.
+
+Overall, the economy has returned to balance. I’ve been calling this balance “equipoise”—a word you may only come across in a Merriam-Webster dictionary. Which, by the way, is thanks to yet another great Connecticut innovator!
+
+Because of these trends, the FOMC has taken steps to move its monetary policy stance from one that tightly constrains demand to one that is less restrictive. The target range for the federal funds rate is currently 4.25% to 4.5%, reflecting the Committee’s three rate cuts in the latter part of 2024.1
+
+I’m often asked why the Fed cut rates in the face of such strong growth. And the answer is that while growth in demand has been strong, growth in supply has been even stronger. Specifically, robust growth in both the labor force and in productivity has meant that the economy has been able to expand at a faster pace than we saw before the pandemic, without creating inflationary pressures.
+
+Since the Federal Reserve’s mandate is to achieve maximum employment and price stability, we want to see demand in line with supply and keep the risks to achieving our goals in balance. Because that balance has now been achieved, our job is to ensure the risks remain in balance.
+
+The Inflation Journey
+
+Before I explain more about how we’ll do that, I’ll dive deeper into each side of our mandate, starting with inflation.
+
+The past five years since the onset of the pandemic have been quite a journey—and not an easy one. The enormous pandemic-related shocks to the global economy, along with Russia’s war against Ukraine and other factors, caused inflation to surge to a 40-year high of 7-1/4 percent in June of 2022, as measured by the 12-month percent change in the personal consumption expenditures (PCE) price index. Although there have been bumps along the way, that number has made its way back down. Inflation is now a little below 2-1/2 percent, according to the latest reading.
+
+That’s a dramatic fall, and the process of disinflation remains in train. But we are still not at our 2 percent goal, and it will take more time until we can achieve that on a sustained basis.
+
+I’ll highlight a number of indicators that reinforce my view that inflation is moving toward our goal of 2 percent.
+
+First, the disinflation process has been broad-based, including all the major categories of goods and services. The one laggard is housing inflation, which largely encompasses rises in rents for rental units and in implied rents for homes that are owned. But I expect the disinflationary process to continue there, too, as rate increases for new leases remain low, and are gradually being reflected in official inflation measures.
+
+A second set of indicators that I look at includes measures of underlying inflation. I’ll mention two—namely, the Dallas Fed’s Trimmed Mean PCE inflation and the New York Fed’s Multivariate Core Trend inflation. As inflation rose following the pandemic and the onset of Russia’s war on Ukraine, both measures climbed sharply, peaking at about 5-1/2 percent in the summer and fall of 2022. Since then, we’ve seen rapid declines, with both falling to about 2-1/4 percent, although the progress has been choppy and has slowed over the past year and a half.2  
+
+The final indicator that I’ll highlight is that survey- and market-based measures show that inflation expectations remain well anchored. The latest Survey of Consumer Expectations shows inflation expectations have stayed within their pre-pandemic ranges across all horizons.3
+
+A Labor Market in Balance
+
+All in all, we are making great strides to bring inflation down. And looking at the other side of our dual mandate, maximum employment, we have also seen significant progress and the labor market has come into balance.
+
+In the aftermath of the pandemic, there were too many job openings and not enough people to fill them. Since then, labor supply has increased meaningfully, and demand has eased.
+
+Over the past two and a half years we have seen a gradual cooling in the labor market from very tight conditions. We saw this cooling across a wide range of indicators, including measures of vacancies, quits and hires rates, surveys of job and worker availability, and job finding and layoff rates. We are now seeing some signs of stabilization in the labor market. In particular, after touching a historically low level of 3.4 percent in early 2023, the unemployment rate now stands at 4.1 percent and has changed little over the past six months.
+
+Given this encouraging evidence, I do not expect the labor market to be a source of inflationary pressures going forward.
+
+Regional Developments
+
+On a more local level, developments across the Federal Reserve’s Second District—which includes western Connecticut as well as New York, northern New Jersey, Puerto Rico, and the U.S. Virgin Islands—largely mirror those at the national level.
+
+Here, too, economic activity has held steady. Inflation has made its way back down, as the pace of both output and input price increases has mostly returned to pre-pandemic norms. And although there are limited signs of layoffs, businesses report that demand for workers is softening.
+
+Zooming in on Connecticut in particular, I’ll note that while economic conditions for workers here have mostly normalized, the pandemic created shifts in the types of jobs people have, as there’s been a churn in the industry composition. For the most part, “office jobs” that are conducive to remote work are doing well. Healthcare is booming. Sectors that rely on foot traffic from office workers and others, however, have not bounced back quite as much.
+
+Data-Dependent Monetary Policy
+
+Let me bring it back to what we can expect in 2025 and beyond.
+
+As I say often, the path for monetary policy will depend on the data. The economic outlook remains highly uncertain, especially around potential fiscal, trade, immigration, and regulatory policies. Therefore, our decisions on future monetary policy actions will continue to be based on the totality of the data, the evolution of the economic outlook, and the risks to achieving our dual mandate goals. Our focus is on using our tools to best achieve our goals.
+
+Based on what we know today, I expect real GDP growth to slow somewhat to around 2 percent this year, in part reflecting the effects of lower immigration. I anticipate the unemployment rate will remain around 4 to 4-1/4 percent this year. Looking ahead, I expect inflation to gradually decline toward our 2 percent goal in the coming years. 
+
+In terms of the Fed’s balance sheet, the Committee’s process to slow the pace of decline of our securities holdings is proceeding smoothly.
+
+Conclusion
+
+I’ll close by reiterating that the economy is in a very good place and has returned to balance, as have the risks to the two sides of our mandate of maximum employment and price stability.
+
+But much like the development of all great inventions, there is still work to be done. While I expect that disinflation will progress, it will take time, and the process may well be choppy. Monetary policy is well positioned to keep the risks to our goals in balance.
+
+
+1 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, December 18, 2024.
+
+2 Federal Reserve Bank of New York, Multivariate Core Trend Inflation (November 2024 Update).
+
+3 Federal Reserve Bank of New York, Survey of Consumer Expectations (December 2024).

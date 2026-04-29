@@ -1,0 +1,67 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/per240924
+
+Market Intelligence and the Monetary Policy Process
+
+September 24, 2024
+
+Roberto Perli
+
+the Deutsche Bundesbank – Representative Office New York, New York City
+
+Introduction
+
+Thank you, Deputy Governor Mauderer, for the nice introduction and for inviting me to the Bundesbank reception.1 It's an honor to be here and a wonderful opportunity to celebrate the strong relationship between our central banks. I also want to formally welcome Simon Keller to New York—I look forward to working together in the future.
+
+Before I start, let me offer the usual disclaimer that the views that I express today are my own and not necessarily those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+This evening, I will cover two topics. First, I will provide a sense of my responsibilities as SOMA Manager. And second, since there are many market participants in the audience, I want to talk about the role of the New York Fed’s interaction with you and your peers in shaping my understanding of what markets are telling us, and how that ultimately becomes part of the monetary policy process.
+
+The Role of SOMA Manager
+
+As you know, I am the Manager of the System Open Market Account (SOMA) at the New York Fed. The SOMA is essentially the Federal Reserve System’s entire securities portfolio. The New York Fed manages the SOMA because the Federal Open Market Committee (FOMC or Committee) has selected it every year since 1935 as the Reserve Bank that executes open market operations.2
+
+The SOMA portfolio contains dollar-denominated assets acquired through open market operations, as well as foreign currency securities. Dollar-denominated securities are a tool for achieving the Federal Reserve’s macroeconomic objectives, and they serve as collateral for U.S. currency in circulation and other Federal Reserve liabilities. Foreign securities, which are currently denominated in euros and Japanese yen, represent the Federal Reserve System’s foreign currency reserves.
+
+As the SOMA Manager, I am responsible for implementing monetary policy at the direction of the FOMC. This entails managing SOMA portfolio assets and some Federal Reserve liabilities to ensure that FOMC directives are effectively executed. I am also responsible for monitoring, analyzing, and communicating global financial market developments to the Committee. I brief the FOMC at each of its meetings on these developments, and I also advise policymakers as needed on a variety of market and operational issues.
+
+How We Gather Market Intelligence
+
+Having a deep understanding of the signals embedded in market prices is critical to my job. My colleagues on the New York Fed’s Open Market Trading Desk (the Desk) and I decode those signals through our own analysis and expertise and through insights collected from market participants. These efforts to gather, parse, and decipher market intelligence are an integral part of the Desk’s work. So, I want to take the opportunity this evening to explain how we collect information from market participants and what we do with that information.3
+
+Of course, we are not the only central bank engaged in the collection of such information, which we also refer to as market intelligence. In fact, most central banks are, and many—including the New York Fed and the Bundesbank—periodically convene to discuss best practices at forums organized by the Bank for International Settlements.4
+
+The Desk collects market intelligence in four fundamental ways. First, we are avid consumers of research and market commentary notes written by many market analysts on a wide variety of subjects. Second, we administer the Survey of Primary Dealers and the Survey of Market Participants as part of every FOMC cycle. Third, the Bank sponsors several financial market groups, such as the Treasury Market Practices Group, the Foreign Exchange Committee, and the Investor Advisory Committee on Financial Markets. And fourth, we speak to market participants on both a regular and ad-hoc basis about market developments.
+
+Since the first three elements of our market intelligence collection efforts are fairly straightforward, I will concentrate on the fourth. Our diverse range of market contacts spans most financial markets, with a particular focus on the markets in which the New York Fed operates. We are interested in understanding a variety of topics, including expectations for monetary policy, financial conditions in the U.S. and abroad, market structure and liquidity, financial stability, and many others. The Desk has over 100 staff members that can collect, summarize, and communicate intelligence from market participants to me and other senior leaders at the New York Fed.
+
+Over the past year, the Desk has had more than 1,400 interactions with market participants affiliated with over 350 different firms, including dealers, banks, research firms, corporates, insurers, hedge funds, pension funds, private equity funds, reserve managers, and industry bodies. That’s an average of nearly 200 interactions per FOMC intermeeting period, with of course some variability depending on specific developments (for example, the number of interactions was higher in March 2023 during the episode of stress in the banking sector). Regarding what the outreach covers, the three most frequent topics raised by contacts during the last intermeeting period were—unsurprisingly—monetary policy, interest rates, and money markets.
+
+I want to emphasize that the Desk staff speaking to market contacts are skilled analysts who are prepared through a well-established and long-running training program on what constitutes appropriate communication with market participants. The training specifically covers FOMC policies and rules of engagement with outside contacts. In addition to adhering to official guidance on topics such as information security, trainees practice various approaches to framing questions in an appropriate manner.
+
+I also want to explicitly underscore that Desk staff are engaged strictly in collecting information. Desk staff do not divulge any information from the Fed as part of our outreach effort, nor do they share what they hear from one market contact with another. Our market contacts understand this very well and don’t seek information from us either—in our experience, our contacts are happy to provide their insights in the interest of promoting better policy decisions, and for that I want to say a heartfelt thank you.
+
+How We Use the Information We Collect
+
+So, what do we do with all of the information that we collect? First, the information is anonymized because the focus is not on particular firms or individuals. It is then filtered to extract what we think is relevant, and finally processed through our analytical framework to help cross check and inform any assessment. It is then summarized and incorporated into a wide range of briefings and analyses, including some that are shared across the Federal Reserve System. Ultimately, the main goal of our market intelligence gathering is to support informed policy decisions. This is accomplished through dedicated memos, through my briefings that open each FOMC meeting, and via other communications to policymakers.
+
+In preparation for last week’s FOMC meeting, market intelligence was especially helpful in three ways:
+
+First, it informed our understanding of what drove the volatility seen in early August and our overall assessment that markets had absorbed the shock well. The Committee was free to approach an important policy decision without having to be concerned about markets being fragile.
+Second, it helped us better understand the evolution of policy expectations, which fluctuated materially over the intermeeting period. In light of the progress on inflation and the balanced risks to the achievement of its goals, the Committee decided to reduce the federal funds rate by 50 basis points last week. Futures markets did not fully price the extent of the move, but the intelligence we collected from surveys, written commentaries, and other sources suggested that investors were likely to interpret a 50-basis-point cut exactly for what it was—a recalibration of the FOMC policy toward a more neutral stance that will help maintain the strength of the economy and the labor market while continuing to enable further progress on inflation.
+And third, market intelligence had been indicating clearly for many months that market participants understood well that there is no mechanical link between interest-rate and balance-sheet decisions. As Chair Powell said, the ongoing balance sheet reduction and the cut in the federal funds rate last week are both part of the process of normalization of the monetary policy stance, and they are therefore perfectly compatible with each other. I fully expect that this message will continue to resonate with investors. As laid out in the May 2022 plans, the Committee intends to stop balance sheet reduction when reserves are somewhat above the ample level.5 For now, we don’t appear to be close to that point.
+Conclusion
+
+With that, I hope this overview of how we collect, filter, summarize, and incorporate market intelligence into the policy process was helpful. We deeply appreciate the time and effort that our contacts provide to help the Federal Reserve better understand market developments. I also want to thank Deputy Governor Mauderer, Simon, and the Bundesbank for the kind invitation and excellent hospitality.
+
+Thank you for your attention. I look forward to the rest of the evening.
+
+
+1 I would like to thank Ben Wensley for his assistance in preparing these remarks, and my colleagues from across the Federal Reserve System for their helpful suggestions.
+
+2 For more detail, see Simon Potter, The Federal Reserve’s Counterparty Framework: Past, Present, and Future, November 19, 2015.
+
+3 For more detail, see Federal Reserve Bank of New York, Market Intelligence.
+
+4 For more detail, see Bank for International Settlements, Market Intelligence at Central Banks.  
+
+5 For more detail, see Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.

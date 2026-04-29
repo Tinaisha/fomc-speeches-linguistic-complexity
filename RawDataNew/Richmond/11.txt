@@ -1,0 +1,55 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20240506
+
+Navigating Data Whiplash
+
+May 6, 2024
+
+Tom Barkin
+
+Columbia Rotary Club, Seawell’s Catering, Columbia, S.C.
+
+Highlights:
+Data matter for policy, and with this data whiplash over the last few months, it is natural to wonder whether we are experiencing a real shift in the economic outlook, or merely one of the bumps we said we expected along the way.
+Despite my concerns about demand and inflation, I am optimistic that today’s restrictive level of rates can take the edge off demand in order to bring inflation back to our target.
+We have said we want to gain greater confidence that inflation is moving sustainably toward our 2 percent target. And given a strong labor market, we have time to gain that confidence.
+Thank you for that kind introduction and for having me here today. I thought I would speak about the economy and where it may be headed, and then I look forward to your questions and input. I caution you these are my thoughts alone and not necessarily those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+Contrary to most forecasts, including my own, the economy finished 2023 in a good place. Headline inflation, as measured by the personal consumption expenditures (PCE) price index, dropped all the way to 2.6 percent by year-end. For the final seven months of the year, annualized core PCE came in just under our 2 percent target. At the same time, despite higher interest rates, global conflicts, and banking turmoil, economic growth was healthy at 3.4 percent, and unemployment remained near historic lows.
+
+But early 2024 inflation data has been disappointing to those who thought that the inflation fight was behind us. In the last three months, quarter-over-quarter core PCE inflation rose to 3.7 percent annualized. Headline rose to 3.4 percent. That number, fortunately, is nowhere near the 7.1 percent headline inflation we saw in June 2022 but does remind us that the job is not yet done.
+
+Demand remains robust. While the headline first quarter GDP number came in lower at 1.6 percent, it was held down by the volatile categories of imports and inventories. Private domestic final purchases, a better underlying measure, came in strong, growing at 3.1 percent. The labor market, too, has remained remarkably resilient. We’ve created 246,000 jobs per month on average in 2024, and the unemployment rate remains low at 3.9 percent. In fact, unemployment has come in below 4 percent for 27 consecutive months now — the first time that has happened since the late ’60s.
+
+Data matter for policy, and with this data whiplash over the last few months, it is natural to wonder whether we are experiencing a real shift in the economic outlook, or merely one of the bumps we said we expected along the way. Should we take more signal from the past three months, or the prior seven?
+
+As I have traveled my district, I hear lots of views on where we are. I thought I might share the four I hear the most, then offer my own view. I look forward to your questions at the end and hope you’ll offer your own additions to this list!
+
+First, I still talk to lots of optimists. Encouraged by the progress made over the last year, they expect the economy to stay healthy and inflation to continue its decline to 2 percent, even if slowly. After all, the extraordinary levels of post-pandemic spending have been normalizing. The painful post-COVID-19 supply chain shortages have been largely resolved. The labor market feels far less tight: the rebound in prime-age labor force participation and recent high levels of immigration have helped alleviate labor market pressures, as have productivity increases perhaps arising from automation and artificial intelligence. Most measures of inflation expectations have stayed impressively stable, suggesting that businesses and consumers have found the Fed’s actions and our inflation target credible. Optimists point to 12-month core inflation continuing to decline, down 10 basis points from the beginning of the year to 2.8 percent, and ask, “Why not celebrate declining inflation and a healthy economy?”
+
+Now, of course, not everyone is an optimist. I speak to three types of pessimists: demand pessimists, inflation pessimists, and Fed pessimists.
+
+Despite the strength of today’s economy, demand pessimists believe the real impact of monetary policy and credit tightening is still to come. They worry about the recent increases in consumer delinquencies and the challenges in commercial real estate. They see weakness in other interest-sensitive sectors as well, like banking, residential real estate, manufacturing, and home improvement. They note that nearly three-quarters of last year's job gains and over 60 percent of this year’s came from just three sectors — health care and social assistance, leisure and hospitality, and government — and are concerned that job growth may soon begin to fade. And recent events in the Middle East are a reminder not to ignore the risk of geopolitical shocks.
+
+In contrast, inflation pessimists focus on the strength in the economy, and its potential to pressure prices. They point to continued strong wage growth in a challenging labor market, especially for skilled trades like construction or nursing. The Atlanta Fed Wage Growth Tracker is still at 4.7 percent, above the February 2020 level of 3.7 percent. They note consumers’ continued willingness to spend, driven presumably by healthy personal balance sheets. The saving rate is down to 3.2 percent versus 7.7 percent pre-pandemic. Many mention other forces that have arguably turned inflationary, from deglobalization to limited housing supply to demographics to energy transition.
+
+Finally, I also hear from Fed pessimists. They fear the Fed will keep rates too high for too long or normalize too quickly and allow inflation to linger. Our job isn't easy, and history teaches that most tightening cycles end poorly, though often heavily influenced by an outside event like the pandemic or the 1990 Gulf War.
+
+What do I see?
+
+On demand, the historic strength of today’s labor market makes clear we are not in a recession today, but I have to believe all of this tightening will eventually slow the economy further. With consumers and businesses alike sheltered from higher interest rates thanks to pandemic-era debt paydowns and refinancing, their aggregate interest burden is not yet historically elevated. To me, that suggests the full impact of higher rates is yet to come.
+
+If the economy does cool, it doesn't need to be as painful as the Great Recession. A slowdown this time could bring less dislocation in the labor market. Employers who have fought hard to recover from labor shortages tell me they are hesitant to lay people off and run the risk of being short again. And a slowdown shouldn't catch businesses by surprise, as they’ve been planning for a downturn for over two years. They've already slowed hiring, streamlined costs, managed inventories, and deferred investment. Banks have cut back on marginal credit. In short, the economy should be less vulnerable.
+
+On inflation, while I do hear price-setters increasingly convinced that the era of significant pricing power is behind them, the inflationary experience of the last two years has surely given them more courage to use price as a lever. Before the pandemic, 26 percent of the PCE basket had increases greater than 3 percent year-over-year. Today, that has more than doubled to 58 percent.
+
+Here's what I’m hearing: For a generation, in the context of low and stable prices, powerful retailers, global low-cost supply, and e-commerce-enabled comparison shopping, price-setters came to believe they had virtually no chance to successfully increase prices. But, during the pandemic’s supply chain cost and availability challenges, price-setters concluded they had no choice but to try to pass on these costs. When they did, they found no consequences. Customers paid. Volumes were hardly impacted.
+
+Now? While the era of no consequences is over, we certainly aren’t back to the pre-pandemic no chance world. Businesses are still looking to push prices if they can, even if it takes getting creative in segmenting their customer base and product offerings. Their mentality is: There’s no crime in trying — no crime in trying to recover margins, protect margins, or enhance margins. And they simply are more confident using price as a lever, and I anticipate they will only back down when customer elasticity again sends a strong message that price-setters have no chance.
+
+Arguably that signal has registered in goods like apparel and furniture. Most of the inflation drop thus far has come from the partial reversal of pandemic-era goods price increases, but inflation in both shelter and services still remains higher than historical levels. Now, the Fed is not in the game of picking the correct makeup of inflation. But the risk is that as we get less help from the goods sector, continued shelter and services inflation will leave the overall index higher than our target. That’s what we’ve seen so far this year.
+
+Despite my concerns about demand and inflation, perhaps it is no surprise that I'm a Fed optimist. I am optimistic that today’s restrictive level of rates can take the edge off demand in order to bring inflation back to our target. While I don't see the economy overheating, the Fed knows how to respond if it does. And if the economy slows more significantly, the Fed has enough firepower to support it as necessary.
+
+In the interim, the recent data whiplash has only confirmed the value of the Fed being deliberate. The economy is moving toward better balance, but no one wants inflation to reemerge. We have said we want to gain greater confidence that inflation is moving sustainably toward our 2 percent target. And given a strong labor market, we have time to gain that confidence.
+
+Thanks. I look forward to your questions and input.

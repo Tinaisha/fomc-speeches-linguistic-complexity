@@ -1,0 +1,179 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/ost240419
+
+The Legal Function’s Role in the Risk Management Framework: Jack-of-All-Trades, Cog in the Machine, or Misfit Toy?
+
+April 19, 2024
+
+Richard Ostrander
+
+the BIS Central Bank Legal Experts’ Meeting, Bank for International Settlements, Basel, Switzerland
+
+Thank you, Diego, for inviting me to speak at the BIS Central Bank Legal Experts’ Meeting—and thanks to you and your colleagues for putting together such a useful conference. The remarks so far have prompted productive discussions about the role of in-house lawyers. I hope to follow suit.
+
+As always, the views I express today are my own and do not necessarily reflect those of the Federal Reserve Bank of New York or the Federal Reserve System.1
+
+I am looking forward to today’s discussion of legal risk and the Legal function’s role in the risk management framework. There are different views on what legal risk is and how the Legal function fits into the "three lines of defense” framework, if at all. I don’t think there’s much dispute, however, that it’s an important topic for a central bank.
+
+When I was thinking about what I wanted to say today, like any good speech writer, I started with the title. Now Chiara set the bar very high by quoting Shakespeare in her title. I couldn’t quite pull off a Shakespeare quote, but I did learn that “jack-of-all-trades” was probably said about Shakespeare, so I started with that. In-house lawyers are called upon to be “jacks” of many trades given the breadth of the roles we play in connection with legal and non-legal issues. We act as shadow project managers, we draft or assist with various non-legal documents and memos, and we help organizations manage all types of risks, including legal risk. But managing legal risk is the raison d'être for the Legal function.
+
+Today I would like to start by considering some basic concepts and then offer some hypotheticals to illustrate the different ways in which legal risk manifests itself in an organization. I’ll also discuss where legal risk decisions reside in an organization, and where lawyers fit into a “three lines of defense” model.
+
+What Is Legal Risk?
+
+So let’s start with a definition of legal risk. A definition we have used at the New York Fed is:
+
+(1) risk that the Bank exceeds its legal authority or fails to fulfil its obligations under law, contract, or other legal duty; (2) risk of a legal dispute based on an allegation that the Bank exceeded its legal authority or on an alleged failure by the Bank to fulfil its obligations under law, contract, or other legal duty, and (3) risk that the Bank fails to take the steps it has deemed necessary to protect its legal interests.
+I’m sure you all could point out flaws in this definition. Maybe, in some respects, it’s overinclusive—encroaching on other risk types like “compliance risk,” “operational risk,” or “reputational risk.” Or maybe it’s underinclusive, focusing unduly on disputes and litigation and not enough on ethical or moral duties.
+
+While I think it is good to have a definition to help frame our discussion, I don’t want to belabor it. The reason to try to define legal risk is that we can now discuss how to best manage and mitigate those risks, which is what lawyers do.
+
+However, before we get to legal risk management, we should talk for a moment about a phrase I really dislike: “legal risk appetite.” There are some commercial contexts in which risk is a feature, not a bug—where, for example, risk acceptance provides a higher potential for profit and its negative consequences can be managed. That seems to make intuitive sense with risks like credit risk that (i) can be observed, quantitively modeled and measured, and (ii) are deliberately undertaken in connection with operating a business.
+
+However, speaking of “legal risk appetite” or “legal risk tolerance” makes me uneasy. If a bank CEO tells you that after careful analysis, she had decided her bank should take on more duration risk, you probably wouldn’t blink. If, by contrast, she says that, after careful consideration, the bank needed to increase the amount of legal risk it is taking, you would at least do a double take.
+
+Does anyone really have an appetite for legal risk? It’s not something I crave, that’s for sure. I’ve never once woken up and thought to myself, “Hmmm, I’m a bit peckish this morning and some legal risk would really hit the spot.”
+
+I think we can agree that in practically all circumstances, financial institutions should have virtually no appetite to knowingly violate applicable law.2,3 Financial institutions are not like delivery trucks that willingly accumulate parking tickets around major cities. Violations and fines cannot be seen as a cost of doing business.
+
+But having said all that, I also think we can agree that an institution’s legal risk tolerance should not be zero. The mere possibility that someone might sue our employer doesn’t mean that a particular course of action should be prohibited or isn’t in our employer’s best interest.
+
+The OCC has a publicly available Enterprise Risk Appetite Statement that asserts: “Risk appetite [which can be low, moderate or high] articulates the level and type of risk the agency will accept while conducting its mission and carrying out its strategic plan.”4 The section on Legal Risk appetite identifies several topics for which the OCC has low risk appetite (e.g., Noncompliance with applicable laws, regulations, federal directives, mandates, and executive orders) and things for which the OCC has a moderate risk appetite (e.g., Taking a leadership role pursuing and/or defending issues supportive of the OCC’s core mission).5
+
+While I’m still working through how I feel about publishing a legal risk appetite statement, I do think the OCC’s formulation is conceptually correct. The OCC’s tolerance for legal risk depends on the kind of legal risk and the context in which it is presented.
+
+Typically, when we talk about managing legal risk and making decisions based on established legal risk appetite frameworks, we are focused on legal risks that have been identified and intentionally accepted by the institution. But not all legal risk manifests in the same way, and legal risk mitigants will vary depending on how the risk arose.
+
+Hypotheticals
+
+To highlight the different ways in which legal risk can manifest, be identified, and be mitigated or managed, I’ve come up with some simple hypotheticals. My examples focus on situations from the private sector, but I think you will see the themes also apply to the public sector.
+
+First Scenario
+
+You are the lawyer for a lending business. The head of the group approaches you to say they have an awesome new credit product they are about to launch. They have been working on it for months and they are absolutely certain it will be vastly profitable. You study it and conclude, with even greater certainty, that your business does not currently have the requisite licensing to offer this product. You believe it would clearly be illegal for your firm to offer and sell this product.
+
+Launching this product would certainly entail a high degree of legal risk. Assuming the institution does not have an appetite to knowingly violate applicable law, the Legal function will stop the product from being launched and therefore will successfully protect the institution from legal risk.
+
+So what allowed for this success? I think there were two critical factors: (i) the business discussed the proposed product with their lawyers prior to launch, and (ii) the Legal function competently analyzed the product and spotted the issue. We’ll discuss each of these factors in more depth later.
+
+Second Scenario
+
+But life is rarely so black-and-white. Let’s adjust the facts such that when you analyze the product features and the licensing requirements, the regulatory treatment is actually not clear. Turns out there are some good arguments that offering the product does not require a license. However, there are also some countervailing arguments. The regulator might view the product differently and disagree with you. You present this mixed assessment to the business, perhaps with some structuring suggestions that can mitigate the legal risk. But even with these changes, the legal analysis is not clear.
+
+This is likely the paradigmatic scenario people have in mind when they think about legal risk. Here, the Legal function is identifying a legal risk arising from ambiguity in the law, explaining it to the business, and the business is deciding whether to take it or not. The Legal function identifies the risks, potentially makes structuring suggestions to reduce the ambiguity, but cannot eliminate the legal risk. Based on that advice, the business makes a risk decision.
+
+Nonetheless, for the outcome here to be a “success” from a legal risk management perspective, it is very important that the legal risk decision is made at the appropriate level and in the appropriate way for the organization. The Legal function typically has a critical role in ensuring that happens.
+
+At some firms, all risk decisions go to senior management. At others, decisions can be made by more junior people further down in the organization. Sometimes other control functions or processes must be brought in. The appropriate path for approval likely varies with the probability and severity of the legal risk that the action would create. The Legal function is primarily, and potentially solely, responsible for assessing that degree of risk and ensuring the right people are consulted and the right processes undertaken.
+
+This hypothetical shows the lawyer as a jack-of-all-trades. She is responsible for assessing legal risk as an independent function, but is also asked to partner with the business to come up with ways to reduce legal risk by modifying how a product is structured or sold. She also has a critical corporate governance role in ensuring legal risk acceptance is done in the appropriate way for that organization.
+
+I think some would argue that this example highlights the value of documenting legal risk appetites and specifying the role each function plays in accepting and managing those risks—which is exactly what the three lines of defense model was originally designed to do. Forethought about different kinds of legal risks encourages the organization to establish processes and lines of responsibility, so that escalation choices and decision-making responsibilities are clear ahead of time.
+
+However, writing down a set of guidelines is only the first, and likely not the most important step. Application of those guidelines to any particular situation will require judgment. In order to determine the escalation path, the Legal function will need to assess the degree of legal risk. Legal risk assessment is subjective and circumstance specific.
+
+And even for a given degree of legal risk, many factors can impact how legal risk acceptance should be undertaken in any particular case. Have there been changes in the external environment since the guidelines were created that increase or decrease the impact of a risk decision? Did our process rely on the judgment of a group head, and now we have a new group head who has a different set of experiences and a different risk tolerance? Have we made a series of appropriate risk decisions that in isolation are fine, but in aggregate seem to have created too much residual legal risk? Documented risk acceptance processes are necessary, but certainly not sufficient to effectively mitigate legal risk.
+
+Note that in this scenario the organization is aware of the legal risk. If they move ahead with the lending product, they have knowingly accepted the legal risk. Things may turn out badly from a legal perspective, but that risk was known and accepted. Now let’s consider other flavors of legal risk where the choices are not as deliberate.
+
+Third Scenario
+
+Let’s return to the original hypothetical. This time when you analyze the product, you have an epiphany. You see that by making one small tweak, you can eliminate the need for your organization to obtain any additional licensing. The business is thrilled, and the product launch is a huge success. Yeah Legal!
+
+But … it turns out your legal advice was wrong! You missed something. The product was illegally offered and your institution is hit with a major fine.
+
+This hypothetical illustrates another and different kind of legal risk, and one that in any particular case, the institution will not know it has incurred. There wasn’t a conscious recognition of legal risk, and therefore no opportunity to conduct a legal risk escalation or undertake an approval process.
+
+Does that mean this flavor of legal risk cannot be managed or mitigated? No. The risk of an error in legal analysis cannot be totally eliminated, but it certainly can be mitigated by providing appropriate resources for obtaining legal advice. How much has the institution invested in the Legal function? Is it properly staffed? Does it have the expertise it needs? Are the lawyers paid market rates? How big is the outside counsel budget? Are there silos within the Legal function that discourage collaboration across areas of expertise? Organizations make conscious and unconscious decisions about their appetite for this type of legal risk in how they invest in and manage the Legal function.
+
+Fourth Scenario
+
+One final variant on our hypothetical. Your business has developed its great new product, but now instead of bringing you in before launching the product, the business decided to just start selling it. You only find out later when your firm releases financials indicating how profitable the product is and your firm’s stock price has gone up 300%.
+
+While the behavior of the business here may have violated some operational policies, and therefore triggered operational or other risks, I think this scenario also falls under the legal risk definition. Like risk arising from a lawyer’s error, this is also a form of legal risk that the business will not know it has incurred at the time an action is taken. Again, there was no conscious recognition of legal risk, and therefore no legal risk assessment conducted or risk acceptance process undertaken.
+
+But this flavor of legal risk can also be mitigated, and a firm’s culture will give insights into its conscious or unconscious appetite for it. Does the firm have formal or informal policies requiring that certain activities be run past the Legal function? Are there new product/new activity review committees populated with control functions like Legal? Does senior management include the General Counsel or key Legal deputies in strategy or similar meetings? Are lawyers provided with a “seat at the table”?
+
+While significant responsibility should lie with the business, I think it is important to keep in mind that the Legal function may not just be an innocent victim here. What type of relationship did the in-house lawyers cultivate with the business line? Did they contribute to a culture in which lawyers are trusted partners? How responsive is the Legal department? Do they check in with the business regularly? Do they understand the business, what it does and how it does it, and speak the business’s language? Do the lawyers have a problem-solving mentality, or do they start at “no” and reluctantly cede ground from there?
+
+It’s easy to blame the business when the Legal function isn’t consulted at all. Let’s be mindful, though, that the experience the business has when they go to the Legal function can affect that behavior. I’m not saying the lawyers should allow impermissible activity to curry favor. But if the Legal Function is viewed as a partner, and not an impediment, that partnership can be a powerful mitigant against legal risk.
+
+Three Lines of Defense
+
+While there are certainly more flavors of legal risk we could discuss, I’d like to address how legal risk fits into the “three lines of defense” risk management framework.
+
+In the traditional “three lines of defense” framework, the first line of defense “owns the risk.” They are responsible for the risks that arise in their business. If they decide to lend to a less creditworthy borrower, they should understand and be accountable for the credit risk that comes with that decision. If they knowingly accept some degree of legal ambiguity in connection with a product, they take on the risk and cost of a lawsuit, adverse court ruling, or regulatory inquiry.
+
+Independent control functions comprise the second line. They monitor the risks the first line has taken and oversee the controls the organization has implemented to mitigate risks. The second line does not “own” the risk, but they are accountable for their surveillance and mitigation work. At a commercial bank, the standard framework puts the Legal function in the second line, along with functions such as Compliance and Credit.
+
+The third line of defense provides independent oversight of the first two lines. They provide greater assurance that the risk management and internal control frameworks are working as expected. This role is typically handled by the Internal Audit function, which has a direct reporting line to the top of an organization’s governance structure.
+
+While the “traditional” three-lines-of-defense model has the benefit of simplicity, some have argued that it should not be one-size-fits-all.6 One particular area of discussion is the role of the Legal function. Should it really be part of the second line?
+
+My view is that a Legal function does not fit neatly into the three-lines-of-defense framework. That doesn’t mean there’s something necessarily wrong with the framework—it can be quite useful. In my view, though, it’s more effective at managing some types of risks than others. The Legal function is a critical part of an organization’s risk management, but I think a more realistic view is that the Legal function operates across, and maybe sometime outside of, the three-lines model.
+
+Let’s go back to our second hypothetical—the one where lawyers identify and describe legal risks accurately to the first line, and the first line knowingly decides to take those risks. That fits quite well into the three-lines framework. The Legal function is identifying risks, but is not making a decision about whether the institution should accept them. The Legal function serves as a control function—ensuring the business is appropriately informed and the correct decision-making processes have been followed. But lawyers are not making the business decision. The lawyer in that hypothetical simply determined that a legal risk existed and kicked off a business risk acceptance process.
+
+Legal risk is different from other risks in that the first line has to consult with the Legal function about the existence of the risk. That’s where the three-lines model begins to come up short. Interest rate risk, for example, can and should be monitored, measured, and managed by the first line. Second-line functions like Risk should also be monitoring and discussing interest rate risk with the first line. But the first line isn’t (or at least shouldn’t be) relying on the Risk function to spot the interest rate risk.
+
+Not so for legal risk. Business managers rely on the Legal function to identify and explain legal risk. In that sense, the Legal function is the first line for legal risk analysis. In the hypothetical where the Legal function did not spot the legal risk—or explained it poorly—it would be inappropriate to hold the business responsible, or at least fully responsible. The Legal function has to “own” its responsibility to identify and explain legal risk.
+
+A Legal function may further “own the risk” by choosing which risks merit attention by the business, and which do not. Through a decision not to raise an issue with the business, a lawyer owns a risk. Lawyers are constantly making judgments about the severity of a legal risk to inform the risk acceptance process. This is one of many ways in which real-life lawyering is not like a law school exam—at least, as law is taught in the United States. You don’t necessarily get more points for spotting more issues. Practicing law isn’t so mechanistic. Good in-house lawyers are not cogs in a machine—getting back to the title of this talk—whose role is limited to issue-spotting. A business client probably doesn’t want to hear about every conceivable thing that could go wrong. They want me to make a judgment about what’s worth being concerned about. Working with a client means focusing their attention on the right issues, not clouding the picture with obscure concerns about remote possibilities with minimal potential impact. So in that sense, too, a Legal function acts as a first line of defense.
+
+And, in reality, an effective Legal department works collaboratively with a business line and frequently offers advice that isn’t purely legal. As the NY Rules of Professional Conduct state, “lawyers shall exercise independent professional judgment and render candid advice”, and in the process “refer not only to law but to other considerations such as moral, economic, social, psychological, and political factors [that may be relevant to the client’s situation].”7 At institutions like the New York Fed, which has a long-tenured Legal department, lawyers offer valuable institutional memory. I think the same is true at many financial institutions. At organizations with high turnover, it may be the case that the lawyer is a source of valuable business experience, not just legal expertise. So there again, a Legal function’s actual role is close to the first line.
+
+But Legal functions are obviously not fully first-line either. As mentioned before, a Legal function has a control responsibility. What’s more, like the second and third lines, the Legal function has the responsibility to provide independent judgment.8 Where the Legal function believes the business is too aggressive—or has otherwise diverged from the organization’s expectations—there is a responsibility to escalate within the business hierarchy or outside it. This is particularly important when legal risks may be latent, maturing years later after investigations and lawsuits, when the managers making business decisions may not be around to be held accountable for taking legal risks. The Legal function has a unique corporate governance role and ability to influence an organization.9
+
+What’s more, independence doesn’t just mean independence from the business. It means independence wherever needed to protect the client’s interest. The “partner-guardian” model or dilemma—famously expounded by Ben Heineman, the former General Counsel of GE—applies to all three lines of defense.10 Lawyers are valuable partners to Compliance, Risk, Credit, and other second-line control functions, as well as to Internal Audit. We’re also guardians of the corporate client’s interest if any of those functions become conflicted.
+
+One last point about the special role of a Legal function: You can’t provide legal advice without a license. And, in any financial institution that I’m aware of, there isn’t another function or group licensed to make legal judgments. That means our legal judgments are not subject to review by other functions because such a review would necessarily entail providing legal advice.
+
+Of course, a Legal function is not free from oversight. For starters, second- and third-line functions can and should review organizational processes, budgeting decisions, and many other choices within a Legal function that are corporate in nature. Just not legal advice. When it comes to legal advice, a Legal function needs to take responsibility for its own oversight and rely on its lawyers to exercise good judgment. It’s one thing for internal auditors to question credit decisions. It’s inappropriate—and potentially illegal—for them to offer their legal judgment in place of the Legal function’s.
+
+More important, the client always gets to decide if the legal advice it receives is satisfactory. And that starts with the service the General Counsel provides to senior management and, where relevant, to the board of directors. Lawyers are always fully accountable to the client, even if their legal judgment is not amenable to oversight within the three-lines-of-defense model.
+
+Finally, lawyers have professional obligations that can take priority over the interests of any particular client—rules governing client confidentiality and conflicts of interest, for example. Lawyers raise their hands and take an oath to uphold the law. That doesn’t mean that some lawyers don’t go astray. But in my experience, lawyers take their professional responsibilities seriously.
+
+It’s for all those reasons that I don’t think a Legal function really fits in a three-lines-of-defense framework, which wasn’t created to control legal risk anyway. So what should we call the Legal function? We already ruled out “cog in the machine.” Is a Legal function a misfit toy? I ran that by my staff at the New York Fed, and they weren’t thrilled with that label. A jack-of-all-trades may not capture my meaning either. Lawyers are masters of their trade: the practice of law. No single moniker seems apt, and we shouldn’t try to force something when it doesn’t fit. The same goes for the Legal function’s role in the three-lines-of-defense model.
+
+Conclusion
+
+I’ve spoken much about “organizations” in general. So, you might be wondering, how are legal risks and legal risk management different for a central bank? I’ll end on this point—and hopefully we can continue the discussion.
+
+In my experience, Legal functions at private sector firms and central banks have a great deal in common—employment issues, contractual negotiations, and many other issues arise in both contexts.
+
+But there are also significant differences arising from our public mission and the need to maintain public trust. The question “is it legal” is never the end of the inquiry—for lawyers or our colleagues in other departments. As an organization dedicated to making the economy stronger and the financial system more stable for everyone, doing what’s right by the public is always paramount.
+
+That’s not always an easy objective to identify or to meet. Essential to maintaining public trust is maintaining objectivity and political independence. As politics becomes more heated, and the economy more interdependent and complex, this is an ever-increasing challenge. I’m sure many of you feel the same way. Every material decision—every act or omission—will have its critics, some of whom are quick to see connections between their acute disappointment and broader grievances about government or society. Technical, legal decisions about approvals for mergers or approvals for accounts or novel activities can be perceived as political or partisan, eroding confidence in a central bank’s objectivity and independence. As a result, a public institution like the Federal Reserve could face legal risk in the form of changes in laws that constrain judgment or require operational pivots.
+
+I also think the stakes we face at central banks are quite different than the private sector, particularly in the context of a crisis. I think there are occasions where a central bank’s mission requires it to accept more legal risk than one might choose in the ordinary course, especially for decisions where all the facts are not immediately clear, governing law is ambiguous, precedents are few, stakes are high, and time is of the essence.
+
+Whether in a crisis or not, good judgment is the foundation upon which all legal risk management lies. There will never be a system of regulation or controls so complete that every risk is identified in advance and successfully mitigated. Good risk management will always require good judgment.
+
+For lawyers, judgment comes not only through personal experience, but thanks in part to traditions of mentorship within Legal groups, also through vicarious experience. Attorneys need to offer, and accept, critical professional feedback from other attorneys in the department. Individuals should be open to sharing their analysis and welcome critical questions.
+
+Legal analysis gets sharper through challenge, and it is very important to ensure different areas of the Legal function are not operating in silos. When different parts of the function don’t feel like they are competing with each other, and when individuals are willing to check their egos at the door, mistakes are much easier to catch.
+
+Ultimately, it’s up to the leadership of the Legal function to model how to offer and accept critical, professional feedback, work across reporting lines, and ensure adequate resources.
+
+Thank you for your kind attention and happy to take questions.
+
+
+1 I would like to thank Katherine Landy, Thomas Noone, Shawei Wang, and Jennifer Wolgemuth of the New York Fed for their contributions to and assistance with these remarks.
+
+2 Bank for International Settlements, Basel Committee on Banking Supervision, Compliance and the compliance function in banks at 15.
+
+3 Exceptions are glaring, justifying both enforcement and public shaming. See Thomas C. Baxter, Jr., Reflections on the New Compliance Landscape (July 23, 2014).
+
+4 The Office of the Comptroller of the Currency, OCC Enterprise Risk Appetite Statement at 3.
+
+5 Id. at 6.
+
+6 See Thomas Baxter, Jr. and Won B. Chai, “Enterprise Risk Management: Where is Legal and Compliance?”, The Banking Law Journal (January 2016), at 9.
+
+7 NYSBA NY Rules of Professional Conduct (2022) (nycourts.gov) at 133. See also Restatement (Third) of the Law Governing Lawyers § 94(3); Model Rules of Professional Conduct of the American Bar Association § 2.1.
+
+8 See Michael Held, Reforming Culture and Conduct in the Financial Services Industry: How Can Lawyers Help? in Remarks at Yale Law School’s Chirelstein Colloquium, New Haven, Connecticut (Mar. 8, 2017).
+
+9 Cf. Association of the Bar of the City of New York, “Report of the Task Force on the Lawyer’s Role in Corporate Governance” 3 (Nov. 2006) (“Lawyers are often in a position to influence or facilitate the conduct of their corporate clients.”).
+
+10 Ben Heineman, The Inside Counsel Revolution 7 (2016).

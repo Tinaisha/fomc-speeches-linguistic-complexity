@@ -1,0 +1,45 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/hen240312
+
+Culture and Conduct in 2024: An Update from the New York Fed
+
+March 12, 2024
+
+James Hennessy
+
+Keynote Remarks at the 1LoD Culture & Conduct Deep Dive (delivered via videoconference)
+
+Thank you, Harry, for your kind introduction, and for welcoming me back to the Culture and Conduct Deep Dive. And welcome to everyone who is participating from around the world.
+
+Before I begin, I should note that the views I express today are my own and not necessarily those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+I lead the New York Fed's Governance & Culture Reform Initiative—an effort we started 10 years ago this year, with the aim of focusing the attention of the financial services industry on organizational culture and its role in shaping risk outcomes. Looking back on the decade of our work, and the interactions we have had with both financial institutions and an interdisciplinary collection of experts who are focused on culture, I think it is accurate to say that, together, we have seen some real progress.
+
+For instance, changes occurring in the broader environment – especially the rise of remote and hybrid work – have normalized and given urgency to the conversation around organizational culture.  Culture has evolved from a somewhat nebulous topic to one that is considered a central component of risk management and business success. Looking ahead, technological advances promise to enhance how culture data are collected and interpreted, thereby supporting better diagnosis and interventions, and more desirable outcomes. We are encouraged by these developments, and we also recognize that there are still numerous challenges ahead.
+
+Today I will talk about the three strategic channels or “pillars” through which the culture initiative achieves its mission, and some of the key insights we’ve gained over the past year through engagement with representatives from the financial services industry and others.
+
+The New York Fed’s Culture Initiative
+
+The first pillar, Awareness and Dialogue, supports the public conversation by convening industry professionals, regulators, academics, and experts in a wide range of fields to explore the relationship between organizational culture and behavior.  We produce webinars and podcasts, and on Tuesday May 21st, we will host our in-person culture conference. Some of the issues the conference will address include accountability and incentives, culture measurement, and “future thinking.” There, we will explore how firms can address the overconfidence, blind spots and hubris that can get in the way of imagining what could go wrong in the future, in periods when growth comes easily and when it’s hard won.
+
+The second pillar, Education and Research, includes our Education and Industry Forum—the EIF. This committee brings together representatives from academia and industry to integrate ethical decision-making into the education of the next generation of the financial services workforce.
+
+And the third pillar of our initiative is focused on Supervision & Governance. This includes the Supervisors Roundtable for Governance Effectiveness, where we, along with supervisors and regulators from around the world, gather to advance collaboration and innovation in governance, behavior, and culture supervision.
+
+Insights from the Past Year
+
+One lesson from all this work concerns the importance of culture measurement and assessment and the vital role it plays in driving change. Forums like this one provide important opportunities to learn about advances in assessment practices, for instance how technology can help to derive data from new sources, such as natural language processing and network analysis. Such tools provide real-time feedback and indications of trends—more than occasional “snapshots” that can, without the right context, give misleading impressions. Qualitative evidence—anecdotes and other feedback gathered through focus groups, interviews, and other more people- and time-intensive techniques—continue to round out the picture created by the numbers. In my view, the stories we tell each other remain the best means of understanding and passing along an organization’s culture.
+
+Apart from assessment, my colleagues and I continue to observe that communication with employees is an essential tool in managing culture. Organizations that articulate expectations for risk culture in clear language help employees understand its benefits. I mentioned already the importance of stories. Tying those anecdotes to common goals, key processes, and risk indicators helps make organizational expectations more tangible and relatable on a personal level. Importantly, explaining the “why” of risk culture motivates employees to apply their own informed judgement rather than implement a rigid directive.
+
+Communication in the other direction—bottom-up, that is—remains important too.  Here, trust and psychological safety are paramount.  Creating channels for speaking up are necessary, but not sufficient.  Employees need to feel comfortable telling others what’s on their minds. One way to encourage speaking up is to normalize it. Make it “what we do around here.” For example, groups concerned with risk management can integrate conversations about risk into daily routines. Risks don’t only need to be discussed when something has gone wrong—and understandably, very human fear or blame can have a chilling effect on open, honest communication. Applying a common, everyday framework for discussing risks when things go right – and when they don’t - bolsters an effective risk culture by making the discussion just “something we do.”
+
+Managers also play a key role in this process. It is vital for those who daily work alongside staff and create the immediate culture to lead by example. Encourage these “culture carriers” within your organization to share stories and normalize speaking up about risk.
+
+Finally, another lesson emphasized within the last year is that non-financial incentives are powerful motivators for employees to go ‘above and beyond’ job requirements. These include gratitude and recognition by more senior leadership; the self-respect and self-governance that comes from having greater autonomy in business judgments; a feeling of empowerment that reflects an organization’s trust and, in turn, further links an individual to a group; and having opportunities for innovation, learning, skill development and career growth. In particular, understanding how one’s role adds value to the organization’s purpose and impact is a powerful motivator.
+
+My colleagues and I launched the New York Fed’s Culture Initiative 10 years ago because we saw misconduct increasing across the industry.  When we examined these incidents closely, we concluded that industry norms were partly to blame.  We recognized that regulation and enforcement alone would not provide solutions.  Each and together, banks needed to pay attention to how culture influences choices and behavior.  Ten years later, we remain steadfast in supporting progress toward stronger, healthier cultures in the financial services industry.
+
+I am heartened that so many members of the industry see culture as an important component of its success. I encourage your efforts to make progress and build healthier cultures in finance on a global scale.
+
+Thank you.

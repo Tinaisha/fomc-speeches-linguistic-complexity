@@ -1,0 +1,127 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/per250509
+
+Recent Developments in Treasury Market Liquidity and Funding Conditions
+
+May 09, 2025
+
+Roberto Perli
+
+8th Short-Term Funding Markets Conference, Federal Reserve Board, Washington, DC
+
+It is a pleasure to join you this morning.1
+
+I am grateful to the organizers for inviting me to participate in this year’s Short-Term Funding Markets Conference, which examines a rich set of topics that are core to monetary policy implementation, such as the quantity of reserves, demand elasticities of different investors in the Treasury cash and repo markets, the convenience yield of Treasury securities, and much more.
+
+Today, I will discuss a few aspects of these topics that I find particularly relevant in the current environment, especially considering the market volatility we saw in the first two weeks of April.
+
+But first, I will make the usual disclaimer that these remarks reflect my own views and do not necessarily represent those of the New York Fed or the Federal Reserve System.
+
+I will start by reviewing recent developments in Treasury market liquidity, something that I and my colleagues on the Federal Reserve’s Open Market Desk (the Desk) monitor closely. Well-functioning Treasury cash and repo markets are of course essential for the effective transmission and implementation of monetary policy.
+
+A key point that I would like to emphasize is that, although liquidity in Treasury cash markets became strained in early April, those markets continued to function, in part because of the resilience of funding liquidity in the Treasury repo market. That resilience, even amid heightened yield volatility, likely prevented the unwind of certain shorter-term relative value trades, which would have exacerbated market dislocations. And funding liquidity resilience was likely helped by the robust rate control framework that the Federal Reserve has put in place. Finally, I will conclude with some thoughts on how implementation tools, such as the Standing Repo Facility (SRF), can be refined to further strengthen the implementation framework and the resilience of Treasury funding liquidity.
+
+A Deterioration in Treasury Cash Market Liquidity, but Scant Signs of Dysfunction
+
+As we all witnessed, financial markets had a strong reaction to the April 2 announcement of significantly higher-than-expected tariffs. Risk assets sold off as investors called into question previous assumptions about the U.S. macroeconomic outlook.
+
+Initially, Treasury yields dropped, in a classic flight-to-safety pattern. After a few days, however, longer-term Treasury yields started to rise sharply. One factor that appears to have contributed to this unusual pattern is the unwinding of the so-called swap spread trade.2 Reportedly, many leveraged investors were positioned to benefit from a decrease in Treasury yields of longer maturity relative to equivalent-maturity interest rate swaps, partially due to the expectation for an easing of banking regulation that would bolster bank demand for Treasuries. Since swap spreads are defined as the swap rate minus the Treasury yield, leveraged investors were making a directional bet that swap spreads would increase.
+
+However, on the heels of the tariff announcement, swap spreads started to decline and made the swap spread trade increasingly unprofitable. Because this trade is usually highly leveraged, prudent risk management dictated that the trade should be quickly unwound, which is what appears to have happened. The unwinding involved selling longer-term Treasury securities, which likely exacerbated the increase in longer-term Treasury yields.
+
+All told, by April 11, longer-term Treasury yields were about 30 basis points higher than their April 2 level (Panel 1). Interest rate volatility rose significantly (Panel 2) and prompted a notable deterioration in Treasury cash market liquidity, meaning that it became more difficult and costly to transact in Treasury securities.
+
+Various measures of illiquidity in the Treasury cash market rapidly neared or even exceeded the levels seen in March 2023 during the banking sector stress episode. Importantly, though, they remained well below their March 2020 levels.
+
+As shown in Panel 3, indicative bid-ask spreads for longer-term off-the-run nominal Treasury securities and for TIPS (Treasury Inflation-Protected Securities) jumped quickly and approximately doubled in size, before partially recovering in subsequent weeks. Bid-ask spreads of on-the-run securities increased as well, but to a lesser extent, and they reversed faster. However, market depth in the 10-year on-the-run nominal security, as measured by the number of buy and sell orders at various price levels in interdealer broker order books, declined to about one-quarter of recent levels, before starting to recover fairly quickly (Panel 4).
+
+Diminished liquidity was also reflected in the TIPS liquidity premium estimated using the term structure model of D’Amico, Kim, and Wei (2018), which at shorter maturities jumped by about 30 basis points in one week—a magnitude highly unusual in such a short time.
+
+The deterioration in Treasury market liquidity was real and significant. Still, it was not exceptional, in the sense that it was largely commensurate with the increase in interest rate volatility. This can be seen in Panel 5, which shows a 10-year on-the-run illiquidity index relative to one-month implied rate volatility.3 The red dots, which correspond to the period between early April 2025 and the present, are about in line with the historical relation between illiquidity and interest rate volatility. For comparison, the green dots represent what happened in March 2020, when liquidity became much worse than predicted by volatility alone.4 It is easy to see that the recent illiquidity episode was not nearly as disruptive as the unfolding of the COVID-related crisis.5
+
+And this is a crucial point: The Treasury market behavior in the first couple of weeks of April was unnerving, but it was nowhere close to what happened in March 2020. Unlike then, in April the Treasury market continued to function adequately despite poor liquidity, in the sense that dealers continued to manage substantial two-way trading flows, and investors were still largely able to execute trades in a timely manner and at prices that did not diverge significantly from their predicted values, as evidenced, for example, by contained yield curve fitting errors.
+
+There are probably several reasons why that proved to be the case, starting from the fact that the shock—in the form of the unexpectedly high tariffs—seems less severe than the economic and market disruptions that followed the onset of COVID-19 and was mitigated by the announcement of a 90-day pause in tariff implementation a week later. But an important reason, from my perspective, is that funding liquidity remained plentiful. So, I want to turn next to a discussion of Treasury repo market conditions.
+
+Treasury Repo Market Conditions
+
+Here I define funding liquidity within the Treasury repo market as the ability to finance existing and new Treasury positions via repos in a timely fashion and at a predictable cost—that is, with little rollover risk. Usually, when funding liquidity is adequate, mispricing across Treasury markets is expected to be limited because investors can finance the transactions to take advantage of arbitrage opportunities.
+
+In April, repo market functioning remained orderly, with limited Treasury repo rate variability and no apparent issues with dealer intermediation. Panel 6 shows that Treasury repo rates—as measured by the Tri-Party General Collateral Rate (TGCR), represented by the light blue line, and the Secured Overnight Financing Rate (SOFR), represented by the dark gray line—were somewhat volatile but traded within recent ranges, even at the peak of liquidity strains in the Treasury cash market. And various proxy measures of dealer intermediation costs in the Treasury repo market remained within recent historical ranges. In contrast, repo intermediation costs jumped in March 2020 as funding liquidity broke down.6
+
+With repo rates relatively steady and with the supply of reserve balances remaining clearly abundant, the stability of the effective federal funds rate (EFFR) within the trading range set by the FOMC was never in question.7 That was obviously important because rate control is crucial for the effective implementation of monetary policy.
+
+No Evidence of Unwind of the Basis Trade
+
+The stability of funding liquidity was important also because it likely prevented further selling pressures in the Treasury market. For example, a disruption of funding liquidity could have prompted an unraveling of convergence trades such as the cash-futures basis trade, where investors seek to profit from small differences between the prices of Treasury securities and Treasury futures contracts.8 In the case of the cheapest-to-deliver (CTD) security, the basis is sure to converge to zero over a predetermined short horizon.9
+
+The total volume of basis trades is estimated to be large. In March 2025, leveraged funds’ notional value of short Treasury futures positions with maturities up to 10 years—one rough proxy for hedge funds’ basis trading volumes—stood at about $1 trillion, well above levels observed in February 2020.10 The sudden unwind of those trades could have been an additional and significant source of market instability due to associated selling pressures that could have overwhelmed dealers, whose balance sheet capacity was already limited.
+
+One factor that could lead to a rapid unwind of the basis trade is substantial repo rate volatility or a persistent increase in repo rates, which could in turn increase the cost of financing the position and therefore make it unprofitable. But this by and large did not happen in April since repo rates were fairly stable and dealers remained willing and able to intermediate. As a result, according to Desk staff’s estimates, the basis remained relatively stable. This stands in sharp contrast to March 2020, when the basis jumped by about 100 basis points and the unwinding of basis trades was likely an important contributor to the sharp dislocation in the Treasury market we observed at that time.11,12
+
+Preserving Confidence in Funding and Market Liquidity
+
+The financial market developments described so far illustrate the importance of preserving funding liquidity to support broader market functioning. When funding liquidity remains stable, as it did in early April, it is less likely that a deterioration of market liquidity will spiral into market dysfunction. This is because market participants can still finance their transactions, and arbitrage does not break down. In other words, because of the widespread presence of leveraged investors in the Treasury market, funding liquidity reinforces market liquidity.
+
+Funding liquidity is more likely to remain plentiful if money market rates are not too volatile, which, in turn, depends on the availability and efficacy of monetary policy implementation tools for ensuring rate control within the Federal Reserve’s ample reserves framework.13 The Federal Reserve has two such tools that work alongside the discount window and the payment of interest on reserves. The Overnight Reverse Repo (ON RRP) facility helps put a floor under money market rates by allowing money funds and some other entities to place cash at the Federal Reserve at a predetermined rate. Similarly, the SRF helps support market functioning and dampen upward pressure on money market rates by allowing primary dealers and certain depository institutions to obtain liquidity from the Federal Reserve at a rate equal to, or potentially slightly higher than, the facility’s minimum bid rate.
+
+The SRF is an important part of the Federal Reserve’s toolkit, particularly when liquidity conditions tighten. This is why we are always evaluating its parameters in an effort to keep enhancing its effectiveness where possible. As part of this evaluation, the Desk has conducted technical exercises that consisted of morning SRF operations that also settle in the morning, carried out in addition to the long-standing operations that take place and settle in the afternoon.
+
+The Desk conducted an early-settlement SRF small-value exercise for the first time on March 5 to test capabilities. Given the positive assessment and feedback received, the Desk conducted early-settlement SRF operations, in addition to the afternoon operations, each day from March 27 through April 2, spanning the March quarter-end.14 The operations went smoothly and were regarded as successful.
+
+Our market outreach following the March quarter-end revealed that primary dealers see the early-settlement SRF operations as an enhancement that increases the likelihood that the SRF will be used when economically convenient to do so. This is especially true for non-U.S.-bank-affiliated primary dealers, though this group is relatively small and accounts for only about a tenth of primary dealer repo borrowing. Dealers also reported that early settlement lowers hurdle rates—that is, the rate in excess of the SRF rate they are willing to pay in the market before choosing to access the SRF.
+
+This is all encouraging feedback. Based on it, the Desk plans on making early-settlement SRF auctions part of the regular SRF daily schedule, at some point in the not-too-distant future. These early-settlement auctions, combined with the current afternoon auctions, will enhance the effectiveness of the SRF as a tool for monetary policy implementation and market functioning.
+
+This does not mean that there won’t be room for further improvement. Notably, reported hurdle rates in the tri-party repo market segment, where the SRF operates, are materially higher than the SRF rate. In other words, our counterparties tell us that they need to see market rates somewhat above the SRF rate before being willing to access the facility. There are several reported reasons why this might be so, ranging from the inability to take advantage of balance sheet netting when borrowing from the SRF, to reporting requirements, to supervisory treatment of SRF borrowings, to details about the design of the facility and its parameters. Where possible, Federal Reserve staff will continue to look for ways to improve the efficacy of the SRF.
+
+Conclusion
+
+To conclude, the good functioning of the Treasury market is essential for the smooth implementation and transmission of monetary policy, and thanks in part to the resilience of funding liquidity, the Treasury market has continued to function well even amid a deterioration of liquidity conditions. At the same time, thinking of ways of appropriately enhancing the effectiveness of Fed facilities is at the core of our mission. The high-quality research that will be presented at this conference, geared toward a better understanding of Treasury repo and cash market functioning, is extremely helpful to us. It is my hope that my remarks provided some food for thought and encourage more research on these topics.
+
+With that, I look forward to your questions and the rest of today’s program.
+
+References
+
+Banegas, Ayelen, Phillip J. Monin, and Lubomir Petrasek. “Sizing hedge funds' Treasury market activities and holdings,” FEDS Notes. Washington: Board of Governors of the Federal Reserve System, October 6, 2021.
+
+Barth, Daniel, and Jay Khan. “Basis Trades and Treasury Market Illiquidity.” Office of Financial Research Brief Series, July 16, 2020.
+
+D'Amico, Stefania, Don H. Kim, and Min Wei. "Tips from TIPS: The Informational Content of Treasury Inflation-Protected Security Prices," Journal of Financial and Quantitative Analysis. 53(1):395-436, 2018.
+
+Duffie, Darrell, Michael Fleming, Frank Keane, Claire Nelson, Or Shachar, and Peter Van Tassel. “Dealer Capacity and U.S. Treasury Market Functionality.” Federal Reserve Bank of New York Staff Reports, no. 1070, August 1, 2023. Revised October 2023.
+
+Feldhütter, Peter, and David Lando. “Decomposing swap spreads.” Journal of Financial Economics, 88 (2), 375–405, 2008.
+
+Glicoes, Jonathan, Benjamin Iorio, Phillip Monin, and Lubomir Petrasek. "Quantifying Treasury Cash-Futures Basis Trades," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, March 08, 2024.
+
+Logan, Lorie. “The Federal Reserve’s Market Functioning Purchases: From Supporting to Sustaining”, remarks at SIFMA Webinar, July 15, 2020.
+
+Perli, Roberto. “Current Issues in Monetary Policy Implementation”, remarks before the Money Marketeers of New York University, New York City, March 5, 2025.
+
+1 I would like to thank Stefania D’Amico, Deborah Leonard, and Eric LeSueur for their assistance in preparing these remarks, and Navya Sharma and Rachel Wilson for their assistance with the presentation.
+
+2 Swap spread trades exploit the difference between Treasury yields and equivalent-maturity swap rates. In a “long” swap spread position, a Treasury security purchase is usually financed through repos while taking on a leveraged swap position that pays a fixed rate and receives a floating rate (in this case, the Secured Overnight Financing Rate), thereby earning the spread between the two rates net of financing costs. In the U.S., swap spreads have been negative, as Treasury yields have been trading above equivalent-maturity swap rates. For a detailed discussion of the pricing of swap spreads see Feldhütter and Lando (2008).
+
+3 The illiquidity index is obtained as the first principal component of multiple on-the-run liquidity measures: bid-ask spreads, realized volatility, average trade size, volume, price impact, and order book depth.
+
+4 See Duffie et al. (2023).
+
+5 See, for example, Duffie et al. (2023).
+
+6 For example, the spread between the interdealer Treasury General Collateral Finance repo (or GCF Repo®) rate and TGCR widened nearly 60 basis points on March 16, 2020, and by about five basis points on April 3, 2025.
+
+7 I have discussed our reserve conditions indicators and abundant reserve conditions in past speeches. See, for example, Perli (2025).
+
+8 See equation 1 in Glicoes et al. (2024).
+
+9 In particular, hedge funds and dealers engage in the cash-futures basis trade by selling Treasury futures and simultaneously purchasing certain Treasury securities financed in the repo market, which makes the trade a highly leveraged one. The expected return on this trade is derived from the difference between the cash-futures implied repo rate and the maturity-matched term repo rate. Unlike the swap spread trade, the CTD basis trade is non-directional, in the sense that it does not require a bet on the direction of the basis—the basis is sure to converge to zero over a predetermined short horizon, typically less than a quarter given futures contracts’ quarterly expiration schedule.
+
+10 CFTC leveraged fund net short positions in Treasury futures with maturities up to 10 years were over $1 trillion in March 2025 and $660 billion in February 2020. There are many ways to dimension the size of the basis trade but no proxy appears perfect. Estimates tend to range from $600 billion to $1 trillion. Many use CFTC positioning data for leveraged funds, but of course there can be other reasons unrelated to the basis trade for leveraged funds to short Treasury futures. SEC Form PF data shows that Qualifying Hedge Funds held roughly $1.9 trillion of long Treasury positions as of Q4 2024, although the same caveat applies.
+
+11 See Figure 8 in Logan (2020).
+
+12 Banegas, Monin and Petrasek (2021) find that hedge funds on net sold approximately $173 billion in Treasury securities during March 2020, with the selling concentrated in funds that were identified as likely basis traders. However, there is some disagreement about the importance of the unwind of the cash-future basis for Treasury market illiquidity, see for instance Barth and Kahn (2020).
+
+13 Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019.
+
+14 For further details see Federal Reserve Bank of New York, Statement Regarding the Standing Repo Facility from March 27 through April 2, March 5, 2025.

@@ -1,0 +1,85 @@
+https://www.philadelphiafed.org/the-economy/banking-and-financial-markets/250410-a-look-at-fintech-from-the-inside-to-the-upside
+
+A Look at Fintech from the Inside to the Upside
+
+Patrick T. Harker
+
+10 Apr 2025
+
+Fintech and Financial Institutions Conference | Philadelphia, PA
+
+Good afternoon and, once again, welcome to the Federal Reserve Bank of Philadelphia.
+
+My thanks to you all for being here, to Paul Laux and all the other organizers from the University of Delaware for leading the effort organizing this conference, and to my colleague Vitaly Meursault for his leadership on behalf of the Philly Fed.
+
+If there’s one thing I’ve learned during all my time as president and CEO of the Philly Fed, and before this as president of the University of Delaware and dean of the Wharton School at the University of Pennsylvania, it’s to never speak more than necessary, especially when lunch is involved! So, I hope to keep my remarks relatively brief.
+
+As many of you may know, for each of the past seven years, the Philadelphia Fed has convened a fall conference focused mostly on the consumer side of the fintech space. This conference has helped make our Bank a thought leader at the heavily trafficked intersection of finance and technology.
+
+But, as I said, that fall meeting, while adding truly vital knowledge to the public sphere, has largely brought together practitioners. Today, we welcome the researchers and specialists whose work has been at the front end of the topics the fall conference covers. So here, we get to discuss the theoretical which underpins the practical. Put the two conferences together, and we are fully rounding out our understanding of fintech.
+
+Or, if I may use a truly Philly example, we now have both the soft pretzel and the mustard. Or the cheese and the steak. Or the — well, you get the idea.
+
+But before I dive further into any of this, I must first dispense with a small piece of official business — the standard Fed disclaimer! The views I present today are my own and do not necessarily represent those of my colleagues on the Federal Open Market Committee or within the Federal Reserve System.
+
+Now, I must begin by explaining why I take such a great interest in fintech, and why I am proud that, throughout my tenure as president and CEO of the Philly Fed, we have carved out our place in this field. For those of you who don’t know me, I’m not a trained economist. By education, I am an engineer. I came to economics, quite frankly, to help me solve an engineering problem! But, truth be told, over the subsequent years I have found, happily, that economics and engineering really aren’t that far apart.
+
+Surely, I’m not the first to have this revelation, either. In fact, John Hayford, who served as director of the College of Engineering at Northwestern University in the early 20th century, wrote an essay all the way back in 1917 for the Journal of Political Economy titled “The Relation of Engineering to Economics,” in which he said:
+
+"Economics and engineering are closely related. Economics has been defined as the social science of earning a living. With the same appropriateness, engineering may be defined to be physical science applied to helping groups [. . .] to make a better living."
+
+When we take a deeper look at that statement, one word comes to mind: efficiency.
+
+Whether we come to a systemic challenge as an economist or as an engineer, the initial task is to measure whether that system is operating at optimal efficiency. That is the ultimate key to progress. And, if maximum efficiency isn’t being achieved, then the goal becomes to get there.
+
+And few spaces allow for us to see this nexus of economics and engineering, and its broad impacts, quite like fintech. We have, over the course of not only the past century but also just within the past couple of decades, participated in a movement of society from one where cash went from being a tactile good — printed paper and minted metal — to becoming a digital good — a series of zeroes and ones. Fewer and fewer people are carrying physical wallets filled with currency in favor of metaphorical wallets and direct-payment apps on their smartphones.
+
+All within the span of a few years.
+
+The explosion of fintech options has been nothing short of a sea change in how we look at, interact with, and even conceive of money. Fintech has been a great disruptor, in a mostly positive meaning of that term.
+
+Through fintech, both individuals and institutions have been able to close transactions more quickly — just think of how many parents no longer have to snail-mail a check to their child at college when they can just send the funds over the internet. And fintech has also helped improve access to credit — again, why wait weeks to get cleared for a personal loan or mortgage when you can get an instant approval over an app.
+
+These advances appear to be an overwhelming victory for efficiency. But are they truly? Certainly, from a viewpoint of system speed, they are. Waiting for a check to travel across the country and clear surely takes more time than money sent through an instant payment app. But here I would ask us to think about whether speed should be our only measurement and defining ideal.
+
+This is particularly important when it comes to issues of AI and machine learning. I, for one, would heed the caution expressed by my colleague here at the Philadelphia Fed, Economic Advisor and Economist Lukasz Drozd, in a recent article for our quarterly research journal:
+
+“The concerning aspect of AI [. . .] is that it is a major general purpose technology with the potential to broadly and persistently tilt the incoming flow of new capital-productivity-augmenting innovations toward those that automate tasks, rather than augment the productivity of capital in previously automated tasks.”
+
+To further refine my answer to this question of efficiency, I also turn to the book, The Great Reversal, by New York University economist and Max L. Heine Professor of Finance Thomas Philippon. I found his writings salient to the program of the fall fintech conference — and I find them perhaps even more so here.
+
+According to Philippon’s research and data, the share of U.S. Gross Domestic Product claimed by financial intermediaries in 2010 was roughly 8 percent. In contrast, in 1880, it was 2 percent. And while this figure had bounced around a bit in the interim, it had never exceeded 6 percent until rapidly increasing in the 1980s. And from there it kept growing.
+
+Now, this growth should make sense to us given the proliferation of financial products and services over the past four decades and growth of jobs for those whose work has helped those products and services come to market. But the paradox that Philippon uncovered in this data is that the unit cost of financial intermediation — or the cost of providing a service to a consumer — had remained roughly constant around 2 percent.
+
+And that goes all the way back to the start of his data in the 1880s.
+
+This, as he stated, creates a puzzle — if we have so much more invested in the intermediary systems that enhance the operational speed at which our financial system works, why has the cost at the consumer’s end remained steady? Now, his subsequent research, in which he added an additional five years of data, showed that this unit cost had decreased slightly from 2010 and 2015 yet still remained stubbornly close to that 2 percent level. But no one can claim that the financial system of 1880 is on par with 2025, let alone 2015, from a standpoint of operational efficiency.
+
+So, the overall question I believe we must ask is why hasn’t this decrease been greater and more observable? Consumer choice has exploded as many barriers to entry have been scaled down or eliminated. And here is where we can welcome John Hayford back into the conversation, because here is where economics and engineering merge.
+
+And, to be sure, I don’t mean “here” in the figurative sense for the purposes of my remarks, because they are actually converging at this conference.
+
+First, I would suggest that we have an invaluable opportunity to look anew at how new fintech applications are constructed, how they intend to operate, and which systems they intend to improve upon if not replace outright. The road from theory to practice is never a straight line, nor perhaps should it be. Research should lead to testing, which should feed back to additional research and then more testing, before a final product is rolled out to the market.
+
+And even then, even after that instance of commercialization, the work should not stop. We must go back and constantly evaluate the data and ensure that what worked on paper, and then in a controlled experimental setting, is now working at large. As we know, algorithms often need review.
+
+This is where the Federal Reserve’s interests lie. It’s why the efforts of Vitaly and his colleagues here who are focused on machine learning and AI are so critical. One of the core functions of the Federal Reserve, after all, is to ensure the stability of the United States’ financial system. So yes, we have an inherent role in ensuring fintech advances live up to their promise.
+
+Moreover, however, I would also offer that there is no inherent aversion to new technologies within the Fed — in fact, I would look no further than the FedNow instant payment system as an example of the Federal Reserve System bringing some of the same technologies available to consumers and implementing them for financial institutions.
+
+The underlying reason for our interest is the simple reality that technological innovation is happening, and if it’s not happening here, it’s happening somewhere else. And given the Federal Reserve System’s preeminence in matters of financial stability and security, it is a no-brainer that we should seek to become not just thought leaders but thought-and-practice leaders. We may not be developing consumer products here within these walls but the research we are conducting in machine learning and AI, and even beyond into the realm of quantum computing, can certainly provide perspective for those who are doing the coding and creating.
+
+We know how important it is to ensure that new systems are built on a solid technological foundation. And by that I don’t simply mean that an app is properly coded so it won’t crash on the end user. I also mean that the data being used to underpin that app’s function is properly utilized and stripped of potential biases.
+
+If the great promise of fintech is leveling the playing field and eliminating barriers to entry then we cannot risk having that promise broken because an imperfect algorithm, built around imperfect data, leads to a biased outcome. But let us take that a step further and imagine that multiple institutions or apps are utilizing the data. The impact of flawed data could fan out across the consumer landscape. And as we know from practice, reining in a bad algorithm is perhaps just a notch above trying to put toothpaste back into the tube.
+
+I would suggest that for all its immense promise, as a very first step, we must agree that machine learning is only as good as the data we’re asking the machines to learn.
+
+And in this, perhaps we can find the solutions that will make both the John Hayfords and Thomas Philippons of the world happy — that at this nexus of finance and engineering we will not only be able to make systems run better and more smoothly for consumers and institutions, but also perhaps drop that unit cost of intermediation and deliver systemic savings.
+
+And that, I would say, would be a maximally efficient use of our efforts.
+
+So, with that, I shall conclude and allow you to enjoy what remains of your lunches and resume the conversations which began earlier this morning.
+
+I again thank you for your participation in this inaugural conference. I wish you all the best for a productive convening.

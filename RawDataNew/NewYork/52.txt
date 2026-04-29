@@ -1,0 +1,109 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/per251112
+
+Money Market Conditions and the Federal Reserve’s Balance Sheet
+
+November 12, 2025
+
+Roberto Perli
+
+2025 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+It is a pleasure to offer closing remarks after another excellent U.S. Treasury Market Conference.1 A well-functioning and liquid Treasury market is in all of our interests, and indeed the national interest. This conference is an important forum that brings together policymakers, academics, regulators, market participants, and others to step back from the day-to-day and discuss big-picture issues that affect this vital market.
+
+It took a lot of behind-the-scenes work to put together this event, and I want to thank all the staff from the Joint Member Agencies who contributed to making the day run so smoothly.2 I also want to thank the excellent speakers we heard from for sharing their insights, and everyone who came and participated in this event.
+
+As the System Open Market Account (SOMA) Manager, it is my job to brief the Federal Open Market Committee (FOMC) on financial market developments and oversee the Open Market Trading Desk’s (the Desk) execution of monetary policy as directed by the FOMC. A particular focus over recent months has been monitoring and assessing reserve conditions, to assist the Committee in determining when it would be appropriate to stop shrinking the balance sheet. As you know, the Committee made that decision at its October meeting, with portfolio runoff ending effective December 1.3 In my remarks today, I will discuss the changes in money markets that prompted that decision and outline some next steps for management of the Federal Reserve’s balance sheet.
+
+But, first, let me offer the usual disclaimer that these views are my own, and not necessarily those of the Federal Reserve Bank of New York, the Federal Reserve System, or any other organization.4
+
+A Brief Review of Balance Sheet Reduction
+
+Let me start with a little history. As you know, the Federal Reserve added a significant amount of assets to its balance sheet between March 2020 and early 2022 to support the economy and the smooth functioning of financial markets (Panel 1 and 2). Thanks to the ample reserves monetary policy implementation framework that the Committee officially adopted in 2019, the additional reserves created by those asset purchases did not impair the Federal Reserve’s ability to control the federal funds rate.5 Still, many of those reserves were not necessary for rate control. In fact, reserves were so plentiful that banks no longer found it necessary to compete for them, and excess liquidity migrated from the banking sector to money market funds. In terms of the Federal Reserve’s balance sheet, this showed up as reserves fluctuating between $3.1 trillion and $3.4 trillion for most of the runoff period, with occasional excursions outside that range (Panel 3 and 4). A large portion of the additional liquidity created by asset purchases instead appeared as balances in the Fed’s overnight reverse repo facility (ON RRP). Usage of that facility rose well above $2 trillion.
+
+In May 2022 the Committee announced its plans for reducing the size of the balance sheet and said that it would do so until reserves reached a level somewhat above ample.6 As I have discussed previously, I believe that market indicators can be a useful tool for determining when reserves approached ample, rather than trying to estimate that level ex ante.7 When reserves are abundant, banks have little incentive to hold onto a marginal dollar of reserves for precautionary reasons, and money market rates are generally stable and close to the floor set by our administered rates. As reserves move from abundant toward ample levels, money market rates become more responsive to changes in reserves and start moving upward relative to administered rates.
+
+Indeed, as the balance sheet shrank, money market conditions gradually tightened, and we observed first the reemergence of repo-rate volatility on month- and quarter-ends (Panel 5), then pressure developing on other Treasury securities settlement dates and tax dates, and more recently firmer repo rates on any given day.8
+
+As this process unfolded, recognizing that it would be preferable to approach the ample level of reserves at a slower speed, the Committee decided to reduce the pace of runoff, first roughly halving it in May 2024 and then reducing the pace further in March 2025.9 The latter decision was supported also by considerations stemming from the debt limit: Based on past experience, we projected that, until the debt limit was addressed, the Treasury would draw down on its Treasury General Account (TGA) balance held at the Fed. This in turn would boost reserves, leading to a material—but temporary—easing in money market conditions. Again based on past experience, we expected that the Treasury would have to rebuild its TGA balance fairly rapidly after the resolution of the debt limit, thus draining reserves and tightening money market conditions over a short period of time. These shifts in Fed liabilities would cloud our assessment of reserve conditions, and meant that conditions could be materially tighter when the TGA rebuild was complete.10 And that, indeed, is what occurred.
+
+Recent Money Market Conditions
+
+The Treasury began to rebuild its TGA balance in early July. This involved a rapid increase in net bill issuance and a commensurate drain of system liquidity. Between early July and mid-September—when the TGA reached around $800 billion—the ON RRP fell from a balance of about $200 billion to de minimis levels, and reserves fell by $350 billion. The ON RRP had provided a pool of funds that could shift into the private repo market if repo rates were even a few basis points above the ON RRP rate. With the ON RRP effectively drained and balance sheet reduction ongoing, repo rates now had to increase more meaningfully to entice a marginal dollar of additional cash into the market. Reflecting this, from around late August, repo rates began to rise relative to the rate of interest paid on reserve balances (IORB) and became more sensitive to changes in liquidity conditions (Panel 6).
+
+Repo rates have traded sustainably above the Effective Federal Funds Rate (EFFR) since September alongside further rises in the TGA and declines in reserves.11 This has been apparent in the Tri-Party General Collateral Rate (TGCR)—indicative of the rate at which dealers borrow from clients in the tri-party repo market—and even more so in the broader Secured Overnight Financing Rate (SOFR).
+
+Higher repo rates have pulled up federal funds rates within the target range, as you would expect.12 Over the past two months the EFFR has increased by four basis points relative to IORB, and the cumulative distribution of federal funds trades has noticeably shifted to the right, reflecting higher rates being paid by a variety of banks (Panel 7). This includes those banks that borrow primarily to earn IORB, and those that borrow to meet funding or liquidity needs.
+
+The dynamic of higher repo rates pulling up the EFFR is also what we saw during the last period of balance sheet runoff (Panel 8 and 9). When repo rates rise sustainably above the EFFR, the Federal Home Loan Banks (FHLBs), which are the main lenders in the federal funds market, have an incentive to reallocate cash into higher-yielding repo.13 This can result both in FHLBs cutting back lending in federal funds at lower rates, and in more FHLB bargaining power for those trades that continue. Either way, the result is an upward shift in the EFFR.
+
+Tighter money market conditions and increasing repo rates have also led to increased usage of the Standing Repo Facility (SRF) (Panel 10). Prior to mid-September, we had only seen material SRF usage around a couple of month- and quarter-end dates, when the usual reporting date pressures pushed some repo rates above the SRF minimum bid rate. By contrast, over the past two months, repo rates—including in the tri-party segment of the market where we operate the SRF—have climbed above the SRF minimum bid rate on some days, and the facility has seen more frequent usage and larger volumes.
+
+Tri-party repo rates occasionally rising somewhat above the top of the target range is not concerning because the target range is defined in terms of the federal funds rate. It is also not unheard of from a historical perspective as repo rates are inherently more volatile than federal funds rates (Panel 11). However, tri-party repo rates persistently or substantially above the top of the target range would be more problematic because they could pull up the EFFR and pose difficulties for rate control. This is why having a ceiling tool like the SRF is of fundamental importance.
+
+Although the SRF has seen more frequent usage of late, as I said, a notable amount of repo transactions still have taken place in the market at rates above the SRF minimum bid rate. Our market outreach suggests that some dealers may be unwilling to negotiate with money market funds, or divert funding to the SRF in large size, if repo pressures are moderate and only expected to last for short periods of time. In part this might be because relationships matter in the repo market; dealers value the stable funding flows that money market funds provide, and if the added cost of borrowing from a money market fund at a somewhat elevated rate is only modest, they may prefer to absorb that cost. This may change, however, as SRF usage becomes more commonplace—similar to how the existence of the ON RRP came to provide money market funds with negotiating leverage when reserves were abundant, and in so doing provided the Fed with very strong rate control. And even as of now, if repo pressure persisted, or intensified, I do expect that the SRF will be used more broadly and to a much larger extent, thus dampening the upward rate pressure. I will have some more thoughts on the SRF shortly.
+
+Returning to our assessment of reserve conditions, the rate pressures I mentioned also resulted in notable movement in some of our reserve ampleness indicators, as shown in the spiderweb chart in Panel 12. The share of repo transactions taking place at rates above IORB has reached levels seen in late 2018 and 2019. The share of interbank payments settled late in the day has also shifted out to late-2018 and 2019 levels as banks have delayed payments, possibly to economize on reserves. And the share of borrowing in the federal funds market by domestic banks has increased as well, albeit less so.
+
+The estimated elasticity of the demand curve for reserves has thus far remained stable.14 The estimation, however, is likely being contaminated by the lagged effects of the debt limit situation; in the period ahead, we would expect that we will see the elasticity becoming progressively larger, like it did in 2018 when the federal funds rate started increasing.
+
+Considered together, higher money market rates, increased SRF usage, and shifting reserve ampleness indicators are strong evidence that reserves are no longer abundant. In its May 2022 plans, the Committee stated that it would stop runoff when reserves were somewhat above an ample level. Consistent with this, the Committee decided at its most recent meeting to stop runoff effective December 1.
+
+The Path Ahead for the Balance Sheet
+
+I’d now like to discuss what that means in practice for our management of the SOMA portfolio going forward. Starting in December, the Desk will keep the size of the SOMA securities portfolio constant by rolling over maturing Treasury securities at auction and reinvesting principal payments from agency securities into Treasury bills through secondary market purchases.15 This reinvestment strategy will slowly shift the composition of the SOMA portfolio toward Treasuries, in line with the Committee’s longer-run objective of a portfolio consisting primarily of Treasury securities.16 Additionally, purchasing bills will move the maturity structure of our Treasury holdings closer to that of total outstanding Treasury debt. Recall that the SOMA portfolio is significantly underweight bills and significantly overweight long-term coupon securities, relative to the Treasury universe.17 While this reinvestment strategy will move the SOMA portfolio toward a more proportionate composition, it does not preclude any future Committee decisions around the portfolio’s longer-run composition.
+
+Even as we hold the size of the SOMA portfolio constant, reserves balances will continue to decline as our non-reserve liabilities, such as currency, continue to expand with the growth of the economy. All else equal, demand for reserves is also likely to increase over time as the banking system expands. At some point, therefore, it will be appropriate to start increasing the size of the SOMA portfolio. The exact timing will depend on several factors, but, as President Williams said, given what we know today we probably won’t have to wait long. Of course, organic growth of the portfolio to accommodate a growing demand for Federal Reserve liabilities absolutely does not represent a change in the underlying stance of monetary policy.18
+
+Why the SRF Is Important
+
+I’d like to conclude with some observations on how the Fed’s operational framework contributes to the stability of the Treasury market.
+
+The Fed’s ample reserves regime has functioned very well, promoting effective rate control over a wide range of economic and financial market conditions. Policy rate control is of course critical for monetary policy implementation and the monetary policy transmission process, but it also supports a well-functioning Treasury market, which is an evergreen area of focus for this audience and conference.
+
+As I have discussed in the past, the resilience of funding liquidity in the Treasury repo market is important for the stability and functioning of the Treasury market, and by extension, most other markets.19 One reason is that levered investors hold a growing portion of Treasury securities and are key participants in auctions. Some repo rate volatility is not problematic and is arguably beneficial for allowing markets to send signals on market conditions. However, if repo funding costs become too volatile and unpredictable, the likelihood of forced liquidations of repo-financed Treasury positions increases, and that would create instability in the Treasury cash market and related market segments.
+
+The SRF is an essential part of our toolkit that supports the effective implementation of monetary policy and smooth market functioning, thereby helping us achieve strong rate control.20 Given the criticality of those aims, it is desirable and fully expected that the SRF be used whenever it is economically sensible to do so. Our counterparties participated in large scale in the repo operations that the Federal Reserve offered in the past; if it makes economic sense, there is no reason why sizeable participation cannot take place now that repo operations are offered twice daily on a standing basis. Stable, efficient, and well-functioning repo markets are in everyone’s best interest and vital for ensuring rate control, and the SRF is a crucial tool in supporting those objectives.
+
+Thank you again to all involved in this excellent conference.
+
+1 I would like to thank Richard Finlay and Eric LeSueur for their assistance in preparing these remarks, and Navya Sharma and Zack Youngblood for their assistance with the presentation.
+
+2 The Joint Member Agencies are the U.S. Department of the Treasury, the Board of Governors of the Federal Reserve System, the Federal Reserve Bank of New York, the U.S. Securities and Exchange Commission, and the U.S. Commodity Futures Trading Commission. In particular, I would like to acknowledge those that supported the logistics of today’s event, including Veronika Batista, Ellen Correia Golay, Trevor Graney, Brian Greene, and Jacqueline McInerney.
+
+3 See Board of Governors of the Federal Reserve System, FOMC statement, October 29, 2025.
+
+4 The repo market indicator I discuss later makes use of data collected under the authority of the U.S. Department of the Treasury’s Office of Financial Research (OFR). The views expressed in the speech do not represent the views of the OFR, the Financial Stability Oversight Council, or the U.S. Department of the Treasury.
+
+5 See Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019.
+
+6 See Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+7 See, for example, Roberto Perli, Balance Sheet Normalization: Monitoring Reserve Conditions and Understanding Repo Market Pressures, remarks at 2024 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City, September 26, 2024.
+
+8 See Roberto Perli, Balance Sheet Normalization: Monitoring Reserve Conditions and Understanding Repo Market Pressures, remarks at 2024 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City, September 26, 2024, and Facing Quarter-End Pressures: Understanding the Repo Market and Federal Reserve Tools, remarks at New York University Stern School of Business, New York City, November 12, 2024.
+
+9 See Board of Governors of the Federal Reserve System, FOMC statement, May 1, 2024, and FOMC statement, March 19, 2025.
+
+10 See Roberto Perli, Current Issues in Monetary Policy Implementation, remarks before the Money Marketeers of New York University, New York City, March 5, 2025.
+
+11 The Treasury manages the TGA in accordance with its stated policy of holding enough cash to cover one-week-ahead needs. See discussion of the Treasury’s cash management policy in U.S. Department of the Treasury, Remarks by PDO Assistant Secretary McMaster Before the 2025 Annual Primary Dealer Meeting at the Federal Reserve Bank of New York, September 29, 2025.
+
+12 The Committee’s operating target is the federal funds rate, and its mandate is to achieve maximum employment and stable prices. Changes in the target range transmit readily to EFFR and other money market rates. A robust link between the EFFR and other money market rates is the first step of the monetary policy transmission process.
+
+13 For more information on the dynamics of the federal funds market, see Gara Afonso, Gonzalo Cisternas, Brian Gowen, Jason Miu, and Joshua Younger, Who’s Borrowing and Lending in the Fed Funds Market Today?, Federal Reserve Bank of New York Liberty Street Economics, October 10, 2023.
+
+14 See Reserve Demand Elasticity, Federal Reserve Bank of New York.
+
+15 See Federal Reserve Bank of New York, Statement Regarding Reinvestment of Principal Payments from Treasury Securities and Agency Securities, October 29, 2025.
+
+16 See Board of Governors of the Federal Reserve System, Principles for Reducing the Size of the Federal Reserve's Balance Sheet, January 26, 2022.
+
+17 See, for example, Roberto Perli, Current Issues in Monetary Policy Implementation, remarks before the Money Marketeers of New York University, New York City, March 5, 2025.
+
+18 See John Williams, Next Level Unlocked, remarks at 2025 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City, November 12, 2025.
+
+19 See Roberto Perli, Recent Developments in Treasury Market Liquidity and Funding Conditions, remarks at the 8th Short-Term Funding Markets Conference, Federal Reserve Board, Washington, DC, May 9, 2025.
+
+20 See, for example, Gara Afonso, Lorie Logan, Antoine Martin, William Riordan, and Patricia Zobel, The Fed's Latest Tool: A Standing Repo Facility, Federal Reserve Bank of New York Liberty Street Economics, January 13, 2022.

@@ -1,0 +1,153 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/wil250825
+
+All the Stars We Cannot See
+
+August 25, 2025
+
+John C. Williams
+
+Banco de México Centennial Conference, Mexico City, Mexico
+
+Introduction
+
+Good afternoon. It’s a privilege to be a part of the celebration of Banco de México’s Centennial. I was especially honored when Governor Rodriguez asked me to discuss a favorite topic of mine—and one that economists have obsessed over for even longer than a century. Of course, I am talking about r-star, the natural rate of interest.
+
+What’s fascinating about variables like r-star is that while they are unobservable, they go to the very heart of monetary theory and practice. Just as the septillion stars we cannot see are vital to the existence of the universe, the constellation of economic stars is critical to our understanding of the economic universe we inhabit.
+
+Today I will address three questions pertaining to the importance, measurement, and use of time-varying unobservable variables at central banks. While I will focus primarily on r-star, I should emphasize from the start that most of what I’ll talk about is applicable to a range of variables—including the closely related u-star and y-star.
+
+My remarks will center around the stars from a “longer-run” perspective—that is, the “normal” values expected to prevail after cyclical fluctuations have fully played out and the economy is expanding at its trend rate in the absence of upward or downward pressures on inflation.
+
+Before I go further, I’ll provide the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or any others in the Federal Reserve System.
+
+Why Central Banks Care
+
+I’ll start with the first question: If r-star, u-star, and y-star cannot be observed or directly measured, why do central banks care so much about them? Are they too abstract and elusive to be of practical value?
+
+The short answer is that they play a central role in macroeconomic theory and have important implications for the conduct of monetary policy. R-star is the real short-term interest rate that is expected to prevail when the economy is at full strength and inflation is stable. Y-star is potential GDP. And u-star is the level of unemployment when an economy is at its potential. When the stars perfectly align, it means the economy has reached an equilibrium where its resources are fully utilized. As seen in Figure 1, y-star and r-star tell us what the economy looks like in that equilibrium.
+
+Therefore, the star variables provide key benchmarks for the economy and, in the case of r-star, the stance of monetary policy.1 This role of the stars is nicely illustrated by the Taylor rule, which stipulates that the interest rate should depend on the inflation rate, the deviation of output from y-star, and r-star.2 In addition, r-star has another important implication for monetary policy: A low r-star implies the economy can encounter more frequent and longer periods when monetary policy is constrained by the effective lower bound on nominal interest rates, potentially impeding the achievement of a central bank’s inflation goals and other macroeconomic objectives.3
+
+Uncertainty Clouds the Sky
+
+The central role of the natural rate of interest has long been recognized by leading monetary theorists ever since the Swedish economist Knut Wicksell wrote about it in 1898.4 And in the 1960s, the concepts of y-star and u-star gained attention in the context of macroeconomic stabilization policy.5
+
+Through the decades, economists routinely stressed that natural rates are neither fixed in time nor easy to discern.6 Regarding r-star, the economist John H. Williams said in 1931 that “the natural rate is an abstraction; like faith, it is seen by its works.”7 Milton Friedman noted in 1968 that economists had yet to devise a method to accurately estimate both the natural rate of interest and unemployment, observing that “the ‘natural’ rate will itself change from time to time.”8 And in our paper on estimating r-star and y-star, Thomas Laubach and I concluded with: “Estimates of a time-varying natural rate of interest, like those of the natural rates of unemployment and output, are very imprecise and are subject to considerable real-time mismeasurement.”9 The uncertainty surrounding the stars is not a failure of theory or data. Rather, it is inherent to the problem of estimating a time-varying, potentially nonstationary, unobserved variable in a dynamic and constantly changing global economy.
+
+This uncertainty complicates policymaking in practice. Figure 2 updates a chart from my work with Athanasios Orphanides that illustrates this challenge.10 It compares real-time and retrospective estimates of the natural rate of unemployment in the United States for 1960 to 2025. Gaps between real-time and ex post estimates of u-star have been sizable and highly persistent. And this comparison likely understates the problem for policymakers because even with hindsight, we lack 20/20 vision of the stars.
+
+The challenges in measuring natural rates can have profound policy and economic consequences. Indeed, monetary policymakers’ overreliance on what turned out to be mistaken views of natural rates contributed to poor macroeconomic performance and unmooring of inflation expectations in the U.S. during the late 1960s and 1970s.11
+
+Measuring the Stars
+
+So, given the uncertainty around the stars, how do central banks measure them?
+
+There is a large existing literature on measuring y- and u-star, so I will devote my limited time to measuring r-star. This issue gained in importance in the 1990s when people started using versions of the Taylor rule for monetary policy analysis. The original Taylor rule assumed r-star was 2 percent, which prompted a number of natural questions—pardon the pun—from policymakers: Is 2 percent the right number? Does it change over time? And how would we know?12 These questions also led to a surge of research on these topics, including my own.
+
+To infer r-star from data, three approaches have emerged: 1) using a statistical method to extract a longer-run trend, 2) basing it on financial market or survey data, and 3) looking at r-star’s effects on economic data.13 Each potentially provides useful information, but each also poses significant challenges.
+
+As shown in one of my papers with Thomas Laubach, univariate statistical methods such as the HP filter generally do not provide reliable measures of r-star. In particular, these estimates can be overly influenced by large macroeconomic disturbances, such as the inflation of the 1970s or the pandemic.14
+
+Financial market and survey data are more promising sources of information in that they can tell us what people think about r-star. That said, market participants face the same challenges in measuring the stars that economists do, and therefore they do not really serve as truly independent sources of information on r-star. This is what I have referred to as a “hall of mirrors.”15 Indeed, market- and survey-based measures can give a false sense of precision since the reported values do not convey the uncertainty underlying them.
+
+In addition, financial market measures of r-star are contaminated by liquidity and risk premiums, making a direct read of “what the markets think” elusive. Various term structure models have been developed that aim to provide a better measure of r-star, but these estimates can vary widely.16 In any case, recent research suggests that market-based measures have not been better predictors of future interest rates than model estimates, and as such are not particularly useful independent guides to r-star.17
+
+That leaves us with model-based estimates of r-star that, in the spirit of the quote from John H. Williams, aim to infer r-star by its “works”—that is, from its effects on the economy. A variety of such models have been developed over the past quarter century. Although they differ in details, the core assumption is that aggregate demand depends in part on the difference between the real interest rate and r-star. Thus, by observing the movements of demand, real interest rates, and other relevant macroeconomic variables, one can infer the likely value of r-star.
+
+With open capital markets, r-star is inherently a global phenomenon affected by global movements in supply and demand for savings. For that reason, I will focus on global trends affecting r-star rather than on differences across countries.
+
+Model-based estimates of r-star in many countries exhibited a sizable downtrend over the quarter-century leading up to the COVID-19 pandemic.18 Figure 3 shows GDP-weighted averages of estimates of trend GDP growth and r-star from the Holston-Laubach-Willams (HLW) model for Canada, the Euro Area, the United Kingdom, and the United States for 1986 to 2025.19 A variety of factors contributed to this decline in r-star, including fundamental shifts in demographics and productivity growth.
+
+Two powerful demographic trends have affected r-star: People are generally living longer, and birth rates are declining. Overall life expectancy in member countries of the Organization for Economic Co-operation and Development (OECD) has increased dramatically over the past several decades and is expected to grow further. At the same time, falling birth rates have led to stalling population growth. For example, among OECD economies, population growth averaged about 1 percent during the 1970s and 1980s, but it is now averaging about one-quarter of a percent per year. And this figure is expected to turn negative in about 15 years.20
+
+Amid these demographic shifts, the growth in global labor productivity—the amount produced per worker hour—has slowed. For example, productivity growth for the four economies shown in Figure 2 decreased from about 2 percent over 1996 to 2005 to about 1 percent over 2006 to 2023.
+
+The combination of slowdowns in population and productivity growth implies a slower rate of trend GDP growth and therefore less demand for investment to support a growing economy than before. This slowdown in trend growth of potential output is seen in the HLW estimates shown in the figure. In addition, greater longevity boosts the supply of savings as households build larger nest eggs for their longer period of retirement.
+
+The big question today is whether the era of low r-star will endure. The global demographic and productivity growth trends that pushed r-star down have not reversed. As seen in the figure, the HLW estimates of trend growth for four economies remain relatively low, similar to the levels that prevailed directly before the onset of the pandemic.
+
+Of critical importance, the GDP-weighted estimates of r-star for these four economies—Canada, the Euro Area, the United Kingdom, and the United States—are around half of a percent, similar to the comparable real-time estimates from the period prior to the onset of the pandemic.21 This finding that r-star has not meaningfully rebounded is in line with evidence from a variety of models of r-star in the U.S., which show a relatively modest increase of one-quarter to one-half of a percentage point in real-time estimates of r-star between the third quarter of 2018 and the first quarter of 2025.22 Based on this evidence, the era of low r-star appears far from over.
+
+Putting the Stars to Work
+
+So, I’ve talked about why central banks care about star variables and how they measure them.
+
+Now I will address the third and final question: How are star variables used by central banks?
+
+Despite the uncertainty around these time-varying unobservablevariables, model-based estimates of r-star, u-star, and y-star provide valuable information on how the economy and interest rates will likely evolve over the medium term. And, as I mentioned, estimates of r-star are foundational to considering the potential effects of the effective lower bound and strategies to mitigate its effects.23
+
+In addition to their role in internal analysis, the stars have increasingly become an aspect of central bank transparency and communication. Transparency—including the clear communication of a central bank’s strategy and reasoning behind policy decisions—is a key principle in conducting monetary policy. As Alan Taylor recently noted, “there is value for central banks in communicating policymakers’ beliefs about the neutral interest rate whether it be some collective view or that of any individual member.”24
+
+Many central banks now regularly communicate their analyses of star variables, including r-star, u-star, and y-star. For example, the Banco de México, Riksbank, Norges Bank, and Central Bank of Brazil publish ranges of estimates of r-star.25 The Bank of Canada and European Central Bank publish ranges of staff estimates.26 And the FOMC publishes policymakers’ estimates of the natural rates of interest and unemployment as part of the Summary of Economic Projections.27
+
+Although these estimates are useful for analysis and transparency, policymakers are well advised to avoid placing too great confidence in precise estimates of the stars in making real-world assessments and decisions. Given the wide range of uncertainties, acting as if one knows the star variables when making policy can lead to persistent deviations of inflation from the target that risk unmooring inflation expectations.28
+
+Fortunately, research has shown that approaches that don’t rely as much on estimates of starred variables and instead “follow the data” perform well when uncertainty is very high. One such approach is “difference rules,” where the short-term nominal interest rate is raised or lowered in response to inflation and changes in economic activity. Hybrid approaches that combine some aspects of the response of Taylor-type rules and difference rules have been shown to perform well in models in the presence of a wide range of uncertainties.29 Of course, in the end, policy decisions must be based on the totality of information and assessments, including those related to risks.30
+
+Don’t Give Up
+
+I’ll end my remarks where I started. For over 125 years, economists have grappled with a dilemma: How can a concept at the very heart of monetary theory be so vexing to quantify? The star variables are either explicitly or implicitly at the core of any macroeconomic model or framework one can imagine. Wishing away the economic stars does not change that.
+
+In that context, it is important that we do our best to understand the factors that influence the stars and the uncertainties related to them. In this way we can attain the best understanding of the forces affecting the evolution of the economy and monetary policy as we carry out our mandates.
+
+These issues have been challenging central bankers since even before the founding of Banco de México. For the past quarter century, central banks have been at the forefront of this research, and I very much hope that will continue. Thank you.
+
+1 Thomas Laubach and John C. Williams, 2003. “Measuring the Natural Rate of Interest,” The Review of Economics and Statistics 85(4): 1063–70; Athanasios Orphanides and John C. Williams, 2002. “Robust Monetary Policy Rules with Unknown Natural Rates,” Brookings Papers on Economic Activity, 2: pp. 63–145.
+
+2 John B. Taylor, 1993. “Discretion versus Policy Rules in Practice,” Carnegie-Rochester Conference Series on Public Policy 39, pp. 195–214.
+
+3 David Reifschneider and John C. Williams, 2000. “Three Lessons for Monetary Policy in a Low-Inflation Era,” Journal of Money, Credit and Banking 32(4), Part 2: 936–66; Thomas M. Mertens and John C. Williams, 2021. “What to Expect from the Lower Bound on Interest Rates: Evidence from Derivatives Prices,” American Economic Review 111(8): 2473–505.
+
+4 Knut Wicksell, 1898. Interest and Prices: A Study of the Causes Regulating the Value of Money. Translated by R. F. Kahn, London: Macmillan, published 1936.
+
+5 See Arthur M. Okun, “Potential GNP: Its Measurement and Significance,” American Statistical Association, Proceedings of the Business and Economics Statistics Section (1962); Milton Friedman, 1968. “The Role of Monetary Policy,” American Economic Review 58(1): 1–17; Athanasios Orphanides and John C. Williams, “Monetary Policy Mistakes and the Evolution of Inflation Expectations,” in Michael D. Bordo and Athanasios Orphanides, eds., The Great Inflation: The Rebirth of Modern Central Banking (Chicago: University of Chicago Press, 2013, 255-88), and references therein.
+
+6 For additional references, see John C. Williams, “R-Star: A Global Perspective,” remarks at the ECB Forum on Central Banking, Sintra, Portugal, July 3, 2024.
+
+7 John H. Williams, 1931. “The Monetary Doctrines of J. M. Keynes,” The Quarterly Journal of Economics 45(4): 547-87.
+
+8 Milton Friedman, 1968. “The Role of Monetary Policy,” American Economic Review 58(1): 1–17.
+
+9 Thomas Laubach and John C. Williams, 2003. “Measuring the Natural Rate of Interest,” The Review of Economics and Statistics 85(4): 1063–70.
+
+10 Athanasios Orphanides and John C. Williams, 2002. “Robust Monetary Policy Rules with Unknown Natural Rates,” Brookings Papers on Economic Activity, 2: pp. 63–145. See also Athanasios Orphanides and Simon van Norden, “The Unreliability of Output-Gap Estimates in Real Time” (The Review of Economics and Statistics 84(4), 2002), 569–83, and John C. Williams, “The Perennial Problem of Predicting Potential” (FRBSF Economic Letter 2017–32, November 6, 2017), for further discussion of challenges in estimating potential output.
+
+11 Athanasios Orphanides and John C. Williams, “The Decline of Activist Stabilization Policy: Natural Rate Misperceptions, Learning, and Expectations,” Journal of Economic Dynamics and Control 29(11): 1927–50; Athanasios Orphanides and John C. Williams, “Monetary Policy Mistakes and the Evolution of Inflation Expectations,” in Michael D. Bordo and Athanasios Orphanides, eds., The Great Inflation: The Rebirth of Modern Central Banking (Chicago: University of Chicago Press, 2013, 255–88).
+
+12 John C. Williams, “Measuring the Natural Rate of Interest: Past, Present, and Future,” remarks at the Thomas Laubach Research Conference, Board of Governors of the Federal Reserve System, Washington, D.C., May 19, 2023.
+
+13 John C. Williams, “R-Star: A Global Perspective,” remarks at the ECB Forum on Central Banking, Sintra, Portugal, July 3, 2024.
+
+14 Thomas Laubach and John C. Williams, 2016. “Measuring the Natural Rate of Interest Redux,” Business Economics, 51: 57–67.
+
+15 John C. Williams, 2017. Comment on “Safety, Liquidity, and the Natural Rate of Interest,” by Marco Del Negro, Marc P. Giannoni, Domenico Giannone, and Andrea Tambalotti, Brookings Papers on Economic Activity, 1: pp. 235–316.
+
+16 See Sophia Cho and John C. Williams, “Are Financial Markets Good Predictors of R-Star?,” Liberty Street Economics, August 25, 2025.
+
+17 Alan M. Taylor, Lennart Brandt, and Vitor Dotta, “Does R* Predict Policy Rates?,” note prepared to accompany remarks made by Alan Taylor at the ECB Forum on Central Banking in Sintra, Portugal, July 2, 2025; Sophia Cho and John C. Williams, “Are Financial Markets Good Predictors of R-Star?,” Liberty Street Economics, August 25, 2025.
+
+18 John C. Williams, “The Global Growth Slump: Causes & Consequences,” a public lecture hosted by Macquarie University, Sydney, Australia, June 27, 2017.
+
+19 The HLW estimates for the United Kingdom are no longer updated or published. The UK estimates used here are based on the UK model’s parameter estimates from the fourth quarter of 2019.
+
+20 United Nations, World Population Prospects: The 2024 Revision.
+
+21 Compare to Williams (2017).
+
+22 Sophia Cho and John C. Williams, “Are Financial Markets Good Predictors of R-Star?,” Liberty Street Economics, August 25, 2025.
+
+23 David Reifschneider and John C. Williams, 2000. “Three Lessons for Monetary Policy in a Low Inflation Era,” Journal of Money, Credit and Banking 32(4): 936–66; Andrea Ajello, Isabel Cairó, Vasco Cúrdia, Thomas A. Lubik, and Albert Queralto, 2020. “Monetary Policy Tradeoffs and the Federal Reserve’s Dual Mandate,” Board of Governors of the Federal Reserve System, Finance and Economic Discussion Series, no. 2020-066, August.
+
+24 Alan Taylor, “Unexpected Curves,” remarks at the ECB Forum on Central Banking in Sintra, Portugal, July 2, 2025. See also Glenn D. Rudebusch and John C. Williams on the value of publishing interest rate projections: “Revealing the Secrets of the Temple: The Value of Publishing Central Bank Interest Rate Projections,” in John Y. Campbell, ed., Asset Prices and Monetary Policy (University of Chicago Press, 2008), 247–84.
+
+25 Bank of Mexico, Quarterly Report, January – March 2025; May 28, 2025; Riksbank, Monetary Policy Report, June 2025; Norges Bank, Monetary Policy Report, 2/2025, June 18, 2025; Central Bank of Brazil, Monetary Policy Report, June 2024.
+
+26 Bank of Canada, Assessing the U.S. and Canadian Neutral Rates: 2025 Update, June 2025; European Central Bank, Estimates of the Natural Interest Rate for the Euro Area: An Update, published as part of the ECB Economic Bulletin, Issue 1/2024.
+
+27 Board of Governors of the Federal Reserve System, Federal Reserve Board and Federal Open Market Committee release economic projections from the June 17-18 FOMC meeting, June 18, 2025.
+
+28 John C. Williams, “Uncertainty and Robust Monetary Policy,” remarks at the Reykjavík Economic Conference, Reykjavík, Iceland, May 9, 2025.
+
+29 Athanasios Orphanides and John C. Williams, 2007. “Robust Monetary Policy with Imperfect Knowledge,” Journal of Monetary Economics 54(5): 1406–35.
+
+30 John C. Williams, “R-Star: A Global Perspective,” remarks at the ECB Forum on Central Banking, Sintra, Portugal, July 3, 2024.

@@ -1,0 +1,91 @@
+https://www.philadelphiafed.org/the-economy/250414-fed-101-a-broad-look-at-the-federal-reserve-and-its-role
+
+“Fed 101”: A Broad Look at the Federal Reserve and Its Role
+
+Patrick T. Harker
+
+14 Apr 2025
+
+Villanova School of Business Lecture Series | Villanova, PA
+
+Good afternoon. It is an honor and a pleasure to be here.
+
+Thank you, Adam, for that wonderful introduction.
+
+And thank you, as well, to Dr. Mary Kelly for the invitation to speak this evening.
+
+This is the second year in a row that I’ve been asked to come out to Villanova and speak and I cannot say how much I appreciated the return invite. As president and CEO of the Federal Reserve Bank of Philadelphia, I get to speak before and meet with a tremendous variety of people. And I'm lucky that includes getting back to my roots in academia — as president of the University of Delaware, and before that as dean and professor at the Wharton School at the University of Pennsylvania — and interacting with students.
+
+So, because of this, I want to make sure I leave plenty of time for us to interact. So, I’ll get on with my prepared remarks and then we can have a conversation. Right at the top, I must do away with a little piece of official business, and that is the standard disclaimer that I must make before every public appearance: The views I express this evening are my own and do not necessarily represent those of anyone else in the Federal Reserve System or my colleagues on the Federal Open Market Committee (FOMC).
+
+By the end of this evening, I hope I will have provided some insight into how I view my work with the Federal Reserve and, in particular, the Philadelphia Fed.
+
+Perhaps most important, I hope I may say something that might inspire you to consider the Federal Reserve System as a place in which you can envision yourself for your career. For those of you who are studying economics, specifically, the Federal Reserve is arguably the largest employer of economists in the United States.
+
+Even for those of you who are not on track to become economists, there may be a future for you at the Fed, as well. And I say this from experience. Full disclosure, I didn’t major in economics. I majored in engineering, specifically civil engineering. Further, engineering is what I hold my doctorate in! I am what you could call an “accidental economist.” Some years ago, I was working on an engineering problem related to railroads and I realized that to truly appreciate the impacts of the project, I needed to understand the economics of the project, as well. So, back to school I went!
+
+In the end, it all makes sense, because both engineering and economics are disciplines in which the end goal is to understand how systems work so that we can improve them and make them more efficient and effective.
+
+But I am getting way ahead of myself.
+
+Allow me to provide, briefly, what I like to call “Fed 101.” Because I know, through my experience, that the Federal Reserve is seen by some to be a bit of a mystery.
+
+Since its creation in 1913 — in response to a series of financial panics which rattled the national economy as well as destroyed the savings of many Americans — the main role of the Federal Reserve, as the nation’s central bank, has been to utilize the tools of monetary policy available to us to help the economy stay on an even, forward course.
+
+But to fully understand what the Fed is, one first needs to understand what the Fed is not. The Fed is not “the economy.” If you want to see the real economy, look at those sitting next to you and then look in the mirror. It is each of you, as consumers, as potential employees, or as potential business owners and employers, who are the economy.
+
+It is your decisions that ultimately have the greatest impact on our collective economic direction. The monetary policy work of the Fed can influence those decisions in an effort to guide long-term economic growth or respond to emergent trends — think of how we raised the policy interest rate to try to slow overheated demand to alleviate inflation — but we cannot and do not control the decisions you make. While we can project what we think the economy may do in the coming weeks, months, or years, we have to act based on what it actually does.
+
+We are also independent within the government. The Board of Governors of the Federal Reserve System is appointed by the president of the United States with the advice and consent of the Senate. But the 12 Federal Reserve District Banks are independently chartered institutions. Certainly, the Board of Governors retains some purview over our work and operations, but by and large, I and my 11 colleagues at the District Bank level report not to Washington but to our own boards of directors and, by extension, our home communities.
+
+The Fed was set up to be a decentralized central bank. And, because of this, the Federal Reserve is able to operate in a space that I can only call radically nonpartisan. Surely, we operate within the fiscal and economic conditions fostered, or constraints imposed, by the decisions of elected policymakers. But we do not step explicitly into the partisan arena. This is a vital design feature as it allows for the Fed’s decisions to be made by looking across all the available data and responding to those scenarios alone.
+
+The North Star for all of our work is the Fed’s dual mandate. This is the charge handed to us by Congress to focus our work on two key goals: ensuring stable prices and achieving maximum employment. The research we undertake informs far-reaching economic and monetary policy decisions as we fulfill this charge. This is where all those economists I mentioned a moment ago are of great importance.
+
+Stable prices, as it sounds, are just that — it’s inflation. At the Fed, as with many other central banks around the world, we set a goal that annual inflation should be targeted at 2 percent annually, as measured by the Personal Consumption Expenditures index, or PCE. That’s our preferred measure over the more well-known Consumer Price Index, the CPI, because we believe it better captures the ways consumers act in the economy. Not that we don’t look at that CPI — trust me, we do.
+
+Maximum employment, strictly speaking, is the highest level of employment that the economy can sustain to maintain inflation at our 2 percent annual target. However, I prefer to take a more nuanced view. To me, achieving maximum employment does not mean simply getting to a condition where every employer can find a worker.
+
+As I have said to multiple audiences before, while job growth is important, I believe we must be promoting a climate in which workers can find jobs that are truly rewarding. In other words, I prefer that we don’t see a trade-off between job quality and job quantity.
+
+Looking around this room, I am concerned with creating economic conditions where each and every one of you will be able to find a job. But, more important to me, I want it to be a job where you are able to take full advantage of your education and skills, and where you can truly feel productive. I do not think you would consider anything less as having achieved your own “maximum employment” — and neither would I.
+
+Now, take that personal consideration and transpose it to the full economy. That’s my definition of maximum employment.
+
+So, now I hear some of you thinking, “OK, Pat, that’s great and all, but how do you get to the decisions you make?” That’s a really good question. And the truth is I don’t come to these decisions by myself. I truly rely upon the work of the entire staff of the Philadelphia Fed.
+
+For you economics majors, yes, this is where you come in, and in a big way. The raw economic data and its analysis forms the basis of many decisions. But to say that we’re only, in essence, an economic think tank looking at and charting numbers could not be further from the truth.
+
+Those numbers — inflation reports, employment reports, and more — are “hard data.” These data points are critical for us to build the long-term trend models crucial to setting policy. Yes, they are vital data points. But hard data has also its limits. For starters, each of these reports tells me what has already happened. They are a snapshot into a prior time. They tell what has already happened and may not necessarily tell what is happening.
+
+So, equally important to me is “soft data” — the real-time and on-the-ground information gleaned through survey research, the daily operations of the Philly Fed, and individual conversations I and many others have with contacts across Pennsylvania, Delaware, and New Jersey. Those interactions tell us how the economy is impacting families and businesses where it matters most, in the communities we serve and around kitchen tables.
+
+Moreover, soft data allows me to speak more directly when I’m joining my FOMC colleagues at our regular meetings in Washington. We all have access to the same numbers. The reports I can bring in from the field help add vital color to the black-and-white on the printed page. And this is where those who may not necessarily end up with an economics degree come in.
+
+Our supervisory and regulatory function works directly with community banks across the District to ensure trust in the financial institutions where millions of customers hold their savings. Their reports back to us really provide a good look into community financial conditions which can be a harbinger for conditions elsewhere.
+
+Our Cash Services team works every day to, quite literally, connect people with their money. Now, I recognize I’m speaking to the Smartphone Generation, and you each probably have one app or another on your phone to send and receive money. But if you have stopped at an ATM recently, that cash you withdrew, at some point, spent time in a Federal Reserve Bank. Those bank orders and the demand for cash give us a broad look inside whether, how much, and how often consumers are spending their money.
+
+But let’s dig a little deeper beyond just the financial side. We house a busy and impactful Community Development & Regional Outreach team which works directly with local officials, community bankers and business leaders, and nonprofit organizations, among others, to create plans, informed by Fed research, to enhance the economic lives of countless residents. This allows us an opportunity to have meaningful kitchen-table discussions.
+
+We have economic educators whose role is to inform students and consumers not just about the Fed but about the critical role they, as individual consumers, play in our economy. For example, consumers may make better decisions about using credit, for example, if they fully understand how credit works.
+
+Our communications team makes our work more visible and more easily understandable for the public. I know that many of us in the field tend to have our own lingo — don’t get me started about all the acronyms! — and it is crucial that all Americans can understand what we at the Fed do.
+
+We also have IT teams focused on emerging tech issues, including AI and machine learning and even quantum computing. The financial technology revolution is changing the very way people view and interact with money — think of those payment apps I just mentioned. Moreover, there are numerous issues related to financial security — both in enhancement and in the threats from hackers — we must understand.
+
+And on and on. So, suffice it to say that if you think that I’m just sitting in my office in Philadelphia waiting for official data reports to come across my desk you’d be mistaken. In fact, if I’m not in my office talking or meeting with people to gain the soft data I need, I’m most likely traveling around the Third District meeting people where they are. And if I’m not the one doing it, there’s a good chance someone else from the Philly Fed is.
+
+This willingness to be open to many voices is something that has not only shaped my decisions at the Philadelphia Fed but, in fact, helped shape my career. Remember, I’m not a trained economist, but a trained engineer! But almost every day I encounter an instance where the fields of engineering and economics intersect.
+
+Before I step out from behind this lectern and to hear from you, I want to leave one last piece of advice — just in case my advice to come work for the Federal Reserve wasn’t enough.
+
+I am soon going to reach the age and service limit to serve as president of the Philly Fed. On June 30, I’ll be retiring. So, tonight not only marks one of the last times I’ll be speaking before an audience, but you are also the last audience of students I will have the privilege to stand among. So, allow me to impart one of the lessons that has helped guide my career and which, I hope, will help you in yours.
+
+It is our nature to want to seek stability and certainty. And surely, that’s part of my job at the Fed, to help secure a stable and certain course for the economy. But the economy, like life, doesn’t always react in the ways we think it will or should, and so sometimes we’re challenged to rethink some of the assumptions we previously thought were maxims.
+
+Leaning into those situations with an open and calm mind — following what you see and not necessarily want you want to see — is how we tackle these challenges. It’s how we focus on the now and doing what’s best for the given moment. It is how we can seek to improve both the world around us and ourselves.
+
+So, once again, I thank you for being here and for allowing me to be a Wildcat for the night. I hope I have achieved my initial aim — to not just open the Fed a little bit but hopefully to open up your minds to the numerous career paths the Fed may offer you.
+
+I also wish you — and your professors — all the best as you work toward the end of the semester and the academic year. Let’s have a discussion.

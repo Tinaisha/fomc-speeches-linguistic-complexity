@@ -1,0 +1,132 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/wil240705
+
+Managing the Known Unknowns
+
+July 05, 2024
+
+John C. Williams
+
+the Suresh Tendulkar Memorial Lecture, Reserve Bank of India, Mumbai, India
+
+Introduction
+
+Good afternoon. It’s a privilege to speak at this lecture series in honor of Professor Suresh Tendulkar, the esteemed economist and policymaker. And I’m pleased to be here with my counterparts at the Reserve Bank of India.
+
+We all operate in a highly interconnected global economy. So, meeting with and learning from central bankers and other experts from around the world is an important part of my job. Many of the issues we face are unique, but many are similar, too.
+
+One theme that spans the globe has to do with managing the “known unknowns” of monetary policy. Alan Greenspan, the former Chair of the Federal Reserve, once said:
+
+“Uncertainty is not just a pervasive feature of the monetary policy landscape; it is the defining characteristic of that landscape.”1
+That certainly sums up our experience since the outbreak of the COVID-19 pandemic four and a half years ago. And uncertainty will continue to be the defining characteristic of the monetary policy landscape for the foreseeable future. This is especially true as we face issues like artificial intelligence, climate change, deglobalization, and innovations in the financial system—not to mention the perennial challenges of measuring the so-called star variables such as r-star.
+
+Today, I’m going to discuss several key principles that are at the heart of inflation targeting strategies and have proven foundational and invaluable in managing extreme uncertainty. These include accountability, transparency, and well-anchored inflation expectations. While my remarks in important ways are based on the experience of the U.S., these principles have much broader application in preparing policymakers for an uncertain future.
+
+Before I go further, I need to provide the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+The Pandemic Shocks
+
+To start today’s discussion, I want to set the context by illustrating the impact of just one facet of the extraordinary shocks and extreme uncertainty we’ve faced since the onset of the COVID-19 pandemic. In this case, I’ll look at the path of the New York Fed’s Global Supply Chain Pressure Index, which gauges global supply-chain disruptions.2
+
+In the spring of 2020, this index shot up to a level more than three standard deviations above its historical average. That fall, it plummeted to normal levels. By late 2021, it rose to more than four standard deviations above the historical average. It finally returned to normal levels last year.
+
+To put the rarity of such events in perspective, a single four-standard-deviation event would occur about once every 2,500 years based on a standard normal distribution.
+
+Global supply-chain disruptions, along with acute imbalances between supply and demand exacerbated by Russia’s war on Ukraine, caused inflation to skyrocket around the world. Inflation began to rise in 2021, peaking at over 7 percent in the U.S. in June 2022,3 the highest rate recorded in over 40 years. It followed a similar pattern in most OECD economies. But its trajectories were different across Asia. For example, in India, inflation was mostly fueled by rising food prices.
+
+While there are important differences in the sources of inflation, many central banks—including the Reserve Bank of India—have been faced with the same issue: How to restore price stability at a time when so many parts of our economies are spinning in unpredictable ways?
+
+Owning the Responsibility
+
+At the Federal Reserve, we did this by relying on central tenets of inflation targeting practiced in the U.S. and many other countries. In particular, I will emphasize three key principles that contributed to a prolonged period of price stability in the U.S. during the quarter century leading up to the pandemic.4
+
+The first principle is responsibility: Central banks must own the responsibility to deliver price stability and have independence to act to achieve it.
+
+This is a shift in thinking in many economies from prior decades, particularly the 1970s. During that time, many central bankers believed monetary policy could only play a minor role in reducing inflation. Others thought lowering inflation was completely outside of their control.5 This led to finger-pointing and confusion about whose job it was to restore price stability. The end result was persistent high inflation and economic stagnation.
+
+But history taught us that central banks can be more successful at delivering sustainably low inflation when they are accountable and independent.6,7 Today, regardless of economic shocks, changes in fiscal policy, or globalization and deglobalization swings, central banks recognize that attaining and maintaining price stability is their job to do.
+
+In the U.S., this responsibility is crystal clear.8 Price stability and maximum employment together make up the FOMC's dual mandate. When inflation rose persistently above our target, we acted decisively to bring inflation back down.
+
+Commitment to Transparency
+
+The second principle that helped us manage the known unknowns is transparency—including the clear communication of a central bank’s strategy, policy decisions, and an explicit numerical longer-run inflation target.
+
+For central banks, transparency enhances accountability and keeps them clearly focused on achieving their goals. For households and businesses, an explicit and credible inflation target helps take some of the uncertainty off the table so they can focus on planning for their future without having to worry about what will happen to inflation. By improving the public’s understanding of a central bank’s goals and actions, the central bank can enhance the effectiveness of monetary policy at stabilizing inflation and the economy.9,10,11
+
+For the Federal Reserve, these concepts—including a 2 percent longer-run inflation target—are outlined in the FOMC’s Statement on Longer-Run Goals and Monetary Policy Strategy, which it first announced in January 2012.12 In public communications throughout this latest inflationary episode, the FOMC has clearly, consistently, and repeatedly emphasized its strong commitment to its 2 percent inflation target, as well as its monetary policy strategy and decisions to achieve that goal.13
+
+Inflation is now around 2-1/2 percent, so we have seen significant progress in bringing it down. But we still have a way to go to reach our 2 percent target on a sustained basis. We are committed to getting the job done.
+
+Importance of Inflation Expectations
+
+The third key principle is well-anchored inflation expectations. This principle has become a bedrock of modern central banking, as economic analysis and history have shown that anchoring inflation expectations is important in maintaining low and stable inflation.14,15
+
+It is now evident that in the 1960s and 1970s, both short- and longer-term inflation expectations in the U.S. became unmoored, rising as actual inflation rose.16 This made it even more difficult for policymakers to maintain stable prices amid the shocks of that period.
+
+In contrast, well-anchored inflation expectations short-circuit so-called second-round effects in wage and price setting that exacerbate and prolong the effects of shocks like we saw during the 1970s. They also create a more favorable short-run trade-off in balancing inflation and employment objectives.17
+
+Central banks help anchor expectations by owning the responsibility to deliver price stability, publicly committing to an explicit inflation target, and taking the actions needed to ensure price stability. The connections between policy communications and actions, inflation outcomes, and expectations are at the core of policy strategies that are robust to extreme uncertainty, a topic that Athanasios Orphanides and I studied in a sequence of research papers.18
+
+Unlike the stylized textbook model of monetary policy, this approach recognizes the high degree of uncertainty in the economy. It also views the anchoring of expectations, or the lack thereof, as the outcome of monetary policy actions and communications. We show that when uncertainty is extreme, policies that are focused on keeping inflation near target—and do not rely too much on hard-to-measure variables like the natural rates of unemployment and interest—perform well at stabilizing inflation and unemployment.
+
+So, what do well-anchored inflation expectations look like? In practice, short- and, to some extent, medium-term expectations will be sensitive to economic shocks, rising and falling as inflation increases and moderates, even with well-anchored expectations. But if a central bank has credibility in achieving price stability, longer-term expectations should remain consistent with its inflation target, and the deviation of short- and medium-run expectations from levels consistent with the target should be temporary.19
+
+We saw this pattern reflected in the data from the New York Fed’s Survey of Consumer Expectations. As inflation started to rise in 2021, medium- and particularly short-term expectations increased considerably. But despite the severity of the shocks, longer-term inflation expectations remained remarkably stable and close to the FOMC’s 2 percent goal.20 Medium-term expectations returned to pre-pandemic levels in 2022. And short-term expectations followed suit in 2023.
+
+When the Facts Change
+
+Our three principles provide a strong framework to manage shocks and uncertainty. But they are not meant to be overly prescriptive on tactics. In monetary policy, it’s important to be nimble in execution even as one is steady in strategy.
+
+As John Maynard Keynes is often credited with saying, “When the facts change, I change my mind. What do you do, sir?”
+
+Here again, anchored in clear longer-run goals and strategy, communication is key.
+
+Policymakers base their decisions on the totality of the data. When the facts dictate a change, it’s crucial to discuss the reasons behind the changes and explain how we anticipate the economy will evolve. The FOMC does this through its post-meeting statements, the Chair’s press conferences, the quarterly Summary of Economic Projections, detailed FOMC meeting minutes, and policymaker speeches.
+
+Uncertainty in the Years Ahead
+
+I have talked about how the key tenets of inflation targeting—ownership of price stability and independence of action, transparency about goals and strategy, and a focus on anchored inflation expectations—have served us well in managing the extreme shocks and uncertainty of the past four and a half years. But uncertainty does not only dwell in the past.
+
+Despite the very best efforts of economists and others to understand how the economic environment is changing and what it means for monetary policy, we must accept that uncertainty will continue to define the future. These principles and lessons provide a strong foundation for monetary policy that is robust to uncertainty. And I am confident they will continue to serve us well against any challenges and uncertainties we may face ahead.
+
+
+1 Alan Greenspan, Risk and Uncertainty in Monetary Policy, remarks at the Meetings of the American Economic Association, San Diego, California, January 3, 2004.
+
+2 Federal Reserve Bank of New York, Global Supply Chain Pressure Index.
+
+3 As measured by 12-month change in the Personal Consumption Expenditures Price Index.
+
+4 John C. Williams, Connecting Theory and Practice, remarks at Hoover Institution Monetary Policy Conference, Stanford, California, May 3, 2024.
+
+5 Christina D. Romer and David H. Romer, “Lessons from History for Successful Disinflation,” University of California, Berkeley, May 12, 2024.
+
+6 Luis I. Jácome and Samuel Pienknagura, Central Bank Independence and Inflation in Latin America—Through the Lens of History, International Monetary Fund Working Paper Number 2022/186 (September 2022).
+
+7 D. Filiz Unsal and Chris Papageorgiou, Monetary Policy Frameworks: An Index and New Evidence, November 7, 2023.
+
+8 Jerome H. Powell, Monetary Policy and Price Stability, remarks at Reassessing Constraints on the Economy and Policy, Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, August 26, 2022.
+
+9 Anthanasios Orphanides and John C. Williams, 2005. “Imperfect Knowledge, Inflation Expectations, and Monetary Policy,” in The Inflation-Targeting Debate, Ben S. Bernanke and Michael Woodford (eds.). Chicago: University of Chicago Press for NBER, pp. 201 - 234. Glenn D. Rudebusch and John C. Williams, 2008.
+Revealing the Secrets of the Temple: The Value of Publishing Central Bank Interest Rate Projections, in Asset Prices and Monetary Policy, John Y. Campbell (ed.), Chicago: University of Chicago Press for NBER, pp. 247-284.
+
+10 Michael Woodford, 2012. Methods of Policy Accommodation at the Interest-Rate Lower Bound, in The Changing Policy Landscape, proceedings of the Federal Reserve Bank of Kansas City Jackson Hole Economic Policy Symposium, August 30 – September 1, pp. 185 – 288.
+
+11 Eric T. Swanson and John C. Williams (2014), “Measuring the Effect of the Zero Lower Bound On Medium- and Longer-Term Interest Rates,” American Economic Review 104(10): 3154-3185.
+
+12 Board of Governors of the Federal Reserve System, Statement on Longer-Run Goals and Monetary Policy Strategy, January 24, 2012.
+
+13 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, June 12, 2024.
+
+14 John C. Williams, Inflation Targeting and the Global Financial Crisis: Successes and Challenges, Essay presentation for the South African Reserve Bank, ”Conference on Fourteen Years of Inflation Targeting in South Africa and the Challenge of a Changing Mandate,“ Pretoria, South Africa, October 31, 2014.
+
+15 See Orphanides and Williams (2004, 2005, and 2007). There is a large theoretical and empirical literature on the formation of expectations. See, for example, Evans and Honkapohja (2001), Malmendier and Nagel (2016) , Coiboin et al. (2022), and references therein.
+
+16 Compared to today, measures of inflation expectations in the 1960s and 1970s, especially for longer-term horizons, were more limited. Even so, those data point to inflation expectations becoming unanchored then. For a more formal analysis of inflation expectations since the late 1960s, see Carlos Carvalho, Stefano Eusepi, Emanuel Moench, and Bruce Preston (2023), Anchored Inflation Expectations, American Economic Journal: Macroeconomics, 15(1): 1–47.
+
+17 Athanasios Orphanides and John C. Williams, 2013. “Monetary Policy Mistakes and the Evolution of Inflation Expectations,“ in The Great Inflation: The Rebirth of Modern Central Banking, ed. by Michael D. Bordo and Athanasios Orphanides, Chicago: University of Chicago Press, 255-97.
+
+18 Athanasios Orphanides and John C. Williams, 2005. Inflation Scares and Forecast-Based Monetary Policy, Review of Economic Dynamics, 8(2): 498-527; Anthanasios Orphanides and John C. Williams, 2005. “Imperfect Knowledge, Inflation Expectations, and Monetary Policy,” in The Inflation-Targeting Debate, Ben S. Bernanke and Michael Woodford (eds.). Chicago: University of Chicago Press for NBER, pp. 201 - 234; Athanasios Orphanides and John C. Williams, 2007. Inflation Targeting under Imperfect Knowledge, Economic Review (Federal Reserve Bank of San Francisco), 1-61; Athanasios Orphanides and John C. Williams, 2013. “Monetary Policy Mistakes and the Evolution of Inflation Expectations,“ in The Great Inflation: The Rebirth of Modern Central Banking, ed. by Michael D. Bordo and Athanasios Orphanides, Chicago: University of Chicago Press, 255-97.
+
+19 Athanasios Orphanides and John C. Williams, 2005. Inflation Scares and Forecast-Based Monetary Policy, Review of Economic Dynamics, 8(2): 498-527; John C. Williams, A Steady Anchor in a Stormy Sea, remarks at SNB-FRB-BIS High-Level Conference on Global Risk, Uncertainty, and Volatility, Zurich, Switzerland, November 9, 2022.
+
+20 Federal Reserve Bank of New York, Survey of Consumer Expectations, (May 2024 Survey).

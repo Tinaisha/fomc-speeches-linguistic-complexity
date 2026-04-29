@@ -1,0 +1,79 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20241023
+
+Recognizing the Impact of Community Colleges
+
+Oct. 23, 2024
+
+Tom Barkin
+
+2024 Virginia Education and Workforce Conference, Greater Richmond Convention Center, Richmond, Va.
+
+Highlights:
+Even as overall labor market conditions have loosened over the past year, employers in the skilled trades continue to report a lack of available workers.
+Community colleges seem to be the utility player of workforce development, able to fill a role at every stage of the talent pipeline. However, they face considerable skepticism around their effectiveness.
+Community colleges have historically been evaluated with the same metric as four-year institutions.
+In 2022, we launched a pilot of our Survey of Community College Outcomes to produce a more comprehensive metric of community college success that accounts for a broader number of students and outcomes.
+A community college succeeds when it provides its local area with what it needs. Our success rate allows for that. 
+Thank you for that kind introduction. I want to spend my time talking about a critical workforce partner: community colleges. Before I jump in, I should caution these are my thoughts alone and not necessarily those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+The Federal Reserve has a dual mandate: stable prices and maximum employment. In the interest of both sides of our mandate, we care deeply about labor market balance. What jobs and workers are available in the economy, and how aligned are the two?
+
+An Imbalance in the Skilled Trades
+The segment in which we hear the most imbalance, where available jobs outnumber available qualified workers, is the skilled trades. By skilled trades, I mean jobs in sectors like manufacturing and construction, but also in child care, or even parts of health care — such as nursing. You can also think of veterinary assistants or truck drivers. These positions do not necessarily require a bachelor’s degree, but they do require some education or training beyond a high school diploma. Oftentimes, the requirement is not a preference set by an employer, but a credential or licensing requirement set by regulation.
+
+The pandemic recovery exacerbated a preexisting imbalance. Labor demand increased thanks to historic federal investment in infrastructure and manufacturing, the rise of artificial intelligence and private investment in data centers, the growing demand for health care from our aging population, and a collective decision to adopt more pets. At the same time, on the supply side, employers reported a wave of retirements and increased competition from sectors that managed to improve their relative pay, such as leisure and hospitality and warehousing.
+
+Even as overall labor market conditions have loosened over the past year, employers in the skilled trades continue to report a lack of available workers. The overall supply of workers has improved, but the supply of workers with the right skills remains limited.
+
+Resolving this imbalance is crucial but challenging. One option would be to reduce demand for labor. And we do hear that strategy from employers. They are investing in automation and process improvements. Given the lack of available talent, they’re looking to do more with less.
+
+But an alternative option is to increase labor supply. And that’s still the strategy I hear most often. Employers want to hire more skilled workers. They just need to be able to find them first. 
+
+As the composition of the audience in this room makes clear, employers are not the only parties invested in strengthening the talent pipeline. Communities recognize that to be competitive, they need a robust workforce. They need to both attract new talent and, as is more the focus today, develop and retain homegrown talent.
+
+You’ve heard plenty of examples today of how communities are rising to the challenge — the sort of partnerships that move the needle on workforce. So, with the rest of my time today — instead of diving into additional partnership examples — I’ll focus on a type of institution that comes up time and time again as a preferred partner.
+
+Today, I want to talk about community colleges.
+
+Zooming in on Community Colleges
+We at the Richmond Fed have taken a particular interest in community colleges. They seem to be the utility player of workforce development, able to fill a role at every stage of the talent pipeline.
+
+They partner with elementary and middle schools to expose kids to in-demand skills and careers. They partner with high schools to offer advanced learning opportunities via dual enrollment, and to connect students with apprenticeships. They partner with four-year colleges to prepare students for a bachelor’s degree. They partner with communities to help build a talent pipeline for an area’s strategic sectors. They partner with employers to help train potential employees and upskill existing ones. You get the point; they are a key partner.
+
+Why are community colleges so well positioned to partner on workforce development?
+
+To start, their educational offerings often align with jobs in the skilled trades, the very segment of the labor market in which we hear the greatest imbalance. Additionally, offerings can be tailored to local needs. Students tend to come from a community college’s service area, so it makes sense for these institutions to develop deep relationships with the K-12 system, as well as local employers.
+
+Community colleges are also accessible. Their programs tend to be shorter duration and lower cost. They offer flexibility for nontraditional students who may study part time due to work or family responsibilities.
+
+But community colleges face a slew of challenges.
+
+For one, their operations are becoming more expensive. Student and employer demand are moving toward more costly programs that require pricey equipment or the recruitment and retention of faculty from well-compensated industries. Wraparound services, increasingly seen as essential for nontraditional students, also require more and more funding — just think about what’s happened to the cost of child care or mental health support.
+
+As costs increase, revenue is not guaranteed to follow. Total funding for community colleges generally sits below that of four-year institutions. Two-year enrollment nationally has stabilized but remains below pre-pandemic levels, challenging tuition revenue. Federal pandemic funding has mostly ceased, and the new gainful employment rules could reduce funding further.
+
+An Incomplete Measure of Community College Success
+This all begs the question: If community colleges play such a critical role in workforce development, why don’t they attract more support? We think it is because they are being evaluated on the wrong metrics.
+
+Before I say more about that, I want to be clear: We at the Richmond Fed are not policy advocates. We do not seek to direct enrollment, programming, or funding decisions. But given our dual mandate, we do seek to understand the forces at play in the labor market, and our data collection and analysis expertise allows us to fill information gaps. In the community college space, we saw a void, and I’m excited to share a bit about what we have been doing to fill it.
+
+Community colleges face considerable skepticism around their effectiveness. If you look up average graduation rates, their success rate is only about 30 percent. That’s about half the rate for four-year institutions.
+
+With that context, hesitation around enrollment and funding decisions is understandable: Parents and guidance counselors may hesitate to push students in their direction. Governments, philanthropies, and other potential funders may hesitate to invest in programming and initiatives.
+
+But you have to reconsider the assessment. Community college outcomes have historically been measured with the same metric as four-year institutions — the share of first-time, full-time, degree- and certificate-seeking students who finish within time and a half of expected graduation. This narrow definition of success does not account for part-time or returning students, or those who take a little longer to graduate, pursue a non-degree option, or transfer prior to graduation. That means community colleges are not assessed on many of the students they serve, and potentially, are not getting credit for many of the outcomes they achieve.
+
+A Flexible, Tailored Metric for Community College Success
+In 2022, we launched a pilot of our Survey of Community College Outcomes. Our intent was to produce a more comprehensive metric of community college success, as well as to gather information on little understood community college offerings like wraparound services and non-credit programs.
+
+Our success metric — the Richmond Fed Success Rate — measures success across a broader number of students and counts a broader set of outcomes. We recognize community colleges often serve a higher number of nontraditional students, so our cohort includes both full-time and part-time students, as well as both first-time and non-first-time students. We then consider the students in that broader cohort successful if they transfer, persist, graduate with an associate degree or certificate, or attain an industry-recognized certificate, credential or licensure. Essentially, if an achievement moves the needle on workforce, we count it as a positive contribution.
+
+We will be releasing 2024 survey data on November 19 in a public webinar and on our website. But for now, I can share that in our pilot years, we found that the traditional measure of success significantly undersold community college contributions — both the number of students they serve and how successful they are.
+
+Consider Virginia’s 23 community colleges. The traditional measure put their average success rate in 2023 at a little over 36 percent. Our measure came in at just under 63 percent. I think everyone in the room would agree that when considering a partner or a funding request, those two success rates likely lead to different decisions.
+
+At the end of the day, a community college succeeds when it provides its local area with what it needs. Our success rate allows for that; community colleges can be equally successful while serving students in different ways. At an urban college, a high success rate might come from a high share of students transferring to a nearby four-year institution. At a rural institution, a similarly high success rate might instead come from a high share of students who receive industry-recognized certificates to work for local employers.
+
+Our hope is that a tailored outcomes measure that allows for these varied definitions of success will improve the education-to-work pipeline. If community colleges know that contributions beyond degrees will be recognized, then they may be more willing to partner with employers and local schools to tackle workforce needs. If government and private funders better understand success rates, they may be more willing to invest. If parents and students perceive better outcomes, they may be more willing to enroll.
+
+I look forward to seeing what innovative partnerships emerge as a result of this new trove of data. Perhaps, we’ll even get to hear about them here in years to come. Thank you!

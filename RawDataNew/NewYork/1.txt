@@ -1,0 +1,87 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/wil250624
+
+The Totality of the Data
+
+June 24, 2025
+
+John C. Williams
+
+NY CREATES Albany NanoTech Complex, Albany, New York
+
+Introduction
+
+Hello, everyone. I’m so pleased to be here today.
+
+One of the most enjoyable parts of my job is meeting with business and community leaders to learn more about our local economies—their challenges and opportunities, their long-established businesses and new industries. It’s fitting that I started my visit in Schenectady, known as “The City that Lights and Hauls the World.” And now I’m here at the Albany NanoTech Complex, a hub for innovative, cutting-edge nanotechnologies. Both cities, just 20 miles apart, have made—and continue to make—important contributions to our regional and national economies.
+
+I’ll talk a bit about that today, although my focus will be on the U.S. economy. I’ll discuss what the soft and hard data are telling us, and how the totality of the data is informing my outlook for the economy.
+
+Before I go further, I must give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+The Capital Region
+
+As an economist and student of history, I can’t help but start with a few words about the Capital Region. In the 1880s, when Thomas Edison created components for his electrical illumination system and the Schenectady Locomotive Works built engines, few could have imagined the ways that electricity and locomotives would transform entire societies and economies. They represent what economists call general-purpose technologies, or GPTs.
+
+Today, many experts think that the latest GPT is artificial intelligence, or AI. And among the many research initiatives underway here are technologies that support the advancement of AI.
+
+In the 140 years between these GPT bookends, this region has continued to invest in new industries and training for workers, helping to drive the health of the local economy.
+
+The Soft Data
+
+Of course, all communities in the Federal Reserve’s Second District—which includes the Capital Region—are affected by national trends. In recent months, the changing landscape around fiscal and trade policies has heightened economic uncertainty among consumers, business owners, and financial market participants.
+
+As an economist and policymaker, I am always studying the data. Recently, there have been some interesting dynamics in both the soft data, which are typically survey measures of perceptions and expectations, and the hard data, which are economic readings of what has actually happened.
+
+I’ll start with the soft data. Over the past few months, surveys carried out by the New York Fed and others have highlighted a great deal of pessimism and uncertainty about the economic outlook. With respect to the Second District, our surveys of manufacturers and service firms indicate that economic activity has declined modestly, and concerns about tariffs are widespread. Several of my business contacts reported pulling back on capital spending and putting hiring on hold until the economic uncertainty lessens.
+
+In the New York Fed’s national Survey of Consumer Expectations, consumers’ uncertainty remains elevated not just about inflation, but also about housing prices and their earnings growth.1 According to this survey, households have scaled back their expected spending growth on nonessential items.
+
+The soft data have also revealed some good news. Longer-run inflation expectations have remained stable. And with the pullback in tariffs since early April, short- and medium-term inflation expectations have receded back close to their pre-pandemic averages. These patterns are consistent with market-based measures of inflation compensation and with most other survey-based measures. This is critically important, because well-anchored inflation expectations are essential for sustained price stability.
+
+That said, survey respondents report that uncertainty about inflation remains elevated.
+
+The Hard Data
+
+As a policymaker, I have often said that my decisions are data dependent—but not data-point dependent. I look at the totality of the data for underlying trends. I am particularly focused on those that affect the achievement of the FOMC’s dual mandate goals of maximum employment and price stability, which is defined as 2 percent inflation over the longer run.
+
+And what much of the hard data shows is that the U.S. economy remains in a good place.
+
+With regard to real GDP growth, the data have been unusually noisy, reflecting front-running of tariffs. That said, consumer spending and investment have been resilient overall so far this year.
+
+On the employment side of our mandate, labor market conditions have remained solid, with the unemployment rate at a little over 4 percent for the past year.
+
+On the price stability side of our mandate, inflation has continued to come down from its COVID-era spikes. With the labor market in balance and wage pressures having abated, inflation, as measured by the personal consumption expenditures price index, has moved close to our 2 percent longer-run goal.
+
+However, measures of underlying inflation—such as core inflation, which strips away volatile categories like food and energy—are still somewhat above our 2 percent target. And there are signs that tariffs are affecting specific categories of goods.
+
+We are seeing evidence of these patterns in the Second District. In May, New York Fed staff fielded a special survey to gauge the extent to which New York and New Jersey businesses were passing on tariff-induced cost increases to their customers. Manufacturers indicated that over the past six months, the cost of their tariffed goods had risen by about 20 percent, on average. For service firms, the increase was about 15 percent. The survey’s key finding is that about three-quarters of respondents in both sectors passed along at least some of these higher costs to their customers by raising prices. Indeed, almost a third of manufacturers and nearly half of service firms reported fully passing along all tariff-related cost increases.2
+
+What does this all mean for the economy going forward?
+
+My answer is that we need to be vigilant in analyzing the totality of the data to see how conditions evolve.
+
+Monetary Policy
+
+Given the continued uncertainty, the solid labor market, and inflation still above our 2 percent goal, the FOMC decided at its meeting last week to leave the target range for the federal funds rate unchanged at 4-1/4 to 4-1/2 percent.3
+
+Maintaining this modestly restrictive stance of monetary policy is entirely appropriate to achieve our maximum employment and price stability goals. It allows for time to closely analyze incoming data, assess the evolving outlook, and evaluate the balance of risks to achieving our dual mandate goals.
+
+In addition, the FOMC continues to reduce its holdings of Treasury securities and agency debt and agency mortgage-backed securities. Despite market volatility related to trade policy and other developments, that process continues to go very smoothly.
+
+The Economic Outlook
+
+In an uncertain environment, any number of outcomes can occur. But based on what the data tell us today, I expect uncertainty and tariffs to restrain spending and reduced immigration to slow labor force growth. As a result, I expect real GDP growth this year will slow considerably from last year’s pace, to just over 1 percent.
+
+With this deceleration of real GDP, I expect the unemployment rate to rise to around 4-1/2 percent by the end of this year. I anticipate the tariffs enacted this year will boost inflation to around 3 percent in 2025, and then for inflation to gradually decline to 2 percent over the next two years as the tariff effects fade.
+
+Conclusion
+
+Much of the soft data we’ve seen in recent months captures the heightened uncertainty about the path of the economy. But it’s too early to say what the future trajectory of the hard data will be.
+
+As always, I remain focused on all the data, and that includes what I have learned on this trip to the Capital Region. No matter what comes our way, I am committed to supporting maximum employment and returning inflation to our 2 percent longer-run goal.
+
+1 Federal Reserve Bank of New York, Survey of Consumer Expectations (May 2025).
+
+2 Jaison R. Abel, Richard Deitz, Sebastian Heise, Ben Hyman, and Nick Montalbano, “Are Businesses Absorbing the Tariffs or Passing Them On to Their Customers?,” Federal Reserve Bank of New York Liberty Street Economics, June 4, 2025.
+
+3 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, June 18, 2025.

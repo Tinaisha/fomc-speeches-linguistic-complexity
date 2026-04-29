@@ -1,0 +1,59 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/nis240611
+
+Risk Management in a Complex and Interconnected World
+
+June 11, 2024
+
+Mihaela Nistor
+
+Keynote Remarks at the XLoD Global – New York Conference, New York City
+
+Good morning. And thank you all for having me.
+
+We gather here today at an inflection point in the evolution of risk management, a discipline that has already seen profound transformation since the global financial crisis.
+
+As we navigate this ever-changing landscape, I would like to share a few thoughts about adopting a more nuanced approach to understanding and managing the multitude of risks that confront us as enterprise risk managers. I’ll discuss the overall risk landscape, both externally and internally. Then, I’ll offer my perspective on the evolution of risk management practices, including the topic that everyone is talking about today: the role of artificial intelligence (AI).
+
+Before we dive into that, I should note that my remarks reflect my personal opinions and do not necessarily reflect those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+The Risk Landscape
+
+The external risk environment today is characterized by an unprecedented rate of change and interconnectivity on a global scale. We are witnessing an explosion of emerging risks that develop more swiftly and are more interrelated than ever before. They range from geopolitical conflicts, economic uncertainties, and market volatilities … to cyber threats, data privacy issues, and disruptive new technologies … to pandemics, supply-chain pressures, and extreme weather events. This list represents just a few facets of a complex matrix. And these risks do not exist in silos. Rather, they interact and amplify one another in ways that can be difficult to predict.
+
+Within our organizations, the landscape is equally complex and multifaceted. To simplify our discussion, I’ll divide the internal risk landscape into two categories: ‘run the business’ and ‘change the business.’
+
+As we strive to run our businesses effectively, we are faced with the increasing complexity of operations, products, services, and geographic footprints. This complexity is further compounded by the intertwining of financial and non-financial risks. For instance, a disruption in the supply chain today can have cascading effects on a firm’s financial performance, regulatory compliance, and reputational standing. Moreover, the rapid pace of automation and digitization has magnified the speed and scale at which risks can materialize and spread. The integration of digital technologies into every facet of an organization’s operations means that cyber risks are no longer confined to IT departments but permeate the entire organizational fabric.
+
+In parallel, organizations are engaged in a multitude of transformation initiatives aimed at staying competitive, leveraging technological innovations, and creating value for shareholders. These projects, while essential, introduce their own sets of risks. One challenge is in balancing these transformation efforts with the ongoing demands of running the business. Moreover, there is often an insufficient understanding and management of the new risks these initiatives create, including dependencies on outsourced work and third-party vendors, which open up additional vulnerabilities.
+
+Evolution of Risk Management
+
+To navigate this intricate landscape, risk management strategies are evolving to be more adaptive, integrated, and proactive.
+
+One fundamental principle is to adopt an aggregated and integrated view of risk across an enterprise. This comprehensive perspective allows us to understand the full spectrum of risks, identify hotspots, assess risk concentrations, and evaluate the relative impacts of the multitude of risks an organization has catalogued. Such an approach enables us to prioritize actions more effectively, ensuring that our resources are directed toward the most critical areas. This holistic view also fosters better alignment between risk management and business strategy, ensuring that risk considerations are embedded in decision-making processes at all levels of the organization.
+
+We also recognized that different types of risks require different management approaches, leading to a ‘fit for purpose’ and tailored risk-management treatments. For risks associated with running the business, developing a strong risk culture is essential. This involves fostering an environment where every employee understands their role in risk management and is encouraged to identify, raise, and mitigate risks proactively, as part of a culture of continuous improvement and active learning. By viewing mistakes as opportunities for learning rather than grounds for punishment, we can improve and optimize processes. And over time, we can build healthier organizations that create better outcomes.
+
+When managing risks related to transformation initiatives, a portfolio view allows organizations to evaluate risks across projects collectively rather than in isolation. By doing so, we can better understand interdependencies and cumulative risk exposures. Proactively reviewing project designs and plans from their inception is crucial, as is maintaining the flexibility to pivot quickly in response to changing conditions. This agile approach enables us to adapt our strategies in real time, mitigating risks before they escalate.
+
+For external emerging risks, where the impact is often unpredictable in advance, our focus should be on building an organization with a resilient core and implementing defenses in depth. Resilience encompasses all aspects of the business—technology, operations, products, data, third-party relationships, supply chains, and, critically, our people. A resilient organization is one that can withstand and recover from disruptions, regardless of their nature or origin, and then evolve with the changes in the environment. Achieving this requires identifying critical assets and processes, understanding the minimum viable process in a disruption, and evaluating maximum downtime, dependencies, and contingency plans.
+
+Periodically, resiliency must be tested, and the external risk landscape map should be refreshed to ensure that we capture emerging threats, model and analyze scenarios, and adjust our defenses accordingly.
+
+Leveraging New Technologies
+
+The advent of new technologies, particularly AI, offers transformative potential for enhancing an organization’s risk-management capabilities. AI can revolutionize how we detect, assess, and respond to risks in several profound ways, a few of which I’ll highlight today.
+
+The first is through predictive analytics. AI’s ability to analyze vast datasets can uncover patterns and correlations that humans might miss, allowing us to anticipate risks before they fully materialize. This predictive power enables proactive risk management and informed decision-making.
+
+Second, AI can greatly bolster monitoring and response capabilities. AI-driven systems, especially for information security, fraud, and insider threats, can monitor risk indicators in real time, providing immediate alerts when anomalies are detected. This allows us to respond swiftly, mitigating potential impacts before they escalate.
+
+The third point I’d like to highlight is AI’s ability to enhance data integration and analysis. AI’s advanced computing capabilities can quickly synthesize data from a large number of diverse sources, providing a more comprehensive understanding of risk factors and their interdependencies. This integrated analysis supports more nuanced risk assessments and better-informed decision-making. This is the hope we hold for Generative AI in the near future.
+
+The last point I’ll mention has to do with AI’s role in conducting scenario simulation and stress testing around both financial and non-financial risks. AI can simulate various risk scenarios, enabling us to test our responses and refine our strategies in a controlled environment. This helps ensure that we are prepared for a wide range of potential disruptions.
+
+As I’ve noted in previous forums, while embracing AI, we must also be cognizant of the associated risks, such as biases in algorithms and data privacy concerns. A balanced approach that leverages AI's strengths while managing its risks will be essential.
+
+In closing, the complex and interconnected risk landscape we face today requires a paradigm shift in how we approach risk management. By fostering a strong risk culture, adopting an integrated view of risks, leveraging new technologies, and remaining agile and resilient, we can build organizations that are not only capable of withstanding disruptions, but are also poised to thrive in the face of adversity.
+
+Thank you for your attention to these key issues. I look forward to our discussions and insights throughout this conference.

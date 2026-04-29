@@ -1,0 +1,110 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/per240926
+
+Balance Sheet Normalization: Monitoring Reserve Conditions and Understanding Repo Market Pressures
+
+September 26, 2024
+
+Roberto Perli
+
+2024 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City
+
+For a decade now, the U.S. Treasury Market Conference has been a unique and vibrant forum to discuss developments in the Treasury market.1 A lot of work goes into organizing this event every year, and I would like to thank staff from the Joint Member Agencies for all of their contributions.2
+
+Today’s speakers and panelists discussed the evolving conditions and significant structural changes across various segments of the Treasury market. I would like to focus on one of those key segments: short-term financing markets. Well-functioning financing markets are of course integral to meeting the objectives that the Joint Member Agencies set for the Treasury market—namely, to minimize the cost of debt to the taxpayers, to support the broader financial system, and to support the implementation and transmission of monetary policy.3,4
+
+I will start by providing an update on my assessment of current reserve conditions. I will then discuss the recent moderate pressures we have seen in repo markets and how those have the potential for affecting reserve conditions.
+
+But, first, let me offer a disclaimer that these views are my own, and not those of the New York Fed, the Federal Reserve System, or indeed any other organization.5
+
+A Review of Reserve Conditions Indicators
+
+For over two years, the Federal Reserve has been reducing the size of its balance sheet, consistent with the plans the Federal Open Market Committee (FOMC) issued in May 2022.6 Those plans indicate that the Committee intends to stop reducing the balance sheet once reserves are somewhat above the level it judges to be consistent with an ample supply of reserves.
+
+It is very difficult, if not impossible, to quantify the level of reserves associated with an ample reserves regime with a high degree of certainty.7 Because reserve demand is influenced by a mix of factors and can change over time, a better strategy to assess reserve conditions, in my view, is to monitor a variety of signs embedded in market prices and quantities.
+
+A good starting point is to look at the spread between the effective federal funds rate (EFFR) and the interest rate on reserve balances (IORB). When reserves become less abundant, the cost to borrow federal funds tends to increase relative to IORB. This spread has been extremely stable since the balance sheet runoff process began (Panel 1)—and indeed, so has the entire distribution of federal funds trades.8 The stability of the market provides a first clue that reserves are still abundant.
+
+But a stable EFFR-to-IORB spread doesn’t necessarily guarantee that all is quiet in money markets. And conversely, that spread could increase or decrease even if reserves remain within the recent range, as I will discuss. To provide more visibility on the conditions of money markets, in a speech in May I discussed a set of indicators that I think can be useful to monitor the transition from abundant to ample reserves.9
+
+One such indicator is the sensitivity, or elasticity, of the federal funds rate with respect to short-term changes in the supply of reserves.10 When reserves are abundant, the demand curve is flat, meaning the federal funds rate is insensitive to short term changes in reserve supply. When reserves approach the ample level, that curve should start gently sloping down, and the federal funds rate will start to show some sensitivity to changes in reserves. This estimated sensitivity has been, and still is, indistinguishable from zero (Panel 2). That is consistent with an abundant supply of reserves.
+
+We also carefully monitor the share of domestic bank borrowing in the federal funds market. Because domestic banks tend to borrow federal funds when they need liquidity, increased activity on their part would be a sign of reserves becoming less abundant. As of now, this share remains low, as seen in Panel 3, and if anything, it has declined further in recent months.  
+
+The timing of interbank payments is another useful metric. When reserves, which are the settlement instrument for these payments, are less abundant, banks will tend to tactically delay payments to keep their balance from dropping to uncomfortably low levels in the middle of the day. Therefore, late payment activity may be a useful indicator of the ampleness of reserve supply. This measure is currently low and little changed from May (Panel 4).
+
+Yet another indicator is the average amount of daylight overdrafts. Daylight overdrafts occur when short-term shifts in payment activity result in a temporarily negative balance in a bank’s reserve account. Higher average overdrafts are an indication that reserves are harder to come by in amounts needed to facilitate payments without intraday credit from the Federal Reserve. While peak intraday overdraft activity has occasionally spiked, average overdrafts have remained low and actually have declined in recent months (Panel 5). Average overdrafts are much more informative for our purposes because they abstract from idiosyncratic factors that may affect individual institutions.
+
+While clearly not exhaustive, these indicators are useful to monitor what I like to call movements along the demand curve for reserves. By this I mean situations where reserves become progressively less abundant and eventually, as they approach the ample level, lead to a somewhat higher federal funds rate relative to IORB. Since the FOMC has said that it intends to stop balance sheet runoff when reserves reach a level somewhat above ample, these indicators can be helpful in informing the decision of when to stop the runoff process. By looking at the metrics I just mentioned, it’s hard to conclude anything else other than that, as of today, reserve supply remains abundant. And of course, reserves have not declined, on net, since the runoff process began in June 2022.
+
+Recent Repo Market Pressures
+
+So far so good. But what else should we monitor and consider going forward? In addition to estimating our location along the current demand curve for reserves, we have to be on the lookout for shifts in that curve. In other words, reserve demand can be variable over time and heterogeneous across institutions, and the demand curve can shift vertically even when reserve supply is stable, resulting in pressure on rates. There are several possible drivers of that shift, and one in particular that I would like to focus on today is the repo market. A fifth indicator that I introduced in May is the share of repo transactions that are priced at or above IORB (Panel 6). Unlike the other four indicators, it has increased notably since the spring.
+
+I like to think of the repo market as a mechanism to redistribute liquidity from those who have it in excess (for example, money market funds and government-sponsored enterprises) to those who need it (for example, dealers and levered investors). One reason for higher repo rates is simply that demand for repo has likely increased relative to supply. In recent years, there has obviously been a large increase in securities issued by the Treasury. And while there is no lack of demand for those securities, many investors need financing to acquire them. The ongoing shrinking of the Federal Reserve’s SOMA portfolio also contributes to the higher demand for repo financing because it results in private investors absorbing (and potentially financing) more Treasury securities. But it also contributes to a diminished supply of repo financing because a smaller SOMA portfolio implies that less overall liquidity is available to the financial system.
+
+There appears to be also a second important cause for higher repo rates—namely, frictions that have developed in the market that are interfering with the liquidity redistribution process. One example of such frictions stems from increased concentration in the repo market, which has made it harder for some dealers and money market funds to increase their exposure to each other. In other words, repo supply can be limited by counterparty risk limits.
+
+This type of friction has manifested itself fairly clearly in substantial remaining balances at our ON RRP facility despite rates on alternative instruments (including repo rates) that are often higher than the ON RRP rate. Most ON RRP counterparties leave relatively small amounts at the ON RRP these days, but some fund complexes still utilize the facility to a considerable extent. These complexes may prefer to access the higher rates offered by the repo market, but their respective counterparties may not be willing to deal with them in the desired quantities because of their size.11 Be it as it may, liquidity left at the ON RRP does not flow into the repo market as smoothly as it did previously, and therefore contributes to higher repo rates.12
+
+The good news is that the market likely can adapt to these constraints. For example, large money fund complexes can increase the number of counterparties they do business with—including by adding to their sponsored relationships in the centrally cleared part of the repo market—thereby diluting their counterparty exposure risk. But this process is unlikely to unfold very quickly, because of logistical, legal, and other complexities. In the meantime, repo rates may continue to run higher than they would have otherwise, or even increase further.
+
+So, what is the connection between repo rates, the federal funds rate, and the quantity of reserves? The point is that higher repo rates could pull up the federal funds rate even if the quantity of reserves doesn’t change much from current levels.
+
+The key to understanding the connection is to look at how the activity of the Federal Home Loan Banks (FHLBs) affects both markets. The FHLBs maintain large liquidity portfolios meant to anticipate and fund short-term outflows, such as new lending to their members.13 These portfolios include federal funds lent, repo, interest-bearing deposit accounts, and certain U.S. Treasuries.14 Their allocation decisions among these different instruments are partially informed by internal and regulatory constraints, but they also reflect economic considerations. For example, if the repo market offers higher rates relative to the federal funds market, the FHLBs are incentivized to increase their allocation to repo.
+
+The FHLBs are currently the dominant lender in the federal funds market, accounting for over 90 percent of total lending activity.15 Therefore, if repo rates rise enough and lure the FHLBs away from the federal funds market, the EFFR may end up higher. Meanwhile, rates in the repo market, which is much larger than the federal funds market, won’t be meaningfully reduced. The result is a passthrough of repo rate pressure to the federal funds market.
+
+Put differently, higher repo rates could be the mechanism through which the reserve demand curve shifts upward. Through this mechanism, we could see higher federal funds rates even if the aggregate quantity of reserves remains within recent ranges.
+
+But if the EFFR moves up and gets close enough to IORB, foreign banks—which are the largest borrowers of federal funds, primarily to earn the spread between EFFR and IORB—may pull back from that market. At that point, the size and structure of the federal funds market could change, leaving mostly rate-sensitive domestic banks as borrowers. That could increase EFFR volatility, while potentially leading to a downward sloping demand curve for reserves and making the market more susceptible to hard-to-predict shocks.
+
+If all that happens, some of the indicators I mentioned earlier would join the repo market indicator and start pointing to tighter reserve conditions as well. For example, the share of domestic banks borrowing in the federal funds market would go up mechanically, and other indicators may also move over time.
+
+For now, pressures in the repo market don’t appear to be close to the point where they would start affecting the federal funds rate. For that reason, I believe there is plenty of room to continue shrinking the SOMA portfolio. Still, in 2018, the repo market arguably served as a leading indicator of pressures developing in the reserves market. There is no guarantee that it will be the same again this time, but my colleagues and I will be monitoring its evolution.
+
+Conclusion
+
+I’ll conclude by circling back to the various reserves indicators I mentioned.
+
+To summarize the signals embedded in these indicators, the “spider chart” in Panel 7 condenses the current level of each against their historical values from 2014 to today. Points near the interior of the chart correspond to abundant reserve conditions, while points toward the exterior correspond with reserves becoming progressively less abundant and eventually scarce. Overall, current values (shown by the blue pentagon) are toward the interior and much lower than those seen between Q3 2018 and September 2019, when reserve conditions were clearly progressively tightening. That is good news. But, given the recent upward pressure on repo rates, the repo indicator has shifted and warrants attention.
+
+We will be monitoring repo markets and money markets generally, both for early warning signs of shifting reserve conditions and risks of upward pressure to the federal funds rate even if reserve conditions are stable. In the meantime, SOMA portfolio runoff will continue. As Chair Powell noted, that process is part of the normalization of the Federal Reserve’s policy stance, just like the 50-basis-point reduction in the target range for the federal funds rate the FOMC announced last week.16
+
+The influence Treasury repo markets can have on the federal funds rate and money markets generally emphasizes the importance of a resilient Treasury market for effective monetary policy implementation. That reinforces the value of the work of the Inter-Agency Working Group on Treasury Market Surveillance and others to support the resilience of the Treasury market.17 Let me again thank staff from the agencies for facilitating this conference so the official sector, private sector, and academia can come together to discuss issues facing this important market.
+
+Presentation PDF
+
+
+1 I would like to thank Eric LeSueur and Josh Younger for their assistance in preparing these remarks, Navya Sharma and Rachel Wilson for their assistance with data and charts, and my colleagues from across the Federal Reserve System for their many helpful suggestions.
+
+2 The Joint Member Agencies are the U.S. Department of the Treasury, the Board of Governors of the Federal Reserve System, the Federal Reserve Bank of New York, the U.S. Securities and Exchange Commission, and the U.S. Commodity Futures Trading Commission. In particular, I would like to acknowledge those that supported the logistics of today’s event, including Ellen Correia Golay, Trevor Graney, Brian Greene, Erica Gutman, and Sara Kaddoura.
+
+3 See U.S. Department of the Treasury, Board of Governors of the Federal Reserve System, Federal Reserve Bank of New York, U.S. Securities and Exchange Commission, and U.S. Commodity Futures Trading Commission, Recent Disruptions and Potential Reforms in the U.S. Treasury Market: A Staff Progress Report, November 8, 2021.
+
+4 The basics of monetary policy implementation are discussed in recent series on the New York Fed’s Teller Window publication.
+
+5 The repo market indicator I discuss later makes use of data collected under the authority of the U.S. Department of the Treasury’s Office of Financial Research (OFR). The views expressed in the speech do not represent the views of the OFR, the Financial Stability Oversight Council, or the U.S. Department of the Treasury.
+
+6 Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+7 See, for example, Roberto Perli, Implementing Monetary Policy: What’s Working and Where We’re Headed, October 10, 2023.
+
+8 For comparison, during the last period of balance sheet runoff, EFFR began to rise relative to IORB in late 2017 and moved progressively higher in 2018 and 2019.
+
+9 Roberto Perli, Balance Sheet Reduction: Progress to Date and a Look Ahead, May 8, 2024. See also Gara Afonso, Domenico Giannone, Gabriele La Spada, and John C. Williams, When Are Central Bank Reserves Ample?, August 13, 2024, and Gara Afonso, Kevin Clark, Brian Gowen, Gabriele La Spada, JC Martinez, Jason Miu, and Will Riordan, A New Set of Indicators of Reserve Ampleness, August 14, 2024.
+
+10 Gara Afonso, Domenico Giannone, Gabriele La Spada, and John C. Williams, Scarce, Abundant, or Ample? A Time-Varying Model of the Reserve Demand Curve, May 2022, Revised April 2024.
+
+11 There may be other reasons why these complexes may leave substantial balances at the ON RRP, including preferences for liquidity or different outlooks for future repo pricing.
+
+12 In recent years, the ON RRP has provided an effective cushion against pressures in repo and other money markets precisely because money funds were able to redirect their investments where rates were higher. For example, money funds diminished their participation in the ON RRP in March 2023 when Federal Home Loan Banks issued substantially more debt to meet banks’ demand for funding amid the ongoing banking sector stress episode. See Perli (2023).
+
+13 FHLB members include banks, credit unions, insurance companies, and community development financial institutions. See Federal Housing Finance Agency, Federal Home Loan Bank Membership Data.
+
+14 See, for example, Federal Home Loan Banks Office of Finance, Combined Financial Report for the Quarterly Period Ended June 30, 2024 and Investor Presentation (as of September 2024).
+
+15 Gara Afonso, Gonzalo Cisternas, Brian Gowen, Jason Miu, and Joshua Younger, Who’s Borrowing and Lending in the Fed Funds Market Today?, October 10, 2023.
+
+16 Board of Governors of the Federal Reserve System, Transcript of Chair Powell’s Press Conference, September 18, 2024.
+
+17 See U.S. Department of the Treasury, Board of Governors of the Federal Reserve System, Federal Reserve Bank of New York, U.S. Securities and Exchange Commission, and U.S. Commodity Futures Trading Commission, “Enhancing the Resilience of the U.S. Treasury Market: 2024 Staff Progress Report,” September 20, 2024.

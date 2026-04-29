@@ -1,0 +1,74 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20240628
+
+Why Were Forecasts Off?
+
+June 28, 2024
+
+Tom Barkin
+
+Global Interdependence Center's Central Banking Series, Banque de France, Paris, France
+
+Highlights:
+It is notoriously difficult to predict where the economy is headed. Even in that context, I don’t think it is controversial to say that the last few years have proven particularly challenging for forecasts.
+The U.S. economy, particularly its consumer, has been much more resilient to rate increases than most expected. Most anticipated we would be cutting rates by now, but that has not yet been the case.
+I do believe there are still lags playing out — and that all this tightening will eventually slow the economy further.
+I’m open to the idea that r-star has shifted up somewhat. It is too soon to tell, but there’s one way to find out: proceed deliberately while keeping a close eye on the real economy. That’s what I am doing.
+Thank you for that kind introduction and for having me here today. It has been over two years since central banks around the globe began our efforts to rein in inflation. I thought today I could spend some time looking back at what’s happened in the United States during that period, and then look forward to what might lie ahead. Let me caution that these are my thoughts alone and not necessarily those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+By the first quarter of 2022, the Fed’s preferred inflation measure — the personal consumption expenditures price index (PCE) — had climbed to 6.6 percent, more than triple our 2 percent inflation target. Demand was surging, too. Nominal personal consumption growth was nearly 12 percent in that quarter, over three times the average growth seen in the prior decade. The Fed needed to take aggressive action, and we did. In March 2022, we kicked off our steepest tightening cycle in decades, raising the federal funds rate over 500 basis points in under 18 months. In parallel, we have also reduced our balance sheet by over $1.7 trillion.
+
+To most observers, the implications of our aggressive actions were straightforward. High rates would bring down inflation, but with unavoidable side effects: a pullback in demand and an increase in unemployment. You can see those expectations in the Survey of Professional Forecasters from the fourth quarter of 2022. The median respondent expected the economy to slow considerably; GDP growth in 2023 was expected to be 0.7 percent — well below trend — and unemployment was expected to rise above 4 percent. The median forecasted that inflation would come down quickly to 2.9 percent by the end of 2023 and to near target (2.3 percent) by the end of 2024. Based on the November 2022 fed funds futures curve, markets forecasted that rates would peak at 4.89 and be down to 4.11 by the second quarter of 2024.
+
+It’s fair to say most of those expectations have not played out. We didn’t end 2023 with sluggish economic growth. Quite the contrary: GDP grew 3.4 percent annualized in the fourth quarter of 2023, well above trend. Private domestic final purchases suggest this year’s first quarter growth has continued to be robust. The unemployment rate remains low at 4 percent. It has now been at or below 4 percent for 30 consecutive months, the longest streak since the ’60s. Inflation came down as expected in 2023 to 2.8 percent by the fourth quarter, but surprised high in the first quarter of 2024, running at a 3.4 percent annualized rate. And, as you well know, the fed funds rate rose to 5.33 percent and, in the context of stubborn inflation, has not yet begun to come down.
+
+So, let’s talk about what happened. Why were forecasts off? Well, we should start by acknowledging that it is notoriously difficult to predict where the economy is headed. The old joke is that economic forecasting was invented to make weather forecasters look good. Even in that context, I don’t think it is controversial to say that the last few years have proven particularly challenging. In the aftermath of the pandemic, many of the economy’s regularities did not play out as expected.
+
+I’ll walk through four areas today — economic activity, labor, inflation and rates — and discuss what the regularities suggested would occur, what we saw, and the factors that could explain the divergence between the two.
+
+Economic Activity
+Starting with economic activity: Soon after the Fed began hiking, recession indicators began flashing. The yield curve inverted in the summer of 2022, a warning sign that has preceded the last eight recessions. It has stayed inverted now for two years. The Conference Board’s index of U.S. leading indicators began to signal recession in 2022 and continued to do so until this year.1 But no recession has materialized. Don’t get me wrong: Some sectors, such as banking, commercial real estate and housing development will tell you that they certainly have experienced a recession. But overall, despite higher rates, banking turmoil and geopolitical challenges, the U.S. economy has not seen a broader slowdown. Why have these traditional signals missed the mark?
+
+Some question the signals themselves. Was the yield curve forecasting a slowdown, or was it simply forecasting that success over inflation would allow us to reduce rates? Do the leading indicators, first identified two generations ago, continue to accurately represent today’s services-intensive economy?
+
+Others look beyond the signals to the unique nature of this consumer-led recovery. Consumers make up nearly 70 percent of U.S. GDP and their strength, to put it simply, has been remarkable. At first, the story was the excess savings accumulated early in the pandemic; consumers spent less during lockdowns and brought in more via federal stimulus checks. But even as those funds have been drawn down, consumers have continued to spend. How can they afford to? Asset values are up. The S&P 500 index is up nearly 70 percent over the end of 2019. Home values are up nearly 50 percent over the same time period.2 Real wages have increased, especially for entry-level workers. Unemployment is low. In short, feeling wealthier and more stable, consumers seem to be comfortable spending more and saving less. The saving rate is now 3.6 percent, less than half of what it was pre-pandemic.
+
+But it isn’t just consumers. The rise of AI has spurred investment in data centers. Fiscal spending, via investments in infrastructure and in our semiconductor industry, is helping sustain construction demand. After years of underinvestment in homebuilding following the Great Recession, high post-pandemic housing demand has supported new home construction, especially as existing housing stock froze due to locked-in low mortgage rates. Relatedly, consumers and businesses alike have been sheltered from rising interest rates thanks to pandemic-era refinancing and debt paydowns.
+
+So, the U.S. economy, particularly its consumer, has been much more resilient to rate increases than most expected and is likely to stay so as long as valuations remain elevated, and unemployment remains low.
+
+Labor
+That brings us to the labor market. The expectation was that workers would pay a price for the Fed’s steep rate path. Yet, here we are, still adding 248,000 jobs per month on average this year. The pessimistic forecasts aligned with what economists call the Beveridge Curve, a downward sloping curve that depicts the relationship between open positions and the unemployment rate. As policy constrained labor demand (and thus caused open positions to decline), unemployment was expected to rise.
+
+Yet, two years into our tightening cycle, open positions have dropped significantly for over a year, and unemployment has barely budged. Why might the Beveridge Curve have turned vertical? Part of the explanation is what is often called “labor hoarding.” Having just spent two years desperately trying to find and retain workers, firms have thus far been reluctant to let workers go.
+
+In addition, sectors that had lagged behind in the pandemic recovery had a lot of catch-up to do. Even as demand faded in some sectors, three sectors — leisure and hospitality, government, and health care and social assistance — took up the slack. Nearly three-quarters of last year’s job gains and about two-thirds of this year’s have come from just those three sectors.
+
+Net, the labor market got so far behind during the pandemic, that it has taken a lot of labor demand reduction just to return it to “tight.” Skilled trades like nursing, construction and manufacturing remain in short supply. I recently visited a county in my district that supports over 17,000 workers. About a year ago, one of its largest manufacturers announced a sudden closure, laying off over 1,000 workers. It seemed like a potential calamity. Yet a year later, the unemployment rate there is stable and low at 3.1 percent. The regional labor market is just that tight.
+
+Inflation
+Inflation, of course, has been our intense focus. The expectation — in the context of our aggressive rate moves, forecasts of slow growth, and the stability of long-term inflation expectations — was for inflation to fall relatively quickly back toward our target. In reality, it hasn’t been a smooth path down. By the end of 2023, we were well on our way to target. At the beginning of this year, our progress took a step back. And now, in the most recent months, progress seems to have resumed. Why is inflation proving so stubborn?
+
+If you consider the surprise strength in demand and in the labor market, it is actually quite notable that inflation has come down as much as it has. We have the supply side to thank. Supply chain issues have largely been resolved, enabling a partial reversal of pandemic-era goods price increases. A boost in domestic energy production has helped keep energy costs in line. Increases in immigration and a surge in prime-age labor force participation have helped alleviate labor market pressures. And we may well also be seeing a move up in productivity, driven perhaps by automation or even AI.
+
+But we still have work to do. Before the pandemic, only 26 percent of the PCE basket had annual increases over three percent. In the most recent data, that number has more than doubled, to 58 percent.
+
+Part of my role as a Federal Reserve Bank president is to talk to businesses in my region to gather economic insights. What I hear in those conversations is that the behavior of a number of price-setters has changed. For a generation, in the context of low and stable prices, powerful retailers, global low-cost supply, and e-commerce-enabled comparison shopping, many price-setters came to believe they had virtually no chance to successfully increase prices. But, during the pandemic’s supply chain cost and availability challenges, most concluded they had no choice but to try to pass on these costs. When they did, they found no consequences. Customers paid. Volumes were hardly impacted.
+
+Now? While the era of no consequences is over, we certainly aren’t all the way back to the pre-pandemic no chance world. I talk to many businesses still looking to push prices if they can, even if it takes getting creative in segmenting their customer base and product offerings. Their mentality is: There’s no crime in trying — no crime in trying to recover margins, protect margins or enhance margins. And they simply are more confident using price as a lever. I anticipate these price-setters will only back down when customer elasticity finally sends a strong message that they once again have no chance.
+
+One could argue that message has been sent in most goods sectors, and that’s why inflation for goods has returned to pre-pandemic norms. But services and shelter still have a way to go.
+
+Rates
+I’ll close by discussing rates. Most anticipated we would be cutting rates by now, either because we returned inflation to target, or perhaps because the economy took a turn for the worse. Yet, in contrast to the European Central Bank, that has not yet been the case.
+
+Monetary policy famously works with “long and variable lags.” One possibility is that those lags have simply been longer than expected, thanks to many of the factors I discussed earlier — labor hoarding, excess savings, delayed exposure to interest rate hikes, newfound pricing power and the like.
+
+Another explanation is that our rate hikes aren’t constraining the economy as much as we think. Some economists point to r-star, the neutral real rate of interest, and wonder whether it hasn’t shifted to a higher level. They might point to the recent apparent pickup in productivity growth, the waning of the Chinese export surplus (and related decline in global savings) or ballooning federal deficits as reasons behind such a shift. The Lubik-Matthes model, produced by the Richmond Fed, falls in this camp, and has seen r-star increase from close to zero in the 2010s to a touch above 2 percent now, suggesting a long-run policy rate close to 4 percent. Such a rise in the rate would, of course, mean policy is not as restrictive as one might have thought.
+
+As for me, I do believe there are still lags playing out — and that all this tightening will eventually slow the economy further. At the same time, given the remarkable strength we are seeing in the economy, I’m open to the idea that r-star has shifted up somewhat. It is too soon to tell, but there’s one way to find out: Proceed deliberately while keeping a close eye on the real economy. And that’s what I am doing.
+
+So, to close, what can we learn from this experience? First, the pandemic was unique. Lockdowns, extraordinary levels of stimulus, a reopening surge in spending, supply chain outages, aggressive monetary policy, and the like all contributed to a novel environment that our economic models weren’t ready to handle. Second, regularities — like the yield and Beveridge Curve indicators — can send false signals; they’re not fate written in stone. And finally, agility is key. Forecasts, as we emphasize with each release of the Summary of Economic Projections, are made with the information available in that moment. We get new information every day, and we must and do adjust accordingly.
+
+ 
+"US Leading Indicators.” The Conference Board, June 2024.
+”S&P/Case-Shiller U.S. National Home Price Index.” S&P Dow Jones Indices LLC, June 25, 2024.

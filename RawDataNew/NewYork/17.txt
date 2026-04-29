@@ -1,0 +1,94 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/nea241119
+
+Foreign Exchange Market Structure: The Land of a Thousand Lakes
+
+November 19, 2024
+
+Michelle Neal
+
+FX Market Structure Conference, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+Good morning, and welcome to the New York Fed. I am pleased to see so many thought leaders from across the industry here today for our Foreign Exchange (FX) Market Structure Conference. This is a terrific opportunity for us to engage with one another and deepen our understanding of the structural changes underway in this market. My thanks to everyone who made this event possible.1
+
+The FX market is exceptionally broad, continuously evolving, and increasingly multifaceted. But what makes it unique is its global and decentralized nature. FX transactions take place among a wide range of participants from all around the world. And they occur across dozens of scattered trading venues, rather than over one central exchange. To visualize it, one can think of these liquidity pools as many different lakes spread out over the landscape, rather than as one ocean of liquidity that you might find in other asset classes.
+
+Today, I am going to talk about the dynamics of FX trading, the types of entities that conduct FX transactions, and the impact that technological innovations are having on the market. Then we’ll turn to our panelists, who will offer their perspectives on these and other important topics.
+
+Before we get started, please note that the views I express today are my own, and do not necessarily reflect those of the Federal Reserve Bank of New York or the Federal Reserve System. Now, let’s get into it.
+
+Our Critical Role
+
+The New York Fed plays a critical role in helping to stabilize the economy and financial markets. And the FX market, the most active financial market in the world, is pivotal in facilitating the flow of capital in support of international trade and investments.
+
+The New York Fed’s Markets Group is responsible for FX interventions at the direction of the Federal Open Market Committee (FOMC) and the U.S. Treasury Department.2 So it’s important that we continuously study market dynamics and structure. Understanding FX market dynamics also fits into the Markets Group’s broader mandate to monitor global financial market developments.
+
+In addition, the Fed helps support the use of U.S. dollars internationally. Well-functioning global dollar funding markets reinforce international dollar activity. Closely following the underpinnings of the FX swap market is critical to ensuring that the Fed’s international dollar liquidity facilities are calibrated to serve as effective backstops. This includes central bank swap lines and the Foreign International Monetary Authorities repo facility.3
+
+In short, the more we know about the complexities of the FX market, the better prepared we are to effectively carry out our responsibilities.
+
+An Evolving Landscape
+
+Shifting Trading Dynamics
+
+To illustrate the importance of the FX market and the transformations taking place, it’s important to look at the market’s size and scope.
+
+Trading activity in the FX market continues to increase, with about $7.5 trillion in total daily turnover—equivalent to approximately one quarter of the annual U.S. gross domestic product. The dollar is on one leg of almost 90 percent of all spot and derivative FX transactions, reflecting its preeminent global role. About half of aggregate daily volume is comprised of FX swaps, and just over a quarter is in FX spot transactions. Approximately 40 percent of total FX transactions take place in the U.K., and another 20 percent of trades occur here in the U.S. In addition, certain jurisdictions within Asia, such as Singapore and Hong Kong, are seeing significant growth in trading volumes.4
+
+But the dynamics are shifting. FX transactions are conducted across dozens of venues. As the market shares of the primary trading platforms continue to decline, FX trading occurs within an increasingly decentralized ecosystem. Still, the primary platforms remain a significant source of price discovery, especially during times of elevated volatility. The primary platforms are also important in generating the rates that serve as reference to price many derivative contracts. One interesting watchpoint will be whether this trend persists—and what potential impact it could have on the market.
+
+Greater Participation of Nonbank Financial Institutions
+
+Another way the dynamics of the market are shifting relates to the growing role of nonbank financial institutions—or “NBFIs.”
+
+Over the past decade, the FX landscape has evolved from being mostly bank-dominated to one where NBFIs play a prominent role. For example, rankings of FX dealer market shares have recently trended toward greater representation of nonbank liquidity providers. The growth of FX prime brokerage, which has provided greater access for hedge funds and principal trading firms, appears to have supported the increased presence of NBFIs in the FX market. Their footprint has also expanded because FX has emerged as another investible asset class, and asset managers are increasingly interested in diversifying into international assets.
+
+While trading activity of NBFIs remains concentrated in the currencies of large economies, they have also become more active in trading currencies of smaller economies, helping to deepen their capital markets. In addition, our market outreach suggests that reserve managers, sovereign wealth funds, and hedge funds have become increasingly engaged in the FX swap market, further diversifying the set of participants.
+
+Although NBFIs are not expected to supplant traditional banks anytime soon, an open question is whether their growth should be viewed as a challenge for bank dealers—or as a complement to them. Key watch points related to the growing role of NBFIs include their potential impact on liquidity conditions, price discovery, and market fragmentation—all topics I expect will come up during today’s panel discussions.
+
+Modernization and Innovation
+
+The decline of primary platforms and the rise of NBFIs are shaping the FX market. But technological innovations are driving the biggest and most impactful changes.
+
+The electronification of the market has affected how trading occurs. For example, transactions made over the phone have become less common, while algorithmic trading has become more popular. This has reduced average trade sizes, since large orders are now segmented into numerous smaller transactions. Artificial intelligence has also made automated trading strategies more sophisticated. There is also a perception of increased bouts of sudden pullbacks in liquidity, exacerbating price movements that can lead to flash events—a phenomenon that has occurred in major currency pairs in recent years.
+
+Market participants are relying more on technology to reduce their market impact—or, to continue my earlier metaphor, the size of their “splash” in the lake. This is making it easier for certain dealers to internalize more flow by offsetting buy and sell orders and for buyside firms to utilize more sophisticated execution algorithms. Algorithms and liquidity aggregator platforms also help connect the different lakes via “rivers” that support price discovery.
+
+While innovation occurs in every financial market, the FX market is typically at the forefront. Potentially due to its robust liquidity environment, the FX market tends to be a testing ground for modernization. This is especially true in areas related to settlement cycles and the roles of intermediaries. Considerable research currently focuses on accelerating timelines and decentralizing systems, often leveraging single unified ledgers or distributed ledger technology. To better understand these advances and their implications, the New York Innovation Center within the Markets Group experiments with new financial technologies for the New York Fed and the broader Federal Reserve System. Given the importance of innovation in FX markets, we dedicated a panel today to this very topic.
+
+Global Industry Engagement
+
+So, the dynamics of FX trading are shifting. NBFIs are playing a larger role. And technological innovations are shaping the ways trading occurs.
+
+In this evolving landscape, engaging with market participants and other central banks is critical. At the New York Fed, we do this in a number of ways.
+
+The New York Fed sponsors the Foreign Exchange Committee5 and works closely with the Global Foreign Exchange Committee6 on a variety of FX market structure issues. In particular, we work together to promote the FX Global Code as a set of principles for good market practice.7 Over 1,300 firms globally have publicly adhered to the Code so far, and some trading platforms have established separate liquidity pools that can only be accessed by those adherents. It’s clear that the industry has embraced this cause.
+
+The Markets Group also works with other central banks through committees at the Bank for International Settlements and through bilateral initiatives. These international engagements have been particularly valuable when global coordination is essential, like at times of global crises or when implementing new practices. For example, ahead of the recent transition of the U.S. securities settlement cycle to T+1, we were involved in much of the industry’s considerable coordination and preparation efforts, which helped ensure that the implementation went smoothly.
+
+Open Questions
+
+And of course, another way we engage with market participants is through gatherings such as this one. This conference brings together world-class practitioners dedicated to understanding and addressing the ever-evolving structure of the FX market. And it gives us an opportunity to learn from one another.
+
+It also gives us a chance to discuss a number of open questions about developments that are occurring. Among them: What are the consequences of continued decentralization and reduced primary platform volumes? How should we expect the continued growth of liquidity provision by NBFIs to affect the market, if at all? And what ongoing FX-related modernization and innovation initiatives are expected to have the greatest lasting impact?
+
+I’m looking forward to hearing your perspectives on these and other topics as we work to navigate through this complex land of a thousand lakes.
+
+Thank you, and I hope you enjoy today’s conference.
+
+
+1 I would like to thank Fabiola Ravazzolo, Dan Reichgott, and Pertshuhi Torosyan for their assistance in preparing these remarks, and Alain Chaboud and others across the Federal Reserve System for their many helpful suggestions.
+
+2 The New York Fed also provides FX transaction services to its official sector account holders, U.S. government agencies, and the Federal Reserve System.
+
+3 Central Bank Liquidity Swap Operations and Foreign and International Monetary Authorities Repo Facility
+
+4 BIS 2022 Triennial Central Bank Survey
+
+5 Foreign Exchange Committee
+
+6 Global Foreign Exchange Committee
+
+7 FX Global Code

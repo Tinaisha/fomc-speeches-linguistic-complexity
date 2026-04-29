@@ -1,0 +1,106 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/nea240605
+
+A Season of Change for the U.S. Treasury Market
+
+June 05, 2024
+
+Michelle Neal
+
+the ISDA/SIFMA Treasury Forum, New York City
+
+Introduction
+
+Thank you all for having me.1 I want to especially thank Scott O’Malia and the ISDA team for the invitation to speak here at such an important time in the U.S. Treasury market.  As already introduced by Scott and Gary and subject to much further discussion at today’s forum, the Treasury market is undergoing significant and transformative structural changes.  The expansion of central clearing in the Treasury market that will occur as a result of the SEC’s central clearing rule is probably the single greatest change to Treasury market structure since the advent of electronic trading of Treasuries over central limit order books in the early 2000s, which paved the way for the high-frequency trading of Treasuries that is prevalent today.  This change is occurring during a critical period of growth for the Treasury market—the Congressional Budget Office forecasts Treasury supply to increase by more than $20 trillion over the next 10 years.2   
+
+As the market navigates the legal and operational work related to the expansion of central clearing, many questions will need to be answered with regard to how clearing will evolve and what effects it will have on the Treasury market more broadly.  As the SEC’s central clearing rule is implemented, it will be crucial to carefully monitor market dynamics and track Treasury market liquidity and functioning.  Recent progress on the data and transparency front will help in this regard.  Additionally, as Treasury market structure undergoes this transition, market participants should remain cognizant of, and follow, best practice recommendations, which support the integrity and efficiency of this critical market.  Today’s forum will cover many of these issues in detail, and I am excited to hear views about progress on these topics.
+
+Before I go any further, let me share the standard Fed disclaimer: the views I express today are my own and do not necessarily represent the views of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+Central Clearing Expansion: Transformation for U.S. Treasury Market Structure
+
+To set the stage for my discussion today, I will first briefly review the segments of the U.S. Treasury market that will be affected by the SEC’s central clearing rule.  Last December, the SEC adopted rule amendments that will expand central clearing in the U.S. Treasury market.3  The SEC’s final rule calls for the clearing of the following Treasury security transaction types, with some exemptions: all repo and reverse repo with a direct member of a central counterparty (CCP); all purchases and sales occurring over interdealer brokers; and all purchases and sales between a direct CCP member and a registered broker-dealer, a government securities broker, or a government securities dealer.4 
+
+Practically speaking, these changes are expected to result in a significant migration of Treasury repo and reverse repo into central clearing.  Additionally, principal trading firm electronic cash trading will likely move into central clearing.  Market estimates for the amount of daily transaction volume that will move into clearing range from $2 trillion to over $4 trillion.  For context, the Fixed Income Clearing Corporation (FICC), the only CCP that clears Treasuries, today clears $7 trillion in transactions each day, on average.5 
+
+Increased central clearing offers several benefits.  Central clearing reduces settlement flows through multilateral netting, and, in turn, reduces settlement fails and counterparty credit risk.  Additionally, for transactions that are cleared through a CCP, the consistent and robust risk management practices of that CCP are applied, making the market safer by reducing systemic risk.  More trades going through CCPs also would increase visibility into clearing and settlement flows for the official sector, providing improved market monitoring. 
+
+The work of the Treasury Market Practices Group (TMPG), a group of market professionals committed to supporting market integrity and efficiency, provides evidence of these benefits.  The TMPG has documented the current fragmented use of clearing in the U.S. Treasury market in a series of white papers.6  Beyond the risks I have already discussed, these white papers detail additional risks increased clearing can mitigate, including the concentration of clearing and settlement risk with interdealer broker platforms, delays in trade matching, and opaque third-party credit extension arrangements.  Fragmented clearing results in increased systemic risk to the Treasury market, so the more trades that move into central clearing, the more those risks are mitigated.
+
+For the benefits of central clearing to be realized, however, it is critical that any CCP be well supervised and have robust risk management practices.  The importance of strong CCP risk management only increases with the volume of transactions that flow through that CCP. 
+
+As the SEC’s central clearing rule goes into effect, I see both challenges and opportunities ahead, where the market will need to actively engage and prepare.  For example, as more transactions move into central clearing, market participants will need to work together to develop and adopt various clearing client access models. 
+
+Currently, the most actively used client access model for clearing in the U.S. Treasury market is the sponsored service model, where FICC direct members can sponsor client repo trades into clearing.  The sponsored service model has grown notably over recent years, in terms of both volume and the number of sponsors and sponsored clients.  Sponsored service currently clears around $1 trillion in transactions daily, up from around $500 billion daily in early 2020. 
+
+While the growth in sponsored service has been promising for greater clearing of Treasury securities, there remain other opportunities for further expansion of repo clearing.  Currently, the sponsored service market practice is to bundle repo execution and clearing services together.  Specifically, FICC direct members that provide sponsored service—typically banks and dealers—generally require that clients execute sponsored repo trades with the sponsoring bank or dealer.  This is referred to as “done with” trading, since the repo trade is done with the bank or dealer that sponsors it into clearing. 
+
+To be clear, “done with” trading is a business model practice preferred by the sponsoring bank or dealer, rather than a market structure parameter imposed by FICC.  While there are benefits to this practice, including balance sheet efficiencies for the sponsoring bank or dealer, it makes it extremely difficult for a client to clear transactions that are not conducted with a sponsoring bank or dealer (known as “done away” trading).  The result is that clients who wish to clear their repo trades will limit their repo counterparties to sponsoring banks or dealers.
+
+Additionally, while sponsored service is used actively for clearing repo trading, similar client clearing for cash trading is not widely used currently.  As I mentioned earlier, the SEC’s clearing rule will require trades occurring over interdealer brokers to be centrally cleared, creating the potential need for more options for client clearing of cash trades.  FICC has developed a model for agent clearing of client trades, but it is unclear as of yet which firms may choose to provide such services.  A “done away” option for cash clearing would likely also be beneficial.
+
+These challenges also present opportunities for innovation and new business models.  Demand for new clearing services may drive the entrance of new central counterparties to compete for that business.  Additionally, the need for particular clearing solutions in the market, such as offering “done away” clearing and cash trade client clearing, may result in firms launching new business lines to capture those market opportunities.  Treasury market participants may want to look to other markets where client clearing is more prevalent, like the futures market or the swaps market, to learn from experiences there. While regulatory and institutional differences may rule out exact replication of clearing models used elsewhere, studying these markets could be instructive for further development of Treasury market clearing alternatives.
+
+Given the importance and scope of this market structure change, it is crucial for market participants to engage now to identify how the SEC rule affects their businesses and to develop plans for clearing eligible transactions.  Treasury cash clearing is required to go into effect by the end of 2025, and repo clearing is required to go into effect by June 30, 2026.  While these dates may sound far off now, the time will pass quickly given the complexities involved.  I am thankful that events like today’s forum will advance the discussion around these topics, and I encourage all of you to make it a priority at your organizations to actively engage in this transition.
+
+Data and Transparency: Critical to Monitoring Market Structure Change
+
+I will turn now to the important topic of data and transparency in the U.S. Treasury market.  As this change to market structure occurs, it will be important to monitor the Treasury market—across all segments—to assess the effect of the changes.  Thankfully, there have been productive improvements in data availability and transparency recently that will help the market and the official sector observe any changes in trading dynamics.
+
+In May, the U.S. Treasury’s Office of Financial Research (OFR) adopted a final rule to establish a data collection for certain non-centrally cleared bilateral repo transactions.7  This permanent data collection fills an important gap in data available on the U.S. Treasury market, as the OFR estimates that the non-centrally cleared market is $2 trillion in size, with the vast majority of these transactions occurring in Treasury securities.8  In a 2023 white paper on data availability and transparency in the U.S. Treasury market, the TMPG highlighted that the non-centrally cleared bilateral repo market is an area with lower data availability and noted the OFR’s efforts to address these data gaps.9
+
+This data collection will be critically important as the official sector monitors changes in trading dynamics when expanded central clearing is implemented.  As I mentioned earlier, under the SEC’s clearing rule, much of the currently non-centrally cleared Treasury repo will likely migrate to central clearing.  This data collection will allow the official sector to track that migration and understand the profile of the remaining repo in the non-centrally cleared bilateral market.
+
+Additionally, this data collection will improve official sector understanding of the margin practices in the non-centrally cleared bilateral market.  Margin, which is sometimes expressed as a haircut, is an important risk management tool used to protect against counterparty credit risk.  In 2022, the OFR conducted a pilot data collection in the non-centrally cleared bilateral repo market, and it found that over 70 percent of Treasury repo transacted with zero haircut, a finding that warrants additional study.10 
+
+The data collection under the new OFR rule will allow the official sector to identify how enduring this low-haircut practice has been, and to monitor whether haircut practices change in the non-centrally cleared bilateral market when a greater portion of repo moves into clearing.  However, even in the cleared sponsored repo space, at times margin is not posted by the client but is rather posted by the bank or dealer sponsoring the repo into clearing.  In light of these issues, the TMPG is working on a white paper on risk management in the non-centrally cleared bilateral repo market, including a comparative review of margin practices across repo market segments.11
+
+Elsewhere in the repo data sphere, changes have also been proposed to Federal Reserve’s FR2004 data collection, which gathers information from primary dealers on market activity in U.S. Treasuries and other marketable debt.  The proposed changes would require primary dealers to separate out reporting of sponsored general collateral repo.12  This proposed change would complement other sources of data on the cleared repo market, including the FR2004 data collected currently on the cleared bilateral market and the OFR’s centrally cleared repo data collection.13
+
+Another important change in data availability and transparency in the U.S. Treasury market is the recent public release of on-the-run nominal coupon transaction-level data by FINRA.14 The data is available to FINRA members and FINRA data subscribers on the same day and available to the general public on a next-day basis.  FINRA has taken several precautions to ensure that the release of this data does not disrupt liquidity provision.  Specifically, the data does not include any identifying information about the transaction counterparties, the data is not published until the end of the day, and the trade sizes published are subject to transaction size caps on large trades. 
+
+The availability of this transaction data to the public will allow for monitoring of trading dynamics in the on-the-run market as the SEC’s central clearing rule is implemented.  As I previously mentioned, trades over interdealer brokers will be required to be centrally cleared, and the majority of trades over interdealer brokers are conducted in on-the-run securities. Additionally, I hope that, following an assessment of this data publication, consideration will be given to increased and carefully curated transparency of transaction data in other segments of the Treasury market, such as the less liquid off-the-run market, a topic I discussed in my remarks last November at the U.S. Treasury Market Conference.15
+
+Best Practices: Important Touchstones during Transitional Times
+
+Finally, I will turn to the importance of market best practices during times of change like today.  The TMPG best practice recommendations provide an important reference for market participants to support the integrity and efficiency of the U.S. Treasury market, along with markets for agency debt and agency MBS.16  The sound functioning of the U.S. Treasury market is critical given the key roles Treasury securities play in the financial system—as global risk-free benchmarks for other financial instruments, as the primary means of financing the U.S. government, and as the instruments used to implement Federal Reserve monetary policy.
+
+Especially during this time of significant market structure change, it is important to continuously engage with the TMPG best practices to ensure these changes are implemented in a way that promotes market integrity and efficiency.  TMPG best practices evolve over time and are updated and amended as needed to support the resiliency of the covered markets.  In fact, this February, the TMPG updated its best practice recommendations to promote greater repo market price transparency around early morning transactions over interdealer voice brokers, encouraging publication of all voice trades to electronic trading screens when the trades are agreed to.17  I urge you all to review the updated best practices and familiarize yourselves and your firms with the recommendations. 
+
+Thinking about this time of change in the Treasury market reminds me of the song “Turn! Turn! Turn!”—written by Pete Seeger and popularized by The Byrds—which chronicles the seasons of life.  In particular, the lyrics “a time to plant, a time to reap” are relevant to where we find the Treasury market today.  As we enter upon this season of change for the Treasury market, now is the time to plant the seeds of sound market structure so we can reap the benefits of a more robust and more resilient Treasury market in the future.  The work of promoting U.S. Treasury market resilience is ongoing and requires all hands on deck.  The official sector, private sector, and academia all need to work together to preserve the continued smooth functioning and safety of this most important market.
+
+Thank you.
+
+
+1 I would like to thank Ellen Correia Golay for her assistance in preparing these remarks.
+
+2 Congressional Budget Office, The Budget and Economic Outlook: 2024 to 2034, February 7, 2024.
+
+3 Securities and Exchange Commission, Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule with Respect to U.S. Treasury Securities, December 13, 2023.
+
+4 The Fixed Income Clearing Corporation (FICC), a subsidiary of the Depository Trust and Clearing Corporation (DTCC), is currently the only central counterparty in the U.S. Treasury securities market. However, the SEC’s rule would apply to any CCP operating in the U.S. Treasury market.
+
+5 Depository Trust and Clearing Corporation, DTCC’s FICC Treasury Clearing Volumes Grow 31%, Now Represent USD$7 Trillion in Daily Average Activity, March 12, 2024.
+
+6 Treasury Market Practices Group, White Paper on Clearing and Settlement in the Secondary Market for U.S. Treasury Securities, July 11, 2019, and Treasury Market Practices Group, White Paper on Clearing and Settlement in the Market for U.S. Treasury Secured Financing Transactions, November 9, 2022.
+
+7 Office of Financial Research, The OFR’s New Data Collection of Non-Centrally Cleared Bilateral Repo, May 2024.
+
+8 Samuel J. Hempel, R. Jay Kahn, Robert Mann, and Mark E. Paddrik, Why Is So Much Repo Not Centrally Cleared?, May 12, 2023.
+
+9 Treasury Market Practices Group, White Paper on Data Availability and Transparency in the U.S. Treasury Securities Market, March 2, 2023.
+
+10 Hempel et al. (2023).
+
+11 Treasury Market Practices Group, TMPG April Meeting Minutes, April 2024.
+
+12 Board of Governors of the Federal Reserve System, Notice, request for comment published in the Federal Register, January 29, 2024.
+
+13 For more information on the FR2004 data collection see Board of Governors of the Federal Reserve System, Instructions for the Preparation of Government Securities Dealer Reports.  For more information on the OFR’s Centrally Cleared Repo data collection, see Office of Financial Research, Centrally Cleared Repo Data Collection.
+
+14 FINRA, FINRA Enhances Post-Trade Transparency in U.S. Treasury Securities Market, March 28, 2024.
+
+15 Michelle Neal, Remarks at 2023 U.S. Treasury Market Conference, November 16, 2023.
+
+16 Treasury Market Practices Group, Best Practices for Treasury, Agency Debt, and Agency Mortgage -Backed Securities Markets, February 2024.
+
+17 Treasury Market Practices Group, Treasury Market Practices Group Updates its Best Practice Recommendations to Promote Price Transparency, February 29, 2024.

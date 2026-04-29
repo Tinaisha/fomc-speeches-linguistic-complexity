@@ -1,0 +1,57 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20240208
+
+Inflation: Handle With Care
+
+Feb. 8, 2024
+
+Tom Barkin
+
+The Economic Club of New York, The University Club, New York, N.Y.
+
+Highlights:
+Contrary to most forecasts (including mine), the progress on inflation has come while the economy has remained healthy.
+I spend a lot of my time talking to businesses across the Fifth District. With the exception of interest-sensitive sectors like banking and real estate, the tone has shifted decisively away from talking about a recession.
+You might ask: Why not “declare victory”? While demand, employment and inflation are all on a good path, there is no certainty where they are headed.
+Looking forward, I am hopeful but still looking for more conviction that the slowing of inflation is broadening and sustainable.
+Given robust demand and a historically strong labor market, we have time to build that confidence before we begin the process of toggling rates down.
+
+Thank you for that kind introduction and for having me here today. I thought I would speak about the economy and where we may be headed. I caution you these are my thoughts alone and not necessarily those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+The recent data have been remarkable. Twelve-month PCE inflation is at 2.6 percent. Core is down to 2.9 percent. Six-month and even seven-month core inflation are even lower, just below our target at 1.9 percent. The 12-month numbers will almost assuredly get even better over the next five months, as we cycle over last year’s inflationary winter and spring.
+
+At the same time, contrary to most forecasts (including mine), the progress on inflation has come while the economy has remained healthy. The unemployment rate remains low at 3.7 percent. On Friday, we added another 353,000 jobs. And GDP growth in the last quarter of 2023 was an impressive 3.3 percent. If you had told me a year ago we would end 2023 with 2.6 percent inflation and 3.7 percent unemployment, I would have taken it.
+
+As you may know, I don’t like to depend solely on published data. I spend a lot of my time talking to businesses across the Fifth District. And there, too, I’m hearing good news. With the exception of interest-sensitive sectors like banking and real estate, the tone has shifted decisively away from talking about a recession. They may not be hiring as much, but they’re not firing either. And while price-setters continue to try, they seem more and more convinced that price increases will be smaller, less frequent, and less likely to stick. I take a lot of signal from the major consumer products manufacturers. In their most recent earnings reports, I was happy to see their realized price increases have finally moderated, from double digits a year ago to low single digits today.
+
+So now the phrase “soft landing” enters every conversation, suggesting a scenario where inflation returns to our 2 percent target while the economy stays healthy. That could well happen. If so, it would defy almost all predictions of what would happen when the Fed raised interest rates so quickly to fight inflation. And it would be even more surprising given the challenges we faced last year, from the banking turmoil in the spring to the conflicts in Ukraine and the Middle East.
+
+One can explain why inflation is settling quickly without much disruption. The extraordinary levels of post-pandemic spending have been normalizing. The painful post-COVID-19 supply chain shortages have been largely resolved. The rebound in prime-age labor force participation and immigration have helped alleviate labor market pressures. And most measures of inflation expectations have stayed impressively stable, suggesting that businesses and consumers have found the Fed and our inflation target credible. In other words, they likely understood the inflation surge was temporary, and that with the help of Fed action, it is now behind us.
+
+You might ask: Why not “declare victory” and move rates back quickly to neutral levels? Let’s be clear that nothing would make me happier than a return to the pre-pandemic economy. But there are two reasons for caution.
+
+First, the plane has not landed yet. For the nerds among us, I like the visual of an unfinished negative parabola, with the top being the peak of the pandemic recovery. Annual GDP growth, which was around 2 percent pre-pandemic, hit 5.8 percent in 2021 and is now down to 2.5 percent in 2023, closing in on its trend growth rate around 2 percent. Three-month average job growth, which was 214,000 before COVID-19, hit 727,000 in 2021 and is now 289,000, still above the replacement rate of about 100,000. And inflation, which was just under 2 percent before the pandemic, rose to 7.1 percent in June 2022 and is now at 2.6 percent, on its way back to our 2 percent target. While demand, employment and inflation are all on a good path, there is no certainty where they are headed. A demand pessimist could point to monetary policy lags, credit tightening, the narrowness of job gains, and the potential for geopolitical shocks and worry about a downturn. An inflation pessimist could point to continued strong wage growth and the recent drop in interest rates as fueling reacceleration.
+
+The Fed is committed to returning inflation all the way to 2 percent. As I think about that commitment, I can’t help but look to lessons from the past. History tells many stories of inflation head-fakes. For example, at the end of the Volcker era, inflation seemed to settle in mid-1986. The Fed reduced rates. But inflation then escalated again the following year, causing the Fed to reverse course. I would love to avoid that roller coaster if we can.
+
+My second reason for caution is more fundamental. There is an old saying that no one returns from battle unchanged. And, while our wars on COVID-19 and inflation can’t compare to the horrors of actual war, I’m still wondering how these experiences may have changed our economy. Disruptive events can have lasting consequences; for example, GDP never returned to the pre-crisis trend after the Great Recession.
+
+Worth Watching: Pandemic Shifts in the Economy
+
+What changes worry me?
+
+The labor market certainly has changed. With labor force participation down, employment remains more than 4 percent under its pre-COVID-19 trend. My generation, the baby boomers, is aging out of the workforce, and its participation has dropped as well. The market was tight before the pandemic and remains even tighter today. As evidence, wage growth — as measured by the Atlanta Fed’s Wage Growth Tracker — is still running at 5.0 percent versus 3.7 percent pre-pandemic. This pressure on wages, and potentially prices, is likely to persist.
+
+The housing market has also changed. We lack housing supply — a topic I detailed in a speech late last year. We underconstructed for a generation, and the shortage of skilled trades workers and recent increase in construction costs haven’t helped. We also saw demand increase. With interest rates low and work shifting partly to home, people looked for new places to live. After all, nothing makes you more aware of the flaws of your current residence (or roommate) than spending every waking moment at home. Institutional investors added to demand, as did second-home purchasers. Housing prices shot up across the board. The market has since cooled somewhat, but with limited supply, prices remain high. If housing supply continues to be short, that could mean further pressure on prices and rents in coming years.
+
+Another change could be deglobalization. COVID-19 laid bare the vulnerabilities associated with globally complex supply chains. Businesses and consumers became painfully aware that a series of unfortunate events — a severe winter storm, a fire at an overseas plant, or a blocked shipping lane — could snowball into snarled supply chains, goods shortages, and a spike in costs. We are seeing countries rethink their trading relationships and firms redesigning their supply chains to prioritize resiliency, not just efficiency. These changes would suggest higher costs and less ability for intermediaries to drive year-over-year efficiencies. These forces could well put renewed pressure on goods prices.
+
+Looking forward, I am hopeful but still looking for more conviction that the slowing of inflation is broadening and sustainable. Much of the inflation drop thus far has come from the partial reversal of pandemic-era goods price increases. Shelter and other services inflation remain higher than historical levels. Now, the Fed is not in the game of picking the correct makeup of inflation; our target doesn’t specify how the price of individual items should change, just that the price index overall should increase by 2 percent over time. But the factors I discussed could hinder the continued deflation in goods and maintain pressure on shelter and services prices. A recent rebound in consumer sentiment, continued willingness of consumers to dip into savings, and loosening of financial conditions could also introduce risk to the inflation outlook. One could dismiss all these pressures as exerting only a fleeting impact on inflation in an otherwise stable environment, but I fear they could still influence expectations, unsettled by the recent inflationary experience. The New York Fed’s inflation uncertainty measure remains much higher than pre-pandemic levels.1
+
+So, it’s possible that we will return to the pre-pandemic economy pretty seamlessly. It is also possible that the landing might be somewhat bumpier, with continued inflation pressure or demand challenges that we will need to counteract.
+
+That’s why I think it is smart for us to take our time. You likely have seen in last week’s meeting that we acknowledged that risks to employment and inflation are moving into better balance and stated that we do not expect it will be appropriate to cut rates until we gain greater confidence that inflation is moving sustainably toward 2 percent. No one wants inflation to reemerge. And given robust demand and a historically strong labor market, we have time to build that confidence before we begin the process of toggling rates down.
+
+Thanks. I look forward to your questions and input.
+
+1
+"Inflation uncertainty." Federal Reserve Bank of New York's Survey of Consumer Expectations.

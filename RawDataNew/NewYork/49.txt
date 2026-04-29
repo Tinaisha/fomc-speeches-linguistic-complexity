@@ -1,0 +1,105 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/rem250929
+
+Balance Sheet Reduction and Ample Reserves
+
+September 29, 2025
+
+Julie Remache
+
+2025 Annual Primary Dealer Meeting, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+Good morning, and welcome to our Annual Primary Dealer Meeting.1 Primary dealers are core to the New York Fed’s mission and the work of the Open Market Trading Desk (the Desk).2 We rely on our interactions with primary dealers to implement monetary policy at the direction of the Federal Open Market Committee (FOMC). We also draw on the market knowledge of primary dealers and other market participants, via hundreds of outreach meetings each FOMC cycle, to help us better understand market developments.3 The insights we gain from this outreach are relayed to the FOMC and ultimately lead to more informed policymaking and better economic outcomes. More detail on how and why we conduct market outreach, and how we use the intelligence that we gather, can be found on our Market Intelligence web page, which we recently updated.4
+
+Today, unsurprisingly, I will focus on the Federal Reserve’s balance sheet and the ongoing transition from a level of abundant reserves to a level of ample reserves. I’ll review the role of the balance sheet in our monetary policy implementation framework and the major liabilities influencing balance sheet size over time. And I’ll conclude with some perspectives on the path ahead for money markets and the balance sheet as we approach ample reserves.
+
+Before proceeding further, I will offer the usual disclaimer: these views are my own, and not necessarily those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+The Balance Sheet in an Ample Reserves Framework
+
+Like many other advanced economy central banks, the Federal Reserve is in the process of shrinking its balance sheet following its material expansion during the pandemic. Recall that from 2020 to early 2022, the Federal Reserve added a significant amount of assets to its balance sheet to support the economy and the smooth functioning of financial markets (Panel 1). Those asset purchases expanded the supply of reserves to a level above ample, and increased balances in the overnight reverse repo (ON RRP) facility (Panel 2). While this abundant supply of banking system liquidity did not pose any problems for monetary policy implementation, it was not necessary to effectively control short-term interest rates. So, as instructed by the FOMC, the Desk has been shrinking the balance sheet since June 2022 in order to transition from abundant to ample reserves.5
+
+The FOMC adopted its ample reserves framework in January 2019, describing this monetary policy implementation regime as one in which “control over the level of the federal funds rate and other short-term interest rates is exercised primarily through the setting of the Federal Reserve's administered rates, and in which active management of the supply of reserves is not required.”6  
+
+Leading up to that decision, the FOMC considered a wide range of possible operational frameworks, and came to the conclusion that operating with ample reserves—the framework de facto in place since 2008—had a number of advantages.7 That decision has served us well: despite some turbulence over the years, this framework has enabled us to maintain very good rate control and has supported the resiliency of both the banking sector and the Treasury market.8
+
+The Committee has indicated that it intends to stop balance sheet runoff when reserves are somewhat above an ample level, and then allow reserves to continue to fall toward ample organically as other liabilities grow.9
+
+Our balance sheet has fallen from the equivalent of around 35 percent of GDP, in early 2022, to around 22 percent of GDP now. This is a substantial reduction, and it leaves the balance sheet, as a share of GDP, close to its pre-pandemic level (Panel 3).10 It’s difficult to know exactly when we will reach ample, but as our balance sheet shrinks we get closer to that point.
+
+It’s also important to remember that part of the role of a central bank is to use its balance sheet to supply the money—in the form of central bank liabilities—that society wants and needs.11 The three major liabilities here are physical currency (Federal Reserve notes); the Treasury General Account (TGA), which is essentially the Treasury Department’s “checking account” at the Fed; and reserves (see Panel 2). Together these liabilities equate to about 90 percent of the Fed’s current balance sheet (or 20 percent of GDP)—and should grow in dollar terms over time as the economy expands.
+
+Taking each in turn, the Federal Reserve needs to meet demand for currency. It is a key responsibility of the Federal Reserve to issue banknotes—the paper money you may hold in your wallet—and it does so on demand when banks request currency, by converting reserves into banknotes. So, from a practical standpoint, the amount of currency outstanding is not within the Federal Reserve’s control.
+
+Likewise, the size of the TGA is determined by the Treasury, and is not within the Federal Reserve’s control.  For risk management reasons, the Treasury has chosen to hold enough cash to cover one-week-ahead cash needs.12 At times, such as during the pandemic, the Treasury has held even higher cash balances for precautionary reasons.13 The Treasury could in principle hold less cash at the Federal Reserve, as was the case prior to 2008.14 But one downside of this earlier arrangement was the risk and operational burden faced by the Treasury. The shift to an ample reserves framework allowed the Treasury to maintain its full balance at the Federal Reserve without compromising the Fed’s ability to control the policy rate.
+
+The other major liability is reserves, which currently stand at around $3 trillion. Banks consider a range of factors when deciding on the level of reserves that they wish to hold, including market conditions, financial incentives, and their ability to make payments and fund outflows in both normal times and during stress.
+
+When liquidity in the banking system is very high, banks feel less need to compete aggressively for funds. In this case, liquidity naturally migrates from the banking sector to other intermediaries, including money market funds, in search of higher returns. In terms of balance sheet mechanics, this results in lower reserve balances and higher balances at the ON RRP.15 The ON RRP was very large for a time, but has recently shrunk to de minimis levels. In conjunction with interest on reserve balances (IORB), the ability of the ON RRP to increase to accommodate excess liquidity and to shrink as liquidity is withdrawn from the system has been vital in ensuring strong rate control.
+
+An essentially empty ON RRP, as is the case now, indicates that banks wish to hold the entirety of liquidity supplied by the Fed at the current constellation of money market rates. As the Fed’s balance sheet shrinks further, the opportunity cost of holding reserves—the spread between money market rates and IORB—will presumably need to rise modestly to keep the market in equilibrium. One feature of an ample reserves framework is that this opportunity cost is low, with money market rates close to IORB. That is, banks do not face a material disincentive to hold reserves.16 Policymakers have noted that this aspect of ample reserves could enhance financial stability and reduce operational risks in the payment system.17
+
+A critical aspect of any central bank operating framework is the ability to maintain strong interest rate control. Our current implementation framework has proven very effective at controlling overnight rates (Panel 4). We have been able to keep the effective federal funds rate (EFFR) within the Committee’s target range through a wide range of economic and financial market conditions, without needing to precisely forecast day-to-day changes in reserve demand and so-called autonomous factors, which would be challenging in the current environment.18 In fact, the effectiveness, robustness, and simplicity of ample reserves frameworks across different conditions is a major reason why most advanced economy central banks have adopted and use them.
+
+Relatedly, supplying an ample level of reserves reduces the risk of unexpected and disruptive spikes in money market rates, since more liquidity in the system facilitates smoother intermediation between overnight borrowers and lenders. For banks specifically, holding sufficient reserves to cover both expected daily payment flows and more unusual situations means they are less likely to be caught short of funds and need to bid aggressively for cash. As a counter-example, when reserves fell below an ample level in September 2019, money market rates spiked upward (Panel 5).19
+
+Importantly, many investors and market participants rely on money markets, especially repo markets, to finance their Treasury security holdings. For primary dealers, this activity supports market-making and therefore Treasury market liquidity and functioning. Other investors buy Treasury securities, financed in repo, for their return or as part of a trading strategy. For all, predictable financing costs support the ability to purchase Treasuries, while volatile and unpredictable repo rates increase risks that investors face in financing their Treasury holdings. All else equal, greater financing risk would result in higher Treasury yields, tighter financial conditions, and a headwind for the economy.  
+
+The Path Ahead
+
+While an ample supply of reserves reduces the risk of unexpected and disruptive money market volatility, it does not eliminate volatility. IORB provides a solid anchor for rates in an ample reserves framework, but money market rates still vary, and tend to rise on key reporting dates, including quarter ends, as banks optimize their balance sheets. This phenomenon is—within limits—normal, not concerning, and exactly what we expect as we continue to normalize our balance sheet. We see somewhat similar dynamics on days when a large volume of reserves flows from the banking sector to the government, including days with large tax payments or a high volume of Treasury security issuance. Again, within limits, we consider these dynamics normal and not concerning.
+
+To the extent that temporary strains in money markets do appear and pressure overnight rates higher, the Fed’s Standing Repo Facility (SRF) is there to dampen the pressure. It is a key part of our monetary policy implementation toolkit; like the ON RRP, it was designed to support rate control across different market environments. The ON RRP helps ensure that the EFFR does not fall below the bottom of the Committee’s target range, while the SRF helps prevent the EFFR from rising above the top of the target range. The SRF has been much less extensively used than the ON RRP to date, since reserves have been abundant over recent years. But as reserve levels fall this is shifting somewhat, with the SRF used at the recent June quarter end and at the mid-September tax date. On those occasions it worked consistent with its design, providing funds into the market when market rates rose above the SRF minimum bid rate. By doing so, the SRF can stem incipient rate pressure that, if left unaddressed, could threaten rate control. The SRF can even be effective in dampening rate pressure without being used, if it alters the relative bargaining power of repo market participants.
+
+As an aside, and as argued recently by President Williams, effective ceiling tools can also reduce the amount of reserves needed to operate an ample reserves framework.20 From a counterparty’s perspective, if it knows that it can rely on the SRF to source funds if needed, it can safely hold a smaller buffer of reserves just in case something unexpected occurs. And from the Federal Reserve’s perspective, an effective ceiling tool means we do not need to supply extra reserves via asset purchases just in case a possible but unlikely shock to reserve supply or demand might threaten rate control.21
+
+Our indicators currently suggest that reserves are still abundant.22 But we have observed some firming of repo rates recently, in part due to the increase in bill supply after the debt ceiling resolution, and continued pressures are likely over time given ongoing Fed balance sheet reduction. We have also started to see some movement in the distribution of federal funds transactions in response to higher repo rates—which is a healthy sign of market linkages, and exactly what we would expect. Most recently, this has translated to a one-basis-point increase in the EFFR relative to IORB.
+
+Observing a more substantial shift in the EFFR relative to IORB, and changes in our set of reserve ampleness indicators, would be consistent with transitioning from abundant toward a more ample level of reserves. The Committee has indicated that it will consider stopping balance sheet runoff when we reach that point. After that, growth in the economy will naturally result in increasing demand for Federal Reserve liabilities, including currency and reserves. When market conditions suggest reserves are ample, we will provide those liabilities by beginning to grow our balance sheet once again. At that point, the Committee would direct the Desk to resume purchases of Treasuries for the SOMA portfolio to maintain an ample level of reserves.
+
+We will use a broad range of information, including quantitative market signals, survey responses, and market intelligence—notably from our primary dealers—to inform an assessment of reserve conditions and support FOMC decisions on the balance sheet.
+
+1 I would like to thank Richard Finlay and Eric LeSueur for their assistance in preparing these remarks, and Navya Sharma and Zack Youngblood for their assistance with the presentation.
+
+2 See Roberto Perli, Balance Sheet Reduction: Progress to Date and a Look Ahead, remarks at 2024 Annual Primary Dealer Meeting, Federal Reserve Bank of New York, New York City, May 8, 2024.
+
+3 See Roberto Perli, Market Intelligence and the Monetary Policy Process, remarks at the Deutsche Bundesbank – Representative Office New York, New York City, September 24, 2024.
+
+4 See Market Intelligence, Federal Reserve Bank of New York.
+
+5 See Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+6 See Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019.
+
+7 The FOMC’s discussion of monetary policy implementation frameworks is summarized in the minutes of the November 2018, December 2018, and January 2019 FOMC meetings. Supporting documents and transcripts of those FOMC meetings are also available on the Board of Governors website.
+
+8 See discussion of the ample reserves framework and funding market resilience in Roberto Perli, Recent Developments in Treasury Market Liquidity and Funding Conditions, remarks at the 8th Short-Term Funding Markets Conference, Federal Reserve Board, Washington, DC, May 9, 2025.
+
+9 See Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+10 It is natural to measure the size of our balance sheet as a share of GDP, rather than in dollar terms, as, all else equal, a larger economy means more demand for currency and a larger banking sector requiring more reserves.
+
+11 See, for example, Julie Remache, Balance Sheet Basics, Progress, and Future State, remarks at Fixed Income Analysts Society, Inc. Women in Fixed Income Conference, Federal Reserve Bank of New York, New York City, February 7, 2024.
+
+12 See U.S. Department of the Treasury, Quarterly Refunding Statement of Acting Assistant Secretary for Financial Markets Seth B. Carpenter , May 6, 2015. See additional details on the Treasury’s cash management approach in Treasury Borrowing Advisory Committee Discussion Charts, Q1 2022, and Minutes of the Meeting of the Treasury Borrowing Advisory Committee February 1, 2022.
+
+13 See, for example, U.S. Department of the Treasury, Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith, May 6, 2020.
+
+14 See Paul J. Santoro, The Evolution of Treasury Cash Management during the Financial Crisis, Federal Reserve Bank of New York Current Issues in Economics and Finance, April 2012.
+
+15 The ON RRP provides an outlet for abundant liquidity in the system and can reduce pressures on bank balance sheets arising from an increase in reserves associated with large-scale Fed asset purchases. See Gara Afonso, Lorie Logan, Antoine Martin, William Riordan, and Patricia Zobel, How the Fed’s Overnight Reverse Repo Facility Works, Federal Reserve Bank of New York Liberty Street Economics, January 11, 2022.
+
+16 See Paolo Cavallino, Mathias Drehmann, Richard Finlay and Julie Remache, Monetary policy operational frameworks - a new taxonomy, Quarterly BIS review, September 15, 2025, for a discussion of how the marginal opportunity cost of holding reserves influences bank decision making and market outcomes.
+
+17 See Board of Governors of the Federal Reserve System, Minutes of the Federal Open Market Committee, November 7-8, 2018.
+
+18 Since the formal adoption of the Fed’s ample reserves framework in January 2019, the EFFR has been outside the target range only one day.
+
+19 See, for example, Gara Afonso, Marco Cipriani, Adam Copeland, Anna Kovner, Gabriele La Spada, and Antoine Martin, The Market Events of Mid-September 2019, Federal Reserve Bank of New York Economic Policy Review, August 2021, and Sriya Anbil, Alyssa Anderson, and Zeynep Senyuz, What Happened in Money Markets in September 2019?, FEDS Notes, Board of Governors of the Federal Reserve System, February 27, 2020.
+
+20 See John C. Williams, On the Optimal Supply of Reserves, remarks at the New York Fed – Columbia SIPA Monetary Policy Implementation Workshop, Federal Reserve Bank of New York, New York City, May 22, 2025. Similar arguments have been made by other central banks that operate facilities to elastically supply reserves at a fixed price; see, for example, Andrew Bailey, The importance of central bank reserves, May 21, 2024, Isabel Schnabel, The Eurosystem’s operational framework, March 14, 2024, and Christopher Kent, The Future System for Monetary Policy Implementation, April 2, 2024.
+
+21 The SRF is one of several facilities operated by the Federal Reserve to support rate control and financial market function. See Patrick Dwyer, Eric LeSueur, Fabiola Ravazzolo, Will Riordan, and Josh Younger, The Federal Reserve’s Standing Liquidity Facilities, August 7, 2024.
+
+22 See discussion of these indicators in past speeches by Roberto Perli, for example: Balance Sheet Normalization: Monitoring Reserve Conditions and Understanding Repo Market Pressures, remarks at 2024 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City, September 26, 2024.

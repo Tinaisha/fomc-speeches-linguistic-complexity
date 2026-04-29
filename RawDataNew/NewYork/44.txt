@@ -1,0 +1,152 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/rem240207
+
+Balance Sheet Basics, Progress, and Future State
+
+February 07, 2024
+
+Julie Remache
+
+Fixed Income Analysts Society, Inc. Women in Fixed Income Conference, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+Thank you, Michelle. Your words have special meaning to me—my own career at the Federal Reserve Bank of New York has really emphasized the importance of diversity to our success.
+
+I have benefited greatly from the consistent presence of skilled female managers and peers throughout my career. These women have served as role models, mentors, friends, and champions of my work. Their guidance and support enabled me to contribute with confidence when I took my proverbial “seat at the table”—especially when I was the only woman in the room.
+
+Not all women are so fortunate. As we all know, there is still not enough gender parity or diversity in financial markets. This event and others like it provide opportunities for women to build supportive networks to further those goals. My thanks to everyone here for making this gathering possible.
+
+As the world grows more complex and interconnected, so too, do the issues we face. Everyone brings different perspectives to problem-solving, shaped by their own personal experiences, and wide-ranging perspectives are increasingly essential to finding effective solutions.
+
+In my experience, fostering a supportive and inclusive culture is embedded in the Federal Reserve’s work. This culture is one of the things that has kept me at the Fed for almost my entire professional career. And drawing from a broad range of views is critical in my role as deputy manager of the System Open Market Account (SOMA), where I help to lead the Fed’s monetary policy implementation.
+
+Recently, the evolution and future of the Fed’s balance sheet has become a topic of increasingly active discussion. Today, I will describe where the balance sheet currently stands, consider its various components, and suggest how it might evolve going forward. Central bank balance sheets can be technical and obscure, but we’ll go through it step by step.
+
+First, please note that the views I express today are my own, and do not necessarily reflect those of the Federal Reserve Bank of New York or the Federal Reserve System.1 That said, let’s get into it.
+
+Understanding the Fed’s Balance Sheet
+
+The Federal Open Market Committee (FOMC) has set U.S. monetary policy since the 1930s. And for close to half a century, it has been mandated to achieve maximum employment and price stability. The New York Fed is charged with implementing monetary policy, mostly through open market operations.
+
+Historically, the Fed’s balance sheet consisted of a relatively simple combination of reserves and currency, on the liability side, and securities holdings and loans to depository institutions, on the asset side. Over time, that balance sheet has become more diverse and complex as financial markets have evolved. But at the end of the day, the New York Fed’s core job—supporting the FOMC’s efforts to achieve its dual mandate—remains largely the same.
+
+Three Interrelated Responsibilities
+
+So how does a central bank use its balance sheet to achieve its key objectives?2 Here I see three interrelated responsibilities.
+
+First, central banks provide money for our everyday lives. People use Federal Reserve notes—paper money—to purchase goods and services. Banks use reserves—deposits they hold at the Fed–to settle payments and as a safe and liquid asset. The U.S. Treasury has a “checking account” at the Fed, called the Treasury General Account (TGA), which it uses to manage its cash flows. These and other Fed liabilities are the foundation for our monetary and banking system—the lifeblood of our economy.
+
+Second, central banks adjust their balance sheets to support the stance of monetary policy. In the U.S., the Federal Reserve’s primary tool for this purpose is the target range for the federal funds rate, which in turn influences other short-term interest rates and broader financial conditions. At each meeting, the FOMC sets a target range consistent with its dual mandate. Then, the Federal Reserve adjusts a set of administered rates and the FOMC instructs the New York Fed’s Open Market Trading Desk (the Desk) to conduct market operations to achieve that target. Today, two of the Fed’s administered rates—the rate of interest on reserve balances (IORB) and the rate on the overnight reverse repo facility (ON RRP)—together establish a floor under interest rates, below which banks and other money market participants should be unwilling to lend.
+
+Finally, central banks can use their balance sheets to address dysfunction in markets to support the transmission of monetary policy. The Fed, as the lender of last resort, can expand its balance sheet to address temporary liquidity strains. Historically, during periods of acute stress, the Fed has used a mix of lending facilities and asset purchases to restore functioning in critical markets. The Bank Term Funding Program (BTFP)—introduced last March to mitigate liquidity stress in the banking system—is the latest such example.3 Supporting financial stability in this way helps prevent broader crises.
+
+Balance Sheet Basics
+
+With these tenets in mind, I will walk through how the balance sheet reflects these three interrelated responsibilities, through both assets and liabilities.
+
+I’ll start with the Fed’s assets. These are relatively simple: they are primarily loans and the SOMA portfolio. The portfolio includes securities holdings mostly acquired through open market operations. And it’s comprised primarily of Treasuries and agency mortgage-backed securities (MBS).4 Operations like repurchase agreements—which are also part of the SOMA portfolio—and other monetary policy tools, such as the Discount Window and other forms of lending, can also be used to provide liquidity to the financial system when needed. When the Fed purchases securities or extends credit to financial institutions, the balance sheet grows. When loans are repaid or securities mature without reinvestment, the balance sheet shrinks.
+
+Now I’ll turn to the Fed’s liabilities—the base money we provide to the financial system and the public.  So what are these liabilities and how can they evolve? I’ll divide this discussion in two parts: reserves and non-reserve liabilities since their behavior and drivers can be very different.
+
+I’ll start with reserves. The Fed is a bank to banks, and reserves are the deposits these banks hold with the Fed. The total supply of reserves relative to bank demand is a key part of interest rate control. Demand for reserves reflects actual or expected payment activity, regulations and related factors, and internal liquidity risk practices. Reserve demand tends to grow with the economy, and surveys suggest it increases around stress events.5 The Fed pays interest on reserve balances—one of the two administered rates that I mentioned earlier—which provides a strong disincentive for banks to lend out excess holdings below that rate, and thus acts as a floor on bank lending rates.
+
+On the other side, non-reserve liabilities can be further split up into two subsets: “autonomous” and “semi-autonomous” factors. I’ll take each in turn.
+
+Demand for “autonomous” factors is driven more by structural dynamics than the stance of monetary policy or other direct actions of the Fed. That distance from Fed actions is what makes them “autonomous.” Currency and the TGA, mentioned earlier, are prime examples. Currency demand has generally increased over time, reflecting nominal economic growth, shifts in consumer preferences, technological changes, and international demand for U.S. dollars. TGA balances are determined by Treasury’s cash management practices and have grown over time, albeit with periodic fluctuations.6
+
+An important subset of non-reserve liabilities is what I will call “semi-autonomous” factors, the size of which are ultimately determined by economic incentives but are also influenced by monetary policy and its implementation. The ON RRP facility is a prime example.7 The ON RRP rate—the second of the two administered rates that I mentioned earlier—effectively acts as a floor by offering safe, short-term investments to a range of bank and nonbank counterparties, including some that do not otherwise have access to remunerated balances at the Fed. Demand for the ON RRP is driven primarily by money market dynamics. This includes demand for deposit funding by banks, asset allocation decisions by money market funds, and the relative availability and pricing of other short-duration safe assets, such as Treasury bills.
+
+The Fed’s Implementation Framework and the Balance Sheet
+
+Now I will turn to interest rate control and our implementation framework. In 2019 and again in 2022, the FOMC affirmed its intention to continue operating in an ample reserves regime—a framework that has been in place since 2008.8 The merits of this decision have been discussed in other forums and publications.9 I’m going to discuss our framework as a foundation for understanding the FOMC’s current plans to reduce the balance sheet, as well as the likely evolution of the balance sheet over time.
+
+When reserves are ample, interest rate control is achieved primarily through administered rates without active management of reserve supply. IORB disincentivizes banks to lend funds at any lower rate, and thus acts as a floor on money market rates. This system ties the price of liquidity to administered rates rather than to changes in reserve supply or demand. This flexibility allows the FOMC to use changes in the size or composition of the balance sheet as a policy tool, while still maintaining interest rate control and influencing broader financial conditions.
+
+This approach works well in both liability- and asset-driven regimes. When the balance sheet is only large enough to meet the demand for the Fed’s liabilities, the regime is characterized as liability-driven. Assets are adjusted to ensure that the supply of reserves is ample relative to the demand for reserves. This is an environment in which the federal funds rate does not display significant sensitivity to short-term changes in aggregate reserve balances.
+
+By contrast, the balance sheet is asset-driven when asset purchases are used to provide additional economic stimulus or to address severe market dysfunction. During periods of acute stress, backstop facilities or emergency lending tools also support market functioning and the smooth flow of credit.10 In this regime, the supply of liquidity may grow well beyond ample—and remain there for some time. That means there is an excess supply of reserves—possibly a significant excess supply—relative to bank demand. This is when the floor provided by administered rates is particularly important. Our framework is also designed to maintain rate control through the transition from an asset-driven regime to a liability-driven regime.
+
+The ON RRP facility is key to that flexibility. After the global financial crisis, it became clear that the “floor” on rates from IORB was a bit leaky. That was partly anticipated, and it was attributed to bank balance sheet and other intermediation costs. It also reflected the activity of Government-Sponsored Enterprises (GSEs), such as Federal Home Loan Banks to name one example. These GSEs participate in the federal funds market, but since they do not earn interest on their balances held at the Fed, it means they are likely willing to lend at rates below IORB. ON RRP reinforces interest rate control by extending administered rates to a larger share of market participants, including GSEs and money market funds.11
+
+How does this work? When private market repo rates are below the ON RRP offering rate, some counterparties are incentivized to use the ON RRP, and its balance grows. But when private market repo rates are above the ON RRP rate, the facility balance tend to shrink. This way, the ON RRP enhances rate control by securing the floor under overnight funding rates, giving our framework greater flexibility.
+
+In the long run, the balance sheet will generally be liability-driven. In other words, it will be adjusted primarily to meet demand for reserves and non-reserve liabilities consistent with an ample supply of reserves.
+
+Balance Sheet Reduction
+
+Today, we are in transition—reducing the size of the balance sheet as directed by the FOMC. This process is going smoothly, and I’d like to provide some context.
+
+In 2022, the FOMC reaffirmed that its primary tool for adjusting the stance of monetary policy is the federal funds rate.12 It also reaffirmed its intention to maintain, over time, securities holdings in amounts needed to implement monetary policy efficiently and effectively in its ample reserves regime. The Committee subsequently communicated its intent to slow and then stop the decline in the size of the balance sheet when reserve balances are somewhat above the level it judges to be consistent with ample.13 That buffer should provide space for the growth of non-reserve liabilities until reserve balances are at an ample level.
+
+Since the start of runoff in June 2022, the SOMA portfolio has declined by over $1.4 trillion, including $1.1 trillion in Treasury securities and nearly $300 billion in MBS. This decrease was partly offset by a rise in lending after the stress to the banking system in March 2023. On net, Fed assets have declined by $1.3 trillion since June 2022.
+
+This runoff in SOMA securities is passive and subject to a total monthly cap of $95 billion. That approach is designed to be predictable and is intended to reduce the risk of disruptions in market functioning or outsized volatility in asset prices. On average, securities runoff has been about $75 billion per month—a level below the cap owing to very slow MBS prepayments.14
+
+As I mentioned, balance sheet reduction has been proceeding as planned and reserve supply remains above ample.15 The reserve-draining impact of runoff has been almost entirely offset by the reserve-adding impact of the drop in ON RRP usage.16 And, as a result, reserve balances are nearly unchanged since runoff started. Nevertheless, we are seeing incremental signs of a shift in money market conditions. The distribution of traded repo rates, for example, has moved upward, and repo rate volatility has periodically reemerged around regulatory reporting dates or Treasury settlement dates. However, there is no sustained material upward pressure in the federal funds market. As balance sheet reduction continues, we expect to see further declines in ON RRP, and reserve balances will likely begin to decrease at some point. As this proceeds, we will continue to monitor conditions in a range of money markets.
+
+Amid these developments, there has been increased focus on the factors that would guide a decision to slow the pace of SOMA runoff. The FOMC will ultimately determine the future evolution of the balance sheet, including when to slow and when to stop the runoff of the securities portfolio. Still, I can provide some context on how to think about its future size and associated considerations. Let me walk you through that now.
+
+The Fed’s Future Balance Sheet
+
+The balance sheet currently stands at $7.6 trillion, including $7.4 trillion in SOMA securities holdings.17 According to recent surveys conducted by the Desk, there is a high degree of uncertainty among primary dealers and market participants over how much further the SOMA portfolio will decline. Most respondents expect runoff to cease between later this year and the middle of 2025, and assign a substantial probability to a SOMA portfolio that is between $6 and $7 trillion when it ceases to decline.
+
+Importantly, the size and composition of the balance sheet will be largely determined by factors that are not directly related to monetary policy. Secular shifts in demand for reserve balances and other liabilities will be key.
+
+It is, however, clear that recent trends point to a sizable balance sheet in the long run. Federal Reserve notes, which currently total $2.3 trillion, are a primary driver. Currency growth is likely to be steady, but technological change is a wild card. The TGA, which reflects Treasury’s cash management policy, currently averages about $750 billion, but that may change over time and exhibit significant fluctuations.18 Meanwhile, accounts held by foreign central bank and other official international institutions, GSEs, and designated financial market utilities have increased and currently represent about $550 billion in additional liabilities. Together, these liabilities total $3.6 trillion before accounting for reserve balances.
+
+Future demand for ON RRP is an open question, and an important one. Thus far, ON RRP counterparties have been very responsive to private market prices, which is consistent with the facility’s role in reinforcing the floor on rates through a wide range of environments. If these declines continue, ON RRP balances could return to near-zero levels over time. But that remains to be seen.
+
+Finally, the response of banks to changes in regulations and risk appetite has driven increased demand for reserves. The emergent stress among regional banks last March appears to have been a recent catalyst.19 The Fed will need to be responsive to this change in demand when setting the supply of reserves at a sufficient quantity to maintain interest rate control.20
+
+Considering all these factors, a return to the $4.2 trillion pre-Covid balance sheet is very unlikely. In the coming months, we will be monitoring money markets for emerging pressures, which may at some point indicate we’re getting closer to a level that is somewhat above ample. Eventually, the balance sheet will have to increase over time to accommodate the long-term growth of the financial system—and with it the demand for Fed liabilities. In order to meet this growth over time, reserve management purchases will be needed to maintain an ample supply of reserves.
+
+Conclusion
+
+To conclude, I want to emphasize that balance sheet reduction has been proceeding smoothly. The longer-run size and composition of the Fed’s liabilities will be driven by structural factors that will influence the demand for reserves and other central bank liabilities. This demand will continue to influence the size of the balance sheet needed to operate effectively in an ample reserves regime. For now, we will continue to monitor money market conditions to help policymakers determine when to slow and then stop balance sheet runoff.
+
+As I mentioned earlier, the tools may have changed over the years, but our goal remains the same: to help the FOMC achieve its dual mandate. We do that by taking actions to implement its monetary policy decisions. The balance sheet is, in a sense, simply a record of those actions. That makes understanding its past and its evolution key to understanding the role the central bank plays in the economy—how it supports growth and employment, maintains stable prices, and promotes the safety and stability of our financial system.
+
+Finally, to bring it back to the conference today, I will leave you with a sentiment from current Treasury Secretary—and former Fed Chair—Janet Yellen.21 She has said that "expanding opportunity to women isn’t just the right thing to do. It’s also good economics. And we have much more work to do." As we look ahead to today's conference on so many important topics, let's keep this in mind, and keep working towards a better future.
+
+
+1 I would like to thank Kayla Brotherton, Linsey Molloy, Fabiola Ravazzolo, and Josh Younger for their assistance in preparing these remarks, Aaron Willis for his assistance with data, and my colleagues from across the Federal Reserve System for their many helpful suggestions.
+
+2 For a comprehensive discussion of the role, components, and changes in central bank balance sheets, see Garreth Rule, Understanding the Central Bank Balance Sheet, 2015.
+
+3 For additional details about the BTFP, see Board of Governors of the Federal Reserve System, Bank Term Funding Program: Frequently Asked Questions, August 18, 2023.
+
+4 The SOMA portfolio also includes other assets such as foreign portfolio holdings, and certain facilities such as the standing repo facility, the Foreign and International Monetary Authorities (FIMA) repo facility, and swap lines with other central banks; it also includes RRP liabilities, including balances in the ON RRP facility.
+
+5 For more details about banks’ preferred reserve levels, see Board of Governors of the Federal Reserve System, May 2023 Senior Financial Officer Survey Results, May 2023, Revised December 18, 2023; and Gara Afonso, Kyungmin Kim, Ed Nosal, Simon Potter, and Sam Schulhofer-Wohl, Monetary Policy Implementation with an Ample Supply of Reserves, January 2020, Revised July 2023.
+
+6 Before the global financial crisis, TGA balances were small and stable to help reduce variability in bank reserves, which helped support monetary policy implementation. More recently, in 2015, the Treasury announced that it would generally strive to maintain a TGA that was large enough to ensure that it could cover one week of payments and maturing debt, subject to a minimum of $150 billion. The U.S. Treasury often holds a TGA balance above the level necessary to meet its projected cash needs to support its regular and predictable approach to issuing debt. Over time, the TGA balances have grown as the economy, federal deficits, and outstanding debt have increased.
+
+7 There are, of course, other such semi-autonomous factors. They include the FIMA reverse repo pool, which is an overnight reverse repo investment service offered to foreign official and international account holders, and deposits held by designated financial utilities (DFMUs). While the level of activity among these account holders is driven by idiosyncratic factors, such as liquidity preferences and cash management strategies, it is also influenced by the return on investment and deposit accounts offered by the Fed relative to what the account holders could receive in private markets. Rates on these accounts are generally tied to the Fed’s administered rates. For a detailed discussion of Fed liabilities, see Federal Reserve Bank of New York, Open Market Operations During 2022, April 2023.
+
+8 See Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019, and FOMC Communications Related to Policy Normalization, May 4, 2022.
+
+9 For discussion of the policy implementation framework, see Jane Ihrig, Zeynep Senyuz, and Gretchen C. Weinbach, The Fed's "Ample-Reserves" Approach to Implementing Monetary Policy, February 2020; John C. Williams, A New Chapter for the FOMC Monetary Policy Framework, September 2, 2020; Patricia Zobel, The Ample Reserves Framework and Balance Sheet Reduction: Perspective from the Open Market Desk, September 8, 2022; and Roberto Perli, Implementing Monetary Policy: What’s Working and Where We’re Headed, October 10, 2023.
+
+10 Federal Reserve Bank of New York, Economic Policy Review Special Issue: Policy Actions in Response to the COVID-19 Pandemic, June 2022.
+
+11 Gara Afonso, Lorie Logan, Antoine Martin, William Riordan, and Patricia Zobel, How the Fed’s Overnight Reverse Repo Facility Works, January 11, 2022.
+
+12 Board of Governors of the Federal Reserve System, Principles for Reducing the Size of the Federal Reserve's Balance Sheet, January 26, 2022.
+
+13 Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+14 Runoff could accelerate if interest rates decline sufficiently and principal repayments on MBS holdings increase; this acceleration is limited by the cap. See Simon Potter, Gradual and Predictable: Reducing the Size of the Federal Reserve’s Balance Sheet, October 11, 2017. Importantly, given the current level of rates and weighted average coupon of SOMA MBS holdings, this rate decline would have to be very large to generate a material increase in prepayment speeds.
+
+15 John C. Williams, Rules of Three, January 10, 2024.
+
+16 The decline in the usage of the ON RRP is a result of rising money market rates relative to the ON RRP rate driven by increases in supply of other money market assets, like U.S. Treasury bills, and increased demand for secured financing transactions.
+
+17 SOMA securities holdings reflect securities held outright and net unamortized premiums and discounts on those securities.
+
+18 The TGA averaged about $750 billion in 4Q 2023. In the latest Quarterly Refunding statement, the U.S. Treasury has assumed that the TGA will be $750 billion by the end of the first and second quarter of 2024.
+
+19 For more details about how banks’ preferred reserve levels changed from the February 2020 Senior Financial Officer Survey to the May 2023 Senior Financial Officer Survey, see Board of Governors of the Federal Reserve System, May 2023 Senior Financial Officer Survey Results, May 2023, Revised December 18, 2023.
+
+20 See Gara Afonso, Domenico Giannone, Gabriele La Spada, and John C. Williams, Scarce, Abundant, or Ample? A Time-Varying Model of the Reserve Demand Curve, May 2022, Revised June 2023, whose findings also suggest that banks’ demand for reserves has increased over time.
+
+21 See Remarks by Secretary of the Treasury Janet L. Yellen at the Vermont Women’s Economic Opportunity Conference, October 1, 2022.

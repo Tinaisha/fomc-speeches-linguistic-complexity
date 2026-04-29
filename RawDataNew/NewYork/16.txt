@@ -1,0 +1,94 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/wil241202
+
+The Journey
+
+December 02, 2024
+
+John C. Williams
+
+Remarks at the Queens Chamber of Commerce, East Elmhurst, New York
+
+Introduction
+
+It’s great to be with you here today. Queens is a special place. There are so many features that make it unique. It’s one of the country’s most diverse areas. It’s home to not one, but two airports. And it’s the birthplace of so many famous actors and musicians.
+
+That said, getting around can be complicated. The hyphenated numbers in street addresses. The avenues, roads, and drives that all start with the same number. The fact that you can have a 58th Street that meets a 58th Drive.
+
+Navigating through Queens can be quite a journey. And as the past few years have shown, the same can be said for the economy.
+
+To give you a roadmap today, I’m going to discuss the rise and fall of inflation—from unacceptably high to within striking distance of the Fed’s 2 percent longer-run goal—as well as the labor market’s return to balance. I’ll also talk about how monetary policy is working to achieve our dual mandate of maximum employment and price stability. And I’ll provide my economic outlook.
+
+But before I continue the journey, I will give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+Strong Demand, Strong Supply
+
+In talking about where the economy has been and where it’s headed, it’s important to take stock of where we are.
+
+Right now, the economy is in a good place. The labor market is solid. Inflation is just above our 2 percent longer-run target—although there have been a few bumps along the way. And GDP growth continues to be strong, averaging about 3 percent per year over the past two years.
+
+As the economy has returned to balance and inflation has come down, the FOMC has taken steps to move its monetary policy stance from one that constrains demand toward one that is more neutral. In September, the Committee lowered the target range for the federal funds rate by half a percentage point, and last month it lowered it by another quarter of a point.1,2
+
+But with the strong growth that we’re seeing, I’m often asked the question: Why is the Fed cutting interest rates at all?
+
+The simple answer is that while growth in demand has been strong, growth in supply has been even stronger. Specifically, robust growth in both the labor force and in productivity has meant that the economy can expand at a higher pace than we saw before the pandemic, without creating inflationary pressures.
+
+Importantly, our mandate is to achieve maximum employment and price stability. That means having demand in line with supply and keeping the risks to achieving our goals in balance.
+
+And now that we’ve achieved that balance, our job now is to ensure the risks remain in balance.
+
+On the Way to 2 Percent
+
+So that’s the big picture view. Before I go into more detail about monetary policy, I’m going to delve deeper into each side of our dual mandate, starting with inflation.
+
+The onset of the pandemic in 2020 dealt enormous shocks to the global economy, resulting in extraordinary imbalances from high demand and unprecedented supply disruptions. That, along with Russia’s war against Ukraine and other factors, caused inflation to surge to a 40-year high of over 7 percent in June of 2022, as measured by the 12-month percent change in the personal consumer expenditures (PCE) price index. Inflation has now fallen to around 2-1/4 percent in the latest reading.
+
+Still, inflation remains above our 2 percent longer-run target, and it will take some time to achieve our inflation goal on a sustained basis.
+
+But there are reasons to be confident that inflation is on its way to 2 percent. To start, it is helpful to look under the hood at various categories of goods and services. Inflation rates for goods and services excluding food, energy, and housing have slowed to levels that are roughly consistent with what we saw from 2002 to 2007, when core inflation was around 2 percent on average. Housing inflation, which largely encompasses rises in rents for rental units and in implied rents for owner-occupied homes, remains elevated compared to that time frame. But I expect the disinflationary process to continue here, too, as lower rates of rent increases for new leases are increasingly reflected in the official inflation measures.
+
+Recent analysis by researchers at the New York Fed reveals another contributing factor to inflation’s surge and subsequent decline.3 In 2021 and 2022, significant, simultaneous increases in wages and material input prices created a perfect storm in the traded goods sector. This extraordinary concurrence of outsized increases constrained the ability of businesses to adjust their input mix to mitigate the cost pressures they were facing. As a result, businesses passed more of those higher costs to the prices of their products.
+
+But this dynamic began to subside in the middle of 2022, and it appears to be behind us now. This finding is consistent with what I am hearing in my discussions with business leaders in the Second District. Customers are increasingly pushing back against additional price increases, and margins are being compressed.
+
+Another data point reinforcing my view that inflation is moving to 2 percent is that survey- and market-based measures show that inflation expectations remain well anchored. In particular, the latest Survey of Consumer Expectations shows inflation expectations have stayed within their pre-pandemic ranges across all horizons.4
+
+Labor Market Equilibrium
+
+While we are making strides to bring inflation down, the other side of our dual mandate—employment—has also come into balance.
+
+I’m sure many of you remember that in the aftermath of the pandemic, there were far too many job openings and not enough people to fill them. Since then, labor supply has increased meaningfully, and demand has eased.
+
+Now, a wide range of metrics—including measures of vacancies, quits and hires rates, surveys of job and worker availability, and job finding and layoff rates—indicate a cooling in the labor market from the very tight conditions we’ve seen in the past few years. My discussions with business leaders in the region also bear this out.
+
+In addition, researchers at the New York Fed have developed a measure—the Heise-Pearce-Weber (HPW) Tightness Index—that provides a useful summary of the overall state of the labor market.5 This Index has declined for 10 consecutive quarters. And it is now at the level it was in early 2017, a time when the labor market was solid but not overheated. This decline also has been accompanied by slowing wage growth, which is in line with the model’s prediction. If the HPW Index remains near its current level, the growth rate of the Employment Cost Index should come in at levels that are broadly consistent with 2 percent inflation.
+
+To cut to the chase, the labor market is unlikely to be a source of inflationary pressures going forward.
+
+Shifting to Neutral
+
+What does this all mean for monetary policy?
+
+The target range for the federal funds rate currently stands at 4-1/2 to 4-3/4 percent. Monetary policy remains in restrictive territory to support the sustainable return of inflation to our 2 percent goal. I expect it will be appropriate to continue to move to a more neutral policy setting over time.
+
+The path for policy will depend on the data. If we’ve learned anything over the past five years, it’s that the outlook remains highly uncertain. Our decisions on future policy actions will continue to be made on a meeting-by-meeting basis. And they will be based on the totality of the data, the evolution of the economic outlook, and the risks to achieving our dual mandate goals.
+
+From what we know today, I expect real GDP growth to come in at about 2-1/2 percent for this year—or maybe a bit higher—reflecting solid supply-side growth. I anticipate the unemployment rate will run between 4 and 4-1/4 percent over coming months. And I expect inflation to be around 2-1/4 percent for the year as a whole. Looking ahead, I expect inflation to gradually come down to our 2 percent objective, although progress may be uneven at times.  
+
+The Journey Continues
+
+The word I’ve been using lately to describe the state of the economy is equipoise, which is a fancy way of saying equilibrium. And the journey to equipoise has been extraordinary.
+
+Inflation that was once unacceptably high is now close to our 2 percent longer-run goal, and a labor market that was once exceptionally tight is now in balance. Our aim is to ensure that inflation continues its march toward 2 percent while sustaining the strength of the economy and labor market.
+
+We’ve come a long way, and we’re committed to getting the job done.
+
+
+1 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, September 18, 2024.
+
+2 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, November 7, 2024.
+
+3 Mary Amiti, Sebastian Heise, Fatih Karahan, and Ayşegül Şahin, “Inflation Strikes Back: The Role of Import Competition and the Labor Market,” in NBER Macroeconomics Annual 38, ed. Martin Eichenbaum, Erik Hurst, and Valerie Ramey (University of Chicago Press, 2024), 71-131.
+
+4 Federal Reserve Bank of New York, Survey of Consumer Expectations (October 2024).
+
+5 Sebastian Heise, Jeremy Pearce, and Jacob P. Weber, “A New Indicator of Labor Market Tightness for Predicting Wage Inflation,” Federal Reserve Bank of New York Liberty Street Economics, October 9, 2024; and Sebastian Heise, Jeremy Pearce, and Jacob P. Weber, “Wage Growth and Labor Market Tightness,” Federal Reserve Bank of New York Staff Report Number 1128, October 2024.

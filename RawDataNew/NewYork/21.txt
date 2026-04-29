@@ -1,0 +1,104 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/nea241015
+
+Central Clearing in the U.S. Treasury Market: The Why and the How
+
+October 15, 2024
+
+Michelle Neal, Head of the Markets Group
+
+the Treasury Clearing Forum: The Evolution of Agency Clearing, Futures Industry Association (FIA), New York City
+
+Introduction
+
+Thank you for having me here today.1 The topic of today’s forum, the expansion of central clearing in the U.S. Treasury market, is vitally important, and I look forward to learning from all of you over the course of the afternoon. The Treasury market is the deepest and most liquid securities market in the world, and it performs several important functions for our country and the broader financial system. Given the criticality of the U.S. Treasury market, the relevant authorities overseeing the market collaborate to ensure effective surveillance and coordinated policymaking. This work is done primarily through the Inter-Agency Working Group for Treasury Market Surveillance, called the IAWG, which consists of staff from the U.S. Treasury, the Federal Reserve Board, the SEC, the CFTC, and the Federal Reserve Bank of New York. This group has investigated expanding central clearing over recent years, and last December, the SEC finalized its rule for expanded clearing in the Treasury market.2 The rule has set the stage for this change in Treasury market structure that we are all here to discuss.
+
+In my remarks, I will provide an overview of the market segments that are affected by the SEC’s central clearing rule for the U.S. Treasury market. Then, I will offer thoughts on the benefits that central clearing can provide a marketplace—essentially, the “why” behind this policy change. Of course, central clearing is prevalent in the listed and OTC derivatives markets represented by the Futures Industry Association, so I expect this group is very familiar with these benefits and market structure conventions. From there, I will discuss considerations around the implementation of the SEC’s rule in the Treasury market—the “how” of the policy change—including access models for client clearing, margin practices, and the possibility of new central counterparties, or CCPs, entering the Treasury clearing space. Finally, I will conclude by reviewing the timeline leading to the rule’s implementation and a call to action to engage with this change now. Before I go any further, let me provide the standard disclaimer that my remarks today reflect my own views and not necessarily those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+What Market Segments Are Affected by this Rule?
+
+The SEC's clearing rule amendments that were adopted in December 2023 will impact several key Treasury market segments.3 The SEC’s final rule calls for clearing several segments of the Treasury and associated financing markets, with some exemptions: all repo and reverse repo with a direct member of a covered CCP; all purchases and sales occurring over interdealer brokers; and all purchases and sales between a direct CCP member and a registered broker-dealer and a government securities broker or dealer.4
+
+Practically speaking, these changes are expected to result in a significant migration of Treasury repo and reverse repo into central clearing. Additionally, principal trading firms’ electronic cash trading will move into central clearing, due to those trades being predominantly executed over interdealer brokers. Market estimates of the daily transaction volume that will move into central clearing reach as high as over $4 trillion.5
+
+Why Expand Central Clearing in the U.S. Treasury Market?
+
+As I interact with Treasury market participants through my role at the New York Fed, I am sometimes asked why central clearing is being expanded in the U.S. Treasury market. Central clearing brings many of the same benefits to the Treasury market that it brings to other markets where it is prevalent. In a centrally cleared ecosystem, all trades are novated to a CCP, and the CCP becomes the counterparty to all of the trades. Central clearing allows for multilateral netting, which means that all of the trades that are novated to a CCP are netted where possible, reducing settlement flows and fails. Another benefit of central clearing is that the CCP sets robust and transparent risk management practices, including margin collection. These practices reduce the risks the original trade counterparties faced. Additionally, the official sector’s visibility into clearing and settlement flows is improved as more trades go through CCPs, providing enhanced monitoring.
+
+These benefits, while bolstering the market’s resilience in normal times, will be especially valuable during times of stress when increased volumes and any rise in fails will benefit most from the efficiencies of central clearing.6 For these benefits to be realized, it is essential for any CCP clearing Treasuries to be effectively supervised and for its risks to be carefully managed.
+
+Central clearing has long been a widespread practice in many other markets. For example, the U.S. futures market, near and dear to many participants here, has been centrally cleared for nearly 100 years, following the creation of the Chicago Board of Trade Clearing Corporation in 1925.7 However, in the Treasury market, the clearing and settlement of trades, especially secured financing transactions, is fragmented—as documented in a series of white papers from the Treasury Market Practices Group (TMPG), a committee sponsored by the New York Fed.8 This fragmentation increases systemic risk, and the migration of more trades into central clearing—with its multilateral netting and its uniform, robust, and transparent processes—helps mitigate this risk.
+
+Considerations Around How Central Clearing Is Implemented in the U.S. Treasury Market
+
+While there are benefits to increasing the share of the Treasury market that is centrally cleared, there are also many considerations to take into account around how this expansion will occur. The transition will require CCPs to offer client clearing access models that will facilitate clearing of all required trades, prompt some market participants to change their margin practices, and potentially result in multiple new CCPs entering the Treasury market.
+
+Client Clearing Access Models
+
+First, focusing on client clearing access models, a question the market is considering is what clearing models will be needed to facilitate this large expansion to central clearing. The current Treasury market practice is for trade clearing and execution to be bundled together. This is referred to as “done-with” clearing, since the trade is done with the dealer that sponsors it into central clearing. To be clear, bundling clearing and execution together is a business model practice preferred by the sponsoring dealer, rather than a market structure parameter imposed by the Fixed Income Clearing Corporation (FICC), currently the only CCP in the U.S. Treasury market. “Done-with” clearing provides balance sheet and capital efficiencies for the sponsoring dealer and may carry less operational risk overall. Meanwhile, many dealers lack the appetite to provide “done-away” clearing—where clearing services are provided to clients that have executed a trade with a different counterparty—which has made centrally clearing these trades very difficult.  
+
+As more trades are moving into central clearing, this market practice presents several key challenges. In the repo market, the challenge is how to centrally clear repo trades with dealers that do not offer sponsored clearing. The lack of firms providing unbundled central clearing and execution services also presents an issue for the cash Treasury market, since the interdealer brokers, who are the counterparties to the currently uncleared client trades, do not provide client clearing services.
+
+As this audience is well aware, “done-away” clearing is commonplace in other markets with central clearing, and trades executed with a counterparty can be cleared separately through a clearing desk at a dealer or a futures commission merchant. In fact, in OTC derivatives clearing, swap dealers are required by law to have conflicts of interest safeguards, including information partitions between business trading units and clearing units within the same intermediary.9 The emergence of increased “done-away” clearing in the Treasury market could provide a clearer sense of execution costs and greater competition in trade execution and trade clearing provision, which should support improved market capacity and liquidity. I expect innovation in this space, and I look forward to hearing more about firms launching business lines or new models to facilitate growth in central clearing.
+
+Margin Practices
+
+Second, another topic to consider as central clearing is expanded in the Treasury market is the effect this expansion will have on margin practices. One of central clearing’s benefits is consistent collection of margin, which is sometimes expressed as a “haircut” in repo markets. Margin collected by a CCP is used to protect the CCP from the credit risk of the trade counterparty. Margin collection is a typical risk management practice employed across financial markets, but the use of initial margin in Treasury repo is quite inconsistent. For example, in the non-centrally cleared bilateral market, initial margin is often not collected on repo trades. The Office of Financial Research’s 2022 pilot data collection in the non-centrally cleared bilateral repo market found that over 70 percent of Treasury repo trades transacted with zero haircut.10
+
+Some argue that the lack of initial margin paid on Treasury repo trades is reflective of competitive pressures and a desire by the dealers providing repo funding to retain their client’s business. However, others assert that the lack of initial margin paid by clients in repo markets is reflective of counterparty risk being managed by the dealers on a portfolio basis, taking into account all of the client’s trades across the dealer’s various trading desks. While in some cases these risks may be well managed by such bespoke arrangements, it is difficult to validate bilateral portfolio risk management practices from the outside given their opacity. Additionally, as the SEC’s clearing rule is implemented, allowing easier segregation of customer margin, client cross-margining against futures may become possible over time, which should partially alleviate any need for the dealers to provide portfolio margining themselves.
+
+Meanwhile, in the centrally cleared sponsored repo market, sponsoring dealers often fund initial margin paid to the CCP on behalf of their clients, leaving themselves vulnerable to the counterparty risk of their clients. As I mentioned earlier, under the SEC’s clearing rule, much of the currently non-centrally cleared Treasury repo will migrate to central clearing. Increased sponsored repo, at least initially, will likely fuel much of that migration. The expected growth in sponsored repo may make the current practice of the sponsoring dealer paying margin to the CCP on behalf of their clients less sustainable.
+
+In both the non-centrally cleared and centrally cleared repo markets, the costs of counterparty risk management exist whether initial margin is collected from clients or not, since in a tail event the exposure will have to be unwound. For initial margin collection, those costs are explicit and observable, making them easy to measure and implement. When initial margin is not collected by the dealer providing client repo funding, not only are the counterparty risks not explicitly managed, but the clients are not required to pay for the risk management of their trades, which could potentially allow them to take on degrees of leverage that may be challenging to risk-manage, and which in aggregate can lead to greater financial stability risks.
+
+These are critical issues to be dealt with as the market progresses toward increased central clearing. That is why the TMPG is currently working on a white paper on risk management in the non-centrally cleared bilateral repo market, including a comparative review of margin practices across repo market segments.11
+
+Prospect for Additional Treasury CCPs
+
+Finally, a third consideration to evaluate as we engage with this market change is the prospect for the entry of additional CCPs into the Treasury market. As I mentioned earlier, FICC is currently the only CCP in the U.S. Treasury market. However, CME Group, Intercontinental Exchange, and LCH Group have all expressed interest in operating CCPs in the Treasury market.12 This possibility raises several questions about what the ideal state of CCPs in the Treasury market might be.
+
+On the one hand, there may be advantages to having multiple CCPs serve a market. One benefit is that competition can result in improved clearing offerings and pricing by the CCPs. Additionally, market participants that already have a preexisting relationship with a CCP due to their activity in non-Treasury products may prefer to direct their Treasury trades to that CCP for any efficiencies that may be gained. Finally, the existence of multiple CCPs would allow for the clearing and settlement risk in the Treasury market to be dispersed across multiple providers, diversifying where the risk resides.
+
+On the other hand, it is also important to consider the potential benefits to concentrating central clearing in one CCP. Multilateral netting is a benefit of central clearing, where trades are netted down, reducing settlement flows, fails, and frictions. To the extent that the trades in a market are concentrated in one CCP, the network effects of multilateral netting are maximized. Additionally, a single CCP reduces commercial pressures to potentially reduce risk management standards at the CCP, colloquially known as a “race to the bottom”.
+
+Interestingly, in other markets where central clearing is prevalent, while there are sometimes multiple CCPs, competitive dynamics have resulted in fairly high CCP concentration.13 Of course, the U.S. Treasury market is unique in its size, depth, and importance, so it remains to be seen which dynamics will prevail in its central clearing space. Ultimately, market participants should determine the number of infrastructures they need to support the payment, clearance, and settlement activities for the U.S. Treasury market.
+
+Looking Ahead
+
+Regarding the road ahead, given the importance and scope of this market structure change, it is crucial for market participants to identify how the SEC rule affects their businesses and to develop plans for centrally clearing eligible transactions if they do not do so already. Treasury cash central clearing is required to go into effect by the end of 2025, and repo central clearing is required to go into effect by June 30, 2026. We now have only a little over a year until this first central clearing requirement deadline, and the time will pass quickly given the complexities involved.
+
+Market participants will need to ensure that they have robust risk management frameworks, legal agreements, and operational infrastructures in place. As we have observed with other complex industry transitions, such as the reference rate transition and the implementation of swaps central clearing, all of this takes time. Market participants should be taking concrete steps now to prepare for expanded central clearing in the Treasury market, and the New York Fed and others in the official sector will be monitoring this progress.
+
+We are already seeing some market participants proactively engage with this change. FICC’s daily Treasury clearing activity surpassed $10 trillion on September 30, a significant increase from an average daily clearing volume of $7 trillion just six months ago, indicating that some market participants are moving more activity into clearing ahead of the mandate compliance dates.14 I was also pleased to see that SIFMA and SIFMA AMG recently published master Treasury securities clearing agreements for “done-with” trading, and I look forward to their progress on similar documents for “done-away” trading and addendums for master repo agreements.15 I am thankful that events like today’s forum will advance the discussion and awareness around these initiatives, and I encourage all of you to make it a priority at your organizations to actively engage in this transition.
+
+The expansion of central clearing in the U.S. Treasury market that will occur because of the SEC’s central clearing rule is a transformative change. As we go through this transition, it is important to remember why central clearing is beneficial for markets. There are many details to be determined as we figure out the how of expanding central clearing, and it will require all of us to work together to determine the best path forward to bring this market structure change into reality. Thank you.
+
+
+1 I would like to thank Ellen Correia Golay for her assistance in preparing these remarks.
+
+2 U.S. Department of the Treasury, Board of Governors of the Federal Reserve System, Federal Reserve Bank of New York, U.S. Securities and Exchange Commission, and U.S. Commodity Futures Trading Commission, Enhancing the Resilience of the U.S. Treasury Market: 2024 Staff Progress Report, September 20, 2024.
+
+3 Securities and Exchange Commission, Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule with Respect to U.S. Treasury Securities, December 13, 2023.
+
+4 The Fixed Income Clearing Corporation (FICC), a subsidiary of the Depository Trust and Clearing Corporation (DTCC), is currently the only central counterparty in the U.S. Treasury securities market. However, the SEC’s rule would apply to any CCP operating in the U.S. Treasury market.
+
+5 Depository Trust and Clearing Corporation, DTCC Survey Identifies Significant Improvements in Industry Understanding and Preparedness Around Expanded U.S. Treasury Clearing, July 15, 2024.
+
+6 Michael J. Fleming and Frank M. Keane, The Netting Efficiencies of Marketwide Central Clearing, April 2021.
+
+7 Randall S. Kroszner, Central Counterparty Clearing: History, Innovation, and Regulation, April 3, 2006.
+
+8 Treasury Market Practices Group, White Paper on Clearing and Settlement in the Secondary Market for U.S. Treasury Securities, July 11, 2019, and Treasury Market Practices Group, White Paper on Clearing and Settlement in the Market for U.S. Treasury Secured Financing Transactions, November 9, 2022.
+
+9 Commodity Futures Trading Commission, Swap Dealer and Major Swap Participant Recordkeeping, Reporting, and Duties Rules; Futures Commission Merchant and Introducing Broker Conflicts of Interest Rules; and Chief Compliance Officer Rules for Swap Dealers, Major Swap Participants, and Futures Commission Merchants, April 3, 2012.
+
+10 Samuel J. Hempel, R. Jay Kahn, Robert Mann, and Mark E. Paddrik, Why Is So Much Repo Not Centrally Cleared?, May 12, 2023.
+
+11 Treasury Market Practices Group, TMPG September Minutes, September 2024.
+
+12 Nikou Asgari and Jennifer Hughes, CME Group bids to enter US Treasury clearing business,  Financial Times, March 12, 2024; Carolina Mandl and Davide Barbuscia, LCH looking at clearing US Treasuries, competition set to increase, Reuters, March 13, 2024; ICE, ICE to Launch Treasury Clearing Service to Increase Transparency and Enhance Resilience in the U.S. Treasury Market, June 24, 2024.
+
+13 Ketan B. Patel, How Concentrated is the Clearing Ecosystem and How Has It Changed Since 2007, July 2024.
+
+14 Depository Trust and Clearing Corporation, DTCC’s FICC Treasury Clearing Volumes Grow 31%, Now Represent USD$7 Trillion in Daily Average Activity, March 12 2024; Depository Trust and Clearing Corporation, FICC’s Government Securities Division Surpasses USD$10 Trillion in Daily Activity, Setting New Record, October 3, 2024.
+
+15 SIFMA, SIFMA and SIFMA AMG Publish Master Treasury Securities Clearing Agreement, September 25, 2024.

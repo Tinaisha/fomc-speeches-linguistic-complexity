@@ -1,0 +1,107 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/nis250604
+
+When the Map No Longer Matches the Terrain
+
+June 04, 2025
+
+Mihaela Nistor
+
+the XLoD Global – New York Conference, New York City
+
+Good morning. Great to see you all!
+
+Before I begin, let me clarify that the views I express today are my own and do not necessarily represent those of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+Last year at this conference, I spoke about how interconnectedness across markets, functions, and geographies challenges the illusion that risks could be managed in isolation. That view still holds true. 
+
+But this year I want to go deeper.
+
+Because what’s emerging now is not just a more interconnected world—it’s a more uncertain and somehow more unsteady one. Globally, the very complex structures we as risk managers rely on—our systems and technology, our culture, our frameworks for accountability—are being transformed from within.
+
+We are seeing the emergence of tools that are changing how decisions are made…
+
+Cultures that are being reshaped by automation…
+
+Accountability that is becoming more diffused…
+
+And leadership that is being tested—not just by the battles we face, but by how we respond when the map no longer matches the shifting terrain.
+
+That’s what I want to talk about today: about what is shifting—and what it will take for us to lead with clarity in the face of that shift.  We are facing a new structural risk that emerges from how we design, build, and manage our institutions. It’s the potential misalignment inside the system itself that we need to manage for.
+
+We have risk functions that operate in review cycles, but technologies and business processes that operate in real time.
+
+We have governance models that rely on escalation, but cultural norms that avoid friction.
+
+We have accountability frameworks that codify linear decision-making, but workflows that are distributed across organizational layers and business functions.
+
+None of these elements are inherently flawed. But together, they create structural friction—places where process speeds are mismatched, where responsibility falls through the cracks, and where early signals of risk are drowned out by complexity.
+
+This kind of risk builds quietly through gaps and drift. Structural risk is harder to see because it doesn’t come from outside—it comes from within the design of the system itself. And it’s particularly dangerous because it doesn’t trigger alarms. Rather, it prevents decisive action because no one can quite point to where the fault line is, even when they sense something is off.
+
+As risk practitioners, we don’t just ask what risks we manage, but how risk is structured into our organizations—through technology, culture, and systems for managing it.
+
+Let’s dive a little deeper into this idea. Until recently, we as society believed that technology is a tool that serves the goals we give it. But now it appears we’ve entered a phase where the tools we’ve built are beginning to shape us in return—not just our efficiency, but our judgment as well.
+
+Automation, AI, data platforms—they’re not just extensions of our capabilities. They can shape what we see, when we see it, and how we intervene. They can also subtly define which risks we “feel” important, and which ones don’t.
+
+Consider how a model assigns risk probability. When it tells us a risk has a low likelihood of occurring, do we agree, and quietly treat it as low significance? If an automated system surfaces one scenario and suppresses others, do we even realize which questions were never asked?
+
+This is the critical shift: We are no longer simply using technology to manage risk—we are using technology that is actively shaping how we perceive and interpret risk. And if we don’t pause to understand that influence, we may find ourselves dealing with the wrong outcomes.
+
+That means we need to recognize that every system encodes assumptions—about what matters, what is normal versus what is an outlier, and what is actionable and what gets ignored. And if we allow those assumptions to go unchallenged—because the output is fast, or sleek, or labeled “intelligent”—then we’re not managing risk. We’re managing a simulation of it—increasingly removed from judgment, context, and human sensemaking.
+
+Which brings us to the next question: Who owns the decision in this environment? Because once we lose clarity on that, we’ve lost the foundation for real accountability. As our systems become more complex, more distributed, more algorithmically mediated, something subtle is happening. Accountability is being disintermediated.
+
+In simpler systems, ownership was visible. When something went wrong, you could point to who was positioned to see it, who had the authority to act, and who was responsible for the outcome.
+
+But today, in many risk environments, that chain is hard to reconstruct. Decisions are often the result of a sequence of automated inputs, built-in rules, and system-generated thresholds. And when something fails, the answer to “Who was responsible?” becomes unclear.  That lack of clarity is a core structural risk.
+
+For example: A model flags an issue, but it’s been calibrated narrowly, so it misses context. A team sees the alert, but it’s just one of a hundred that day. A report gets produced, but no one owns the judgment call. Later, when the risk materializes, we conduct a review and find that no single person made a bad decision. Instead, the system as a whole failed to “see” the risk clearly. And worse, no one was positioned to intervene. This is not about negligence—it’s about diffusion. Responsibility is passed along, diluted and refracted. Everyone did their part, but no one owned the whole.
+
+We’ve built architectures where individual nodes perform well, but the system lacks a center of gravity—a place where critical judgment, moral courage, and human accountability reside. What’s required now is a reassertion of accountability—not in the legalistic sense, but in the operational and moral sense. Someone must feel responsible for outcomes—not just technically, but personally. And this must be designed into the system.
+
+Let’s talk about culture—not as an abstract value set, but as a functional layer of control.
+
+For a long time, culture was what caught what the systems missed. It was the unofficial early warning mechanism. The shared instincts, the informal conversations, the moments of doubt when someone said, “Something about this doesn’t feel right.”
+
+Culture filled the spaces between formal structures. It was the distributed intelligence of the organization, made up of human pattern recognition, ethical compass, and a sense of accountability that cannot be programmed.
+
+But here’s the risk: As we delegate more decisions to our “intelligent” tools, we displace the very contexts where culture once had leverage. And this isn’t just about technology—it’s about incentives. We’ve optimized for efficiency. We’ve reduced friction. We’ve trained people to defer to the system. And in doing so, we’ve weakened the expectation that anyone should stop the line—not because the metrics say so, but because something feels wrong.
+
+We are in danger of building organizations that are procedurally sound and culturally unaware.
+
+Culture is not “soft,” or secondary. Culture is an operational asset. It is a form of resiliency, a non-technical redundancy, a backup system for judgment when data is incomplete, or the model is misleading.
+
+The erosion of that capacity is a strategic vulnerability.
+
+So the question becomes: How do we preserve and strengthen culture in systems designed to minimize human intervention?
+
+Part of the answer is ensuring there is a place for human judgment—a human in the loop. It’s designing workflows that incorporate human review and decision-making, that ask for second opinions, that make room for dissent—even when the data looks clean.
+
+It also means we train people differently. Not just in how the tools work, but in how to think around them. We need teams that know when to trust the system, and when to press against it. Teams who understand that culture is something they actively need to uphold, one decision at a time. Because when culture is healthy, it keeps us from drifting into mechanical certainty when what we actually need is discernment.
+
+If there’s one theme that runs through everything we’ve discussed so far—from structural risk, to technological drift, to the erosion of accountability and culture—it’s this: Fragmentation is the enemy of resilience.
+
+We’ve inherited organizational models where risk, technology, operations, and culture are managed in separate silos—governed by different mandates and owned by different teams.  But the risk events we face now don’t arise from a failure in one domain. They emerge in the gaps between them—where systems interact in unpredictable ways, where assumptions go unchallenged because no single team sees the full picture.
+
+That’s why the next frontier of risk management is not deeper specialization. It’s integration: strategic, ethical, and operational coherence—across functions, levels, and tools.
+
+In practical terms, that means three things:
+
+First, we need leaders who can think across domains. People who understand not just the language of risk, but the logic of systems—how behavior, incentives, data, and processes collide to create real outcomes.
+
+Second, we need to design systems where feedback loops are visible and fast. When someone at the edge of the organization sees something unusual, how quickly does that signal make it to the center? And once it gets there, is there someone who feels authorized to act?
+
+Third, we need a shared operating philosophy—across risk, tech, and culture—that says: speed matters, but alignment matters more. Alignment of tools with purpose, of culture with control, of leadership with mission and action. Because when these are misaligned, even good systems fail. But when they are integrated—intentionally, rigorously, and honestly—organizations become not just risk-aware, but risk-capable.
+
+Ultimately, leadership in this new era will require the ability to not just to simplify what is complex, but also to hold together complexity without distortion. It will require us to create verifiable clarity, without pretending to have certainty. It will require us to see the moving parts without losing the pattern.
+
+And finally, it will require leaders to act before the signal becomes the crisis.
+
+That’s what we’re called to do, through the systems we design, the questions we ask, the judgments we make, and the cultures we shape.
+
+Over the course of today’s conference, you’ll engage with some of the most urgent questions in our field—around AI, cyber resilience, conduct, culture, and regulation. Each is complex on its own. But their real weight lies in how they intersect—how they shape each other, and how they demand a more integrated response than our systems were originally built to deliver.
+
+The conversations at this conference matter—not just for what the dialogue will solve, but for what it will spark. Progress doesn’t always begin with answers, but with the courage to ask the right questions and confront real challenges. I have no doubt that the insights we uncover together—grounded in human judgment and collaboration—will inspire the work ahead and the improvements still to come.
+
+Thank you, and I look forward to today’s discussions.

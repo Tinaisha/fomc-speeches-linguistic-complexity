@@ -1,0 +1,169 @@
+https://www.newyorkfed.org/newsevents/speeches/2024/per240508
+
+Balance Sheet Reduction: Progress to Date and a Look Ahead
+
+May 08, 2024
+
+Roberto Perli
+
+2024 Annual Primary Dealer Meeting, Federal Reserve Bank of New York, New York City
+
+Introduction
+
+Thank you, Julie, and welcome again to our Annual Primary Dealer Meeting.1 It’s a pleasure to be here delivering these remarks. Perhaps to no one’s surprise, today I would like to discuss progress in reducing the size of the Federal Reserve’s balance sheet, recent communications from the Federal Open Market Committee (FOMC), and the tools at our disposal to ensure a smooth journey from an abundant to an ample supply of reserves.
+
+I also think this is the ideal venue for that discussion. Primary dealers are core to the mission of the New York Fed. As the “Selected Bank” operating in financial markets on behalf of the FOMC, we rely on our interactions with primary dealers to implement monetary policy.2 In doing so, we have a shared interest in the continued depth, breadth, and resiliency of the Treasury market. Ensuring that Treasury securities remain the safest and most liquid asset in the world not only enables us to implement monetary policy efficiently, but also is foundational to the safety and stability of our financial system—and indeed of markets around the world.
+
+With that in mind, I will turn to the balance sheet.
+
+But first, also to no one’s surprise, I will offer a disclaimer. These views are my own, and not those of the Federal Reserve Bank of New York, the Federal Reserve System, or any other organization.3
+
+How Far We’ve Come
+
+I’ll start with a brief review of our progress in reducing the size of the balance sheet to date. Since June 2022, we have been implementing the plan laid out by the FOMC in May of that year.4 Throughout this process, our policy implementation framework has been performing as expected, and it has allowed us to maintain strong control over interest rates.
+
+Last October, speaking on this topic, I discussed how some notable and unexpected events provided critical tests of the ability of our framework to operate as intended even in times of stress.5 Our framework passed those tests with flying colors.
+
+I am happy to repeat myself and say that runoff has continued to proceed smoothly over the seven months since I delivered those remarks, and our implementation framework has continued to work well. Despite another $520 billion reduction in our holdings, including $412 billion of Treasury securities and $108 billion of agency mortgage-backed securities (MBS), control over short-term interest rates has continued to be strong (Panel 1).
+
+In fact, the effective federal funds rate (EFFR), which is our target rate for implementing monetary policy, has remained remarkably stable since the FOMC last raised the target range in July of last year. There has been no usage of the Standing Repo Facility (SRF) outside of test transactions, which means that there has been no need as yet to rely on this facility to keep the federal funds rate within the target range. And, of course, the level of the federal funds rate has affected other money market rates as expected.
+
+That stability has also generally propagated to other money market rates. Repo markets have shown only occasional signs of funding pressures, confined largely to reporting dates, like some month- and quarter-ends, days of large settlements of Treasury auctions, and, to a lesser extent, tax dates. While these pressures represent a departure from the patterns we have seen since the onset of the pandemic in early 2020, some temporary firming of overnight repo rates on those dates was common and more pronounced in the past; a re-emergence of this pattern is therefore not too surprising. In any case, it is worth noting that these seasonal dynamics are generally predictable and not an indicator of reserves conditions, but rather reflect the balance of the supply of and demand for funding in the context of various non-economic constraints.
+
+Our overnight reverse repo (ON RRP) facility has also remained a primary focus in recent months. As a brief reminder, the ON RRP was established to reinforce the floor on short-term interest rates. By offering an alternative risk-free, overnight investment option to a range of counterparties that do not otherwise have access to remunerated balances at the Fed, the ON RRP disincentivizes lending in the market at a lower rate.6 It has been extremely effective in doing so.
+
+In addition, usage of the ON RRP has been very responsive to market rates. The over $1.7 trillion decline in ON RRP balances since the debt limit suspension last June is entirely consistent with how that facility was designed.7 As alternative private instruments started offering slightly higher rates, money market funds, which are by far the largest users of the ON RRP, responded by reallocating their investments away from ON RRP and toward those alternative investments.
+
+In fact, the ON RRP has absorbed virtually the entirety of balance sheet runoff, on net, which is primarily why reserves have not declined since the runoff process started (Panel 2). I can confidently say that the ON RRP has supported the efficient implementation and transmission of monetary policy so far. Overall, our monetary policy implementation framework has performed extremely well, and I expect it will continue to do so in the future.
+
+Implementing the Plans for Balance Sheet Reduction
+
+Before discussing the FOMC’s recent announcement, I will review the FOMC’s Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, issued in May 2022, to provide some context about the decision to slow runoff.8 Those plans laid out a sequence of steps for significantly reducing the Federal Reserve’s securities holdings (Slide 3).
+
+The Committee decided to reduce securities holdings in a predictable manner, primarily by adjusting the reinvested amounts of principal payments received from securities held in the System Open Market Account (SOMA). The FOMC established caps on the monthly pace of runoff; specifically, since September 2022, three months after balance sheet reduction began, those caps have been $60 billion for Treasury securities and $35 billion for agency debt and agency MBS.9 Note that the latter cap has not been binding, as higher primary mortgage rates have largely eliminated refinancing incentives for the mortgages underlying SOMA agency MBS holdings, resulting in very slow prepayments.10
+
+To ensure a smooth transition from an abundant to ample reserve supply, the Plans stated that the Committee would first slow and then eventually stop the pace of decline in the size of the balance sheet when reserve supply is still somewhat above the level it judges to be consistent with ample reserves. Last week, the Committee decided to start slowing runoff in June.
+
+As specified in the May 1, 2024 FOMC statement and implementation note, effective next month, the redemption cap for Treasury securities will be lowered to $25 billion per month, while the redemption cap for agency debt and MBS will be left unchanged at $35 billion.11 In the unlikely event that agency debt or MBS paydowns exceed this amount, they will be reinvested in Treasury securities to roughly match the maturity composition of Treasury securities outstanding.12 This is the same approach the FOMC took in 2019.13 I want to emphasize that the Committee did not shift the stance of monetary policy last week; rather, it implemented a policy decision—slowing the pace of runoff at the appropriate time—according to the plans set out two years ago.
+
+Similarly, at some point in the future, when the FOMC judges that reserve balances are somewhat above the level consistent with ample reserves, it will instruct the Open Market Trading Desk at the New York Fed (the Desk) to stop reducing the size of the balance sheet. Once balance sheet runoff has ceased, the size of the SOMA securities holdings will be held constant until the FOMC instructs us otherwise. Reserve balances, however, will likely continue to decline for a time, reflecting growth in other Federal Reserve liabilities. When the Committee judges that reserve balances are at an ample level, it will manage securities holdings to maintain an ample level of reserves over time.14
+
+All of this means that, over the long run, the balance sheet is likely to expand to accommodate trend growth for Federal Reserve’s liabilities, which, in turn, tends to be driven by trend growth in nominal GDP. That growth includes both reserves and autonomous factors such as currency or the Treasury General Account (TGA).15 Again, all of these future steps are consistent with the plans announced in May 2022.
+
+So, what are the implications of slowing the pace of runoff?
+
+Aside from adjusting the caps, the Desk’s day-to-day management of the balance sheet will not change. We will continue to roll over at auction Treasury principal payments that exceed the new redemption cap.16 And, as I just mentioned, we will reinvest as directed any MBS paydowns in excess of the cap.  
+
+While implementation will not look much different, slowing runoff nonetheless represents an important and prudent step in the balance sheet reduction process. As I said, up to now, the ON RRP has absorbed the entirety of the portfolio runoff. But the ON RRP has also declined a lot; once it reaches zero or stabilizes at a low level, reserves will start declining roughly one-for-one with portfolio runoff, all else equal. The runoff pace so far has been very fast, averaging about $76 billion per month since September 2022—much faster than the pace of runoff in 2017-19.
+
+Given that the aggregate level of reserves that is consistent with ample is uncertain, it is sensible to approach that unknown level carefully. Slowing runoff provides more time and opportunity for the FOMC to evaluate changes in market conditions. It also provides more time for individual institutions to adjust to a lower supply of reserves and for aggregate liquidity to be redistributed within the banking system.
+
+Ultimately, I expect that this approach will allow money markets to continue to function smoothly with a lower level of reserve supply than would have been the case had runoff been allowed to proceed at its current pace for much longer. Yes, continuing runoff at its existing pace might have meant reaching ample reserves sooner, but at the price of a higher risk of rapid changes in market conditions.
+
+Where Is the Balance Sheet Headed?
+
+With SOMA runoff set to slow, an obvious question is where the balance sheet may go from here. As you know, we regularly ask about expectations for the Fed’s balance sheet in our Survey of Primary Dealers and Survey of Market Participants. Over time, survey responses suggest expectations around the end size of the SOMA portfolio have consolidated somewhat (Panel 3). Among other factors, this probably reflects updated views around demand for Federal Reserve liabilities as well as evolving risks to the economic outlook.
+
+That said, significant uncertainties remain (as seen in Panel 4). Recent evidence to this effect comes, for example, from the Federal Reserve’s Senior Financial Officer Survey, which suggests that reserve demand can vary significantly across banks, across market conditions, and over time. The survey also shows that reserve demand reflects a range of factors that are hard to track precisely, both individually and in interaction with each other.17
+
+Thus, as runoff continues, it is important to monitor a variety of information sources for any signals of a shift in the balance of supply and demand for reserves. In remarks last October, I briefly mentioned some of the data sources and indicators at our disposal to monitor money markets.18 Today, I would like to spend a little more time elaborating on specific metrics that I think can provide a useful advance signal of the transition from abundant to ample reserves.
+
+Indicators of Reserve Conditions
+
+Since the Global Financial Crisis, interest rate control has been achieved through a “floor system” that relies on an ample supply of reserves.19 In January 2019, the FOMC communicated its intent to maintain this approach.20 I have used the term “ample reserves” a few times already, but what does it mean? Ample reserve supply can be described as an environment in which the federal funds market is not particularly sensitive to significant short-term variations in the supply and demand of reserves but may exhibit some modest response to them.21
+
+This can be visualized as an inverted ‘S-shaped’ demand curve along the lines of that described by Bill Poole all the way back in 1968 (Panel 5).22 Since the first half of 2020 we have been in the “flat” part of the demand curve—a region in which the position of EFFR within the target range essentially does not respond to changes in aggregate reserve balances. But eventually, as the supply of reserves declines, EFFR will start experiencing some upward pressure as the system transitions from the flat to the gently upward sloping portion of the demand curve. At that point, we should see modest price response to changes in reserves.
+
+When exactly will that happen? Unfortunately, we cannot see the whole demand curve, only estimate our present location along it. Moreover, as my colleagues point out in a recent paper, that demand curve can also shift over time.23 To assess reserve conditions, it is important to have the best read we can on the current state of affairs and look for indicators that contain information on the likely shape and position of the demand curve for reserves.
+
+One obvious indicator to consider is the spread between EFFR and the interest rate on reserve balances (IORB), which at present stands at negative 7 basis points. Because the EFFR has not moved at all, that indicator is completely stable and is one clear sign that reserves are still abundant. If or when it starts becoming less negative in the future, it could provide an important clue that reserves may be becoming progressively less abundant.
+
+Even an increasing spread between EFFR and IORB, however, doesn’t necessarily tell us where along the demand curve for reserves the financial system is operating. For this reason, there is value in monitoring the elasticity of the federal funds rate to short-term shocks to reserve supply, which is often referred to as the “local slope” of the demand curve. In the research paper I just mentioned, my colleagues present econometric techniques that can measure and track this elasticity.
+
+That exercise indicates that, currently, the elasticity is close to and statistically indistinguishable from zero—in other words, it tells us that we are still very likely to be in the flat segment of the demand curve, which corresponds to an abundant reserves regime (Panel 6). What we don’t know for sure is exactly how abundant reserves are. Put differently, we don’t know how far we are from where the demand curve starts showing a gentle local slope—or from the region of ample reserves. Importantly, we also don’t know how quickly that slope increases after the inflection point, which means that we don’t know exactly how gradual the transition from abundant to ample reserves might be. All of this uncertainty is good reason to slow the pace of portfolio runoff now that the buffer provided by the ON RRP is a lot smaller than it used to be.
+
+Other indicators that probe reserve demand from different perspectives can help shed more light on current reserve demand. These alternative indicators can potentially provide—and arguably did provide in the past—an early signal that we may be in the process of transitioning to a different segment of the demand curve. Having early signals is especially desirable in helping the FOMC identify the point at which to stop runoff, which the Committee has indicated will be when reserves are still somewhat above the ample level. Several measures I like for this purpose are the domestic bank activity in federal funds, the timing of interbank payments, the amount of daylight overdrafts, and the share of repo volume trading at or above the IORB. I’ll briefly discuss each of them and explain why they can provide an advance signal of reserve conditions.
+
+First is the total amount of federal funds borrowing done by domestic banks (Panel 7). Domestic banks tend to borrow federal funds mostly when they need liquidity, whereas foreign banks do so also to monetize the spread between federal funds and IORB.24 Therefore, when reserves are abundant, we would expect domestic bank borrowing to be low. But when reserves are transitioning to ample, domestic borrowing should move up as domestic banks increasingly use federal funds to meet funding needs. Today, domestic borrowing remains well below levels seen in 2018 and 2019.
+
+Second, we can track the share of outgoing interbank payments sent late in the day (Panel 8).25 When reserves are abundant, banks have less need to be tactical about the timing of their payment activity. But as supply transitions from abundant to ample, some institutions will find themselves increasingly incentivized to delay outgoing payments to retain higher reserve balances for a larger fraction of the day. In aggregate, this shows up in the data as a higher fraction of late-day payments. As you can see, this was increasingly common in the run-up to the repo market dislocation in September 2019, but is still relatively uncommon today.
+
+Third, daylight (or intraday) overdrafts also tell us something about whether banks have sufficient reserves to process their daily payment activity (Panel 9).26, 27 Daylight overdrafts occur when an institution’s balance in its Federal Reserve account is in a negative position during the business day. They primarily occur due to timing mismatches between outgoing and incoming payments. That can result in short-term negative balances that are quickly cured. In that sense, they are related to the value of tactically timing payments, and thus the availability of reserves.  As reserves become less abundant, more institutions should find themselves dealing with these short-term mismatches. As you can see in the chart, average daylight overdrafts became more common as our balance sheet shrank between 2017 and 2019, but they have been a rarer occurrence since 2020. That is also consistent with abundant reserve supply.
+
+And the last indicator I want to highlight is the share of Treasury repo trades conducted at or above the IORB rate (Panel 10). The repo market is the primary source of short-term funding for dealers and other financial intermediaries. That tends to make it more reactive to declining levels of liquidity, and therefore a potentially useful early indicator. When repo counterparties trade at rates above the IORB rate, they are willing to pay a premium to attract cash from banks that would otherwise earn IORB on their balances. That could be indicative of a more urgent demand for liquidity. As with the other indicators, this metric today also tells a fairly sanguine story.
+
+Panel 11 puts all these different indicators together with the elasticity measure I discussed earlier, all standardized so that we can compare them to one another.28 Values near the top of the chart indicate abundant reserves; values that move toward the bottom of the chart are signs that reserves may be becoming less abundant. Clearly, the indicators tend to move together.
+
+During 2018 and 2019, when the supply of reserves was declining, all five of the indicators moved to the lower portion of the chart, signaling that reserves were progressively becoming less abundant, then ample, and then eventually even less than ample. All indicators returned to the upper portion of the chart as reserve management purchases and other Federal Reserve interventions in the fall of 2019 restored market equilibrium—and, of course, pandemic-related purchases of securities later expanded the Federal Reserve’s balance sheet and reserves significantly.
+
+From today’s perspective, the important thing is that all indicators are currently toward the upper end of the plot, consistent with reserves being abundant. I expect that, as reserves become progressively tighter, some of them will start moving toward the lower portion of the chart sooner than others. The speed and extent of those transitions will be some of the factors that will inform our understanding of reserve demand conditions.
+
+Conclusion
+
+Where does that leave us? As I noted at the outset, the past two years of balance sheet runoff have proceeded smoothly. That is, of course, good news for central bankers. But we cannot take this performance for granted. We therefore continue to manage risks and carefully monitor money market conditions.
+
+Slowing the pace of runoff is one effective way to manage those risks. Doing so allows money markets and the banking system to adapt to progressively lower levels of reserves. It also provides more time for us to collect data and assess the level and evolution of reserve demand. That careful and gradual approach is consistent with the plans laid out by the FOMC prior to the start of our balance sheet reduction program. In that sense, the Committee’s recent announcement is simply the execution of that existing plan.
+
+We are also continuing to monitor money markets for any sign of strains. Econometric analysis can tell us how responsive money market rates are to changes in reserves. That gives us a reasonably clear sense of whether reserve supply is currently abundant or ample. Other measures can be deployed to get a complementary or more forward-looking view. As I just mentioned, those include, but are certainly not limited to, domestic bank activity in federal funds, the timing of interbank payments, the aggregate amount of daylight overdrafts, and granular data on repo market activity. And I would be remiss if I did not highlight the incredibly valuable money market intelligence we get from market participants, including primary dealers.
+
+We also have new tools at our disposal to deal with any unexpected turbulence. The SRF supplies additional cash to repo markets at an administered rate, which the FOMC has set at the top of the target range, against Treasury and agency collateral. The SRF is available every day; it can provide a strong defense against the kind of disruption we saw in 2019, and we would expect our counterparties to use it if market rates make it economically convenient to do so. And the same goes for the discount window, which of course is not a new tool but is also available every day, and through which the Federal Reserve can lend to depository institutions against a wider range of collateral.
+
+Taken together, the indicators and tools at our disposal constitute a powerful set of instruments, and they support my confidence that the balance sheet reduction process can continue smoothly.
+
+Thank you for your kind attention, I look forward to the rest of the meeting.
+
+1 I would like to thank Eric LeSueur and Josh Younger for their assistance in preparing these remarks, Fina Bertolotti and Manisha Ratakonda for their assistance with data and charts, and my colleagues from across the Federal Reserve System for their many helpful suggestions.
+
+2 Since the centralization of open market operations in 1935, the FOMC has always selected the New York Fed as the Reserve Bank to conduct open market operations. See Simon Potter, The Federal Reserve’s Counterparty Framework: Past, Present, and Future, November 19, 2015.
+
+3 The repo market indicator I discuss later makes use of data collected under the authority of the U.S. Department of the Treasury’s Office of Financial Research (OFR). The views expressed in the speech do not represent the views of the OFR, the Financial Stability Oversight Council, or the U.S. Department of the Treasury. For more on the repo data collection see Federal Reserve Bank of New York, Additional Information about Reference Rates Administered by the New York Fed.
+
+4 Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve’s Balance Sheet, May 4, 2022.
+
+5 See discussion of money markets during the banking sector stress of March 2023 and the recent debt limit episode in Roberto Perli, Implementing Monetary Policy: What’s Working and Where We’re Headed, October 10, 2023.
+
+6 Gara Afonso, Lorie Logan, Antoine Martin, William Riordan, and Patricia Zobel, How the Fed’s Overnight Reverse Repo Facility Works, January 11, 2022.
+
+7 Perli (2023) and Julie Remache, Balance Sheet Basics, Progress, and Future State, February 07, 2024.
+
+8 Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve's Balance Sheet, May 4, 2022.
+
+9 Over the current runoff period, there have been no agency debt maturities. SOMA’s remaining holdings of agency debt mature between 2029 and 2032.
+
+10 As noted in the 2023 Annual Report on Open Market Operations, the weighted average coupon (WAC) rate on SOMA holdings of agency MBS at year-end 2023 was 2.5 percent; current primary mortgage rates are more than 4.5 percentage points higher. See also discussion of mortgage rates in Roberto Perli and Eric LeSueur, The effects of the post-COVID inflation and the Federal Reserve’s policy tightening response on financial markets, February 2024.
+
+11 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, May 1, 2024, and Implementation Note issued May 1, 2024.
+
+12 For additional detail, see Federal Reserve Bank of New York, Statement Regarding Reinvestment of Principal Payments from Treasury Securities, Agency Debt, and Agency Mortgage-Backed Securities, May 1, 2024.
+
+13 Board of Governors of the Federal Reserve System, Balance Sheet Normalization Principles and Plans, March 20, 2019.
+
+14 Holding SOMA securities constant does not necessarily imply that there will be no need for open market operations—for example, securities purchases may be required to offset MBS paydowns. It is also worth noting that the composition of the liability side of the balance sheet could shift due to both idiosyncratic and secular autonomous factors.
+
+15 Remache (2024).
+
+16 Federal Reserve Bank of New York, FAQs: Treasury Rollovers.
+
+17 Historical SFOS results are available at: https://www.federalreserve.gov/data/sfos/sfos-release-dates.htm
+
+18 Perli (2023).
+
+19 In a floor system, interest rate control is achieved primarily through administered rates rather than active management of the supply of reserves. See Gara Afonso, Lorie Logan, Antoine Martin, William Riordan, and Patricia Zobel, How the Federal Reserve’s Monetary Policy Implementation Framework Has Evolved, January 10, 2022.
+
+20 Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019.
+
+21 Abundant reserves, by contrast, can be thought of as a situation where reserves are so plentiful that the federal funds market is insensitive to significant short-term variations in the supply and demand of reserves.
+
+22 William Poole, Commercial Bank Reserve Management In A Stochastic Model: Implications For Monetary Policy, 1968.
+
+23 Gara Afonso, Domenico Giannone, Gabriele La Spada, and John C. Williams, Scarce, Abundant, or Ample? A Time-Varying Model of the Reserve Demand Curve, May 2022, Revised April 2024. For a somewhat different approach see David Lopez-Salido and Annette Vissing-Jorgensen, Reserve Demand, Interest Rate Control, and Quantitative Tightening, 2023.
+
+24 Most branches of foreign banking organizations (FBOs) are not eligible for federal deposit insurance and thus do not owe insurance premiums. Further, FBOs often view federal funds as an attractive source of liquidity for regulatory requirements. These incentives allow FBOs to monetize the spread between federal funds and IORB (to the extent the former is lower than the latter) more easily than domestic banks. See Perli (2023) and Gara Afonso, Gonzalo Cisternas, Brian Gowen, Jason Miu, and Joshua Younger, Who’s Borrowing and Lending in the Fed Funds Market Today?, October 10, 2023.
+
+25 See discussion of payment timing in Gara Afonso, Darrell Duffie, Lorenzo Rigon, and Hyun Song Shin, How Abundant Are Reserves? Evidence from the Wholesale Payment System, November 2022.
+
+26 See Morten L. Bech, Antoine Martin, and James McAndrews, Settlement Liquidity and Monetary Policy Implementation—Lessons from the Financial Crisis, March 2012, and Adam Copeland, Darrell Duffie, and Yilin Yang, Reserves Were Not So Ample After All, July 2021, Revised August 2022.
+
+27 The Federal Reserve releases data on daylight overdrafts here: https://www.federalreserve.gov/paymentsystems/psr_data.htm. Data are currently publicly available through December 2023.
+
+28 Specifically, each complementary indicator has been normalized to the mean and standard deviation of the elasticity measure.

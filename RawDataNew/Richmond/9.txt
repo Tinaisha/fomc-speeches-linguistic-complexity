@@ -1,0 +1,50 @@
+https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2024/barkin_speech_20240404
+
+How You Might Look at Recent Data
+
+April 4, 2024
+
+Tom Barkin
+
+Home Building Association of Richmond, Williams Mullen, Richmond, Va.
+
+Highlights:
+Contrary to most forecasts, including my own, the economy finished 2023 strong. But early 2024 data has been a little less encouraging.
+It raises the question of whether we are seeing a real shift in the economic outlook, or merely a bump along the way.
+We are all looking at the same data, but it is easy to come away with different conclusions. What do I see?
+On demand, the historic strength of today’s labor market makes a strong case that we are not in a recession today, but I have to believe all this tightening will eventually slow the economy further.
+On inflation, while I do hear price-setters increasingly convinced that the era of significant pricing power is behind them, the inflationary experience of the last two years has surely given them more courage to use price as a lever. I’m still looking for the slowing in reported inflation to sustain and broaden.
+In the interim, I think it is smart for the Fed to take our time. No one wants inflation to reemerge. We have time for the clouds to clear before beginning the process of toggling rates down.
+Thank you for that kind introduction and for having me here today. I thought I would speak about the economy and where it may be headed, and then look forward to your questions and input. I caution you these are my thoughts alone and not necessarily those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+
+Contrary to most forecasts, including my own, the economy finished 2023 strong. Twelve-month PCE inflation came down all the way to 2.6 percent. At the same time, despite higher interest rates, global conflicts and banking turmoil, the economy remained healthy, with GDP at 3.4 percent and unemployment near historic lows at 3.7 percent. If you had told me a year or two ago that we would end 2023 with a robust economy and inflation in the 2s, I would have been pretty happy.
+
+But early 2024 data has been a little less encouraging. The first two months of PCE inflation have come in higher, at a 4.3 percent annual rate. And consumer spending, which is nearly 70 percent of GDP, has come in softer, at 1.3 percent annualized growth over the first two months. There are reasons to underweight some of the recent data, including seasonal adjustments and winter weather, but it does raise the question of whether we are seeing a real shift in the economic outlook, or merely a bump along the way.
+
+When trying to interpret uncertain data, I find there is one surefire place to find perspective — and that’s a Peanuts comic strip. As greeting card buyers know, there really is a Peanuts message for every occasion. I remember one in which Charlie Brown, Lucy and Linus are looking at the clouds — the same clouds — and seeing completely different things. Linus sees the profile of a painter, a map of a Central American country, and a scene from the Bible. Charlie Brown sees a “horsie” and a “ducky.”
+
+That’s where we are. We are all looking at the same data, but it is easy to come away with different conclusions. So, I thought today I could walk through different ways to look at the numbers, and then give my own perspective. I’ll do my best to channel the sophistication of Linus, but you may still see me as Charlie Brown.
+
+Some of you may be optimists and see the proverbial “soft landing” in the clouds, where inflation returns to our 2 percent target while the economy remains healthy. You might be encouraged by the progress seen over the last year. The extraordinary levels of post-pandemic spending have been normalizing. The painful post-COVID-19 supply chain shortages have been largely resolved. The rebound in prime-age labor force participation and recent high levels of immigration have helped alleviate labor market pressures, as have productivity increases perhaps from automation and artificial intelligence. Most measures of inflation expectations have stayed impressively stable, suggesting that businesses and consumers have found the Fed’s action and our inflation target credible. Or you might simply look at the data with a longer lens and gain comfort from 12-month inflation at 2.5 percent while three-month job gains remain at a robust 265,000.
+
+Alternatively, you might see more daunting shapes in the clouds.
+
+You might be a demand pessimist. Monetary policy works with a lag, and you might take signal from the recent increase in consumer delinquencies and the challenges in commercial real estate. You might worry about weakness in other interest-sensitive sectors as well, like banking, residential real estate, manufacturing and home improvement. You might note that nearly three-quarters of last year’s job gains came from just three sectors — health care and social assistance, leisure and hospitality, and government — and worry that the labor market might be nearing a turning point. Or perhaps the risk of geopolitical shocks keeps you up at night.
+
+Alternatively, you might be an inflation pessimist. You might point to continued strong wage growth in a tight labor market. The Atlanta Fed Wage Growth Tracker is still at 5 percent, above the February 2020 level of 3.7 percent. You might note consumers’ continued willingness to spend, driven presumably by their healthy personal balance sheets: the saving rate is down to 3.6 percent versus 7.7 percent pre-pandemic, and that spending is potentially supporting higher prices. Or maybe you notice shifting macro forces, which arguably have turned inflationary, from deglobalization, to limited housing supply, to demographics, to energy transition (to the recent weather-driven escalation in cocoa prices).
+
+Lastly, you might be a Fed pessimist. You might fear the Fed will keep rates too high for too long or normalize too quickly and allow inflation to linger. Our job isn’t easy, and history teaches that most tightening cycles end poorly, though often heavily influenced by an outside event like the pandemic or the 1990 Gulf War.
+
+What do I see?
+
+On demand, the historic strength of today’s labor market makes a strong case that we are not in a recession today, but I have to believe all this tightening will eventually slow the economy further. After all, corporate interest payments as a percent of corporate revenues and personal interest payments as a percent of disposable personal income have only now finally gotten back in the range of 2019 levels, suggesting the full impact of higher rates is yet to come.
+
+If the economy does cool, it doesn’t need to be as painful as the Great Recession. A slowdown this time could bring less dislocation in the labor market. Employers who have fought hard to recover from labor shortages tell me they are hesitant to lay people off and run the risk of being short again. And a slowdown shouldn’t catch businesses by surprise, as they’ve been planning for a downturn for two years. They’ve already slowed hiring, streamlined costs, managed inventories, and deferred investment. Banks have cut back on marginal credit. If a slowdown does come, the economy should find itself less vulnerable.
+
+On inflation, while I do hear price-setters increasingly convinced that the era of significant pricing power is behind them, the inflationary experience of the last two years has surely given them more courage to use price as a lever. So, I’m still looking for the slowing in reported inflation to sustain and broaden. Before the pandemic, 26 percent of the PCE basket had increases greater than 3 percent year-over-year. Today, that has more than doubled to 54 percent. Much of the inflation drop thus far has come from the partial reversal of pandemic-era price increases on certain goods; inflation in both shelter and services remains higher than historical levels. Now, the Fed is not in the game of picking the correct makeup of inflation. Our target metric is simply the overall price index. But the risk is that as price decreases on goods normalize, continued shelter and services inflation will leave that overall index higher than our target.
+
+Despite my concerns about demand and inflation, perhaps it is no surprise that I’m a Fed optimist, which is different than believing we are infallible. I am optimistic that keeping rates somewhat restrictive can bring inflation back to our target. While I don’t see the economy overheating, the Fed knows how to respond if it does. And, if the economy slows, the Fed has enough firepower to support it as necessary.
+
+In the interim, I think it is smart for the Fed to take our time. At our last meeting, the Fed acknowledged that risks to employment and inflation are moving into better balance and stated that we do not expect it will be appropriate to cut rates until we gain greater confidence that inflation is moving sustainably toward our 2 percent target. No one wants inflation to reemerge. And given a strong labor market, we have time for the clouds to clear before beginning the process of toggling rates down.
+
+Thanks. I look forward to your questions and input.

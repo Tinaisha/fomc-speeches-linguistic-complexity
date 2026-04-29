@@ -1,0 +1,77 @@
+https://www.newyorkfed.org/newsevents/speeches/2025/wil250904
+
+Hat Tip to the Data
+
+September 04, 2025
+
+John C. Williams
+
+Economic Club of New York, New York City
+
+Introduction
+
+Thank you for the kind introduction. I’m delighted to be back at the Economic Club of New York. I’ve worn many hats here at the Club: one as a longtime member, one as a repeat guest, and one as chair. I am pleased to see how the Club’s programming continues to evolve in service of its important mission.
+
+Before turning to the conversation with Sonali Basak and taking your questions, I’d like to take the next 10 minutes or so to share my outlook for the economy and how I see the path forward in the current moment.
+
+I’ll put my Federal Reserve hat back on now and give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+Economic Uncertainty Is for Certain
+
+There’s a lot to say about where the economy stands against the backdrop of the Federal Reserve’s dual mandate goals. I’ll start with what we’ve learned from the data in recent months and how it relates to maximum employment and price stability.
+
+The GDP data oscillated quite a bit in the first half of this year, largely reflecting the effects from the front-running of tariff increases. Looking through the downs and ups in the data, growth in the first half of the year was about 1-1/2 percent, well below last year’s 2-1/2 percent pace.
+
+This slowdown in growth reflects a variety of factors influencing the supply and demand sides of our economy. Much lower immigration and the sizable increase in tariffs reduce both the productive capacity of the economy and demand. In addition, the changing landscape around trade policy has increased economic uncertainty among households and businesses, weighing on demand. We have seen this in the surveys and outreach that are conducted within the Fed’s Second District and across the country. While the extent of tariff increases is becoming clearer, there is still substantial uncertainty surrounding the path of trade policy and its effects on the economy.
+
+Seeing the Whole Picture
+
+GDP and related measures are an important part of the overall picture. But my view is informed by a wide variety of other economic indicators as well. And those are consistent with a picture of an economy that is growing, albeit more slowly than last year.
+
+Looking at the totality of the data over the past year, there has been a gradual cooling in labor market conditions to levels similar to those that prevailed in the years prior to the pandemic. You can see this pattern in the data on hiring and quits rates, vacancies, and survey measures of jobs’ and workers’ availability. And this cooling is consistent with the gradual slowing of wage growth that we’ve seen.
+
+In addition, there has been a notable slowdown in payroll employment growth in recent months, but this is likely the result of lower growth in both demand and supply, reflecting in large part the effects of reduced immigration on the labor force.
+
+I draw three conclusions from the labor market indicators. First, the labor market is currently in balance and not adding to inflationary pressures. Second, the gradual cooling in the labor market is consistent with the slowing in overall economic growth and my assessment of monetary policy being modestly restrictive. Third, as we are seeing today, when there are sharp changes in labor supply, it can be challenging to assess the rate of job growth consistent with that of labor supply. I therefore put greater weight on other indicators of the level of labor market conditions in assessing the strength of the labor market.
+
+The Tariff-Inflation Relationship
+
+Now I’ll pivot to price stability. Over the past year, the core services components of inflation have evolved broadly in line with gradual progress toward our longer-run 2 percent goal. Based on the 12-month percent change in the personal consumption expenditures (PCE) price index, headline inflation was 2.6 percent in July, and core inflation was 2.9 percent. These figures are modestly higher than comparable numbers from a year ago.
+
+The big story here, of course, is tariffs. There are clear signs that tariff increases are affecting consumer prices and that trade diversion is taking place. One area where we can clearly see the initial effects of tariff increases is in core goods prices. Price increases for items that are exposed to higher tariffs have been well above what one would expect based on past trends and in the absence of tariffs.1
+
+The realized aggregate effects of tariffs so far have not been as large as expected earlier in the year, but it’s still early days, and it will take time for them to come to be fully realized. Combining enacted and announced tariffs, estimates of the average effective tariff rate range between 15 and 20 percent. By comparison, net tariff receipts as a share of imports rose from about 2-1/4 percent in the first three months of the year to around 10 percent in July. This is a sizable increase for sure, but well short of the increase implied by a straight read of the announced tariffs.
+
+Fortunately, I am not seeing signs of amplification or second-round effects of tariffs on broader inflation trends. In particular, recent readings of the New York Fed’s Global Supply Chain Pressure Index are near historical averages.2 And longer-run inflation expectations have remained stable, while short- and medium-term inflation expectations, after increasing modestly earlier in the year, have returned to their pre-pandemic ranges.3 This is critically important, because well-anchored inflation expectations are essential for sustained price stability.
+
+All in all, I expect tariffs will boost overall prices by a total of between 1 and 1-1/2 percent, with these effects continuing through the first half of next year. That’s my current estimate, but there is a great deal of uncertainty about these effects. As we collect more data, we will get a better understanding of the magnitude and timing of tariffs’ effects. I’ll continue to monitor prices and broad movements in inflation over time to assess evolving conditions.
+
+Monetary Policy
+
+The Federal Reserve’s monetary policy stance has been modestly restrictive, as seen through the slowing of inflation and wage growth and the gradual cooling of the labor market. This policy stance is appropriate given that inflation has remained above our 2 percent target while the labor market has been generally consistent with maximum employment. With that backdrop, the FOMC decided to leave the target range for the federal funds rate unchanged at 4-1/4 to 4-1/2 percent at its meeting in late July.4
+
+Looking ahead, if progress on our dual mandate goals continues as in my baseline forecast, I anticipate it will become appropriate to move interest rates toward a more neutral stance over time. This expectation reflects a delicate balancing of risks to our mandate goals. On the one hand, we need to keep the labor market in balance to ensure that the effects of tariffs do not spill over into a longer-lasting broad increase in inflation. On the other hand, maintaining a stance of “too restrictive policy for too long” could increase risks to our maximum employment mandate.
+
+My approach to these assessments is, as always, entirely focused on the totality of the data and what it tells us about the relative risks to achieving our maximum employment and price stability goals.
+
+Let me briefly comment on the Fed’s balance sheet. The FOMC continues to reduce its holdings of Treasury securities and agency debt and agency mortgage-backed securities, and that process is going very smoothly. With take-up at the overnight reverse repo facility now quite low, the level of reserves has already started to decline and is expected to decline more meaningfully going forward as our asset holdings continue to shrink and other liabilities rise. We continue to closely monitor a range of indicators related to the ampleness of reserves.
+
+Economic Outlook
+
+I will conclude with my economic outlook. Let me say at the outset that a number of outcomes are possible given all the uncertainty. But based on what the data tell us today, I expect the combined effects of trade and immigration policies and associated uncertainty to continue to weigh on growth. As a result, I expect GDP growth this year to be between 1-1/4 and 1-1/2 percent.
+
+With this slowdown in growth, I expect the unemployment rate to gradually rise to about 4-1/2 percent next year. And I expect PCE inflation to come in between 3 and 3-1/4 percent this year, before declining to around 2-1/2 percent next year, and reaching 2 percent in 2027.
+
+Conclusion
+
+A lot has happened since I last stood at this podium. But you won’t be surprised to hear that my penchant for “data dependency” has not altered. The outlook remains uncertain, and the data can shift in unexpected ways. In navigating these uncertain waters, I remain laser focused on supporting maximum employment and returning inflation to our 2 percent longer-run goal on a sustained basis.
+
+Once again, I’m honored to be back at ECNY. And I’m looking forward to the rest of the program. Thank you.
+
+1 Minton, Robert, and Mariano Somale (2025). “Detecting Tariff Effects on Consumer Prices in Real Time,” FEDS Notes. Washington: Board of Governors of the Federal Reserve System, May 9, 2025.
+
+2 Federal Reserve Bank of New York, Global Supply Chain Pressure Index (GSCPI) (July 2025).
+
+3 Federal Reserve Bank of New York, Survey of Consumer Expectations (July 2025).
+
+4 Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, July 30, 2025.

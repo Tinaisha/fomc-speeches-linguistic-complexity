@@ -1,0 +1,205 @@
+https://www.chicagofed.org/events/2024/fed-listens
+
+July 10, 2024
+
+Fed Listens, exploring challenges facing the childcare industry, working parents and employers
+
+Multiple
+
+Unknown
+
+What Can the Data Tell Us About Childcare Availability and Access
+ROBIN NEWBERGER: Thank you very much. All right, I think I want to also invite up our panelists, Kelli and Dan. And that's because I'm going to do a seamless transition into the panel discussion and seat myself here with them. And so I want to thank you.
+
+Thank you, Governor Bowman. Thank you, President Goolsbee. Thank you for welcoming everybody. I, too, want to welcome everybody that's here, that's tuning in from wherever you are, because this is a panel that we're also going to hear more about how access to childcare is affecting employment and the economy.
+
+My name is Robin Newberger. I'm a Policy Advisor in the Community Development Policy and Engagement Department, which has been part of this project team. And I'm very happy to be sitting here with my distinguished colleagues.
+
+And very briefly, I'd also like to acknowledge that there's a lot of people who have participated in this effort, working from positions of outreach into the communities in our district and also from positions of research. And they've been looking at data and sometimes new data to understand this issue better. So we have both the outreach and the research that have been brought together in this conversation. And that's a wonderful aspect of this whole project.
+
+So in this panel, we are hearing from two people who are looking at the data. That's Kelli Marquardt, an economist in the Micro Department, and Dan Hartley, an economist in the Regional Department. And we're going to hear about some of the research that they've done looking at factors that affect access to childcare. And if the timing goes as planned, we'll have a chance for a few questions.
+
+And my understanding is that you can ask those questions by scanning the QR code on the table or perhaps on the screen that some of you may be seeing. So let's get started, please, with Kelli's presentation. Thank you.
+
+KELLI MARQUARDT: OK. Thank you. So Kelli Marquardt. Thank you for the introduction.
+
+I'm going to be starting off this presentation, which is basically summarizing some of the research and articles that are now posted on the childcare spotlight on the Chicago Fed website. In particular, we're going to be talking about childcare and the labor market. OK, yes, OK.
+
+So what I'm going to be talking about is all of the different data sets that we have used to size up the problem. And we have faced this puzzle where, despite people reporting child care difficulties, we see that women with young kids are more likely to work now more than ever. So we've really dug into the data and taking a closer look at the underlying challenges.
+
+I'm going to talk about some of the findings we have on the arrangements and the cost of childcare as a barrier. And I'm going to spend some time showing you about the labor market for childcare workers. And then I'm going to pass it over to Dan, who's going to show you what we can learn from geolocation data to think about access to childcare as a barrier.
+
+OK. We're going to work on the clicker as we go.
+
+[LAUGHTER]
+
+That's better. Thanks. So looking at the CPS, which is the Current Population Survey, there's a question asking, what is the reason for why you are not working, working part-time, or being absent from work? And we see this stark, but maybe not unexpected, difference in male versus female, the share of 25 to 54-year-olds who list children or childcare as a reason for not working. So this shows that about 15.2% of females aged 25 to 54-yearolds report this as a reason for not working, whereas only 2.1% of males.
+
+Now, of course, some of these people might not have children, so they would not list this as a reason for not working. But we can look at the difference based off of whether the individual has a young child under five or children between five to seven. And we still see this difference in the share that report children as being not able to work. Of course, the difference is not as pronounced between males with the young kids and the older kids, but much more for the females with the young kids-- about 31.5% of females with age 25 to 54 years old with a child under five list children as a reason for not working.
+
+It's totally plausible that they do not want to be working. They want to be at home taking care of the child. But what's interesting is in another article that I think is either posted today or sometime this week today, is looking at the labor force participation rate for this group. And we find that women aged 25 to 54 with a young child have seen-- it was a steady labor force participation rate, a slight increase before the pandemic, a little bit of a decrease during the pandemic, but then it's skyrocketed up. Now, female labor force participation rate has gone up broadly, but the big increase over trend is especially true for this group of young women-- or of women with young children under five.
+
+So the question is, is this increasing the demand for childcare? Now, we want to note that there has been a decline in the population of individuals aged zero to four, so fertility has gone down. However, despite that, the facts that I've shown you on the last couple of slides-- so that even those that conditional on having a young child are entering the labor force more. So we're trying to think, are remote or hybrid work arrangements helping families meet these childcare needs? Are we further increasing the squeeze on childcare resources?
+
+The first obvious question is, well, if moms are working and reporting childcare as an issue, who is minding the kids of the 7th District? And so Dan Hartley and Leslie McGranahan have done some work on this using the Census Bureau's Household Pulse Survey, which asks questions about childcare arrangements.
+
+We're going to look at, just in the 7th District, what are the different types of child care that are being used? So what this figure is showing is the percent of households where the respondent is a working female-- again, with these young children under five. What percent of those households use these different kinds of facilities or these different kinds of arrangements? So you can see that the most common are childcare facilities as well as using a relative for care.
+
+The next highest is None. So there is a fair amount, about 19%, that report not having access to childcare despite working with a young kid under five. Other non-relatives-- you can think about this as including nannies-and about 2% used Head Start.
+
+I don't have this on the slide, but some interesting things pop out about the differences in the 7th District. In particular, families from Iowa are much more likely to use childcare facilities. And households from Detroit are much more likely to use relatives for care.
+
+One thing I'll note is if you've done the math quickly, this does not add up to 100%. And that is because people can use multiple types of care. So about 28% to 30% of households actually use more than one type of arrangement during the last week for childcare. So that can even give you a hint about balancing access.
+
+One reason, of course, why these may differ is because they have different costs. And so what we can look at is the variation in the utilization of these different types of arrangements based on the household's income. So what this is showing is the percent of households, again, with that working female with a child under five, based on the total household income. So blue is going to be those with less than $50,000 a year. All the way over to the orange is those with more than $200,000 a year.
+
+Some striking differences pop out here looking at the childcare facilities. High-income households are much more likely to use childcare facilities than low-income households. On the other extreme, those that report not using or not having access to or not using any type of childcare during the last week, much more likely for low-income households to report this than high-income households.
+
+Same with relatives for care-- low-income households are more likely to rely on relatives than high-income households. These other non-relatives might, as you is expect, those that are using nannies are oftentimes more high-income. And then I want to note that those that are utilizing the Head Start as it was intended is this lowincome households that rely on this.
+
+So how much does it cost? Is this difference in income totally related to the cost of these different arrangements? One thing that was striking is that 41% of households with a young child under five report not paying for childcare. Now, this differs based on the type of arrangements that they have. As you might expect, those that use head Start or a relative for care are much less likely to pay for childcare. If you're getting care from a childcare facility, about 10% don't pay. So the majority are paying for the service as well as the other nonrelatives-- so the nannies-- much more likely to pay.
+
+Now, conditional on paying for childcare for just one child because the authors here were interested in what's the per-child price. So conditional on paying, the average weekly cost in the 7th District is about $267, so a little under $14,000 a year. This is lower than the US average, which is about $325 per week. The one exception, of course, as you might expect, would be Chicago, which is much more expensive-- so about $397 per week for child care, conditional on paying.
+
+So next, what we're going to look at is another article which changes gears and focus on the paid childcare labor market. So who are these childcare workers that are being paid? And in particular, we want to think about those that are working in these childcare facilities or these other non-relatives for care. So childcare is a very laborintensive sector. We don't have robots, and so the size and the composition of the workforce is important.
+
+We're going to use several different data sources to examine the paid childcare labor market. We're going to look at how many there are, who they are, where they work, their wages, and at what rate are they leaving the childcare sector? So in 2019, there were approximately 1.7 million childcare workers, about 1% of the overall employed population, broadly defined.
+
+So when we say "broadly defined," we're getting in a little bit of the technical details here. But in the Current Population Survey, you can list your occupation as a childcare worker. But there's also people that work in the child daycare service industry-- so these childcare facilities who are considered teaching assistants or preschool teachers. So we wanted to group these together to think about who is doing the child minding of the young kids under five.
+
+Now, as with all employment overall, there was a drop during the pandemic. So what we're going to be plotting here is the relative quarterly employment relative to the 2019 average. And we're going to plot this in blue for childcare workers and then in the orange, pink, red for all workers.
+
+And so you can see, of course, there was this big drop in the second quarter, coinciding with the pandemic. Childcare workers were much harder hit than the overall economy, dropping to under 70% of the last year's employment. Both groups have rebounded.
+
+All workers surpassed their 2019 level in early 2022. So the economy broadly recovered in early 2022. However, childcare workers are much slower to recover. And at the end of 2023, we're still about 9% below what the prepandemic level.
+
+So we want to think about, who are these childcare workers? What we're showing here is worker demographics. Again, blue for all childcare-- or sorry, blue for childcare workers and orange for all workers. And what we're just plotting here is where our childcare workers statistically different than all workers, on what demographics.
+
+As you might expect, much more likely to be female. About 95% of childcare workers are female-- almost double that of the overall employed population. Childcare workers are more likely to be Hispanic and Black. They are less likely to be Asian, and they are much less likely to have a bachelor's degree or higher than all workers.
+
+We're interested-- pairing this back with the census, the Household Pulse survey, is, where are these childcare workers working? So we can think about this as what industry. So what this table is showing here is, of the childcare workers, what industry are they working in? The vast majority, about 75%, are working in child daycare services. So think about these as working in the child daycare centers and facilities.
+
+Almost 12% are working in private households. So we want to think about these as nannies. About 7.4% are working in elementary and secondary schools. And about 6.6% work in various other industries. Think about recreational industries and so forth.
+
+Now, we can use a different data set, the QCEW, which is the Quarterly Census of Employment and Wages, to look at these establishments, particularly in the top category, the child daycare service establishments. The majority of workers in the child daycare service industry work in these very small establishments. So only 16% of workers in this industry work in large establishments-- so those over 50.
+
+And you might not be familiar with what the establishment distribution looks like overall, but this is much smaller than the overall economy. I think it's about 60, maybe more, percent of employed workers work in large establishments-- so your Walmarts, your Targets. So really, what we're talking about here is very small firms.
+
+Next, we use another data set, The BLS's Occupational and Employment Wage Statistics looking at median hourly wage for childcare workers. And if you were just to look in 2023, we can see that childcare workers, their wages are in the bottom 5% of all occupations. What this is plotting here is the median hourly wage by occupation. So childcare workers in 2023 earned $14.60 per hour. This is similar to cashiers, waitstaff, maids and housekeepers, and retail salesperson.
+
+What's perhaps striking is that we know real wages, as with inflation, wages have also increased, both nominal and real. However, childcare workers wages have increased slower than these other low-wage occupations. So overall, all occupation median hourly wages increased by about 1.7% from 2019 to 2023.
+
+We know low-wage occupations grew faster, but of the low-wage occupations, childcare grew slowest. So they experienced about a 5.5% increase, whereas if you go to the other extreme, the waitstaff, which, again, earn about a similar nominal, had increased 17.6%. So they've experienced much larger increases.
+
+Finally, we want to look at occupation turnover. So what we're showing here is what we were able to look at back in the CPS,l the Current Population Survey, is we can look at of the childcare workers that are employed in a given month, what percent are no longer childcare workers in the next month? And we take that average across months and 2023, and we saw that about 13% of childcare workers left that occupation each month.
+
+Now, this is more than double the average transition rate for employment as a whole. So this is a very high transition rate. I will say, it is very similar to low-wage occupation jobs where there's a lot of turnover. Where are they going?
+
+Well, about 4.7% remain employed, but not in childcare. So we can think about a lot of these are going to other low-wage occupations. Some may be moving into more permanent teaching roles in different industries-- so focusing on children over five. But a lot are transitioning to other low-wage occupations. 6.5% will leave the labor market entirely, and about 1% will be unemployed.
+
+All right. So here's some of the key takeaways from my section of the presentation, is we found that many report childcare access as a potential barrier to working. We think that women's labor force participation rate is putting an upward pressure on the demand.
+
+The majority are using childcare facilities or relatives for care. We know that the childcare labor market was hard-hit during the pandemic and has not fully recovered. It's a labor-intensive sector, and it's very hard to increase the supply of workers without paying a higher wage.
+
+The childcare wages have grown more slowly than other low-wage service-sector jobs. So we have a low wage, high responsibility, which is going to lead to a high transition rate out of this sector. It's an issue because there's this balancing act where you want to have sustainable wages for childcare workers, but also balancing affordability for families, which we looked at the very beginning, is there's a high cost of using childcare facilities.
+
+So in addition to cost and worker shortages, which I just summarized here, we're also trying to think about, what are some additional barriers to childcare? And that is where Dan Hartley is going to come in and talk about our next geolocation data.
+
+[APPLAUSE]
+
+ROBIN NEWBERGER: And before you-- I just want to thank you, Kelli and also say, we're doing great on timing, which means that we will have time for questions, I believe. And so please be thinking about your questions. Thank you.
+
+DAN HARTLEY: OK, Thanks. I'm Dan Hartley. I'm an economist here at the Chicago Fed. I'm going to share some descriptive analysis that I did with three other colleagues at the Chicago Fed looking at childcare use and accessibility using geolocation data. Before I get started, I should mention that these are my views, not necessarily those of the Chicago Fed or the Federal Reserve System.
+
+So this was a relatively quick turnaround project where we looked-- we took a few months to explore what we can learn about childcare use and access by looking at anonymized geolocation data on the weekly number of visits to childcare facilities and the neighborhoods that those visitors are coming from. Using geolocation data can provide detailed but an incomplete picture of child care use and access. In this project, we took a closer look at the underlying benefits and drawbacks of this data.
+
+Some of the benefits include that we can measure the distance that people travel from their home to childcare services. We can observe the number of weekly visits to childcare locations, which gives us a sense of how use or the actual effective capacity of childcare centers have changed relative to before the pandemic. And we can also construct measures of how access to childcare has changed at a very geographically detailed level.
+
+So what data are we using and what are its limitations? The geolocation data come from anonymous cell phone data and are provided through Advan Research Corporation. They provide a detailed-but-incomplete picture of visits to childcare providers. They're generated by geolocation pings of third-party apps on mobile phones. And then to preserve privacy, they're aggregated to weekly counts of visits from home neighborhoods to childcare locations.
+
+The data are generated by an incomplete set of mobile phones, approximately 10%. And the data also measure visits to an incomplete set of childcare provider destinations. So we did some analysis comparing the childcare locations in the data to licensed childcare providers in the state of Illinois. And we found that the geolocation data are more likely to cover larger facility-based childcare providers.
+
+So next, I'll jump right into some of our findings. This figure shows that the median distance traveled to childcare has been rising since 2018 in the states covered by the 7th Federal Reserve District from about 2.75 miles in 2018 to about 3.25 miles at the end of 2022. However, there is a sharp drop in the distance traveled at the onset of the pandemic, possibly caused by a change in the composition of households using childcare centers, with those using father centers more likely to keep children home. The gradual upward trend pre-pandemic and this COVID disruption seems to have reverted by the end of 2022, and this gradual upward trend in distance traveled seems to of gone back to its trend.
+
+Next figure shows the change in the median distance traveled to childcare locations in each of the five states in the 7th Federal Reserve District from 2018 to 2022. The figure shows basically no change in distance traveled in Illinois, but large increases of more than 10% in the other four states, and especially large increases in Iowa and Michigan. So what explains these differences?
+
+We're still digging into the data and trying to figure this out, but there seems to be at least one relationship that jumped out at us, this relationship between a drop in the number of zero to four-year-olds in a state and the change in the median distance traveled to childcare from 2018 to 2022. Illinois, which had the largest drop in the population of zero to four-year-olds, a drop of 11% from 2018 to 2022, saw basically no increase in distance to travel to childcare. Whereas the other states saw smaller drops in this zero to four-year-old population ranging from 4% to 9% and saw, as the graph shows, 10% or higher increases in the median distance traveled.
+
+So this pattern is consistent with a story in which diminished nearby childcare capacity may have caused people to have to travel farther for childcare in states where the population with a potential need for childcare didn't fall as much as it did in Illinois. However, there are probably many other possible explanations as well, and this is mainly speculative.
+
+So in this figure, in the next, we're going to show how to measures of access to childcare that we constructed using the data have evolved from 2018 to 2022. The y-axis shows an index of access to childcare relative to 2018, which is indexed to 100. The version in the current figure uses only the location of childcare centers and the share of weeks during the year in which we observe any visits to those centers, while the next figure is going to attempt to account for fluctuations in the actual capacity of childcare locations by considering the number of visits, how the number of visits are changing. Both measures can change over time when the supply of childcare changes, such as when locations open, close, or move. This location-based measure shows that closures of childcare centers have decreased average access to childcare by roughly 3% to 4% in the years 2020 through 2022 relative to 2018.
+
+In contrast, when we take the number of visits to childcare centers into account, we find that access appears to have fallen by much more, roughly 40% to 50% in 2020 through 2022. In this measure, we consider a proxy for how actual capacity of the center is changing from year to year, which is the 75th percent most busy week of the year in terms of visits to the childcare location. This capacity-based version of market access can also change if our estimates of true actual capacity of a location changes due to staffing shortages or if actual capacity available nearby changes due to locations closing, opening, or moving.
+
+In contrast, changes in demand, such as an increase in the number of young children due to families with young children moving closer or farther away from childcare locations, will not change this measure over time unless these changes cause our proxy measure of actual capacity to change because more families are visiting the location. While we're aiming for a measure of peak usage, which is not subject to these demand fluctuations, we recognize that it's entirely within the realm of possibility that our proxy might be picking up actual demand fluctuations.
+
+So to conclude the key takeaways from our exploration of this data, we find that anonymized geolocation data appear to capture more visits to larger care providers. We find that at the end of 2022, about half of families that traveled to one of these childcare providers traveled at least three miles from home. We find that from 2018 to 2022, the median distance traveled increased by at least 10% in all five 7th District states, except for Illinois, where it remained virtually unchanged.
+
+We also find that measures of access to childcare show that average access was improving prior to the pandemic, then dropped significantly and has yet to fully recover. The version of this measure that accounts for usage or provider capacity implies that in 2022, access remained at about half of what it was in 2019. Thank you.
+
+[APPLAUSE]
+
+ROBIN NEWBERGER: Thank you so much. So we do have time for questions. And I think I'll just start with a couple of observations from my end, having thought about this a little bit to prep for this conversation. So one of the things I want to say just outset is that what I really appreciate about your presentations are a couple-- let's start with the small things. And by the small things, I mean I really appreciate how the work that's been done from the researchers on this project have helped us size up the problem even before they're doing their analysis and by the way that they're bringing in the data. And I'm going to give some examples that we just heard, but I'm just going to say them again because we can absorb them again.
+
+So for example, that households use multiple types of childcare, that for households with kids under five that are in our district, the most common type is a facility, and then relying on relatives from there. So that's just an interesting level set. That another, for example, that in our district, that the median distance that a family travels from their home to get to a childcare center is about three miles. It's interesting thinking about where you live, if you're a city. Well, anyway, just thinking about maybe there's some further digging to do on that, but that's a level setting for me.
+
+And that-- how about this one? When we talk about the childcare workforce, we're really talking about women-- just also level setting there. So there are many more, obviously, that I could name that are just interesting facts that have come through this process. But for me, that's the small stuff that I really appreciate. And in terms of the bigger questions that you all have addressed, what I also really appreciate is that your work has given us a concrete understanding around topics that are spoken of in generalities. And so when we're talking about limitations to childcare options. What your work is doing is really helping us understand costs, and helping us understand the availability of slots, and how maybe the location of providers is affecting access to care and then obviously access to labor force participation. So it's the big things and the small things that I really appreciate from your presentations and from the work that's been done from other researchers in this process. So I'm going to just start with a big-picture question here. I'm leveraging off of that. And this goes back to remarks that President Goolsbee was making at the start of this, which he noted that our focus on childcare is connected to the Federal Reserve's employment mandate. So if I can ask you to reach a little bit, how has your research influenced your perspective on this link between childcare and employment? Kelli?
+
+KELLI MARQUARDT: Sure, I'll start. So I think we've always known that there's this link between childcare access and employment. Having childcare access enables or allows parents to enter the workforce, be employed, which is important in increasing aggregate employment. I would say, through this process, I learned, especially as someone who has not had to find childcare myself, but I've learned that it's a lot more fragmented than I originally thought it was. I thought it was mostly finding a childcare facility.
+
+ROBIN NEWBERGER: But it's just more fragmented in that there's different difficulties and barriers that different families are facing. In particular, you can see from what we've presented here as it varies a lot by family income, which was something that I thought was important. And in particular, it doesn't appear to be a one-size-fits-all solution given these differences in barriers and limitations. So I think it's important that we laid that out to get a better picture of what that landscape looks like.
+
+Thank you. Dan, do you have any thoughts on that?
+
+DAN HARTLEY: Yeah, I mean, I think the link between childcare access and maximum employment and the location of where childcare providers are and people live is very strong and key. And it makes me think back to the year after I started at the bank when I had a one and three-year-old, and I would drop them off at the daycare and sprint to the train, get into the bank by 9:00, work here until 5:30, jump back on the train, sprint from the train, pick them up on certain days. And so I think the location of where childcare providers are and work and home really can influence whether people are able to work an eight-hour-plus day and still have their kids being taken care of.
+
+ROBIN NEWBERGER: Yeah.
+
+KELLI MARQUARDT: I want to add, too, that something we didn't-- that reminded me of is something we didn't really talk about here, but is on the very recent article on labor force participation is that-- by Luojia and Camilo-- is that there are differences in the flexibility of work from home and flexibility in working hours that have emerged because of the pandemic. And I think that's been helpful for some types of occupations that allow for that flexibility. But then, of course, there's a bunch of other occupations that families are in that does not necessarily have that flexibility. And so there's some-- I urge you to go read this article, but it does show that there's some differences there as well.
+
+ROBIN NEWBERGER: I believe that there is a question coming from-- OK-- someone.
+
+AUDIENCE: OK. Did you find any seasonal trends in the cell phone data or any months where visits were particularly busy or slow?
+
+DAN HARTLEY: Yes, there are the expected seasonal trends in terms of holiday weeks. You see lower visits. Nothing that jumped out as strange or abnormal to us, but yeah, yes.
+
+ROBIN NEWBERGER: Are we done with that question? Good answer.
+
+AUDIENCE: And then another one was asking about if you thought about individuals over 54 and if there's data about their childcare usage. They're thinking about parental guardians who are maybe grandparents, aunts, or uncles.
+
+KELLI MARQUARDT: We did not focus on that group. But we do know that-- I believe we know this, that there's been a decline in the labor force participation of people over-- Luojia's saying yes-- of individuals over 54, perhaps suggestive that grandparents are exiting the labor market in order to provide childcare for their grandchildren. And that might be why we see this high rate of relying on relatives for care.
+
+ROBIN NEWBERGER: I would like to return, if I can, to a point that I was thinking about that united for me your presentations around the theme of the employment of the childcare workers themselves and how important that is in understanding the connection with employment generally. So you talk about low wages of childcare. Maybe I'll ask you a little bit elaborate on that and the different comparative occupations that people have. I think you did a nice job, if I may say, I think you did a nice job in your summary of explaining some insights into that. But if I can ask you to elaborate on that a little bit about just the importance in understanding the childcare worker as part of a ecosystem that's a really important part of understanding labor force participation.
+
+KELLI MARQUARDT: Certainly, yeah. So we need workers to watch the children. But we cannot pay them necessarily a high wage because in order to do that, we would have to be charging families more. And it's interesting. And what I mentioned a little bit is we see the wages grew slower than perhaps they did for waiters and waitresses.
+
+And one reason why that might be is because, at a restaurant, you might have noticed that the price of the bill increased a lot. And so restaurants were able to charge higher prices to consumers and then be able to pay their workers more. That's not necessarily the case in childcare because the demand for childcare is particularly focused among individuals with young children, earlier in their career, have credit constraints, so they're not able to fully increase how much they're willing to pay, and so we can't pay childcare workers more.
+
+Then there's also this other component that comes out of it. What's interesting is they're working at these small facilities. And so what was a question in the back of my mind-- and I think we could dig into a little bit more in the data-- is, what happens if the childcare worker has to call out sick, or the childcare worker is unable to find childcare for their child even at the facility due to some regulations of number of capacity? And so thinking about, we're at small facilities, we can't pay the childcare workers a lot. There's a lot of turnover. What happens when one of the five employees can't come in? How does that disrupt the center as well as who's being able to watch the kids? And how does that impact the parents?
+
+ROBIN NEWBERGER: Yeah, thank you. And, Dan, I want to also just bring you into this question about the worker because your analysis of capacity is modified. And you can look at-- you're making a nice, interesting distinction between how many slots are available and what actual capacity is available based on potentially worker availability. So if you can just bring home that idea to us again.
+
+DAN HARTLEY: Yeah, yeah, in our capacity-based measure, we're trying to figure out a way to proxy for the actual capacity that a center was providing. And so what we did is we took the 75th percent most busy week in terms of number of visits to the center and thought of that as a proxy for the actual capacity. We also tried the 90th busiest week.
+
+So this is a pretty rough measure. And I think a lot more work needs to be done to it. It may be the case that this measure moves around as total demand for childcare changes fluctuates. And so it's probably not a very perfect measure, but it was the best we could do with what we had at the time.
+
+ROBIN NEWBERGER: Well, I appreciated that distinction between not just looking at slots and thinking that was going to be the answer to understanding the supply. So I guess, maybe just my last question for you, given time, is, maybe starting with Dan here, you had a couple of caveats about the data. So as you were working on your research, is there other data that you wish that you might have had? And maybe what would you like to be learning if you were looking at some additional data? Speak to some of the questions that people might be interested in analyzing. So maybe there's a conversation to be had afterwards.
+
+And also, hopefully, that the data that you've heard here and that you're seeing from other articles on our website, hopefully that is also concrete, and interesting, and relevant to the work that you're doing. So we always want to reinforce that give and take of listening to all of you and then being able to share back some data as well. So I hope that's productive.
+
+DAN HARTLEY: Yeah, we're always happy for more data as economists. I guess-- I think-- I mean, one of the things that seem nice is the way that, say, the survey data from the census pulse survey where you get households, who use all different types of daycare arrangements, reporting what type they're using, how you can think of that, where you're seeing households that use relatives for care, very small family daycares versus looking at this other data, this geolocation data, where you're only seeing use of daycares that are large enough to be picked up by this data provider and them to draw a geo fence around it. So I think, yeah, having data from multiple sources, and I'm sure more data to learn more about these issues would be great.
+
+ROBIN NEWBERGER: I'm reminded that I think that we're going to hear on a coming panel about home-based care. So I think that's going to be a nice complement to this conversation about centered care. And, Kelli, did you want to add anything about other data or other questions from data that you'd like to be?
+
+KELLI MARQUARDT: I was really struck by this small establishments fact, and I would love to have information on what are the profit margins of childcare establishments. Structurally, what are barriers? Can they pay their workers more? Can they charge more to families? What is that profit margin? And what are the regulations and barriers that they're facing?
+
+ROBIN NEWBERGER: Sounds great. Sounds like a great segue to a panel that will be not immediately now, but soon. And maybe for the providers that are in the room or the practitioners, maybe you are collecting data that does answer or does
+
+I guess, I just would also say that if you're interested in rereading or re-familiarizing or reviewing some of the findings that we've just heard, that they are written up in articles on the Chicago Fed website. So that's a great resource for anybody who wants to digest a little bit more.
+
+And I think we're at time. So please, join me in thanking Kelli and Dan.
+
+[APPLAUSE]
+
+I'm sorry. Now we have a 15-minute break until our next session. Thank you.
+

@@ -1,0 +1,192 @@
+https://www.atlantafed.org/news/speeches/2025/07/03/bostic-the-dual-mandate-and-the-primacy-of-inflation-expectations
+
+The Dual Mandate and the Primacy of Inflation Expectations
+
+Raphael Bostic
+
+Institute for Monetary and Financial Stability, Frankfurt, Germany
+
+July 3, 2025
+
+Key Points
+
+At the Institute for Monetary and Financial Stability in Frankfurt, Germany, Atlanta Fed President and CEO Raphael Bostic discusses an essential feature that sets the Federal Reserve apart from most central banks: its dual mandate to pursue price stability and maximum employment.
+Bostic says that while pursuing two core objectives can complicate the job of a central banker, the dual mandate serves the Fed and the American public well.
+He also discusses his economic outlook and the implications for monetary policy. While the macroeconomy remains resilient, Bostic says widespread uncertainty calls for patience in shifting the monetary policy stance.
+He examines the role of inflation expectations in formulating monetary policy and describes how the Federal Open Market Committee's strategic policy framework review could elevate the primacy of inflation expectations in the Committee's policy approach.
+Bostic explores fundamental questions concerning inflation expectations that the Committee must grapple with, citing two in particular: how to measure expectations that truly shape household and firm decision making, and how to measure those expectations at the right frequency.
+Good evening. Thank you, Professor Wieland, for the kind introduction. It is an honor to join the distinguished roster of speakers you have hosted here at the Institute for Monetary and Financial Stability.
+
+I will talk briefly today about my outlook for the US economy and the implications for monetary policy. But I will spend the bulk of my time discussing an essential feature that sets the Federal Reserve apart from most central banks, and that is the dual mandate we pursue: price stability and sustained maximum employment.
+
+I'll explore the roots of the Federal Reserve's twin objectives, and through the lens of the mandate I will share thoughts on the strategic monetary policy framework review that the Federal Open Market Committee (FOMC) will soon conclude. In particular, I will discuss the importance of inflation expectations. The framework review aims to refine our fundamental policy and communications approach, while our commitment to achieving the dual mandate will remain steadfast.
+
+Before I dive in, here's the standard disclaimer: I speak for myself and no one else on the FOMC nor at the Federal Reserve Bank of Atlanta.
+
+Uncertainty still the watchword in the macroeconomy
+
+Surveying the macroeconomy today, uncertainty persists along virtually every dimension central bankers consider in formulating monetary policy—international trade, of course, but also in labor markets, prices, investment, fiscal and regulatory policy, immigration, and geopolitics. Policy is moving on these numerous fronts, and manifold market dynamics are evolving in response, but not always in a direction consistent with historical experience.
+
+My contacts in the business and financial communities assign vastly different probabilities to potential economic outcomes. The band of scenarios is sufficiently wide to make it difficult for them to strategically deploy resources for growth and thus for monetary policymakers to determine an appropriate policy path.
+
+For now, labor market conditions remain broadly healthy, even as signs point to softening. The pace of hiring has slowed, and it is taking job seekers longer to find work. At the same time, layoffs and unemployment remain at low levels, and I don't yet see signs of serious labor market deterioration.
+
+As for hiring plans, our surveys and interviews through early June revealed a continuing "not-hiring-but-not-firing" approach. However, more firms told us they were devising contingency plans for layoffs should they become necessary.
+
+On the other side of the mandate, inflation has fallen substantially from peaks in mid-2022. More recently, the high monthly inflation reports in January and February were offset by softer readings over the three months ending in May. On a 12-month basis, while core personal consumption expenditures (PCE) inflation is still hovering north of 2.5 percent, the near-term evidence suggests we are arguably approaching the FOMC's 2 percent objective.
+
+Absent the uncertainty associated with the potential impact of tariffs on prices—as well as the consequences of the current turmoil in the Middle East—I would be pretty comfortable with the inflation outlook. Data through May showed that tariffs had not substantially affected consumer prices. To a significant degree, I believe sanguine inflation readings reflect firms' strategies to delay substantive price increases until the price setters get more clarity on final tariff rates and their implications.
+
+For me, the main punchline is that the adjustment of prices and the broader economy to changes in trade and other forthcoming policies in the United States, along with geopolitical developments, is not going to be a short and simple one-time shift in prices, as standard textbook models would suggest. Instead, this increasingly looks like a process that may take a year or more to fully play out.
+
+If I'm right, then the US economy will likely experience a longer period of elevated inflation readings. I wouldn't expect we would see dramatic spikes, but rather a steady progression to the end-state inflation level. As the slide shows (slide 2), the Atlanta Fed's May 2025 Business Inflation Expectations (BIE) Survey found that firms expect larger price hikes compared to six months ago. Survey respondents' price change expectations for May 2026 are higher than at any time over the prior two years.
+
+If this scenario plays out as I've described, there is a risk that high inflation could burrow into consumer psychology and lead to unanchored inflation expectations. That would not be welcome, and so I will be watching closely for any evidence that such an unanchoring is starting to occur. Indeed, the anchoring of inflation expectations will be a key theme in the rest of my remarks.
+
+To be clear, we are not yet at a point where elevated inflation is firmly embedded in the psychology of consumers and price setters. And the tone of feedback we gather from business leaders has fluctuated a bit.
+
+Sentiment turned increasingly negative in the early spring when the US announced the broad application of tariffs. But, more recently, business confidence has improved, based largely on the anticipation that worst-case scenarios regarding tariffs might not come to pass. Still, many business leaders said they were delaying hiring and investments. Many contacts also expect demand to stagnate or even decline if costs indeed continue to rise.
+
+As I speak, there is some evidence to support the view that momentum in the economy is stalling. Last Friday's report on personal income for May included data on consumer spending, which was much weaker than expected. And though the Atlanta Fed's real-time tracker of current quarter gross domestic product growth, which we call GDPNow, is still suggesting annualized growth of nearly 3 percent, that statistic is dominated by a reversal of the sizeable decline in net exports in the first quarter.
+
+Final sales to domestic purchasers—essentially business fixed investment and consumer spending—presently looks to be growing at an annualized rate of only about 1.5 percent. That is not terrible, and it is not clear whether this reflects true softening in the economy or simply some "pay back" from consumers and businesses shifting some spending in advance of anticipated tariffs. This certainly bears careful monitoring. But without evidence of substantial labor market deterioration, coupled with private sector balance sheets that remain in relatively good health, it feels too early to conclude that a downturn is probable. Again, uncertainty looms large, and I believe patience is in order.
+
+Uncertainty is coming from sources other than just trade policy. Among other things, US fiscal, immigration, and regulatory policy are all changing or apt to change in the short term, and along with global geopolitical tensions those changes could produce a range of macroeconomic impacts.
+
+I believe a period characterized by such widespread uncertainty is no time for significant shifts in monetary policy. That is especially the case against the backdrop of a still resilient macroeconomy, which offers space for patience.
+
+That is why I fully support the Committee's wait-and-see policy prescription at our latest meeting. Off-site link I believe the Committee must await more clarity rather than move in a policy direction that it might need to quickly reverse.
+
+Dual mandate compels a detailed understanding of economic machinery
+
+As we do so, the Committee's deliberations will be shaped by a mandate from the US Congress that sets us apart from other major central banks in a fundamental way. The vast majority of central banks seek to achieve price stability explicitly, and many try to foster healthy employment conditions as a secondary remit. For us at the Fed, the two objectives are on equal footing.
+
+The mission is to keep inflation low and stable and sustain a labor market that offers job opportunity for everyone who wants it. As I mentioned earlier, Congress assigned us two charges: price stability and maximum employment. The Committee established a benchmark for the achievement of price stability: inflation that averages 2 percent over time, per the PCE price index published by the US Bureau of Economic Analysis.
+
+There is no comparable explicit benchmark for maximum employment. We consult numerous vital signs to monitor the health of labor markets, of course, but what constitutes maximum employment is subject to interpretation and can shift as factors such as population growth and aging change circumstances.
+
+Having two core duties instead of just one can certainly complicate the job of a monetary policymaker, especially when the two mandates are in tension.
+
+Nevertheless, I believe the dual mandate serves the Fed and the American public well. Sustained maximum employment enhances long-run noninflationary economic potential, and it means that a critical resource—labor—is being used productively. A strong labor market increases labor force participation and underpins widespread prosperity. A job is the first necessary condition for families to build economic mobility and resilience.
+
+Moreover, the full economic participation of all segments of society should produce more ideas and innovation. These are among the benefits of the Fed's maximum employment goal.
+
+If you spend time following the Fed, you have undoubtedly heard Fed Chair Jerome Powell declare that price stability is necessary to achieve long-term labor market expansions that benefit all of our citizens. I agree, and I think that formulation succinctly captures the mutually reinforcing nature of the Federal Reserve's dual mandate.
+
+I also believe that pursuing the two core objectives makes me a more well-rounded central banker. Cultivating conditions favorable to price stability and maximum employment requires a deep and nuanced appreciation for how economic activity happens—how products are produced and services delivered, how firms set prices, how and why hiring and investment occurs or does not, the mechanics of supply chains, financing, trends, strategies, and so on.
+
+The FOMC has a statutory obligation to pursue two goals, and it's not always easy. But that's the mandate. And a mandate serves to focus one's energy even in times of great uncertainty, like the present.
+
+Why did Congress assign a dual mandate in the first place?
+
+The Fed did not always pursue a dual mandate. Honestly, even today, some observers believe we should pursue only price stability.
+
+So, why do we have a dual mandate? To answer that question, let me recap a little history (slide 3). In effect, the US central bank's core founding purpose in 1913 was to provide a more flexible supply of currency and bank reserves in order to stem banking panics. That largely worked.
+
+Yet as the American economy evolved, so too did the demands on the central bank. With trauma from the Great Depression of the 1930s fresh in mind, Congress passed a law called the Employment Act of 1946. It committed the federal government broadly "to promote maximum employment, production, and purchasing power." It is generally agreed that this legislation established the legal roots of both the Fed's employment and price stability mandates.
+
+Among economists and central bankers, Irving Fisher was an important voice regarding central bank mandates. Fisher, in his famous work The Debt Deflation Theory of the Great Depression, was concerned with sudden declines in the price level, which increased the real burden to borrowers, weakening their financial capacity. This is one reason for concerns about periods when the rate of inflation is persistently lower than what the central bank promised and what private decision makers build into contracts and plans that are hard to reverse. But as the Great Inflation of the 1970s and our more recent experience highlight, the disruptive force of excessive inflation is equally concerning.
+
+It was, in fact, in the context of the Great Inflation that the current formulation of the Fed's dual mandate was formally codified. In 1977, Congress amended the Federal Reserve Act to instruct the Fed to promote maximum employment, stable prices, and moderate long-term interest rates (slide 4). Then in 1978, Congress passed the Full Employment and Balanced Growth Act, better known as the Humphrey-Hawkins Act. This legislation amended the Employment Act of 1946 and was signed into law by President Jimmy Carter. In general terms, the Humphrey-Hawkins law set economic priorities for the federal government centered on promoting good-paying jobs for all Americans. Humphrey-Hawkins established the objectives of maximum employment, stable prices, a balanced budget, and a balance of foreign trade.
+
+In practice, numerical targets in the Humphrey-Hawkins Act have not been treated as legally binding across government agencies. But one of Humphrey-Hawkins' clear legacies is that as it headed toward likely passage its employment and inflation objectives were enshrined in the 1977 amendments to the Federal Reserve Act, codifying the dual mandate of maximum employment and stable prices. Thus, the dual mandate was cemented in place.
+
+It is worth noting that the Humphrey-Hawkins Act—and along with it the requirement that the Fed chair testify before Congress twice a year—expired in the year 2000. But Fed chairs have continued to appear before lawmakers, and the dual mandate lives on via the 1977 amendments to the Federal Reserve Act.
+
+This origin story includes a local angle for us at the Atlanta Fed. Coretta Scott King, an Atlantan and widow of the Reverend Martin Luther King, Jr., was among those who lobbied successfully for the Humphrey-Hawkins Act. She was carrying on the work of her husband, as Dr. King centered economic opportunity in his calls for racial justice and equal rights.
+
+Thoughts on the policy framework review
+
+That's basically how we came to be tasked with a dual mandate. As that history illustrates, the mandate is not permanently unchanging. Yet it remains our North Star and, as I noted, I believe it serves us well. What must change as the macroeconomy inevitably evolves are the strategies and tactics the FOMC employs in pursuit of the mandate.
+
+As I speak, the Committee is in the final stages of a review of our monetary policy strategy framework that we conduct every five years. I would like to share thoughts on it, and in particular, on the primacy of inflation expectations in that exercise.
+
+Please note that I am taking care here not to preempt the outcome of the framework review, which is expected to wrap up later this year.
+
+It would be folly and, frankly, counter to the purpose of the exercise to craft a framework that assumes current economic conditions will live on indefinitely. It would be equally misguided to ignore recent history as we refresh and bolster the robustness of our policy framework.
+
+To that end, our experience during the pandemic and the resultant outcomes for inflation direct my thinking toward a couple of aspects of the FOMC's strategy—our pursuit tactics if you will. Here are some particular matters that are front-of-mind for me as I consider the range of possible tactics.
+
+First, shocks which appear "transitory" can unleash forces that prove longer lasting and lead to more persistent changes in inflation dynamics.
+
+If you ask most central bankers how to respond to a seemingly fleeting shock such as a supply disruption, the consensus answer would be to "look through" or ignore the disturbance in formulating monetary policy because it likely will not affect the medium-run trajectory of inflation. This is the textbook view, and I don't think that view is wildly off base, generally speaking.
+
+That said, I think that the recent experience with COVID-19 highlights the wisdom of adding that "generally speaking" qualifier.
+
+We stand here today more than five years since the beginning of the pandemic, and several years after the supply disruptions it triggered, and yet inflation is only now returning to the vicinity of our stated target. This begs an important question: At what point does a transitory period last so long that it shifts expectations in ways that produce lasting effects on business and consumer strategies and behavior?
+
+I don't have a definitive answer.
+
+What the pandemic experience taught me is that there is an important distinction between transitory in the sense of "tending to pass on its own"—which is how economists often use it—and transitory in the sense of "brief duration." Those two definitions are clearly different, and one can be true without the other. Importantly, the economic consequences and the appropriate policy responses can be quite different depending on which definition is operative at a given time.
+
+Apologies if my explication of transitory was not especially of "brief duration." But I felt it important to establish context to introduce an idea that, while not entirely novel, would represent a subtle but important evolution of the Federal Reserve's monetary policy framework. It is a concept that's been discussed in our framework review, as reflected in the minutes of Committee meetings Off-site link this year.
+
+The idea is to make the pursuit of stable inflation expectations an explicit guiding light in the Committee's fundamental policy approach. Research, along with feedback from forums such as the Fed Listens public events that were part of the framework review, support the notion that the Committee would do well to lean in even more on understanding the role of inflation expectations in shaping realized inflation.
+
+To be sure, anchoring inflation expectations at the 2 percent target is already important in the Committee's strategy. But it is worth exploring ways in which the primacy of inflation expectations could be made absolutely explicit.
+
+Should we choose to elevate the primacy of inflation expectations in our pursuit of price stability, there are fundamental questions to grapple with. I acknowledge that I will, in fact, raise numerous questions on this front but offer few answers. Answers are as yet elusive, but further research can help.
+
+Among these questions, two come to the forefront, in my view. One, how do we as monetary policymakers ensure that we are measuring expectations for what truly matters in the decision making of households and firms? And two, if we are measuring the right things, are we measuring them at the right frequency? That is to say, by strictly adhering to anchoring "long-run" expectations, do we risk dismissing shorter-run, or episodic, dynamics in the economy that ultimately work against our price stability goals?
+
+To the question of what beliefs and expectations truly matter, I'm reminded of a conundrum raised by former Fed Chair Alan Greenspan's definition of price stability. In so many words, he argued that price stability is at hand when households and firms ignore inflation. That view implies that measures of aggregate inflation expectations will likely suffer from inattention and misunderstanding biases. This means that inflation expectations often over-emphasize food and energy price swings that hit consumers regularly, or yield perceptions and expectations that are at odds with a stable inflationary environment—all because we're asking about a concept that most people aren't thinking about.
+
+Further, drawing on our recent experience, we know that as the inflation rate rises, consumers and price setters pay more attention to it. Unfortunately for those of us trying to track expectations, this means that by the time households and firms are attuned to the forward trajectory of inflation, it may be too late to glean meaningful information from readings of their expectations. By then, inflation is already upon us.
+
+My essential point is that there is still work to be done to directly link inflation expectations to concrete actions by economic agents—to understand the very nature of inflation expectations. The Committee, and indeed central banks around the world, will need to wrestle with this conundrum.
+
+I think our Reserve Bank's Business Inflation Expectations Survey can help in this endeavor. The survey asks firms about their realized and anticipated unit cost growth, and recent research suggests that is a useful gauge of aggregate inflation. As our economist Brent Meyer and coauthor Xuguang Simon Sheng write in a new paper (Unit Cost Expectations: Firms' Perspectives on Inflation Off-site link), BIE survey respondents' unit cost realizations closely track realized US inflation statistics. This offers some assurance that firms are attentive to their own unit cost growth even when aggregate inflation is low (slide 5). The research also shows that businesses' unit cost expectations are a more accurate barometer than households' inflation expectations when inflation is low, and are at least as accurate as professional forecasters' expectations in high and low inflation environments.
+
+Now to the second question, on the appropriate frequency to assess potential "unanchoring." There can be times that are so volatile that they narrow economic horizons; in effect, circumstances force businesspeople and consumers to focus on the here and now. Think of the pandemic and the Global Financial Crisis.
+
+In fact, we need look just four years back to see this dynamic at play. In 2021, it took long-run expectations quite some time to signal that inflation was a problem. This chart clearly shows that inflation's rise was well underway before longer-run inflation expectations moved measurably (slide 6). Note the sharp contrast with the response of short-run expectations. One possible explanation for this difference could be that survey respondents were too focused on the short run to reflect much on whether and how their longer-run expectations had shifted.
+
+Research Off-site link by Atlanta Fed Economist Andres Blanco, Pablo Ottonello at the University of Maryland, and Tereza Ranosova at the Bundesbank highlights the reality that inflation surges around the globe tend to be persistent. And while these surges are largely unexpected, short-term inflation expectations gradually catch up with the new reality. One somewhat troubling fact that may be unfolding at the moment—and is worrisome in the face of the potential tariff shock to the price level—is that longer-run expectations tend to continue to increase even after inflation begins to recede from its previous peak.
+
+What would be ideal is for researchers to develop and deploy an early warning alert of unanchoring in inflation expectations as it happens. I am keen to see further work on these puzzles, and I will encourage our research staff at the Atlanta Fed to do our part.
+
+To answer the questions I've raised and other related ones, the Committee needs to establish the best way to gauge the inflation expectations that are most applicable to our monetary policy strategy.
+
+Doing so demands a deeper understanding of the sensitivity of longer-run expectations to movements in either observed inflation or short-run expectations. Research presented at this year's Thomas Laubach Research Conference, which is hosted by the Federal Reserve Board and part of the framework review, cites this as a potentially important factor in the dynamics of unanchoring inflation expectations.
+
+I've made a pretty emphatic case for the importance of anchoring inflation expectations. In doing so, I am largely echoing received wisdom in macroeconomics.
+
+As a general rule, that wisdom undergirds solid monetary policy. Yet reality has a way of producing extraordinary circumstances. That means that in any given period the importance of inflation expectations, particularly long-term expectations, can depend on the economic facts on the ground.
+
+The challenge for central bankers broadly is how to navigate times of more extreme economic stress when the received wisdom may not serve us well. Without a better understanding of how inflation expectations are formed, we risk missing early stirrings of potentially damaging inflation. The resultant monetary policy prescription, therefore, may not be optimal.
+
+My point is that we should bring modesty to the conversation about the success of anchoring long-term inflation expectations, and about our knowledge of the ways expectations truly influence the decisions of economic actors.
+
+If it sounds like I'm debating myself, I will argue that the macroeconomy is in fact frequently shifting, sometimes dramatically. The past 30 years have brought disruptions that became watershed events in the US—the September 11 terrorist attacks, the Global Financial Crisis and Great Recession, and the pandemic—where one could credibly argue that time horizons could be pulled forward. So, in a complex, ever-changing world, we at the FOMC do not serve the public by clinging blindly to orthodoxy in all times—even an orthodoxy that is sound in most circumstances.
+
+Thinking about policy if the mandates conflict
+
+I hope I've given you some insights about the origins of the Federal Reserve's dual mandate and important elements of our approach to make sure it continues to underpin monetary policy that best serves the American people. Now before I close, let me spend a moment discussing the thorny set of policy choices that arise when the two mandated goals come into conflict, which was the situation during the dark days of the Great Inflation in the 1970s and '80s. In that period, the Committee made things worse with a stop-and-go policy approach—lurching in what proved to be the wrong direction only to then abruptly reverse course.
+
+We are thankfully not in that situation. But with uncertainty buffeting the macroeconomy on many fronts, it is a plausible scenario, and as such merits discussion.
+
+In my view, the FOMC has not faced such a dilemma during my Fed tenure, which began in 2017. I must confess that there is some disagreement among my staff about this. Some argue that we faced such a situation as recently as the late summer and fall of 2021. At that time, the emergence of a new COVID variant threatened to produce another economic downturn at the very time it was becoming clear that inflation pressures were building and the "brief duration" characterization may have been off point.
+
+Thankfully, the employment weakness did not materialize, so the Committee didn't face actual choices between the two mandates. But my colleagues argue that the risk was there and that some wrestling with this possibility had begun. I'll leave it to the reception for you all to settle this debate.
+
+Let me digress here just a moment to point out that our Reserve Bank, and indeed the entire Federal Reserve, is not monolithic, but rather encourages divergent views and debates like the one I just described. It's one of the things that makes my job great and interesting, and it's one of the things that makes our institution strong.
+
+So, what do we do if measures of both price stability and maximum employment are migrating away from target? The Committee would have to choose which of the two needs to be the primary concern in the moment.
+
+If both mandated objectives are moving in the wrong direction, then it is incumbent upon the Committee to redouble efforts to divine the true, underlying course of inflation and labor markets. That means sifting the data as carefully as possible in order to determine which of the mandates merits the more aggressive pursuit.
+
+Assessing the true state of underlying inflation is relatively straightforward. There are many widely recognized measures of inflation; our Underlying Inflation Dashboard is a nice collection of a range of them. So, determining the real trajectory of inflation and thus its distance from the Committee's 2 percent price stability objective is a fairly clear-cut undertaking.
+
+As I mentioned earlier, the employment side of the mandate is a bit more complicated because there is no generally accepted benchmark for maximum employment. Consequently, we appeal to a range of measures, such as the Atlanta Fed's Labor Market Distributions Spider Chart and the Kansas City Fed's Labor Market Conditions Indicators Off-site link, to name just a couple. These are more complex measures that we consult to discern as accurately as we can the real state of the labor market. Meeting the dual mandate is truly a blend of art and science.
+
+We continue to conduct multifaceted research throughout the Federal Reserve System in our quest to improve the tools that gauge the health of the labor market and thus where we stand vis-à-vis sustainable maximum employment. And just as we draw valuable lessons about inflation from recent experience, so too do we continue learning about evolving labor markets.
+
+For instance, the dynamics that produced significant disinflation in the post-pandemic period without serious damage to the labor market suggest that the traditional Phillips curve relationship between inflation and unemployment has shifted. Will that continue? Why has it happened? We know some answers, but we must continue to examine these sorts of questions.
+
+One thing the resilience of the post-pandemic labor market crystallized for me is the centrality to the Fed's mission of sustainable maximum employment.
+
+I use a formulation of sustainable maximum employment because monetary policy in my view should aim to nurture a labor market that allows all people who desire work not to merely find work, but work that allows them to maximize their human capital and ideally embark on a career. In my view, the degree to which maximum employment is sustainable is the truest measure of the health of the labor market, and thus the proper input into a monetary policy formulation, especially if the mandated objectives conflict.
+
+I am going to stop here in the interest of time. I hope I've helped to untangle some of the intricacies involved in the pursuit of the Federal Reserve's unusual dual mandate and offered a window into my monetary policy thinking.
+
+Thank you for your attention, and I look forward to your questions.

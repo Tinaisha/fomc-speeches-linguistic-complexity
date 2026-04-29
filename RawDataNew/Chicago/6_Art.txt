@@ -1,0 +1,62 @@
+https://www.chicagofed.org/publications/chicago-fed-insights/2025/community-bankers-symposium-tackles-key-issues
+
+October 11, 2024
+
+Cyber Risk, Regulatory Change, and More: Chicago Fed Symposium Tackles Key Issues in Community Banking
+
+Multiple
+
+Federal Reserve Bank of Chicago
+
+Austan Goolsbee’s opening remarks
+Federal Reserve Bank of Chicago President and CEO Austan Goolsbee opened the symposium by discussing the current state of the economy. In his remarks, Goolsbee stressed the Federal Reserve’s dual mandate: Stabilize prices and maximize employment. Emphasizing the need to take a longer-arc view to set monetary policy, Goolsbee said the Federal Reserve’s recent focus has been on adjusting the federal funds rate to reduce inflation caused by the Covid pandemic. “At the end of the day,” Goolsbee said, “the Fed only has one tool, and it is a screwdriver… We can loosen it or tighten it. If you want someone to make you breakfast, then don’t ask the Fed to do it.”
+
+Accordingly, he said that the hardest thing a central bank must do is to get the timing right as it weighs unemployment and inflation risks. “Historically, the job market has demonstrated that if it starts to go wrong, then it’s too late, so we need to balance the risk going forward,” Goolsbee said.
+
+Regulatory policy in uncertain times
+In a fireside chat conducted by Ric Brunskill, the Chicago Fed senior vice president of regional and community banks, CSBS Executive Vice President and General Counsel Margaret Liu discussed the active legislative environment, the outlook for regulation of digital assets, and the potential ripple effects of a change in governmental leadership following the then-upcoming November election.
+
+Among potentially impactful legislation, Liu highlighted the Safer Banking Act, which would create financial services and safe harbors for financial institutions engaged in cannabis-related activities. She also referenced the Bank Service Company Act, which is directed to bank regulators, supervisors, and lawyers. This bill includes modifications to the existing act to improve communication among federal and state regulatory agencies, she said. If the Bank Service Company Act were to pass, “the banking ecosystem will not get less complex,” Liu said. Other work-in-progress initiatives, said Liu, cover regulatory tailoring—the process of curtailing supervisory requirements for smaller and less complex banks—as well as general examination fairness and transparency.
+
+Digital assets, such as cryptocurrency and blockchain, remain a hot topic within the financial sector. Liu highlighted the Digital Asset Market Structure bill, which passed in the House of Representatives on May 22, 2023, and defines three categories of digital assets, thereby assigning jurisdiction to the Securities and Exchange Commission or the Commodity Futures Trading Commission, depending on the category in which the asset is categorized.
+
+Working from the perspective of a non-profit, non-partisan organization such as CSBS, Liu noted that potential changes within House and Senate leadership could lead to large impacts on the financial sector. She surmised that in the event of former President Donald Trump winning the election, there would likely be large-scale rescission of legislation passed under the administration of President Joseph Biden, in addition to changes in composition of the FDIC board and leadership within the Consumer Financial Protection Bureau. Nonetheless, Liu said that the market adapts and that she sees the industry preparing for all possible outcomes.
+
+Pre-symposium cyber workshop
+On October 10, before the formal start of the symposium, the Chicago Fed, in partnership with IBM and the Federal Reserve Bank of Richmond, offered community bank executives the chance to participate in an immersive simulation exercise. They navigated through a ransomware cyberattack and learned what actions are necessary for managing such challenges. Participants discussed the scenario at several inflection points to determine the best course of action from a list of options—and to ensure business continuity. It was reinforced that although banks are natural competitors with each other, cyber risk must be addressed with a united front through knowledge-sharing, collaboration, and coordinated vigilance within the banking industry.
+
+Artificial intelligence and bank-fintech arrangements
+Back at the October 11 symposium, Donna Murphy, acting deputy comptroller from the Office of Financial Technology at the OCC, discussed the industry trends of rapid technology changes, community bank digitalization, artificial intelligence (AI), tokenization of real-world assets, and ongoing regulatory adaptation. She noted, however, that AI, machine-learning, and generative AI lack a standard definition, and, specifically, generative AI is a relatively new class of AI that can identify patterns across huge sets of data and then generate synthetic content such as images, videos, and other digital content.
+
+While there are potential benefits for community bankers using generative AI—such as reducing costs and increasing efficiencies, identifying complex relationships, and improving performance and accuracy—there are also significant risks, Murphy said, including a lack of transparency into the technology’s algorithms and its biases, a scarcity of the proper expertise, and the potential for unlawful discrimination based on the information such technology might provide. “AI can be a great tool or a weapon, and implementing AI should be careful and cautious [and] follow existing safety and soundness standards and compliance requirements,” she said.
+
+Early considerations for risk management over bank-fintech arrangements include reviewing the areas such as accountability, customer confusion on who is providing the product, rapid growth, customer information, and third-party risk management, said Murphy, who added that there is available interagency guidance around risk management with third-party relationships and due diligence on fintechs. “Engaging in emerging technology is a team sport between the business side of the bank, the risk and compliance side of the bank, regulators, and fintech,” she said.
+
+The real-life ramifications of BSA/AML non-compliance
+James Dowling, managing director at the Dowling Advisory Group, discussed several recent enforcement actions and case studies in which banks were cited for failure to perform independent testing and had to pay heavy fines for non-compliance. Although overhauling a compliance program is costly, related fines for non-compliance are high as well, he said. “If the business case for compliance wasn’t clear before, it should be now,” said Dowling.
+
+Brian Lopez, director at the Dowling Advisory Group, discussed compliance with the Bank Secrecy Act and its legal framework, specifically Titles 18 and 31. “Willful blindness does not cut it anymore, and that can expose top management,” Lopez said, referencing the affirmative obligation to prevent, detect, and report money laundering included in Title 31.
+
+Federal law enforcement agencies are interested in banks’ Bank Secrecy Act and Anti-Money Laundering Act compliance efforts, according to the presenters, meaning compliance departments should be fully staffed to perform adequate independent testing. Further, they said, banks should focus on their Know Your Customer programs to identify high-risk customers. Finally, Dowling highlighted his two takeaways for the group: “No one looks good in an orange jumpsuit” and “compliance does not make you money, but it sure saves you money.”
+
+Basics of contingency funding
+James P. Hotchkiss Jr., vice president and senior director of member strategy and solutions, and Sean Mulroy, vice president and senior manager of financial institutions, both from the Federal Home Loan Bank (FHLB) of Chicago, provided an overview of the FHLB system and discussed the products and services it provides to support member banks’ funding needs. Members use this access to address liquidity fluctuations, manage interest-rate risk, and increase capital efficiency, they said.
+
+Regular communication between the FHLB and its member institutions is critical to support the credit-risk-rating process used to ensure sufficient credit controls are in place to help members maintain continued collateral capacity as well as maintain the types of collateral acceptable for pledging and borrowing against, according to the FHLB executives. “Having contingency outlets and sources is fundamental in the management of your balance sheet,” Mulroy said.
+
+Regulatory panel: Emerging issues and best practices
+Chicago Fed Vice President of Regional Banking Organizations in Michigan and Indiana Christopher Koopmans moderated a discussion on emerging issues and best practices identified by regulators. Panelists included Brunskill of the Chicago Fed, Associate Deputy Comptroller Richard Dixon (OCC), Assistant Regional Director Nicole Orlando (FDIC), and Wisconsin Department of Financial Institutions Division Administrator Kim Swissdorf. Each of the panelists provided a brief synopsis of what “keeps them up at night.” While contributors offered unique perspectives, they noted several common themes:
+
+Potential deterioration of the commercial real estate sector, including weakening demand for office space and higher interest rates impacting borrowers’ cash flow at the time of repricing.
+Emerging operational threats to banks including “jackpotting” schemes in which bad actors deplete ATMs using malicious software, which also diverts the focus of a bank’s management team in dealing with the issue.
+Succession planning in community banks located in remote communities where local recruitment is a challenge.
+In closing, Koopmans emphasized that supervisors aim to promote a healthy environment for community banks. “In this evolving financial landscape, regulators are more than willing and able to take the call from the community banks they oversee,” he said.
+
+Keynote: Community banks are integral to the overall economy
+Federal Reserve System Governor Michelle Bowman provided her perspective on challenges facing community banks, which include many of the issues discussed at this year’s symposium such as cyber risk, risks associated with the use of third-party service providers, and funding, liquidity, and credit risks.
+
+Bowman noted that banks of all sizes face cyber risks and regulators can support cybersecurity at banks by providing resources to strengthen their “muscle memory” for dealing with such incidents. Key resources for cybersecurity are on the Federal Financial Institutions Examination Council website, in addition to cyber workshops held at various Reserve Banks. She said that risks associated with using third-party service providers bring new risk-management challenges and that bankers can leverage recent guidance for community bankers in this area. Further, she said, funding, liquidity, and credit risk are core risks that threaten banks’ operations, meaning that managing these risks is second nature to community banks. However, Bowman cautioned that “often, one of the greatest challenges facing a community bank is not about managing any particular risk but rather how to address all of the risks they face—and how to prioritize the approach to address each of those risks.”
+
+In contrast, she said, even bank supervision can be susceptible to diverting resources from core to non-core risks. Bowman noted existing community bank supervision is inherently built on asset size and complexity—and while these thresholds can sometimes be limiting, tailoring risk helps supervisors better allocate finite resources both for community banks and the regulators.
+
+Bowman ended her remarks by speaking directly to community bankers in the room, thanking them, and recognizing their important work in the U.S. economy. “The diversity of financial institutions is the greatest strength of our banking system,” she said.

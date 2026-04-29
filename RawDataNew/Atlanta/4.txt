@@ -1,0 +1,125 @@
+https://www.atlantafed.org/news/speeches/2024/04/12/bostic--housings-fundamental-role-in-economic-inclusion
+
+Housing's Fundamental Role in Economic Inclusion
+
+Raphael Bostic
+
+Confronting America's Housing Crisis: Solutions for the 21st Century, The Murphy Institute, Tulane University, New Orleans, Louisiana
+
+April 12, 2024
+
+Key Points
+
+Atlanta Fed president and CEO Raphael Bostic believes housing is so foundational to family well-being and security that one could argue it transcends economics.
+In his view, true economic inclusion requires income security and the ability to build wealth. Housing is fundamental to both and therefore essential to economic mobility and resilience and in turn economic inclusion.
+But, he says, the quest to making safe and affordable housing available faces urgent challenges.
+Bostic explains that nationally, a household that earns the median income must spend 41 percent of that just to own the median-priced home, a percentage that far exceeds the standard threshold for affordability, which is 30 percent.
+He points out that about half of all renters in the Atlanta Fed's district are struggling to pay rent. When renters are unable to pay rent, they are at risk of eviction—a deeply destabilizing event.
+Even as public sentiment appears to have solidified behind boosting production and affordability, survey findings show little evidence that actual policy has moved accordingly.
+Good afternoon. It's a pleasure to be here. I always enjoy visiting New Orleans. It's one of our country's most distinctive and colorful places. Thank you to Hoov, Dean Goes, Dean Alday, and all the organizers for inviting me.
+
+This conference is exploring one of the bedrock economic issues of our time. Housing is so foundational to family well-being and security that one could argue that it transcends economics.
+
+That's why I've devoted a great deal of my career to studying housing and the critical role it plays in economic inclusion and the development of cities. Indeed, for many years, a catchphrase that emerged from my time in the Obama Administration that I frequently used was "housing as a platform," meaning that people had better outcomes in other areas, like education and employment, when they were housed well.
+
+Unfortunately, on many fronts our capacity to provide the basic need for housing is not what it should be. So, I'm eager to discuss the urgent challenges we face in the quest to make available safe and affordable housing for as many of our fellow citizens as possible.
+
+Before I dive into my remarks, let me issue my standard disclaimer: I do not speak for anyone else at the Federal Reserve Bank of Atlanta or the Federal Reserve Board of Governors.
+
+Housing is central to economic inclusion
+
+Allow me to start with a word about why housing supply and affordability and broader economic inclusion matter to a monetary policymaker. Soon after I joined the Atlanta Fed in 2017, we adopted advancing economic mobility and resilience as a strategic focus. We did so because we view economic mobility and resilience as essential to an inclusive economy and especially to the pursuit of sustainable maximum employment, which is one side of the Fed's dual mandate, next to price stability.
+
+In our work on economic mobility and resilience, we try to understand and explain why some people and places prosper and rebound from shocks while others do not. In other words, we seek to identify those for whom the economy is not working, then understand the reasons why and what might be done to change the relevant conditions.
+
+A substantial literature and history tell us that a more inclusive economy—one in which more people maximize their human capital and secure a job earning a family-supporting income—is a more robust economy, and an economy in which monetary policy is more effective.
+
+In my view, true economic inclusion requires two core elements: income security and the ability to build wealth. Housing is fundamental to both and therefore essential to economic mobility and resilience and in turn economic inclusion.
+
+The centrality of home ownership to economic mobility and resilience is apparent both from positive and negative perspectives. On the positive side, mass home ownership following World War II, facilitated by the GI Bill and other programs, catalyzed an enduring American middle class.
+
+On the negative side, historic barriers to quality affordable housing are among the root causes of persistent economic disparities. The aforementioned GI Bill, for instance, effectively excluded nearly all Black veterans from its housing benefits, depriving countless families of the opportunity to plant the seeds of intergenerational wealth.
+
+In various ways, the effects of historic barriers still reverberate. Research from Atlanta Fed economist Kris Gerardi and coauthors, for example, examines disparities along racial lines in the ability to tap housing wealth via home equity lines of credit and refinancing. Nutshell version: Black and Latino home owners tap their accumulated equity much less than do White home owners. Kris and his colleagues found that the gaps are primarily but not wholly driven by differences in credit scores and debt-to-income ratios and other observable factors.
+
+If you want to know more about this, the paper is on the Philadelphia Fed's website, or you can talk to Kris. He's here with us and would be happy to talk with you.
+
+This work matters because the ability to access housing wealth is vital, especially since housing is the largest asset in most financial portfolios. Home owners tap housing equity for various reasons, including smoothing consumption amid income or employment shocks like losing a job. Thus, identifying gaps along racial lines in the ease of accessing housing equity and addressing their causes are critical to any policy discussion grounded in advancing economic mobility and resilience.
+
+Unfortunately, today, housing—both as shelter and an investment—is not working as well as it could for too many of our neighbors. In the generally thriving metropolitan centers of the Sunbelt, in the major cities of the coasts and the Midwest, and even in smaller towns and rural communities, housing is unaffordable for far too many.
+
+In describing the state of play, I'll call on our Bank's tools that track affordability: the Home Ownership Affordability Monitor and the Southeastern Rental Affordability Tracker.
+
+Let's start with home ownership.
+
+Like other data, our tools tell a pretty sobering story about affordability. Nationally, a household that earns the median income—roughly $75,000 a year—must spend 41 percent of that just to own the median-priced home, which would cost about $359,000. That percentage far exceeds the standard threshold for affordability, which is 30 percent. But you may be saying to yourself: this could be misleading if people and house prices are not distributed uniformly across geography. Instead, we should be looking at cities or metropolitan areas to make such an assessment.
+
+Fortunately, we are able to do just that for our six-state district in the Southeast. Let me cite a couple of examples that tell the general story.
+
+The Home Ownership Affordability Monitor shows that a household earning the median in the Atlanta metro area must spend 38 percent of its annual income to own the median-priced home in Atlanta—not affordable by definition, but better than the national situation.
+
+The Miami-Fort Lauderdale-West Palm Beach region is our District's most prohibitive for prospective homebuyers. There, a median-price home gobbles up 54 percent of the earnings of a median-income household.
+
+That's ownership. Housing affordability is also a challenge for renters. Our Rental Affordability Tracker describes conditions across the six states of the Sixth Federal Reserve district: Alabama, Florida, Georgia, Louisiana, Mississippi, and Tennessee. The affordability benchmark for renters is the same as for owners: anyone spending more than 30 percent of their income on rent is considered cost-burdened. Across our six states, the share of cost-burdened renters ranges from a low of 42 percent in Alabama to a high of 54 percent in Florida. This means that about half of all renters in our southeastern district are struggling to pay rent.
+
+Let's zoom in on the New Orleans-Metairie metro area. The affordability tracker tells us that more than half of renters—52 percent—are cost-burdened, and 31 percent are severely cost-burdened, meaning their rent payments consume more than half of household income.
+
+When renters are unable to pay rent, they are at risk of eviction—a deeply destabilizing event that can harm their ability to work, attend school, or find another place to live. A recent discussion paper by members of our Community and Economic Development team analyzed available eviction filing data and found that during the COVID-19 pandemic—when many renters experienced income shocks from lost work—renters in the Southeast experienced higher rates of eviction than renters across the country, even when eviction moratoria were in place. During this same period, data also show that state-administered emergency rental assistance dollars lagged in reaching renters in most of the states that make up our Bank's District, compared to other parts of the country.
+
+I've talked mainly about metropolitan areas. But rest assured that affordability is a concern in rural places as well. The issue takes on a different cast in rural areas. Median incomes are lower, and in many cases housing quality, even access to infrastructure such as sewage, are pressing concerns.
+
+Intriguing experiments in boosting housing supply
+
+You might not know it from my remarks so far, but I truly am an optimistic person. So, let me turn to more hopeful tidings.
+
+I'll set this up by reminding you that house price is a result of supply and demand. Demand questions are complex in their own right and involve issues touching on workforce development, education, financial literacy, and interest rates, among other factors. But from here, I'd like to make the point that we must think creatively about how to enhance supply.
+
+I'm happy to say numerous experiments aimed at boosting housing production are taking shape in localities and states, providing real-world laboratories that could yield a great deal of information.
+
+Start in our own District. The state of Florida in 2023 instituted a law intended to relax zoning restrictions to make it easier to build housing, including affordable housing. Both parties in the legislature collaborated to overwhelmingly approve the Live Local Act, as the law is called.
+
+Among other provisions, the law allows housing to be built in areas zoned for industrial and commercial use and relaxes building height restrictions. It is early yet, and we have not seen much in the way of results.
+
+But the measure has already sparked pushback from local governments, developers, community groups, and other quarters. In response, the state legislature has amended the law to address some concerns by, for example, tightening the original building height standards. Public feedback and fine tuning are part of the experimentation process, and despite the pushback, the Live Local Act could significantly affect housing supply in the nation's third most populous state. So, it bears watching.
+
+Further from home, the city of St. Paul, Minnesota, in 2023 overhauled its zoning code to promote housing density, accessibility, and affordability. In particular, the city eliminated zoning classifications that required the building of only detached single-family houses in designated areas.
+
+Interesting experiments are happening outside metropolitan centers as well. Public officials, social entrepreneurs, and others are working to expand housing in rural places. Some of you in the architecture school here at Tulane are probably familiar with the Auburn University College of Architecture's Rural Studio. Over the past 30 years, the studio has designed and built more than 200 projects, mostly homes, in an underserved rural county in west Alabama. I think it would be interesting to assess this long-running initiative to determine whether there are viable ways to scale it.
+
+A newer program from a Louisville-based nonprofit called Next Step Network is championing prefabricated and manufactured housing as a solution to supply constraints, particularly in rural communities. One of Next Step's first projects is underway in Virginia. A Next Step representative will speak on a panel in May at the Richmond Fed's Investing in Rural America conference.
+
+Other efforts are afoot that aim to make manufactured housing a more significant part of the answer to shortages. For example, Maryland's governor is backing a legislative package that, among other measures, would make it harder for cities to outright ban manufactured homes.
+
+To be sure, the locales I've cited feature cultural and political characteristics that might render the programs and proposals there ill-suited to other jurisdictions. Furthermore, potential solutions to boost housing supply often raise concerns, ranging from a stigma attached to traditional notions of manufactured housing to basic resistance to greater density.
+
+Still, I think we can learn a great deal from the experiments, both in terms of what housing actually gets built and what doesn't, and from the ongoing public debates over the various proposals and programs. Hopefully we can use those lessons to better inform efforts to balance the competing concerns that influence housing production and ultimately produce more housing.
+
+I should note that traditional market forces can also act to boost housing production. As in many places, construction in the Atlanta area has ramped up because of low inventories available for sale. Yet nearly all the production is tilted toward the higher end. Zonda Intelligence, which gathers home building data, calculates that more than 90 percent of new starts are homes priced at $300,000 and up, compared to 48 percent of new housing starts priced in this range before the pandemic.
+
+Zoning, permitting getting tougher?
+
+Many of the experiments I mentioned and others like them include provisions meant to ease regulatory and permitting burdens that tend to restrict production. But broader evidence on those conditions paints a complicated picture.
+
+You all are likely familiar with the Wharton Residential Land Use Regulatory Index, the only comprehensive national measure of the regulatory factors that influence home production. The researchers behind the survey recently updated the work, and their findings were fascinating. They demonstrate that in many localities land-use regulation has become more stringent over time, in contradiction to what numerous surveys suggest is an emerging public preference for regulation more favorable to housing production.
+
+A 2023 survey conducted for the Pew Charitable Trusts, to cite one measure, found that most Americans support a menu of zoning policies meant to enhance housing availability and affordability. Notably, nearly 90 percent of respondents said they would support measures to expedite permitting processes.
+
+Yet, even as public sentiment appears to have solidified behind boosting production and affordability, the updated Wharton survey finds little evidence that actual policy has moved accordingly.
+
+A quick exercise by Atlanta Fed researchers revealed a tight correlation between the restrictiveness of land use regulation at the county and metro area levels and the unaffordability of housing, based on our Bank's affordability monitor. Not surprisingly, perhaps, it appears that the tighter the regulatory environment, the costlier the housing market, broadly speaking.
+
+Complex puzzles with more questions than answers
+
+Now, I've covered a fair bit of ground. To synthesize, I think this material underscores the reality that our dearth of housing, and particularly of affordable housing, is a vexing, incredibly complex puzzle.
+
+Most of us say we want more housing yet, at the same time, we appear to be making it hard to get more housing.
+
+This might sound oversimplified, but what it comes down to in the end is the relative value we place on various public and private goods in our communities and how those values manifest in policy and regulations.
+
+I suspect you may be thinking I've raised more questions than I've offered answers. I won't disagree. As I noted, the affordable housing crisis and general scarcity of housing defy easy solutions.
+
+That's why conferences like this are so valuable. We need to follow the various experiments taking place, mine the research, and lift up the best thinking. In that spirit, I am looking forward to learning from the panels, papers, and informal conversations we'll enjoy over the coming days.
+
+As a former professor and kind-of-former researcher, I've participated in a lot of these convenings. And being an academic at heart means I like to assign homework. So, I ask you, as you learn from gatherings like this and as you conduct research, don't imprison your findings in scholarly journals. Take the steps necessary to ensure that laypeople and policymakers understand the knowledge you discover and can employ it to make a real impact and get us closer to solving these critically important puzzles.
+
+It will take all of us to ultimately assemble the pieces, but it can be done. Please join in the quest.

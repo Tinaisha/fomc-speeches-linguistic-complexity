@@ -1,0 +1,33 @@
+https://www.chicagofed.org/publications/speeches/2024/feb-14-council-on-foreign-relations
+
+02/14/24
+
+Council on Foreign Relations: C. Peter McColough Series on International Economics
+
+Austan Goolsbee
+
+the Council on Foreign Relations in New York City
+
+Nearly every serious reduction in very high inflation until now has come with a deep recession, in the United States and elsewhere. Yet in 2023, inflation according to the Price Index for Personal Consumption Expenditures (PCE) was down about 3 percentage points from a year earlier—one of the biggest drops in 50 years—with GDP growth remaining strong and the unemployment rate holding steady at well below 4 percent.
+
+As we enter 2024, a number of considerations are influencing my thinking about the economy and monetary policy:
+
+1. Over the past seven months core PCE inflation (which strips out volatile food and energy prices) has been running at the Federal Reserve’s 2 percent target or even below. Rate cuts should be tied to confidence in being on a path toward the target. I don’t support waiting until inflation on a 12-month basis has already achieved 2 percent to begin to cut rates.
+
+More data like we have seen in the past six months would indicate that path, but that’s probably too stringent. Even if inflation comes in a bit higher for a few months (as many forecasts suggest), it would still be consistent with our path back to target.
+Over the past six months the news on goods prices has been especially favorable and even inflation in PCE services not including housing has made good progress. But over the past few months the deceleration in housing services inflation has not been as fast as expected. That is at odds with market data on rents for new leases, so I expect improvements to resume. Still, that puzzle got bigger with the Consumer Price Index (CPI) data yesterday, and it is something I am watching.
+Given how variable monthly inflation is, it’s always important not to judge a trend from one month’s number. Progress is best measured in three-, six-, and 12-month increments. Remember, also, that the Fed’s 2 percent target is for PCE inflation, not CPI inflation. They can differ somewhat significantly in some important aspects, especially in regard to some of the components that have behaved strangely as of late, like housing and other services. So, we will need to see what those PCE data show.
+2. Our current policy stance is quite restrictive.
+
+The nominal federal funds rate is in the 5-1/4 to 5-1/2 percent range. Adjusting for market pricing for inflation over the next year, that translates into a real federal funds rate in the neighborhood of 3 percent. This is as high as it has been in decades and well above the long-run real rate of 0.5 percent laid out in the median Summary of Economic Projections (SEP). I think it’s worth acknowledging that if we stay this restrictive for too long, we will start having to worry about the employment side of the Fed’s mandate.
+3. Supply developments have been important for both inflation and output.
+
+Last year we experienced favorable supply developments after several years of negative supply shocks (mostly due to disruptions from Covid). Supply chain bottlenecks were largely resolved, and the labor supply was quite strong. These were positives for both growth and inflation in 2023.
+Even after the underlying adjustments are done, it can take some time for their effects to work their way through the economy. So supply may continue to help us in 2024.
+Productivity growth has rebounded in the past year at a rate much higher than we expected. If this continues, it would have profound implications for our policymaking, similar to the experience during the late 1990s when persistently strong productivity gains allowed for a period of faster growth and higher wages without generating higher inflation.
+It’s important to remember that in the presence of favorable supply movements and stronger productivity growth, strong output or employment growth numbers are not reliable indicators of an overheating economy.
+4. Inflation expectations have remained in check—evidence of the Fed’s credibility.
+
+Even when the rate of inflation hit 7 percent in 2022, long-run inflation expectations did not rise by much.
+The Federal Reserve promised to get inflation back down to target, and it backed up its words by increasing the federal funds rate over 500 basis points. And the markets believed the Fed. Economic research since the 1970s has shown how important central bank credibility is for fighting inflation.
+Inflation expectations are the natural place for inflation to settle out after supply adjustments have run their course rather than something higher. That’s part of why I have not agreed with the view that the last mile will be the hardest in the fight to get inflation back to target.

@@ -1,0 +1,467 @@
+https://www.chicagofed.org/events/2024/economic-outlook-symposium
+
+December 6, 2024
+
+38th Annual Economic Outlook Symposium
+
+Multiple
+
+Federal Reserve Bank of Chicago
+
+Economic Outlook Symposium Welcome Remarks
+RICK MATTOON: Good morning, everyone. I'd like to welcome you to today's program. My name is Rick Mattoon. I'm the Vice President for Regional Analysis and Engagement, and I'm also the Regional Executive at our Detroit branch of the Federal Reserve Bank of Chicago.
+
+It's my extreme honor to be able to welcome you all to the 38th Annual Economic Outlook Symposium. And I think Tom has told me that when we hit 40, everybody who attends will get a free set of steak knives. So I hope you'll be coming back. So we'll build that in.
+
+What's really great about this program, and one of the things why we like doing, is really our opportunity to thank so many of the people who are in this room and online who provide incredibly important contact information for us about conditions in their communities and their industries. This is really-- I can't emphasize how important this is in our FOMC process. It really helps us inform the policy-making that we're trying to do in monetary policy. The time that you spend sharing your insights with us is incredibly valuable to us as a bank, and we're really very much in your debt.
+
+Today, I think we have a really great program for you. It's a little bit of a mix of the old and the new. So part of the new part of this is what our first panel is going to look at, give you an opportunity to see what we see, which is bring together some people who are experts in their area, who have shared their information with us throughout the year, and give you an idea of just how valuable this kind of information is that we get on a regular basis. So it's an opportunity for you to understand exactly what we get out of these sorts of interactions.
+
+Part of the old part of the program is, we're going to have a fireside chat with our bank President, Austan Goolsbee. We did this last year. This was clearly a fan favorite. Austan is not only extremely illuminating, but he also can quite often be quite entertaining. So we're very happy that we're going to be able to offer that.
+
+After our short break, own Tom Wahlstrom will offer both the Consensus Outlook for 2025, as well as drum roll, please, the winners of the 2024 Forecasting Event. So that is always something we always look forward to. And then that's going to be followed by a deeper dive into two areas, which are historically very interest rate sensitive. As you can imagine, one of the things that we've been interested in this changing rate environment is how those parts of the economy operate. So we have experts in both manufacturing and real estate who are going to provide some perspective on what they see going on there.
+
+And then we're going to conclude at lunchtime with what's described somewhat in the panel in our program as a nebulous thing, which is an opportunity to hear from Chicago Fed experts. So one expert is Susan Longworth, who's going to talk to you a bit about some work we've done in child care. And then we have Dan Sullivan, one of our Executive Vice Presidents, who's going to talk to us about labor to a great extent. And I think those will both be great discussions.
+
+The last thing I want to say is, whenever we put on an event like this, one of the things I always realize is that it truly takes a village to put on this kind of event. And there's lots of people behind the scenes who make this happen. That's everybody from our public engagement staff that helps publicize this event, helps make sure we get connected with all the social media channels, all those sorts of things. We have an extraordinary events team, which does everything from managing all the relationships with our speakers, making sure the food's out there, all that kind of stuff. And they really do a terrific job and really deserve a lot of appreciation.
+
+And then of course, lastly, I really have to thank Tom Wahlstrom. Tom, I've had the honor of working with Tom for almost my entire career, basically, at the bank, although, Tom's significantly younger, so it hasn't been the same length of time for him. But Tom is the person who is responsible for the content of the program. And one of the things that Tom brings is a lot of creativity and a lot of thought.
+
+And many of you-- most of you probably in this room have had some interaction with Tom. You know how great he is at engaging people, how thoughtful he is in terms of the questions and the types of information he tries to elicit from people. And he's just really a tremendous asset for us here at the bank. So without further ado, please join me in welcoming Tom Wahlstrom to the stage.
+
+Economic Outlook Symposium Lunch with the Fed Experts II
+THOMAS WALSTRUM: OK, it's time for the next session, which is called Lunch with Chicago Fed Experts. And so we've got two of them for you today, which is great. And we have so many great people at the bank who do really great research. And it's a wealth of options for me. And I'm still quite happy with the people I picked, and I'm also happy that they said yes.
+
+So we're going to start with Susan. Susan is a policy advisor here at the bank in our community and economic development division. And this group, it's a really interesting group. They have a special-- I'm going to call it a special mandate. We have all kinds of mandates. The Fed, this is a special mandate from Congress through the Community Reinvestment Act to focus on understanding the needs of low and moderate income communities.
+
+And so one of the things that this group spearheaded-- and we joined them a little bit as well and helping out in the regional group and in other parts of the research department. One of the things this group did primarily this year is they did a special initiative called the Spotlight on Child Care in the Labor Market. And Susan's going to tell you all about. Susan was kind of the-- I don't know what title you'd want to give yourself Susan for-- air traffic controller for this project. I like that.
+
+And actually, as part of this initiative, I've advertised for our survey, the CFSEC, we actually did ask roundtable and CFSEC participants about their views on how child care is affecting them and their organization's operations. So we did that and wrote up an article on that. Susan and I did and colleague Martin.
+
+But we did a ton of other things. I think-- how many articles? 20, 25 articles that were written and events as well. It's really an amazing amount of work that was done. And so I'm here to-- this project is kind of wrapping up, and I'm delighted to have Susan come here and talk and share with you the key takeaways that we got out of this initiative. And so with that, why don't you come up, Susan?
+
+SUSAN LONGWORTH: All right. Thank you, Tom, and thank you to all of you who are sticking around through lunch. I hope that's going well. I'm Susan Longworth, as he said. I'm a policy advisor here in community development at the Federal Reserve. And I am going to move off of this picture that you see and start to move us forward.
+
+I'm going to be doing a presentation that's an overview of some of the work we've been doing exactly on what you see here, child care in the labor market and sharing some of the things that we have learned. Not a good Fed presentation until I throw out a couple disclaimers. You're lucky. A while ago, I did a presentation up in Green Bay and I had four disclaimers. This time you only get two.
+
+The first one is the standard one is that the views expressed here are not necessarily the views of the Federal Reserve Bank of Chicago or the Federal Reserve System. So we should all know that by now. The other one is more related to this specific presentation in that I have the honor, but also the daunting task of presenting the work of many of my colleagues.
+
+In fact, most of what I'm going to share with you is not my work at all. And so, as Tom alluded to, there were more than two dozen folks across community development, but also across research who contributed in some way through research, through policy work, through other outreach, and just good thinking to this effort. And so I have the responsibility, the honor, and it's something I'm approaching with a fair degree of humility, to try and present their work. And at the end, I will welcome your softball questions if you could. So I'll do my best.
+
+So first of all, as we get started, very quickly, I'm going to run through some framing slides. First of all, what is the spotlight on childcare and the labor market? That sentence you see in front of you, it's a targeted effort to understand ways in which the lack of access to childcare is a barrier to employment in the seventh district. That's from our web page. And if you go to chicagofed.org, you can see all the work that we've done on this topic is there and I invite you to explore that.
+
+I'm going to draw a line under a couple pieces of this sort of simple sentence. One of those pieces is barrier to employment. Obviously, childcare is a huge topic. There are many different facets and there are certainly folks who've devoted their entire careers to understanding the importance of childcare, to understanding the importance of early childhood education. For us, we took a focused approach and we focused this on child care that is necessary for parents and caregivers to get to work. And that was really where we focused our learnings.
+
+The other word I'll highlight here is targeted. We also recognize and we heard from many folks such as you that there's a huge spectrum of need for care across our economy, really expanding across the life cycle. For the purposes of this effort, we focused on those early years, that 0 to 3, maybe 0 to 4, where there really is no great public solution and parents and caregivers are left really to their own devices to figure out how they're going to navigate care for their youngest children.
+
+The other part to go over, and probably maybe it's in some of your minds, is why is the Fed interested in child care? Many of us are parents. I saw the show of hands earlier. But there are other reasons beyond that. And there are really two core reasons why we focused in on this topic.
+
+One, as many of you know because you participated in these conversations, is that we are constantly reaching out to industry leaders, business owners, and leaders of nonprofit organizations, community leaders, to understand how folks around our district are experiencing the economy. And these discussions are a primary source of information and real time data about how our communities are experiencing economic conditions. You heard it earlier from Austin. I also participate in these conversations. I can honestly say it's one of the most important and certainly one of the most rewarding aspects of my job is to hear how people are doing, how people are doing for their economic goals and financial goals.
+
+In any case, through these conversations, the challenges around accessing child care have been a hot button issue for a long time and in these conversations with our business and community contacts. And that was certainly a motivator for us in taking on this work. It's also a motivator, I think, for the invitation that I received to share this back with you.
+
+We love being able to hear from people, do some thinking, and then share all of that back. This is what we learned. Did we get it right? What surprises you? What else would you like to know? This constant sort of wheel of inquiry that we're on. And so child care being the example that I'm going to present to you today.
+
+So if you remember one thing from this is if you ask why is the Chicago Fed interested in child care, it's because you told us we should be. That's a pretty simple way of putting it.
+
+The other aspect of this is that, as Austin mentioned, we have a dual mandate here, and there's two parts to a dual mandate. One is to maintain price stability and the other one is to maintain maximum employment. In this case, specifically, child care has been cited as a barrier to working and hiring, and also as a barrier to a factor in how people engage with the labor force, how many hours they're able to work, whether they're able to work part time or full time.
+
+All of these nuances come into these decisions on the part of parents. And so anything that affects that maximum employment mandate is something we have a vested interest in understanding a little bit more about. We're going to lean into that and say how exactly is that affecting our ability to meet that aspect of our mandate.
+
+So I've said a few words about what this is. I'm going to say just one sentence about what this isn't. It was never our intention to solve this problem. We never showed up and said, we're from the Fed. We're going to solve child care. It was an intent to listen, to learn, to share, hopefully literally shed a spotlight on the topic. Sometimes it's helpful if the Fed can put a bright light on something. But it was really an effort to collectively understand how this issue was affecting our district.
+
+So touching quickly on what we've learned. None of this is going to surprise you. I don't think there are going to be any big moments throughout my presentation. In fact, when I present this work to a more sort of child care focused audience, I often call these affirmations. That when they see these things, they nod their heads and they say, yeah, that aligns with my experience. That's something that makes sense to me.
+
+So I'm going to tick through these, and then these four themes are going to frame some of the data and other things I share going forward over the next few slides. So thing one is that caring for young children impacts working and hiring. No surprise here. We've been hearing this from employers. We've been hearing it from community groups that work in placing people. But it's a bit complicated and there are nuances to this. And so we'll get into some of that around the data I'll be sharing.
+
+The next one is that finding childcare at the right time and the right places at an affordable price is an ongoing challenge for working parents. And we'll see how that shows up. There are a couple aspects to that that are kind of unique to our seventh district Midwestern footprint. One of those is how this shows up for shift workers and folks with irregular, unusual schedules. The other one is, as you know, we have vast rural geographies. And so access and accessing child care across larger spaces is often a challenge for many families.
+
+The next one is the child care supplies impacted by the conditions of the child care workforce. This is consistently mentioned. The challenges of the childcare business model is also consistently mentioned. And I'll dig into some data that really shows who the child care workforce is and what the conditions are that they're working under.
+
+And finally, because we don't have a national child care policy, policy responses and practice responses are often quite fragmented and show up at the state and community levels. And it was really wonderful to hear about so many innovative and exciting things that were happening across our communities as part of our outreach around this topic. And so I'll look forward to just touching on just a few of those.
+
+So we're going to get into some of the data. I'm not an economist. And again, this is not my work, but I'm going to do my best. And so hopefully and give you some big takeaways from these numbers.
+
+So first of all, some context around this. There are about 60 million adults in the United States between the ages of 25 and 54, so those prime working age years, with at least one child under 18 at home. And roughly 80% of these parents are also in the labor force. So either employed or actively seeking employment. And they represent about 30% of the total US labor force.
+
+So the takeaway from that is that most parents are working, are in the labor force. This is an issue that they experience on a daily basis. And they are also an important part of the labor force. So if our parents are struggling, that has implications throughout the working population.
+
+So actually this first slide looks at people outside of the labor force. So they are either not working and not looking for work. It reflects work done by my colleagues, Mark O'Dell and Brianna Smith. And it shows that the share of parents reporting child care is the main reason for not seeking work has increased through the pandemic.
+
+And you see these in these bars here. The blue bars are the pre-pandemic, red bar is peak pandemic, and green bar is post-pandemic. And specifically, I'll point your attention to the second grouping there, which are mothers with children under five at home. And so you can see that that weighs heavily on them.
+
+This pattern also holds true for parents when they're asked about the main reason for missing work and also the main reason why they are only working part time but would like full time work is that childcare is a barrier to them being able to address that issue.
+
+So all of this, and this is something we'll look a little bit more at in the next slide, child care problems have a relatively large impact on employed parents' ability to choose full time work rather than part time work, as well as for working parents who cite childcare as a reason they have missed work. And so it's interesting to think about the magnitude of this issue.
+
+And our authors found that without child care problems, total hours worked by parents could increase by about 1% and almost 4% for mothers of young children. And that 80% of that increase would result if you could solve this part time, full time tension and could address issues around having to miss work because of child care. So when we think about some of the earlier conversations we've had today around flexibility, around accommodations, that kind of starts to come into focus and starts to sound real.
+
+So let's look now at folks in the labor force and specifically women in the labor force. And so these two slides, again, get to that first theme of caring for young children impacts working and hiring. And specifically, one thing we can note here is that the labor force participation for women is higher than it was prior to the pandemic.
+
+And most strikingly, it's young women with young children. It's women with young children at home, that is, those most in need of childcare, who have experienced the largest increases in labor force participation. And among these women with young children, college educated women are the ones increasing their labor force participation the most. And so, of course, work from home trends and some of the flexibility we've been hearing about may play a role in this increase in labor force participation.
+
+In addition to increases in labor force participation, we are also seeing an increase in the number of hours worked amongst young women with young kids. And so this leaves us with some sort of outstanding questions and how is this working. How are these women who have young children at home, how are they able to not only increase labor force participation, but also increase the number of hours they're working?
+
+And so a possible few solutions are is it hybrid work? Is it all of these changes that have come since the pandemic? Is this sort of giving folks this flexibility? We don't really have the data to dig into that, but that's an outstanding question. Is it increased child care coming from men and grandparents or other relatives? And we'll see some of this in subsequent slides. So are there other sources of support? Or is this simply putting a lot of increased pressure on existing childcare resources? Which would be interesting, given that the 0 to 4 population is declining. So what is the dynamic between those two factors? And the answer is we don't quite know. But the data is certainly pointing us in some interesting directions.
+
+One of those directions we head off in is that these questions of how and where parents are accessing child care brings us to our second theme. And that is that finding child care at the right time and the right places at an affordable price is an ongoing challenge for working parents. Again, there's no big aha moments. We're all having moments of just remembering those days when this was a daily challenge.
+
+So this slide, very straightforward here, highlights that child care facilities or care for relatives are the two most common sources, the two most common places that parents turn to when they need child care. So child care facilities being a daycare center, relatives being your grandparents or another person that is in your family.
+
+As in many things, the details, the devil is in the fine print here. And so one thing that I would call out for you is that if you're doing the math here in between your bites of sandwiches, you'll see these bars don't add up to 100%. And that is because 28% of households use more than one type of child care during any given week.
+
+And certainly when I was a parent of young children, we used three types and that worked for us. That was fine. So I want to be clear that there is no judgment in this. There is no right or wrong way to solve this problem. It's simply that often it takes multiple sources of child care for parents to work things out.
+
+The other thing that I would point is the bar here on the far right, which is that category of none is at 19%. So almost 1 in 5, 20% of folks say that at some point during the week, they have no child care.
+
+So let's dig into these numbers a little bit more. And so this is child care sources by household income. And it obviously varies depending on where you are on the income spectrum. And so the lowest incomes, those are families with incomes under 50,000. Those are the blue bars. And the higher incomes are the gray and orange bars if you want to look across those.
+
+The key takeaways that I would leave you with is that the households with the lowest incomes have the highest shares of none and relative care and low shares of non-relative, that would probably be nannies and other paid sources of care, and facility based care, which again, are the daycare centers. In addition, the lowest income category is the only group with non-trivial Head Start participation, which makes sense, because that is an income targeted program.
+
+So the thing that struck me about this, like I said, I'm not an economist. I was an English major, so you can feel my pain right now. But when I look at this data, I think about the people behind these numbers. And so low income families, as you see here, are relying on what are often free sources of care, a relative, or none. So none, I would point out, for the lowest income are 38% of respondents said that at some point during the week they had no child care, compared to 8% for those of folks in the higher income brackets.
+
+And within relative care, which here is at 29% for families with incomes lower than 50,000, we often think of this as being grandparents. But I would also recall, this is something that's been brought forward to me in terms of conversations with child care professionals, these can also be siblings. And so both of those cases, I always consider the impact of providing unpaid child care on the working and learning goals of these family members and what that means. So I just leave that as a thought.
+
+We've talked about paid care. And here we're getting into-- this is a bit of a complicated slide. There's a lot going on. The table at the top provides some detail into the share of folks who are not paying for child care. And again, this is for the seventh district. But for most of these slides, for all of these slides, the distribution across the country is much the same. So if we were to pull in from other states, you would see similar trends.
+
+And so you see overall 41% of respondents. And here this is the Household Pulse Survey. And so the respondent is a working female with only one child, 0 to 4 at home using one type of child care in the prior week. And overall, they say that 41% of respondents said they don't pay for child care. And so that, again, sort of gives you a thought about how do you do that. How does that work?
+
+Head Start, obviously makes sense as a significant source, is a resource where parents who are not paying for child care often avail themselves of Head Start. But again, I'll point to that next line, which is relative care and that 81% of folks who say they use relative care say they also don't pay for it. And so again, that's an important source of care. But it's also you think about the other dynamics on the person providing that care.
+
+If you look at the folks who are paying for child care, the average weekly cost in the seventh district is $267. And before we get too excited about what a great deal that is, because the US average is 325 and in Chicago we're looking at almost $400, any way you slice and dice it, you're talking about $15,000 to $20,000 a year for child care.
+
+And so that's a significant burden. It certainly makes sense that the amount paid increases as a household income goes up. But we also need to keep in mind that these are young parents. They're often at the early stages of their earning careers. And so this can be a significant portion of their household budget.
+
+One thing I haven't said a lot about at this point is the aspect of this theme of finding child care in the right time and the right place at an affordable price. I haven't gotten into the part of finding child care in the right places much. Some colleagues, Dan Hartley, Tori Healy, Bhash Mazumder, and Jung Sakong looked at geolocation data, which uses anonymized cell phone tracking to assess distance traveled to childcare centers.
+
+It's pretty complex stuff. It's super interesting. But it's exactly the kind of thing where I would get out of my depth pretty quickly. But if you're interested in learning more, we're happy to make that connection. It also points to the importance of identifying new data sources to help us parse apart the supply and demand complex questions that surface around child care.
+
+So it's pretty clear from looking at the costs of child care and having this description of how parents are piecing things together for themselves that parents are pretty tapped out on affordability. However, the condition of child care businesses, and these are businesses, these are small businesses. And I'll describe some of those characteristics in a moment. Their conditions are pretty precarious.
+
+And in talking to providers, and we've also done a little work on this as well, most of these businesses operate sort of on a really, really narrow margin. So 1% or less. So one family leaving is going to tip them one way or the other. A new regulation is going to tip them one way or the other. And as with many small businesses, salaries are the largest budget item. And so this tends to have a significant impact on the wages of child care workers.
+
+So we're going to spend the next few slides exploring our third theme, which is the child care supply is impacted by the condition of the child care workforce. And so we're really looking at understanding the paid child care workforce. Here we thought a little bit about unpaid, and now we're going to talk about paid.
+
+So this slide shows the overall condition of the child care workforce. And the headline here is that child care employment is still 9% below pre-pandemic levels and has simply not recovered in the way the rest of the workforce has. So that orange line is all workers. The blue line is child care workers. Immediately at the onset of the pandemic, the child care workforce fell to about 70%. So there was a huge dip. And it simply hasn't recovered in the same way that other industries have. And so when we think about those earlier slides of mothers working more and working more hours, we sort of have to ask ourselves again, how is this all adding up?
+
+So let's think about who the childcare workers are and where they work. And so, again, all workers here are the orange bars. Child care workers are the blue bars. They are overwhelmingly female, more likely to be Hispanic, more likely to be Black, and also have lower levels of educational attainment.
+
+And when we think about where they do work, and that's not on this slide, the vast majority of child care workers work in small establishments. There's about 80,000 child daycare establishments across the country, and 84% of workers work at establishments with fewer than 50 employees. And that's compared to about 44% of workers who work at establishments that small across the economy as a whole.
+
+And so I know there are folks here who work with small businesses, and you can easily think about the challenges that that creates for not only workers, but also the owners of those businesses. Owners of those businesses are also often themselves female. And certainly we hear a lot about how small businesses should be wealth creators and asset builders. And you think about how you're actually going to be able to do that working under such constraints.
+
+One of the ways in which these constraints really show up is when we talk about child care workers. I think we all as parents, if you had your kids in a daycare center, you remember that one worker who was so important to your child. We had Miss Coco. And Miss Coco gave out the best hugs, but she also was a teacher. And I don't know what we would have done if she'd left. We would have survived, but there's this moment of tailspin.
+
+And so when you think about the importance of these workers to early childhood education, to the development of our next generation of workers, and then you look at the wages here, it's quite striking that child care workers, their wages are on par with cashiers, with waitstaff, with housekeepers, with retail sales persons, and certainly much lower than the median wages across all occupations.
+
+The other narrative that has been pervasive over the years sort of through and post-pandemic is that low wage workers have seen increases in their wages. And certainly that has been true, but to varying degrees. And so this chart breaks this down for us a little bit on the far right. The wait staff have seen increases of a little bit over 17%. Child care workers have not seen those same benefits. They've seen their wages increase by 5.5%.
+
+I like to put this stuff in real terms. And so if you correspond that to an inflation adjusted wage, that comes out to an increase of $0.76 an hour. And certainly while it may be higher than what we've seen across all occupations, that remains a significant challenge when you think about the conditions of child care workers.
+
+And so not surprisingly, it's a sector that sees a great deal of turnover. If you stacked these bars and added them all up, they would come up to about between 12% and 13%. Trust me, I did it. That was the extent of my math skills on this. And that's the level of turnover that you see in this sector every month. About 13% of child care workers leave the occupation each month.
+
+This is on par with what you would see across low wage workers. There's this churn of people going for an extra quarter or maybe they're able to work closer to home and save on gas, as we heard earlier from Megan, or something like that. So that's typical.
+
+There's a couple of things that stand out to me in this chart here. One is that the middle bar, the green bar, is those child care workers who exit the labor force. Some of these are folks who perhaps have small children themselves and just decide it makes more sense to care for them at home, and they do that. But that's concerning is to see that segment of workers, and again, it's sort of an essential high value role exit the labor force altogether.
+
+The red bar is folks who stay and transition to another employment, another job. We would like to think that perhaps they move along and move up the educational career pathway. They move to better jobs. And in that regard, actually about 1/4 of them do that. The most folks who leave the child care sector transition to other low wage jobs.
+
+So I'm moving to our final theme, and that is that policy responses are fragmented and solutions emerge at the local and community level. And these are all pieces that appear in our childcare and the labor force, labor market spotlight web page. So if you want to learn more, dig in and learn more about this stuff, it's all there.
+
+A couple of things that I'll call your attention to is work, again, around this dynamic of shift workers, including looking at a pilot program for women in the trades coming out of Milwaukee. We also had an interesting interview with a leader of a CDFI that's doing work around financing childcare facilities. And he was quick to remind us that this is something they've been doing for three decades. So this is not a new topic. So there's a lot of knowledge there about how to do this. I didn't talk much about facilities, but it's certainly part of this dynamic of where this work happens is also equally important to how and the who and all of this.
+
+We also did some case study profiles of Iowa communities, the Cedar Valley, which is a community level collaboration between a hospital, local philanthropy, and a child care network, and how they're going to be able to add more than 100 spots for child care to that community. I had the honor of attending their groundbreaking in 97 degree heat back in August.
+
+I ran into one of their leaders just this past week in DC, and she told me that they're at the drywall stage. They're picking out paint and furniture and all the fun stuff that goes with the little tables and everything like that. So it's nice to know that by summer they're going to be able to bring that resource to their communities.
+
+And then we also did a session back in July, the Fed Listens, where many of the folks who have helped us inform these pieces, we brought them together and had them talk about their work and talk amongst themselves. And it was just a really powerful opportunity to let people who do this every day, who are the experts, talk about what they need and what they're learning and what their outlook is. So that's online still, and if you're interested in looking at that.
+
+So our key takeaways here. Again, no huge surprises, but just things I want to put a finer point on. Many report child care access as a potential barrier to working. And we have these outstanding questions about female labor force participation, putting upward pressure on demand. And how is the sector able to respond to that? Exactly what is happening to absorb those additional workers and those additional hours?
+
+The majority of families use childcare facilities and/or relatives for care. And this was obviously very dependent on family income levels. I will also call out just that also that other segment that cites none or also that isn't able to pay for care. And so what is the dynamic that gets introduced there?
+
+The childcare labor market was hard hit during the pandemic and hasn't fully recovered. Child care is a labor intensive sector. There are no robots, there's no AI for child care. And so it's really hard to increase supply without more workers. And honestly, we don't want anybody cutting any corners when it comes to our youngest babies.
+
+And child care wages have grown more slowly than for other low wage service sector jobs. Low wages leads to high transmission rates, as we saw out of the industry. And so one of the ongoing challenges is balancing affordability and sustainable wages for these workers. How exactly is that going to happen and what's it going to take?
+
+And then finally, just stressing again that communities and states continue to innovate policy and practice solutions. We saw some of it. We didn't see all of them. But it's always exciting to hear about how communities are addressing this. One constant across all of the examples that we were able to come forward with is that in some way, the solutions were grounded in a need for economic growth. And so business owners were coming to the table, the industry was coming to the table, the chamber was coming to the table and saying, hey, if we want to meet our growth goals for our region, we need to solve this problem for the parents in our community who want to work.
+
+So I will stop there. And I know Tom might have a couple questions if we have time. And I know they're the easy ones. So bring it on.
+
+THOMAS WALSTRUM: Great. Thanks, Susan.
+
+So I'm going to take one question actually that I'm going to answer, because I have a computer in front of me where I could look this up. It's is the labor force participation rate for women aged 25 to 54 the highest it has ever been? How does this current rate compare with the rate over the 20th century?
+
+And the answer is yes. We are at the highest percentage rate right now at 78.2. And we've been up in the 70s since the late '80s. And then before that, the data goes back to 1948. In 1948, it was 33%. So it's steadily rising.
+
+We're at 78.2% now. So I'm going to check that question off.
+
+SUSAN LONGWORTH: Thank you. File that under what did you learn today.
+
+THOMAS WALSTRUM: OK, great. So we've got a couple other upvoted ones. I'm going to pick the one that's most fun, which is-- or actually we've got a couple fun ones, but we'll go with the ones upvoted. In your analysis, did you hear any inspirational stories, specific examples of things working well? And then, well, and there's a follow up question, but let's start with that.
+
+SUSAN LONGWORTH: Sure. That is the fun one. And so, yes, we did. And I think the exciting thing that came out of this was the collaborations that came together around this. Again, I mentioned the business community coming together, the chamber. I had the opportunity to present at an event up in Green Bay and it was led by the Green Bay chamber. This is something to which they're devoting a lot of resources.
+
+It takes a lot. It literally takes a village. And so local philanthropy is at the table. The major employers are at the table. The community, the child care resource and referral networks are at the table. And so it's sort of everybody's in the pool and everybody is sort of aligned around that if we want to meet our economic goals, this is a piece that needs to be solved for it's a very complicated problem. And this is the piece of the thread that you need to pull on.
+
+The one thing that I will mention that has been stressed to us over and over again is that this is a long road. And so for most communities, this is not a new issue. And again, I'll use the example of the community we spoke with in Cedar Valley, Iowa. So that's the Waterloo area.
+
+This is a topic they've been working on, I think, since 2017, if not even earlier. And so there's a runway of more than five years, maybe 10 years to really figure this out. And so it is a long term commitment. And I think it's also, if I draw inspiration from that, I think it speaks to the tenacity of these communities to create the best sort of future and outcomes for themselves.
+
+THOMAS WALSTRUM: Great. So I think I will ask the follow up. I guess, maybe if you want to share a favorite model of collaboration that came out of-- that you--
+
+SUSAN LONGWORTH: I can't do that.
+
+THOMAS WALSTRUM: OK. Fair enough.
+
+SUSAN LONGWORTH: I mean, I think I would reiterate what I said, and I think it's also, I had the opportunity to go to this groundbreaking. And I'm picking on my friends in Waterloo and the Cedar Valley. And listen, the parents were there, the grandparents were there. They were out there. The toddlers had their little hard hats and their little shovels and everything like that. And so, again, it takes a full community commitment.
+
+There's an enormous amount of pro bono support that comes from architects, obviously the community leadership. The mayor was there. This is something that transcends-- he said this is something that when he came into office was already underway. And so it transcends electoral cycles. So I think those are events, the examples that are really meaningful.
+
+And I would say that's not an isolated example. So this occurs. We have another example on the website from Northeast Wisconsin, very similar with a manufacturer. So these similar characteristics of really broad and deep collaborations.
+
+THOMAS WALSTRUM: OK. I think we've got time for one more. And I guess we'll make it another fun one. Let's see here. What most surprised you from doing this work?
+
+SUSAN LONGWORTH: There were several things that surprised me. I think really understanding the conditions of the child care workforce. And one thing, if I had sort of my magic wand of what I would like to continue working on, it's really understanding that the child care business model. And these are small businesses and how they can work better for the workers and the owners. And so I think that was the part where I just hadn't thought about that a lot. And so learning about those different characteristics, some of the challenges.
+
+There's also a lot of really, really interesting work going on around how to improve not only the wages. There's a lot of wage studies going on about how you can increase the salaries of these workers but also create viable career pathways. So this becomes a career of choice and it's something that folks can commit to in a sustainable way.
+
+THOMAS WALSTRUM: All right, beautiful. All right. So, everyone, let's give Susan round of applause. Thanks.
+
+Economic Outlook Symposium Lunch with the Fed Experts I
+SPEAKER: OK. We're going to force your lunch hour to go into the 1 o'clock hour here. And we're going to wrap it up with Dan Sullivan, who is going to be talking to us about the labor market. So I mean, we've already talked a lot about it, but I think it's an evergreen topic that we care a lot about at the Fed and that everyone who is in the room I'm sure cares a lot about.
+
+So Dan is an executive vice president here at the bank, and he leads our Economic Mobility Project, which is a really cool project that has a lot of fascinating seminars that they put on that most of them are viewable online so that you can watch them from anywhere and learn a lot of great stuff. So definitely go look up the Economic Mobility Project if you can.
+
+And he was also director of research for a number of years here at the bank. And so I'm just going to stop there and say, Dan, thanks for coming and for being our second great Fed expert and looking forward to hearing about the labor market.
+
+DANIEL SULLIVAN: Thank you. It's cool to be called an expert on the labor market. Almost everybody here is probably working. So they all have a lot of expertise in the room.
+
+And so I'm probably an expert in how the Fed thinks about measuring the labor market. I'll claim that at least. But we're very interested in getting other people's perspectives. And that's why sessions like this are really valuable.
+
+So disclaimer, it's the usual one. I work for the Fed. I'm not Austin. I'm not Jay Powell or anybody else but myself. And so if I say something crazy, it's probably because I'm the crazy one not anyone else.
+
+So these are definitely very interesting times for thinking about the labor market. I would say the overall characterization is that things are quite healthy, but things actually have softened. So there's different perspectives. Some people think that the economy's been running wild and the Fed raised interest rates. And it didn't do anything.
+
+I want to say that's not right. I think that there's a measure of softness that's emerged, at least relative to the very strong labor market we had, say, 2 or 2 and 1/2 years ago. But it's kind of changed in an unusual way, not by the unemployment rate going up so much, but by job openings at employers dropping.
+
+And then another factor people are looking at is wages. And, obviously, that gets LinkedIn various times to inflation. We've made great progress in getting close to our inflation target, but we're not quite there. And some people kind of worry that maybe wage growth is the issue.
+
+And, in fact, wages, I'm going to show you, is still growing faster than would be consistent with 2% inflation. But I don't actually think that's the thing that's holding us back on our inflation mandate. And I kind of expect that once the inflation gets fixed, the wages are going to affirm that afterwards.
+
+And then, of course, we all follow the labor market. And usually, the data that came out this morning, the one that grabs the bond market the most-- of all the statistics that come out every month, the one that moves the bond market the most is nonfarm payroll employment.
+
+So I want to start by talking about what's going on with that, which I think has actually been confusing and actually hard to interpret and is going to become even harder to interpret as we go forward. So I'm going to suggest that maybe we should pay slightly less attention to this really key statistic and maybe a little bit more attention to some other things.
+
+So there's the data on nonfarm payrolls. The data this morning for November, big number. What was it? 227 I think was the exact number. This is a funny series where they give you way more decimal places than BLS is usually comfortable doing.
+
+What you see is the really big numbers back in 2021 at 600,000 and 800,000 in certain months. And the red line shows a moving average, the last three months. And you can see it's come down quite a bit. Although the very most recent thing, it ticked up a little bit.
+
+But the topic I kind of want to talk about is are these numbers good? What is a good number for nonfarm payrolls? And if you asked me that before the pandemic, I would say 90,000 is a good number. And that's like what that trend gold line there is at the bottom. And that's based on how many jobs do we need to deal with the new workers that are coming into the economy, people entering, some people leaving.
+
+But on net, there's been more people entering. And so we need some jobs to absorb them and keep the unemployment rate the same. So before the pandemic, you could argue whether it's 90 or 100 or 80 or something like that, but there's pretty much agreement that some number-- 100 are a little bit less is probably where we would be.
+
+Things have changed. And the big thing that's changed has been immigration. And so it's complicated. I was going to talk a detail about that, but I'm probably just going to give you my kind of bottom line take is that probably if you look at immigration, the standards for what's normal, how many workers we need to absorb to keep the unemployment rate constant, have gone up a lot.
+
+For 18 months, from 2023 until the middle of 2024, I would say it probably took about 200,000, twice as many jobs to keep up with the growth in the labor force. Halfway through this year, it's kind of come down a touch. There's been some changes in policy, and that sort of slowed things down. But it's still elevated, especially given there's probably some lags in terms of how these things work.
+
+So by that measure, the red line, the sort of average, is actually not very different than the benchmark for what we would need to keep the unemployment rate constant. So that would say we're like doing average. But, actually, I think that's actually not quite the full story.
+
+It's often not quite the full story because the numbers, the nonfarm payroll numbers, while they are great numbers, they're based on survey. Actually, they're based on survey plus modeling. And there's good reason to believe that the survey has probably, over the last year and a half or so, been too optimistic.
+
+Getting into the details of this, the unemployment insurance system collects from employers how many workers do you really have, so it's kind of like a census. And so those numbers come out with fairly long lag. But there's pretty good evidence that they're going to show that the numbers over this period from March 2023 to March '24 were too high by probably 50 or 60,000 a month.
+
+So I think we had to drop all those blue bars down by a little bit. And then this is, by the way, a bigger than-there's always a revision. And this happens all the time. But usually, the revisions are 0.1% or something like that. Whereas this time, it's going to be like probably 0.5% or 0.6%.
+
+So it's a bigger than normal revision. And when bigger than normal revisions happen, what typically happens is the data afterwards also are probably running too high. So if you make that assumption, then probably the right numbers are the blue bars in this graph.
+
+And if you look at that, well, then probably we actually have not been generating enough new jobs to keep up with the growth and the very rapid growth of the labor force that's been largely due to immigration. So probably, that's consistent with the fact that the unemployment rate has actually gone up a little bit over this time period.
+
+So that's my take. This is a really important statistic, but it's a little bit hard to interpret right now. And it's going to get really hard to interpret given that policy on immigration-- I don't know what it's going to be. But it's likely to change in a very big way, in a way that's going to dramatically lower the benchmark for what it takes to stay with the unemployment rate.
+
+So there, in fact, is the unemployment rate. It's still kind of low, 4.2%. And the red line is the Congressional Budget Office's guess of what the natural rate of unemployment would be, what the economy should be sort of delivering. And it's basically right there, just a touch below.
+
+So my personal view is probably a little more optimistic. I actually think that-- if I was going to draw a red line but had Dan's name on it rather than the CBO's name on it, I would basically say probably it's half a percentage point lower than that even. But that's my particular take.
+
+But still, historically, these are quite good numbers. But it has moved up, which is an indication that probably the tight monetary policy that we had over the last year and a half or two years has probably had some effects and slowed things down.
+
+And in fact, there's this interesting thing. Claudia Sahm used to work at the Fed, knew her a little bit. She has became famous for this, what she called the Sahm rule, which is-- it goes back to actually another similar idea that-- I had a colleague, Lou Siegel, back in the old days, who there was something called Okun's Law. He had what he called Siegel's law, which was if the unemployment rate is not falling, it's rising. And first reaction is, well, no.
+
+But the point of that is it's hardly ever do you see the unemployment rate kind of constant. It's like it's either going up or it's going down. We've actually been in a period where it's been fairly flat. And what Claudia noted is that you hardly ever see-- whenever you have a half a percentage point increase in the unemployment rate, you usually get a big increase in the unemployment rate. So this is plotting that kind of like-- it's slightly complicated, the three-month average minus the lowest point in the previous 12 months.
+
+And so, usually, when that gets to 0.5, it's kind of shot up into recessions. And her idea was when you see that happen, you ought to be a little cautious. You ought to think about changing fiscal policy, et cetera, et cetera. So we've basically been sort of flirting with that view right now. People view that as being on the edge of potentially things.
+
+But of course, there's lots of reasons to think that this time is different and, in fact, that things are probably stronger than this would indicate. But at least, it's a little bit of a worry. So that unemployment rate only went up a little bit. But the thing which is changed in a more dramatic way is the level of job openings.
+
+If you ask workers do you need a job, that's what the unemployment rate is. When you ask firms, do you need some workers, this is what this job openings rate is. And it doesn't have a super long history in the US. It only goes back to about 2001.
+
+But you can see that, shortly after the period right after the pandemic, it got really high, 7.5% by far the highest level that's ever had. And it's come down pretty dramatically. Some would say it's only down to just before the pandemic, when we thought of the labor market as being quite hot.
+
+I actually have a slightly different perspective on this, which is that I think this thing has got a trend. With the unemployment rate, We talk a lot about the natural rate. I had that red line in the graph of the unemployment rate. People don't talk so much about this, but I actually think it's got an upward trend.
+
+And in fact, if you compared, say, a period in 2005 with a period in 2016 that were kind of similar in most respects, the job openings rate is quite a bit higher in that latter period. And if you extrapolated that-- this is a very loose thing-- you would see that basically we would be expecting to see higher job openings. And what could be driving that? The cost of putting a vacancy out there is dropped over time.
+
+There's a lot of strategizing about this. And especially when the labor market got tight and it got hard to find workers, lots of firms were basically saying, hey, let's go put the job openings out because somebody's probably going to quit, even if they don't have openings at the moment. So there's, I think, a lot of reasons to think that the job openings may be-- the high number is probably exaggerated, the tightness. But you don't want to ignore the fact that they actually have come down a large amount.
+
+So this is-- I don't want to go too long on this. But it was very unusual to have this small change in the unemployment rate versus a big change in the openings rate. So this is the so-called Beveridge curve, from a British economist from the old days, who did it with British data a long time ago. But this is the data before the pandemic.
+
+And what you normally see is-- this a scatter plot, instead of a time series plot-- is you normally see-- in good times, the unemployment rate is low, and the job openings rate is high. Bad times-- the opposite. You move this upward, diagonal version.
+
+And in fact, maybe if you look at that very right edge of the graph, where the unemployment rate got close to 10%, you saw it shift out, actually. And that was actually a big deal at the time. That led a lot of people to think we had a rise in structural unemployment. And there was lots of fights between people within the Fed, and across the Fed, et cetera, et cetera about that small change, where the curve shifted. But it eventually went back up into the left, in a way you might have expected, given the natural-- the typical correlation between these things.
+
+Well, what happened when the pandemic came along was something quite dramatic. Not a small shift, like happened in 2009 or '09 and '10, but a huge shift. And then we slid back the same way. But it's much more-farther from the origin rates of unemployment and vacancies, until we got to March of '22, when the vacancy rate peaked and then started to come down.
+
+And what happened is it came down almost vertically, which was very surprising to a lot of people. And I have a few thoughts on what was probably going on there. But normally, you would have expected more of a diagonal shift here, but it was basically close to straight down.
+
+What's going on with that? A couple of things. People often mention the fact that workers were in such short supply for a long period of time that firms were quite unwilling to let them go. So they're not going to lay people off, but they don't really need as many. And maybe they'd also been saying they had some vacancies, but didn't really mean it because they were expecting people to quit.
+
+And in fact, the quit rate is, I think, a probably, important interpretive way of interpreting this. The quit rate dropped dramatically starting about that time as well. So the quit rate also had this huge increase. People were calling it the Great Resignation. But it's not really quitting work. It was basically quitting your crappy job and trying to get a better job, was probably the most typical kind of thing.
+
+So when people were quitting like crazy, there were lots of openings and firms needed to fill them. Once people got over that and the quit rate started to drop, then we had that-- I think that's a reason why the Beveridge curve was able to shift back in and get close to where we used to be, without very much increase in unemployment.
+
+But things have things have definitely gotten worse. And one way to view it is through-- how easy is it for an unemployed worker to find a job? And in fact, there's several ways of measuring that. Here's one way I kind of like, which is-- take all the people who are unemployed in one month, and ask what fraction of those people are employed the next month.
+
+So when things were great, that was, like, 30% of unemployed people had a job the following month. But that's now dropped to 25%. Actually, the moving average of that has dropped to 25%. So one more-- a number that surprised me a lot this morning is this number for November really dropped quite sharply. And it's kind of bouncy. So I'm not taking too much signal from that. But that's a big change. So if still relatively few people are unemployed. But when they become unemployed it's a bigger problem to get out of unemployment, and that's a bit of a worry.
+
+All right. What else here? Oh, this is-- I was hoping there were some people from the temp industry. Usually, I would have come to this group, and there's usually two or three people that work in the temp services industry, which is one of my favorite industries. I've written several papers about it.
+
+But one weird thing that happened this business cycle is that temporary employment declined, even though regular employment continued to grow quite rapidly. And so if you know anything about this and you read my paper from 1995, you knew that, but many people think of temporary employment as a leading indicator.
+
+And in fact, temporary employment has never come down on any kind of noticeable basis without there being a recession. But in fact, this time, it's been dropping, basically, since March of 2022 without a recession. And that's been a puzzle. But I'm not sure if this is an answer to the puzzle or just a way of linking it up with a different puzzle.
+
+But there is a connection, which I noticed just recently, which is that if you look at the job openings numbers, the ones I showed you before-- the job openings rate-- that also peaked in March of '22. And it's been coming down, basically, the same as temp employment. And as I think about that, it maybe makes sense. If you're a firm and you've got lots of open spots, you probably also turn to the temp agencies.
+
+So maybe one thing that's going on here is that the temp agencies aren't as busy as they used to be because there's fewer job openings than there used to be. And in fact, if you do this in growth rates, it actually lines up quite well. The scales are different. The job openings have twice as much variability in them as the temp help, but they have the same basic pattern. And it's been going on like this for a while.
+
+So this is an answer, in some sense, to the question that Scott Horsley asked Austin about, what does it mean for there to be a better balance between-- in the labor market? And this is-- Austin basically gave the same kind of answer. But here's a picture of this, which is-- this is essentially the number of unemployed workers, minus the number of job openings.
+
+So you can think of, like, game of musical chairs, where there's a certain people who want to sit down in a chair. How many people, how many chairs and musical chairs. Usually, there's more workers than there are chairs and than jobs. And that's typically the fact that this number is usually a positive number. It's expressed here as a percentage of the population.
+
+So typically, on average, there's 1% more of the population who's unemployed than there is a number of jobs out there for people trying to get them. That dramatically changed right after the pandemic where it swung to the other side. So that was considered a very unbalanced labor market, where there were more job openings than there were workers who were trying to fill those things, or unemployed workers, anyway,
+
+It's come back to close to 0, so you could view that as balanced. But historically the average has been not zero. It's been more like plus 1% But related to the point I tried to make, that the job openings has got this trend that people don't necessarily account for, I think it's actually closer to balance than if you just look at this graph. If you take into account that the world has changed to where there's more job openings, typically, than normal, then maybe this isn't as far from being balanced as you would say.
+
+So that's some employment stuff. Onto the wage question. The number this morning was on the high side. I forget exactly what it was-- 0.37% or something like that increase on a monthly basis.
+
+That's probably faster than would be consistent with 2% inflation because we think of-- wage growth would be, typically, inflation plus productivity growth. And productivity growth is probably, typically, less than 2% So probably, wages are still a little bit high. The wage growth is still a little bit higher than you would expect in the long run.
+
+But I think this graph tells you a story about that, which is that while nominal wage growth is fast, it really wasn't fast enough at the beginning of-- right after the pandemic-- to keep up with inflation. So real wages actually had a period where they were dropping. So their growth in number were below zero.
+
+So because of that, we need a period of time, essentially, for workers to catch up. And so if you think about-where we eventually get ourselves back to our 2% target for inflation, the way we sustain that-- we have to have wage growth come down. But historically, the way that sort of connection works is, typically, it's the inflation gets back to where it should be, followed, somewhat later, by what happens to wages. So I think that's eventually going to happen, but I would not expect wage growth to quickly get back to where we would normally expect until inflation has been at the right place for a while.
+
+And then the bonus-- so again, this is another question that came up in Austin's conversation with Scott, is that productivity has been exciting lately. So the red line in this graph is an extrapolation of the trend level of productivity from the 2007-to-2019 period, which is kind of called the, second crappy period-- essentially-- of productivity growth in US history.
+
+So we had a period of good productivity growth from 2000-- or from 1995 until 2007. Before that, there was another crappy period where people thought we got into this bad situation again. And again, there was that super jump up that's misleading right after the pandemic. And that's simply because the composition of the labor force changed in a way to eliminate people who work in the lower productivity sectors of the economy.
+
+But that seems like that's over. And in fact, we've been having this sort of burst since then. And it's basically all speculation at this point because you wouldn't want to count on this. But there's at least some hope that maybe things are going to get better, especially if you thought that the artificial intelligence world was going to be able to generate cool new productivity growth.
+
+And then what this graph does is it kind of combines the wage figures, along with the productivity. So it's no big deal if you have 5% wage growth, if you also have 3% productivity growth to get, because that would allow the full labor costs only to go up by 2%. So this is a graph which does that, which adjusts nominal wage growth for the level of productivity growth, called unit labor costs.
+
+And it's also-- so if you look at, actually, the last bar, which is for the third quarter of this year, the number was 1.9% at an annual rate for the quarter. And this number should, basically, be roughly the same as inflation. Given that this is a nonfarm business sector versus the whole economy, it tends to be, like, two or three tenths below. So we would probably like this number to be 1.7 or 1.8. But 1.9 is about where you want it to be. The average over the full year is higher at 3, but it does seem like things are headed in the right direction, so I think that's a good sign.
+
+And then another topic that came up with Austin and Scott was the-- and it, actually, very much relates to what Susan talked about, in terms of the labor force of parents-- is that there's been a burst of labor force participation of prime-age workers going up, relative to this trend. This is a trend based on an old statistical model that me and a few colleagues put together. Actually, going pretty far back in time.
+
+And it worked pretty well until, basically, the late teens when it-- the labor force participation was stronger than we expected. And we were wondering about whether the model, needed some big changes or not. But it's had a burst where we're-- for prime-age workers, 25 to 54, as you can see in the graph. Us older people-- the trend still seems to be working.
+
+So this is, again another hopeful sign. And I think it probably-- we don't know. But it's likely related to the increased flexibility that certain kinds of workers have, given the work-from-home trends.
+
+So the other thing, which goes back to my first set of graphs, is immigration has really changed how the labor market has needed to perform. And so this is a graph of population growth-- the growth of the population of the people who are 16 and over and not living in institutions.
+
+And what you see is that while it's slowed a lot, especially during the pandemic, it had a big boost. And I was going to lead you through some details of how we calculate numbers like this. By the way, these are taken from the Congressional Budget Office. But they're looking heavily at what's going on at the border, the number of encounters at the border, the number of people who are released with a date to come to court, et cetera, et cetera. And that's really shot up.
+
+And so instead of having growth, like, maybe, two or three tenths of a percent for the population during that period of time, it's been more than 1% for the most recent period. Well, I'm going to add a caveat to that in a second.
+
+But what I think it's important to note is that what makes a lot of confusion-- including for myself sometimes-- is that the numbers here-- these are coming from an independent estimate done by the Congressional Budget Office, where they're looking heavily-- trying to understand immigration-- looking at what's going on with border statistics.
+
+The Census Bureau, which is our normal sense of how many people live in the country, comes up with much lower numbers for the population growth. And the reason is because they do it in a different way. They don't really pay a lot of attention to the numbers from the Homeland Security people. They do it mainly on the basis of their surveys. And if they do a survey and they find out a lot of people say they're new immigrants to the country, then that figures into their calculations of what the population growth has been.
+
+And so I think most people who are in this business of looking at high-frequency data think that it's underestimated by the Census Bureau, how fast population has been growing. Their methods should eventually work, I think. But it's going to take-- it takes a few years for changes to show up in their data.
+
+And this is going to get immensely confusing going forward because I think we're on the cusp of, basically, scaling back immigration in a big way. And so the population is probably not going to be growing very fast. But the Census numbers are going to be lagged and they're going to basically be showing-- so there's going to be confusion, I think, which is a reason why, probably, looking at some of the normal statistics about number of people working and things like that is going to get a little bit dicey.
+
+And this is-- the second bullet point down here is a footnote about the-- there's a second measure, which sometimes gets quite a bit of attention of late, on how many jobs we have. And it comes from the household survey, the same one that we do to get the unemployment rate, where we ask people, are you working or not?
+
+And that-- actually, this morning that dropped by 350,000. So instead of having a 200 increase, we had a 300 decrease. I think that number is always very volatile, which is a reason not to look at it in a month-to-month very much. But it's also highly dependent on the Census Bureau's guesses about the-- or estimates of how the population is growing.
+
+So what the household survey really does is it tells you what fraction of people have jobs. It doesn't tell you the number. It tells you what fraction. But then multiply that by how big you think the population is, and that gives you the number of people who are working.
+
+Because the population growth numbers from the Census Bureau are probably way too low, the numbers from the household survey are probably way too low in terms of the increase in employment. So I think over the last year before this-- before this morning, the yearly increase in household employment was about 160,000, whereas the increase from the payroll survey is, like, 1.6 million. So a factor of 10 difference. So I think probably not paying too much attention to the household survey is a good idea right now.
+
+So the footnote about immigration is that halfway through this year, there were some policy changes. Also, the Mexican-- some by us and some by the Mexican government. They've pretty dramatically curtailed the flow of immigrants into the country. And this is for the whole year. So really, if you went with steady state, you'd go down about twice as much as this. And that would make me sort of lower my estimate of the break-even level from closer to the old days, but not all the way.
+
+But again, some dramatic changes are coming. We don't really know exactly what they are, but they're likely to be quite dramatic. So this is more speculative. Sometimes, we try to get in-- do two decimal places and try and figure some things out. This is on the edge of trying to get some rough numbers.
+
+And I took this from two scenarios. Some people at the Brookings Institution, including Wendy Edelberg, who was my RA way back in the old days, and who's, like, I think my most successful RA out there. I don't want to offend anybody because I have a bunch of really successful raise.
+
+She and Tara Watson put together some scenarios looking at what the Trump administration has said they want to do, versus what's probably feasible to do. And they have-- the so-called high immigration scenario is one that would be a lot like the previous Trump administration, but maybe just a little bit tougher because they've got-they're, maybe, doing that.
+
+If that was the case and if you had the typical 0.2% decline in the labor force participation rate, that would drop the break-even for the monthly employment growth to 50,000. So that's why I would say, typically, we thought 90 was the number. So in this higher-end scenario, with slightly dropping labor force participation, you'd expect to get 50 instead of 100 every month or 90 every month.
+
+Now, I think-- to be fair, I think they're hoping that this tighter immigration policy will lead to greater labor force participation by the people who are here. So maybe instead of dropping, we would get a flat participation rate, which would be unusual, given what we've had over the last 25 or so years. If we had that, then we might get-we'd get about 90,000 per month-- would be the break even so that. So those are-- again, that would be back to the old days.
+
+However, if you thought about the more tougher scenario, where immigration is lower, they came up with-maybe instead of a 1.3-million increase in the population, we'd have a 0.6-million decrease in the net immigration. If that was the case, we'd be looking at-- and I went with my 0.2% drop in the labor force participation. We'd be looking at a benchmark, which was a negative benchmark. Instead of expecting to have 100,000 growth a month, we'd be expecting to have-- 45,000-per-month drops would be the typical thing.
+
+If we kept the labor force participation flat, then it would be basically-- we'd end up with about a 0%-- or a 0 thousand-per-month change because flat labor force participation is not going to-- would be, basically, stuck-would have a drop in the labor force, given that the net immigration was going down.
+
+So the previous graph I showed you had two parts to why the population group would be going up. Births minus deaths. And then the rest of it is immigration. But most of it is the immigration these days. And in fact, if you have negative immigration, it would more than offset the births minus deaths.
+
+So those are radically different numbers. It's going to make interpreting the data hard. So I think the thing to do is to focus a little bit less on those nonfarm payrolls and look-- try to see what's going on with the unemployment rate. Is it staying flat? Is it going up? Or is it going down?
+
+Just a word on wages. So I think a lot of people are thinking, wow, the cut to immigration is going to go-- it's going to be reducing labor supply, and reducing labor supply should boost wages. That's right. But it's not-immigration, actually, also boosts labor demand because people come here. They need to consume things. They need to buy things. And so the people need-- somebody needs to produce those things.
+
+And so I think that, probably-- again, a big guess, because we don't have experience with stuff exactly like this before. But probably-- there's probably not going to be a big effect on wages. If I had to guess the sign, I would say, yeah, probably it's going to raise wage growth a little bit.
+
+But I think the experiment that's in the back of my mind, on the back of a lot of labor economists' mind, is what happened after the Mariel boatlift. If you remember this-- back in the-- I think it was in the late 1980s. Fidel Castro sent all sorts of uneducated, poor people out of jails, et cetera, into the Miami labor market. And so it was a huge increase in immigration.
+
+What did it do to wages? Not very much. And there's some disputes about that. But I think the takeaway I have from reading this literature is that these big changes in immigration don't necessarily lead to big changes in wage growth, but we'll see.
+
+Last-- I mean, tariffs? I don't have much to say about tariffs except for they're likely to create some need for reallocation. So I showed you that picture of the Beveridge curve, which I mentioned. Many people think that the reason it shifts in or out has to do with, how much reallocation do you need to do? If you're in a very static economy where everybody's kind of staying in the same industry and the industries are all kind of growing at the same rate, then you don't need to have as much reallocation. And so unemployment and vacancies can both be a little bit lower.
+
+But if you're in a really-- world in which lots of things are changing and some industries are growing fast, some industries are growing slow or shrinking, then you need to move people between industries. That's the kind of thing which leads to both higher unemployment and higher job vacancies.
+
+I think that's something which could easily happen because of tariffs, if they're done in a big way, because, obviously, tariffs could help some industries. If you're an industry that's producing a final output that's competing with final outputs that are being brought in from other countries and their prices go up, that's probably going to be good for those domestic industries.
+
+But there's also domestic industries which buy inputs from the rest of the world, like steel. If the costs for them go up, this could actually be detrimental to them. And certainly, if you're also an exporter, it's likely the case that higher tariffs-- while they might reduce our imports, they'll probably also reduce our exports by roughly the same amount. That's just a proposition in international economics.
+
+So you could be facing a situation where there's a lot of churn, where some industries are growing because of tariffs; some industries are shrinking because of tariffs. And that's going to be, potentially a reason for a lot of mix-up in the world.
+
+That's what I got. So bottom line-- labor markets softened, but it's still relatively healthy. Wage growth is still higher than we would expect in the long run, given 2% inflation, but we're headed in the right direction. The benchmark for thinking about what unemployment growth should be from month to month is going to be highly uncertain. It is highly uncertain now. It's going to continue to be highly uncertain.
+
+And I think that means looking at the unemployment rate itself and asking whether it's going up or going down is the right thing to do. And then last bullet-- there's just a lot of uncertainty about what's going to be happening next. So that's what I have. Happy to take a few questions.
+
+SPEAKER: All right. So we are a few minutes over. So don't feel shy about, I guess, leaving right now if you do have to--
+
+DANIEL SULLIVAN: I do have a 4 o'clock airplane, too, so I'm--
+
+SPEAKER: OK. Well, we're not going to keep you long then. Let's see here. So we got one-- I'll ask one question here. Let's see if we can make sense here. So people talk a lot about a, quote, "tight labor market." But many also express frustration about difficulties in finding jobs. In what areas or demographics is the labor market tight, and where is it not? So maybe this is about different unemployment rates by, say, industry, or occupation. Do you have much to say about that?
+
+DANIEL SULLIVAN: Sure. So I think both things can easily exist-- sort of tightness on average. Unemployment's low. But once you become unemployed, because there's not as many job openings as there used to be, I think it's natural that some workers are going to find it difficult to find jobs once they do it.
+
+I don't have a great sense of-- certain kinds of workers are in demand more than usual. I mean, obviously, the unemployment rates tend to be lower for well-educated people. People with certain kinds of backgrounds-- it's tougher, with of less sort of preparations.
+
+I don't think anything-- I mean, this shift between industries that we had because of the goods sector, I think, is a little bit of that. So I think the goods sector is kind of recovering. Or the opposite, rather-- the good sector had its share of increase. It's now falling. So probably, that area is going to be a little bit less in demand than the services areas. And so we see that a little bit in terms of-- a lot of the job growth comes from leisure and hospitality and certain other sort of service industries like that.
+
+SPEAKER: OK. And we've got one other question that I'm just going to phrase a little more generally, is-- I think you've put up some uncertainty about 2025. Do you have any forecasts for 2025, acknowledging the uncertainty in terms of-- so in terms of labor force [INAUDIBLE].
+
+DANIEL SULLIVAN: So this the week where we do the so-called Survey of Economic Projections. We put together a forecast which we're going to turn in, and you'll get-- put in the dot plot in a few-- and it's-- it's probably the most confusing one I've been involved in. I've been at the Fed, now, for 30-something years.
+
+And so I think a lot of people, actually, don't want to make the forecast yet because there's two parts to the uncertainty. One is we don't know what the policy is going to be. And then, secondly, given the policy, we don't know exactly what's going to happen because of the policy. So it's really tough at the moment.
+
+But certainly, it seems likely that employment growth is going to be lower going forward, given the direction of policies from the new administration. I think it could-- so extra churn, could also push up unemployment. But I no way of quantifying that at the moment. So I'm going to punt on that question.
+
+SPEAKER: Fair enough. That's a good Fed answer right there. So [LAUGHS] with that, I think we'll end the event. Thanks, everyone, so much for coming. And I had a great time. I hope you all did, too. And we'll see many of you next year, I hope. Thanks.
+
+DANIEL SULLIVAN: Thanks.
+
+
+
+
+
+
+
+
+
+
+
+
+

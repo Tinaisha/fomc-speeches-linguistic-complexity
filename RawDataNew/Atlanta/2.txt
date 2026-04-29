@@ -1,0 +1,106 @@
+https://www.atlantafed.org/news/speeches/2024/09/23/bostic--on-the-state-of-the-us-economy-and-monetary-policy
+
+On the State of the US Economy and Monetary Policy
+
+Raphael Bostic
+
+(Virtual) European Economics and Financial Centre
+
+September 23, 2024
+
+Key Points
+
+Atlanta Fed president and CEO Raphael Bostic explains why he voted for a half percentage point reduction in the federal funds rate target at the September 17–18 Federal Open Market Committee meeting.
+Bostic details his answers to what he deems the two critical questions facing Committee participants: Why reduce the rate now? And how big should the change be?
+As for the timing, Bostic explains that he is convinced the US economy is sustainably on the path back to price stability. By contrast, he says risks to the maximum employment side of the Committee's dual mandate have grown as labor markets have weakened.
+Regarding the half percentage point cut, Bostic says his residual concern about inflation could have led him to settle on a smaller first move last week, but such a move would belie growing uncertainty about the weakening of the labor market.
+Bostic emphasizes that the reduction in the federal funds rate does not lock in a cadence for further moves.
+Thank you for inviting me to visit with you this afternoon in London, and morning here in Atlanta. It's an honor to follow the many distinguished speakers you have hosted.
+
+As you know, the Federal Open Market Committee, or FOMC, met last week and made some news. Not only did the Committee reduce the Fed's policy rate from the 5-1/4 to 5-1/2 percent range that we've held for just over a year, we also reduced the target by a full ½ percentage point. Though not a total surprise, this was a larger adjustment than some expected.
+
+I fully supported this decision. Further, I share the view that Federal Reserve Chair Jerome Powell expressed at the press conference after the FOMC meeting that commencing the process of reducing the policy rate is an appropriate and necessary first step in recalibrating monetary policy in light of evolving economic conditions.
+
+Specifically, in my judgment, we have made sufficient progress on inflation, and the labor market has exhibited enough cooling, that the time has come to shift the direction of monetary policy to better reflect the more balanced risks to our price stability and maximum employment mandates that have emerged over the course of the year.
+
+In fact, progress on inflation and the cooling of the labor market have emerged much more quickly than I imagined at the beginning of the summer. In this moment, I envision normalizing monetary policy sooner than I thought would be appropriate even a few months ago. By "normalizing," I mean returning our policy to a place where it is no longer necessary to promote restrictive financial conditions to achieve our inflation target.
+
+For me, there were two critical questions to be answered as I approached last week's meeting. First, why now? What gives me confidence that restrictive policy can be relaxed without compromising our price stability mandate? And, with respect to our maximum employment mandate, what would be the downside of not adjusting policy at all?
+
+Second, how big should this initial move in the policy rate be? My conclusion is now apparent, but why not a more modest cut, or a much more aggressive one?
+
+In the rest of my remarks, I'll attempt to answer these questions. I want to emphasize that these are my answers. I am speaking only for myself, and my views may not reflect those of my FOMC colleagues or any other representative of the Federal Reserve.
+
+Why now?
+
+Inflation has fallen faster than I had expected, and the most recent data solidify my conviction that the US economy is indeed sustainably on the path back to price stability. This is true pretty much by any measure one considers. Take the personal consumption expenditures, or PCE, price index, which is the Fed's preferred inflation gauge. The PCE print for July was 2.5 percent—notably closer to our 2 percent objective—and is at a level not seen since early 2021. We'll get another report on Friday, and I'm hopeful it will show the progress continuing.
+
+Same story for the consumer price index, or CPI, which some view as an important indicator of how consumers are experiencing the economy. The CPI for August was 2.5 percent, similarly down significantly from its recent heights and at the lowest levels since early 2021. For reference, my staff estimates that the Committee's 2 percent PCE target translates to a 2.3-2.6 percent target for the CPI. So, this, too, is coming into range.
+
+Digging a little deeper, I am especially encouraged by three key signals.
+
+One, the breadth of price increases is narrowing to a range that accords with price stability. For the three months through July, 27 percent of prices, weighted by expenditures, rose by more than 5 percent in the PCE price index, compared to the same period a year earlier. That is the lowest share since mid-2021. And the figure for July alone was 18 percent, the lowest level since October 2020 and just above the long-term norm of 17 percent.
+
+Two, we have gotten affirming signals from measures of core PCE inflation, which has historically been a strong predictor of underlying inflation. For the three months through July, core PCE inflation came in at an annualized monthly growth rate of 1.7 percent, which portends well for the future.
+
+Three, core services prices excluding housing—which tend to be particularly persistent—have begun slowing. Over the three months ending in July, PCE services prices excluding energy and housing (what some refer to as the "supercore") rose at an annualized rate of just 2 percent, down sharply from readings closer to 5 percent at the beginning of the year.
+
+Perhaps one of the only areas of residual elevated price pressures has been connected to housing. In fact, rising costs for housing and related services have buoyed overall inflation for many months, accounting for nearly 70 percent of the most recent 12-month increase in the core CPI, according to the Bureau of Labor Statistics. So, even though for the past year we have observed moderation in market-based measures of housing prices—think Zillow and Redfin here in the US—the housing component in the CPI and the PCE inflation indexes has largely remained high. This has been something of a mystery, and I hope that some fitful and nascent signs of declines in the rate of housing price increases in the PCE index take root soon.
+
+I said three things, but let me cite one other promising sign concerning prices. Pandemic-era forces that pumped intense inflationary pressures into the economy have greatly diminished; I'm thinking most notably of supply disruptions and "revenge spending" to satisfy pent-up demand.
+
+Those developments are all clear in the data. And to repeat what may seem like a mantra, I am data dependent. But I'm not dependent on data alone. My staff and I also fan out and talk to a lot of people who set prices and hire and invest and consume.
+
+In recent weeks, reports on prices from our business contacts align neatly with the story the data are telling us. In virtually every industry and sector of the economy, business leaders tell me their pricing power has all but evaporated. In sum, then, after flaring early in 2024, price pressures are diminishing quickly and broadly.
+
+On the employment side of the ledger, clearly the red-hot job growth coming out of the pandemic is cooling. That said, the labor market is weakening but is not weak, slowing but not slow.
+
+The unemployment rate has ticked up this year, yet at 4.2 percent it matches the Committee's long-run projection. Monthly job creation paints a similar picture. The 12-month moving average has steadily declined but was a still-healthy 196,000 new jobs a month through August 2024.
+
+Another key metric, the number of hires as a percentage of employment, or the hires rate, has retreated to roughly the prepandemic trend. Job openings remain above levels that prevailed before 2020, though they're down substantially from the peaks of 2022. This has translated to a narrowing of the gap between labor demand and labor supply by 70 percent, from 5 million in early 2023 to under 1.5 million in June, and a moderation of wage growth to levels more consistent with price stability.
+
+As with prices, feedback from business leaders about labor markets tells much the same story as the data. The modal outlook I hear from business contacts is that they are approaching hiring more carefully, but generally are not contemplating layoffs.
+
+In short, it appears that, combined with other forces, restrictive monetary policy has succeeded in bringing aggregate demand and supply into closer alignment and reducing inflationary pressures. Therefore, it is time to normalize policy in pursuit of the Committee's dual mandate of price stability and maximum employment.
+
+For the past three years, I focused primarily on the price stability component of the mandate. Price stability was clearly the more distant objective as inflation spiked. Today, substantial progress has been made, though the task of subduing elevated inflation is not done, a fact the Atlanta Fed's Underlying Inflation Dashboard clearly shows. In the dashboard, red indicates the number is at least a half percentage point above our target. Note the proliferation of red in April, and then you'll see a bit less red by the June readings, and finally today there is far less red. This progress means that risks have lessened along this dimension. (See slides.)
+
+By contrast, risks to our employment mandate have grown as labor markets have weakened, such that the possibility we might see broad weakness has increased relative to 12 or 18 months ago. So, I now see the two sets of risks as much more balanced. This is an important change.
+
+In terms of policy, you might also say that we have two, largely balanced risks. On the one hand, there is a risk of moving too quickly to remove restrictiveness, such that inflation does not get all the way to the objective. On the other hand, there is the risk of leaving policy restrictive for too long, which could result in undue damage to the labor market, and in turn pain and suffering for the American people.
+
+So that's the case for recalibrating our policy stance to a level more consistent with the balancing of risks to our two mandates, and to avoid the potential mistake of staying too restrictive for too long. What I have not answered is why I didn't feel it was appropriate to ease monetary conditions even more aggressively.
+
+Why 50?
+
+This brings me to the critical question I posed before. Why did I support cutting the rate by ½ of a percentage point specifically?
+
+I have argued that the economy is effectively near conditions—with respect to both inflation and employment—that might be considered "normal." In this context, "normal" means conditions that largely satisfy our price stability and maximum sustainable employment mandates.
+
+So, then, the question becomes, if the economy has returned to "normal", what should the appropriate policy stance of the FOMC be?
+
+If the economy is basically satisfying our mandates, then the appropriate policy stance would be one where the federal funds rate is neither stimulative nor restrictive for economic activity, a rate often referred to as the neutral rate.
+
+Now, there is plenty of debate about the level of the neutral rate in the United States and elsewhere. It is unfortunately one of those concepts that is easier to see after the fact than before.
+
+However, the disagreement on the true neutral level was inconsequential, at least for me at last week's meeting. Wherever the neutral rate is, I don't know anyone who would plausibly argue with the notion that we are a fair distance above it.
+
+But that being the case, what is the argument for not pushing the policy rate into the neighborhood of neutral as soon as possible? Why not a series of larger moves of, say, 75 or 100 basis points until we reach a range where disputes about the true neutral level are salient?
+
+For me, the answer is that there remains some uncertainty about whether we can really be fully confident that both our inflation and employment goals are fully within reach. The path of inflation in 2024 has been choppy, and the unpredictable nature of rents and housing prices still worries me. I will not be comfortable claiming victory if we stall short of our inflation goal, even if virtually all non-housing PCE component prices are increasing at their prepandemic rates.
+
+That said, it won't surprise me if my concerns turn out to be unfounded. I'm counting on it, actually. But I would like to let a little time pass as we remove restrictiveness, so I can see more inflation evidence and hopefully better understand where we are.
+
+My residual concern about inflation might have led me to settle on a relatively small first move last week—say, 25 basis points. But such a move would belie growing uncertainty about the trajectory of the labor market that I have already noted.
+
+For sure, the labor market is not yet flashing red for me. And I want to be clear that I do not believe that labor markets have dangerously weakened. That is not what the data show, nor what business leaders tell us.
+
+But I also recognize that employment growth over the past year has not been as strong as initial data releases suggested. Any further evidence of material weakening in the labor market over the next month or so will definitely change my view on how aggressive policy adjustment needs to be.
+
+If the pandemic-era economy has taught us anything, it is to expect to be surprised. In my view, the 50-basis-point adjustment at the meeting last week positions us well should the risks to our mandates turn out to be less balanced than I am thinking.
+
+Policy remains in the restrictive range, so if my optimism about inflation is unsatisfied, then the Committee can slow or even halt the pace of further reductions. Should labor markets prove substantially less healthy than they appear at the moment, the ½ percentage point reduction puts us in a better position to adjust than a more modest cut would have.
+
+Momentous as the recent decision to begin removing restriction from monetary policy was, taking that step does not lock in a cadence for further moves. As in any circumstance, my approach to policymaking will be guided by the incoming data, input from business contacts, the evolving outlook, and the balance of risks.
+
+I hope I have provided some clarity on my thinking about the present and the critical months ahead in monetary policy. Thank you for your time and attention. Now I look forward to the conversation with Professor Scobie.

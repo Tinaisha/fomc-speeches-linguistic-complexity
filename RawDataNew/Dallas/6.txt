@@ -1,0 +1,74 @@
+https://www.dallasfed.org/news/speeches/logan/2025/lkl250206
+
+Lorie K. Logan
+
+Opening remarks for panel on ‘Future challenges for monetary policy in the Americas’
+
+February 06, 2025
+
+the Chapultepec Conference, Bank for International Settlements Americas Office in Mexico City.
+
+Thank you, Frank [Smets], for the kind introduction. And thank you to the BIS for inviting me to participate on this distinguished panel. International dialogues like today’s generate so many valuable insights about how central banks can navigate the current environment.
+
+The theme of this panel is “future challenges for monetary policy in the Americas.” Where to begin? One challenge is simply to note all of the important challenges when I’ve been asked to keep my opening remarks to five minutes!
+
+I would like to highlight three topics in particular: the reconfiguration of global trade patterns and supply chains; the shift to a higher-interest-rate environment; and the need to keep inflation expectations well anchored after the surge in inflation following the pandemic. Let me note that these views are mine and not necessarily those of my Federal Open Market Committee (FOMC) colleagues.
+
+In recent years, companies worldwide began to reorganize their supply chains in response to disruptions experienced during the pandemic as well as geopolitical developments. Government policy changes in this space are ongoing, and the resulting changes in trade patterns could leave a substantial imprint on economic activity. For example, a Dallas Fed economist and a colleague at the Banco de México found in their research that tariffs on China drove growth at Mexican firms integrated into global supply networks. Central bankers will need to parse what these shifts mean for the inflation and employment outlooks and for capital flows. At the Dallas Fed, we recently launched our Global Institute to study these and other questions, and we look forward to generating insights that can advance the missions of the Federal Reserve and other central banks.
+
+Turning to my second point, following the Global Financial Crisis, many experts thought a core challenge of modern central banking was downside risk to inflation resulting from the proximity of interest rates to the effective lower bound. While a return to the lower bound remains one scenario to prepare for, the past few years show we must be equally well prepared to achieve our goals when rates are well above zero and inflation risks are to the upside.
+
+Related, and this brings me to my third point, central banks will need to ensure inflation expectations remain well anchored following the recent global inflation surge. High inflation has been costly for households and businesses. It would be surprising if this episode didn’t cause people to reevaluate how they expect inflation to behave going forward. In the U.S., while market- and survey-based estimates of long-term inflation expectations have remained largely stable, survey measures of inflation uncertainty rose sharply at the start of the pandemic and remain elevated. I take this as a reminder that expectations won’t stay anchored forever on their own. In the end, monetary policymakers have to achieve what the public expects.
+
+And—as we all know—well-anchored inflation expectations are critical to success in monetary policy. History teaches that when inflation expectations become unanchored, central banks often can restore price stability only at a great economic cost.
+
+This lesson figures centrally in my thinking about monetary policy for the U.S. in the near term. I think the possible policy strategies for the FOMC in 2025 boil down to two key alternatives. In some scenarios, it will soon be appropriate to resume reducing the federal funds target range. In other scenarios, we’ll need to hold rates at least at the current level for quite some time.
+
+Inflation made progress toward the FOMC’s 2 percent target in 2024, while the labor market remained strong and stable. If these trends continue, the U.S. economy will have achieved a soft landing.
+
+Yet we have been here before on inflation. It cooled substantially in late 2023, then resurged in early 2024. And January 2023 was unusually strong as well. My team’s analysis and conversations with business contacts suggest these bumps may result from an interaction between annual pricing decisions and the business cycle. Many businesses set prices once a year in January, and they have more pricing power when the economy is strong, as it has been in recent years.
+
+We don’t yet know whether 2025 has brought another such bump. But if inflation rises, it will be a signal that monetary policy has more work to do both to restore price stability and to keep demand in balance with supply so we can sustain price stability.
+
+What if inflation comes in close to 2 percent in coming months? While that would be good news, it wouldn’t necessarily allow the FOMC to cut rates soon, in my view.
+
+Suppose, for example, that as the first quarter unfolds, monthly inflation figures come in at a 2 percent annualized rate, labor market indicators hold right where they were all fall, and consumer spending and business investment also stay strong.
+
+I’d find it hard to say monetary policy was meaningfully restrictive in that scenario. One aspect of the global higher-rate environment is that the neutral interest rate appears to have moved up—though it’s uncertain exactly how much. On-target inflation alongside two quarters of stability in the labor market and demand would strongly suggest that we’re already pretty close to the neutral rate, without much near-term room for further cuts. On the other hand, if the labor market or demand cools further, that could be evidence it’s time to ease.
+
+There are many uncertainties right now beyond the near-term inflation and employment data. I mentioned trade policy, and as we’ll probably come back to later in the panel, financial conditions have been volatile. But to me, the monetary policy implications of these uncertainties generally come down to whether sustainably restoring price stability requires keeping rates at least at the current level or moving lower. And in choosing a path, we should be guided by the need to maintain well-anchored inflation expectations, which are fundamental in the long run to achieving both sides of the FOMC’s dual mandate for monetary policy.
+
+Thank you.
+
+Additional comments on financial conditions and the neutral interest rate (delivered in panel discussion)
+I’d like to discuss the role of the neutral interest rate in determining monetary policy and the key factors influencing that rate in the U.S. and globally right now.
+
+Even though I brought up the neutral rate in my opening remarks, that’s often not my starting point in thinking about monetary policy, because my background is in financial markets, and I think the nuances of markets matter. Households and businesses don’t usually borrow, save or invest at an overnight risk-free rate like the fed funds rate. Instead, most borrowing, saving and investing takes place at longer tenors, and often in forms that incorporate various risk premia. So when I think about whether monetary policy is in the right place to accomplish our macroeconomic goals, I tend to think about whether broad financial conditions are appropriately restrictive or accommodative, or whether broad financial conditions need to move.
+
+Yet the central bank doesn’t control overall financial conditions. We control an overnight policy rate, and that overnight rate’s relationship to broader financial conditions can vary over time. It’s like driving a car with some occasional slippage in the transmission. So I don’t usually try to judge whether the policy rate itself is restrictive or accommodative, but instead I think through how moving the policy rate will affect broader financial conditions.
+
+All that said, it’s helpful to have some benchmarks for the policy rate over time. Estimates of the neutral rate, or r-star—the policy rate that would be neither restrictive nor accommodative—are one such benchmark. Let me emphasize the word “estimates.” The neutral rate can’t be directly measured, but instead has to be estimated by consulting models and observing the evolution of the economy.
+
+Estimates like these depend on many assumptions. It’s also necessary to specify a time horizon. The neutral rate in the long run can differ from its value today.
+
+As a result, estimates of r-star for the U.S. vary widely. Looking across a suite of publicly available models, estimates of the neutral real interest rate for the U.S. range from three-quarters of a percent to two and a half percent. And in the December Summary of Economic Projections (SEP), FOMC participants’ estimates of the long-run real fed funds rate ranged from 0.4 to 1.9 percent.
+
+But one thing these estimates generally have in common is that most of them have moved up substantially since before the pandemic. For example, five years ago in the December 2019 SEP, estimates of the long-run real fed funds rate ranged from 0 to 1.3 percent.
+
+As I think about the economy, that shift makes sense.
+
+Conceptually, the neutral rate depends on the balance between the supply of investment and the demand for investment. Factors that move investment supply or demand also move the neutral rate. I would categorize those factors into four main buckets:
+
+Business investment needs, which can result from drivers as varied as productivity growth, new technologies or changes in trade patterns.
+Demographics, because longer life expectancies and lower population growth raise desired savings.
+Risk premia, because higher structural demand for safe assets means investment supply and demand are in balance at a lower risk-free rate, all else equal.
+And global fiscal policy, which reflects the desired savings and investments of governments.
+Demographics change slowly and have weighed on neutral rates for many years. But the other factors can move more quickly. And postpandemic, many of them point in the direction of higher investment, lower savings and thus higher neutral rates—just as the models and estimates suggest.
+
+Because global capital markets are relatively open, I tend to think these factors operate globally and affect neutral rates across economies. Indeed, model estimates of r-star have tended to move in parallel across developed markets for the past half-century. But country-specific developments can also matter. For example, large capital flows into one country from the rest of the world would shift out the supply of investment in the recipient country and have the opposite effect on the neutral rate in that country as elsewhere.
+
+This brings me back to where I started, with the importance of broad financial conditions. While some of the drivers of the neutral rate are purely economic, others such as risk premia and capital flows relate to financial markets. Adjusting neutral rate estimates to account for these financial factors is an inexact science. And so while measures of r-star are a helpful benchmark, it will always be important to take broad financial conditions into account in determining how to set the policy rate to achieve a central bank’s goals.
+
+Notes
+
+I am grateful to Sam Schulhofer-Wohl and other Dallas Fed colleagues for assistance in preparing these remarks.

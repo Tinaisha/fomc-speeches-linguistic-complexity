@@ -1,0 +1,54 @@
+https://www.dallasfed.org/news/speeches/speeches-leaders/2025/251016schulhofer-wohl
+
+Sam Schulhofer-Wohl
+
+Risk management in an interconnected economy
+
+October 16, 2025
+
+Third-party Service Provider Risks in the Economy and Financial System workshop.
+
+Good morning.
+
+My name is Sam Schulhofer-Wohl. I am senior vice president and senior advisor to the president at the Federal Reserve Bank of Dallas.
+
+It is my honor to welcome you to our nation’s central bank. And on behalf of the Federal Reserve banks of Boston and Chicago as well as Dallas, it is my honor to welcome you to this research workshop on third-party service provider risks in the economy and financial system. We’re so pleased that you have come to share your expertise with each other and with us, and we look forward to a day of rich discussions and valuable learning.
+
+Before I proceed, let me note that the views I express are mine and not necessarily those of any of the sponsoring reserve banks or the Federal Reserve System.
+
+In today’s interconnected economy, few businesses can function for very long without relying on many others. Some of those dependencies are obvious: The lights are on in this room thanks to an electric utility that delivers power. Other dependencies are at a modest remove: The utility can deliver power only thanks to generation companies that put that power onto the grid in the first place.
+
+And still others are deep under the surface but crucial nonetheless. I remember taking a flight the day of the CrowdStrike outage in 2024. Workers were going one by one to the display screens at each gate in the airport terminal and climbing on ladders to fix them. It turned out each screen had a computer behind it, each computer used CrowdStrike’s security software, and every single computer needed to be manually rebooted so passengers could see which flight was at which gate and when they were departing. Airlines were, of course, but one of many industries affected. Hospitals canceled procedures, 911 call centers faced outages, retailers’ checkout systems didn’t work, and here in Houston, the port briefly closed two container terminals. Moreover, security software is just one of many different pieces from many different companies that keep all of these industries and our economy flowing smoothly. And yet, on an ordinary day, ordinary people don’t need to think very hard about it—it all just works.
+
+The challenge for risk management is how to keep it all working and be prepared to recover when it doesn’t.
+
+Part of the challenge is simply that in an advanced economy, many business activities are highly complex and evolve rapidly, involving numerous fast-changing steps and components. Even if a company owned and operated every piece of its production chain, identifying, keeping up with and mitigating the vulnerabilities would not be easy.
+
+But another pervasive feature of modern economies is specialization. Some companies generate electricity, others deliver it, everyone uses it. You don’t treat your own illness; you see a physician, and your physician in turn relies on makers and distributors of pharmaceuticals, diagnostic tests and devices, surgical equipment, medical records systems and more. Few business leaders would find it sensible to have their companies produce their own cybersecurity software. Far better to buy the software from a company that specializes in making that software, perhaps only that software, and does it better than your firm could.
+
+Specialization adds to the risk management challenge in two ways: opacity and concentration.
+
+A company inherently has less visibility into and less control over risks at its vendors than in its own business. In some sense, this is the whole point of hiring vendors: to let them take care of some tasks so you can focus elsewhere. But the opacity also makes the risks more difficult to manage than if the work weren’t outsourced.
+
+Specialization also means a small number of vendors will often rise to the top of some field and provide a given product or service to many other firms. The risk gets concentrated. And now, when a problem arises at a third-party vendor, that problem doesn’t necessarily affect just one customer; it might affect many businesses throughout the economy. So there can be systemic ripples from, say, a faulty update in one small piece of software or a logjam in the global supply chain for one small part.
+
+These are challenges every business leader must think about, and they’re also ones we think about at the Federal Reserve as we work to track and understand the economy.
+
+By way of background, as the nation’s central bank, the Federal Reserve supports a strong economy for everyone in the United States. The mission Congress established for us has five dimensions.
+
+We supervise banks to ensure they are safe and sound so borrowers can access credit and depositors can get their money when they need it.
+We promote financial stability, making sure financial institutions and markets are resilient and can continue serving households, businesses and communities even when facing shocks that could reverberate from one firm to another.
+We operate parts of the payments system—everything from large-value wire transfers to paper checks and including the instant payments service FedNow—making it possible for consumers and companies to send and receive money and keep the economy moving.
+We foster consumer protection and community development.
+And we set monetary policy to achieve maximum employment and stable prices.
+Third-party service provider risks can affect every dimension of this mission. Banks rely on third-party providers for an array of critical services, especially but not only in the area of technology. Because service provision is often concentrated, disruption to those services has the potential to challenge not only an individual bank’s soundness but also the stability of the financial system as a whole, as my colleagues and I discussed in a recent working paper. Payments systems, too, rely critically on numerous third-party service providers. Low-income communities with few resources to fall back on may be particularly vulnerable to shocks to critical services such as utilities. And when it comes to employment and inflation in the economy as a whole, while we have yet to see macroeconomic impacts from a third-party service disruption, it’s not out of the realm of possibility. When a cyberattack shut down the Colonial Pipeline in 2021, for example, there was a visible—though fortunately short-lived—effect on gas prices.
+
+The multifaceted and widespread nature of third-party service provider risks raises a number of important questions . First, what can companies do to identify and mitigate the risks, and especially to take a forward looking approach as third-party services evolve and grow? Second, these risks are particularly prominent when it comes to information technology, where much of the innovation in our economy takes place. Companies can conceivably mitigate the risks they face by slowing the adoption of new technologies, but at the aggregate level, that would hold back economic growth. Are there ways to soften this tradeoff and foster innovation and growth without excessive risk? Third, the same third-party service providers often serve multiple industries and, as a result, must keep track of and follow overlapping, similar but not quite identical regulations. Are there ways to avoid the inefficiencies this fragmentation can create? Finally, all these questions arise globally, not just here in the United States. What can we learn from how other countries have addressed the challenges, and what might our international counterparts learn from us?
+
+Today’s workshop aims to examine these and related questions from a mix of academic, business and regulatory perspectives. In the morning, we will hear from experts in the financial sector and from researchers studying cyber risks. After lunch, we’ll have papers on some of the challenges of measuring and monitoring third-party risk in finance, health care and payments, and we’ll hold a panel discussion with industry leaders in health, IT and aerospace. The agenda also includes ample break time for informal discussion and networking. Our hope is that by widening the aperture on the problem, we’ll generate new insights, and all of you will come away with new ideas and connections to advance this important work.
+
+To foster an open and productive dialogue, we are conducting this workshop under the Chatham House rule. That means you are welcome to use the information from today’s discussions, but unless a speaker has published their paper or remarks, you may not attribute the information to individual speakers or their organizations. Our team plans to publish an unattributed thematic summary in the months after the event.
+
+Before we launch into the agenda, a note of gratitude. Thank you to my colleagues at the Dallas Fed and our partners in Chicago and Boston who organized this outstanding program, especially Amy Chapel and Emma Weiss. Thank you to Senior Vice President Daron Peschel and his team here in Houston for hosting us. And thanks again to all of you for joining us today.
+
+With that, I’ll turn the floor over to Emma Weiss, senior financial markets specialist at the Chicago Fed, who will moderate our first panel, on financial sector perspectives.

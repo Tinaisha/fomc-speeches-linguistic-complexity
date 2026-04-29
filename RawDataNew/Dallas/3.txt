@@ -1,0 +1,47 @@
+https://www.dallasfed.org/news/speeches/logan/2025/lkl250519
+
+Lorie K. Logan
+
+Opening remarks for panel titled ‘The increasing role of nonbank institutions in the Treasury and money markets’
+
+May 19, 2025
+
+Federal Reserve Bank of Atlanta 2025 Financial Markets Conference in Amelia Island, Florida.
+
+It’s a pleasure to be back at this excellent conference. Thank you, Raphael [Bostic], for inviting me. And thank you to the organizers for putting together this panel of expert speakers:
+
+Lou Crandall, chief economist of Wrightson ICAP;
+Deirdre Dunn, head of global rates at Citigroup Global Markets and chair of the Treasury Borrowing Advisory Committee;
+and my former longtime colleague at the New York Fed, Nate Wuerffel, who is now head of market structure at BNY.
+I’m looking forward to a rich discussion.
+
+Our topic this afternoon is a timely one: the role of nonbank financial institutions (NBFIs) in Treasury and money markets. Before we jump in, I’d like to offer a few remarks to frame the conversation. As always, these are my views and not necessarily those of my Federal Reserve colleagues.
+
+The Treasury market and money markets sit at the very core of the financial system. The Treasury market finances the U.S. government, provides a safe and liquid asset relied on by investors worldwide, and creates a benchmark for broader long-term interest rates. Money markets establish overnight risk-free interest rates that are building blocks for all other asset prices, they keep credit flowing through the economy by financing a wide range of assets, and they are where the Fed implements the stance of monetary policy. And these markets are tightly linked because one of the main money markets is the repo market, where Treasury securities are financed.
+
+These markets are extraordinarily strong, deep and liquid, as befits their systemic role. But they are not invulnerable. Observers have cited potential fault lines including limited intermediation capacity, buildups of leverage and uneven risk management.
+
+When economic shocks occur, market participants often seek to transfer large amounts of risk and raise large amounts of liquidity in Treasury and money markets. Such a surge in demand for intermediation requires an elastic supply of intermediation. Yet since the Global Financial Crisis, the balance sheet capacity of bank-affiliated dealers has not kept pace with growth in the amount of Treasury securities outstanding. So there is the potential—as we saw, for example, at the onset of the COVID-19 pandemic—for the demand for intermediation to overwhelm the supply of intermediation and create market dysfunction.
+
+In principle, approaches to enhancing the resilience of intermediation capacity could address both banks and nonbanks. I’m sure our panelists and I could fill an entire session with ideas on bank intermediation. But our focus today is going to be the rest of the market: the nonbanks. I’m looking forward to a robust discussion of the state of Treasury intermediation by NBFIs and what can be done to strengthen it.
+
+Excessive leverage can amplify challenges from insufficiently elastic intermediation in stress episodes. Perhaps precisely because repo markets ordinarily function so well and Treasury securities are so safe and liquid, it is possible for NBFIs to obtain large amounts of leverage against them. Yet levered positions can be prone to unwind rapidly, adding to intermediation demands. Buildups of NBFI leverage in trades such as the cash-futures basis can, therefore, be cause for concern if the risks are not managed appropriately. Some observers had voiced worries about such a buildup earlier this year, so it was reassuring to see that the basis trade did not materially amplify the market volatility we experienced in early April.
+
+Strong risk management mitigates vulnerabilities from leverage, and the Securities and Exchange Commission mandate for broader central clearing marks an important step to strengthen risk management in the Treasury cash and repo markets. Data collected by the Office of Financial Research shows that a large fraction of noncentrally cleared bilateral repos are conducted with no haircut. In some circumstances, other components of a cash borrower’s portfolio may effectively provide the margin on these trades. But that is not always the case. And repos that are margined on a portfolio basis could be more difficult to move to different counterparties in times of stress. Broader central clearing will ensure risk management is stronger, more uniform and therefore more resilient.
+
+In our conversation today, I’ll be interested to hear how our panelists think the transition to broader clearing is proceeding and how it’s influencing the overall structure and resilience of the market. I hope we can also explore other ideas to enhance risk management, such as the recent proposal on best practices from the Treasury Market Practices Group.
+
+Lastly, as my Fed colleague Roberto Perli, manager of the System Open Market Account, noted in a recent speech, resilient funding liquidity makes the market as a whole more resilient. A strong Federal Reserve monetary policy implementation framework forms an important part of that resilience by ensuring ample liquidity will remain available across money markets at rates within or near the target range for the fed funds rate. In my view, rate control is not just about keeping the fed funds rate in the target range. The fed funds market is small. And the FOMC’s desired stance of monetary policy must transmit smoothly into larger and broader markets—especially the repo market.
+
+The Fed’s rate control framework has two main components: The ample supply of reserves generally keeps money market rates close to the interest rate on reserve balances. And the standing ceiling facilities—the discount window, the Standing Repo Facility (SRF) and the Foreign and International Monetary Authorities (FIMA) repo facility—help prevent rate spikes in the event of large, unexpected shocks to reserve supply, demand or distribution.
+
+The ceiling tools have proven their effectiveness over time. However, I see some opportunities to strengthen them further.
+
+Depository institutions have greatly improved their operational readiness to borrow from the discount window. We should continue to reinforce the value of operational readiness so firms maintain these gains. And readiness is a partnership. At the Federal Reserve Banks, we are working to enhance our capacity to serve customers efficiently when they come to borrow, drawing on feedback received through a recent Request for Information by the Board of Governors. We should also continue to emphasize that borrowing from the window is an appropriate way for healthy banks to meet short-term funding needs—not something investors, ratings agencies or supervisors should criticize or question.
+
+We can also enhance the SRF. As Roberto described in his recent speech, experiments and market outreach by the New York Fed’s Open Market Trading Desk have found that conducting and settling the SRF operation in the morning, in addition to the current afternoon timing, makes the facility more effective by addressing intraday funding needs. I’m pleased that, as Roberto announced earlier this month, the Desk plans to soon introduce regular early-settlement SRF operations.
+
+Central clearing of SRF operations would also make the facility more attractive and enhance rate control. That’s because central clearing would allow bank-affiliated dealers to net down their balance sheets when they borrow from the SRF and lend onward to other firms. Desk outreach has found that the lack of netting is one of several reasons why counterparties currently report high hurdle rates for borrowing from the SRF, along with reporting requirements and supervisory considerations. I’d also note that, although the SEC’s clearing mandate does not apply to the Fed, centrally clearing Fed operations on a voluntary basis would align with and support the market transition. I’ll be interested to hear our panelists’ perspectives on how to make the Fed’s tools as effective as possible.
+
+With that, let’s turn to our conversation. I’d like to start with the big picture. How did markets, and especially non-bank participants, handle the high volatility and large flows in early April? And what’s the outlook for NBFIs in the years ahead? Deirdre, I’ll ask you to start with your view on Treasury markets, and then we’ll turn to Lou for an assessment of money markets.
+

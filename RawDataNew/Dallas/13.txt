@@ -1,0 +1,91 @@
+https://www.dallasfed.org/news/speeches/logan/2024/lkl240718
+
+Lorie K. Logan
+
+A level playing field for deposit insurance
+
+July 18, 2024
+
+Dallas Fed and Atlanta Fed conference, “Exploring Conventional Bank Funding Regimes in an Unconventional World.”
+
+Welcome. Thank you, Mark [Wynne], for the introduction. I’m excited to be here with you all today and to welcome you to the Dallas Fed.
+
+This week’s conference will focus on how banks fund their activities. Funding is a basic aspect of banking, and it particularly comes into focus during stress episodes, such as the one we experienced last year. Funding models can also influence the diversity and competitiveness of the banking system over time, and in my remarks today, I’m going to spotlight those considerations. 
+
+I’m so pleased that our friends at the Atlanta Fed collaborated with us to organize and host this conference, including my colleague President Raphael Bostic, who will speak tomorrow. I’m delighted to be joined by so many distinguished banking and policy leaders, including Federal Reserve Gov. Michelle Bowman, who will give keynote remarks at dinner this evening; Agustin Carstens, general manager of the Bank for International Settlements, who will give tomorrow’s opening keynote; and my colleague Mary Daly, president of the San Francisco Fed, who will participate in a fireside chat this afternoon. And I’m thrilled to bring together industry, policymaker and academic perspectives for this important conversation.
+
+The importance of bank funding
+Funding risk is both one of the oldest challenges in banking and one of the most timely. The most basic activity banks do is transform deposits into longer-term investments. Banks accept deposits, promise to return them whenever depositors want and invest in the meantime in less-liquid assets, such as loans that finance investment and fuel economic growth.
+
+So, as I’m sure the panelists in our history session this afternoon will discuss, bankers have long understood the importance of being prepared to meet withdrawals—and of maintaining depositors’ confidence so they don’t withdraw money based on unfounded fears.
+
+But as we saw in 2023, maintaining depositors’ confidence can be challenging in today’s highly networked society that allows bank runs to propagate with unprecedented speed. Now that banking conditions have stabilized and the immediate pressures banks felt last year have passed—though we should always remain watchful for any risks that may emerge—it’s a good time to consider whether adjustments in banks’ liquidity risk management or in related public policies can support a strong and vibrant banking system in the modern environment.
+
+I’m looking forward to the ideas and insights all of you will share today and tomorrow. I’d like to start with a few perspectives of my own, and I’ll note these will be my perspectives and not necessarily those of my Federal Reserve colleagues.  
+
+A framework for the issues
+From my standpoint, there are three main ways to ensure sound liquidity risk management in banking. First, regulations can require banks to hold a certain amount of liquid assets, or banks can choose to do so voluntarily. This approach is important, but relying exclusively on it would have a drawback. By limiting the amount of liquidity transformation banks do, this approach limits the amount of banking they do.
+
+Second, as a complement to holding liquid assets, bankers and regulators can ensure banks have reliable and ready access to contingent funding sources. Contingent funding can come from private markets and from central bank backstops such as the Federal Reserve’s discount window and Standing Repo Facility or from similar facilities that other central banks offer firms in their countries with funding from dollar swap lines. We’ll have a panel on contingent liquidity tomorrow.
+
+And third, banks and regulators can work to stabilize the deposit and funding base. For example, diversifying deposit sources can make a bank’s funding more resilient. And deposit insurance can reinforce customers’ confidence that their money is safe, thus preventing bank runs and limiting the potential liquidity outflows that banks may need to meet.
+
+These three approaches interact. Buffers of liquid assets and sound plans for contingent funding can reassure depositors and prevent runs, accomplishing some of the same goals as deposit insurance. And to the degree deposit insurance succeeds in preventing runs, banks may not need as much access to liquid assets or contingent funding.
+
+Experience over recent years has demonstrated that the discount window and the Fed’s other liquidity tools are effective in supporting the stability of the banking and financial systems and, in turn, the flow of credit to households and businesses. However, the payments and financial systems, the economy, and technology continue to evolve rapidly. That evolution can create new liquidity challenges and needs, as well as new opportunities for the Fed to serve the public efficiently and effectively. 
+
+Our last full review of the discount window function took place more than 20 years ago. By examining our approach to discount window lending in the current environment and in light of recent experience, we can ensure the window continues to provide ready access to liquidity going forward. 
+
+A critical element, in my view, is enhancing depository institutions’ operational readiness to use the discount window. In my opinion, every bank in America should be fully set up at the window as part of its liquidity toolkit. That means completing legal documents and establishing collateral arrangements well before any funding need arises. And it means testing the plumbing—practicing the steps needed to take out and repay a loan and to move collateral between the Fed and other funding sources. A bank facing a rapid run will not have the luxury of waiting for setup or learning the procedures. 
+
+Working together with bankers, the Federal Reserve System has already made substantial progress toward enhanced operational readiness at the window. More than 5,000 depository institutions have signed the necessary legal documents. They’ve pledged $3 trillion in collateral, up $1 trillion from last year. And we’ve launched Discount Window Direct, an online portal that lets depository institutions more efficiently request loans.
+
+I’m optimistic that through further modernization of our technology and policies, as well as ongoing partnership with banks, we can ensure the discount window remains a powerful tool for providing the banking system ample access to liquidity.
+
+Deposit insurance for a diverse and competitive banking system
+Turning to deposit insurance, the Federal Reserve does not establish those policies. Deposit insurance is the responsibility of Congress, the Federal Deposit Insurance Corporation (FDIC) and the National Credit Union Administration. But deposit insurance policies do, as I mentioned, interact with liquidity provisions by the Fed, as well as our work supervising banks and promoting financial stability. So I’d like to offer some thoughts on those interactions and how deposit insurance can best support a banking ecosystem that serves our economy well.
+
+My starting principle is that deposit insurance policies, like all banking policies, should support a level playing field and fair competition among banks. Fair competition is a fundamental element of our market economy. Across all industries, fair competition promotes innovation, opportunity and diverse business models that can meet the needs of many different customers. And that is just as true in banking as in any other business.
+
+I grew up in Versailles, Kentucky, a small town with a tight-knit community. In Versailles, like so many other small towns in the United States, our community bank catalyzed economic growth. Observing this relationship instilled in me an appreciation for how smaller banks support strong communities and local economies.
+
+My conversations with business and community leaders as I travel the Eleventh District reinforce that appreciation. We heard from a woman in the Rio Grande Valley who dreamed of expanding her snack stand. She didn’t have financial statements to present to a bank for a loan. But the bankers at a local community bank were regular customers, and they got to talking about her ambitions. They realized she had a checking account at the bank, and the account history of revenue and expenses showed she had a viable business. The bankers worked with the snack stand owner to help her craft a business plan and get a loan to expand. She now has multiple locations and even several franchisees. That type of local knowledge and relationship-based lending is a specialty of smaller banks.
+
+Communities’ needs vary. To maintain a vibrant banking system that can meet those diverse needs, policies should support a level playing field. That way, the banking models that best serve customers and communities will come out ahead in the marketplace.
+
+In my view, a level playing field is achievable when it comes to deposit insurance, but that could require some change. Right now, a couple of factors related to deposit insurance come together to give the largest banks a potential advantage in attracting deposits. Federal insurance coverage is limited to $250,000 per depositor. That limit is supposed to give small depositors confidence while creating incentives for larger depositors to investigate their banks’ condition. While large depositors could theoretically provide helpful market discipline, they also often perceive—rightly or wrongly—that some banks are too big to fail and that the government will bail out those banks or their depositors in a crisis. Such perceptions undermine market discipline and tilt the playing field toward big banks.
+
+When I checked recently, several of the country’s biggest banks were offering interest rates of just 1 to 6 basis points on a standard savings account. How many community banks can attract deposits at rates like that, when money market rates are over 500 basis points? Of course, there are many reasons why the largest banks may be able to pay lower interest rates than other banks. For example, some customers may value these banks’ wide range of capital markets, settlement, custodial, international and other services or their extensive branch networks. 
+
+But the evidence of a tilt goes beyond interest rates. Amid the severe banking stresses in early 2023, we heard many reports of depositors pulling their funds from smaller banks and moving to the largest ones. Just in the second week of March 2023, deposits at the country’s 25 largest banks rose $113 billion, while deposits at all other domestic banks fell $172 billion. The shift was significant enough that executives at several of the largest banks mentioned it in their quarterly earnings calls. One described “significant new account opening activity and meaningful deposit and money market fund inflows,” while another reported seeing “noticeable flight to safety.” Meanwhile, at regional banks, executives were saying things like “68 percent of our dollars that went out, went out to larger banks, the money center banks,” and certain customers “wanted to pull money out from all regional banks.”
+
+If you step back and look at how deposit insurance works, these actions by depositors aren’t surprising. And although the flows to larger banks ebbed as banking conditions calmed, the underlying incentives remain.
+
+Especially when it comes to business accounts, $250,000 isn’t such a large deposit. A small business employing 110 people at the median wage would need $250,000 in its checking account just to cover a biweekly payroll. What small business owner has time to conduct regular, thorough checkups on a bank’s health? So, many depositors prefer to bank at institutions where they don’t have to think hard about whether their funds are safe. 
+
+And there’s an important exception to the $250,000 limit. If a bank fails and the Treasury secretary and the boards of the FDIC and Federal Reserve agree there’s a serious threat to financial stability, the FDIC can cover all deposits, even those above the limit. The government makes no advance commitments about when it will invoke that systemic risk exception. The exception has sometimes been applied to cover uninsured deposits at relatively small banks, such as when Silicon Valley Bank (SVB) and Signature Bank failed in 2023. Still, most depositors didn’t foresee that action. If they had, they probably wouldn’t have run on SVB and Signature in the first place. By contrast, while the government has not provided a formal guarantee to the eight U.S. firms designated as Global Systemically Important Banks, or G-SIBs, most market participants think it’s pretty unlikely the authorities would let those firms’ depositors lose money. After all, these banks are officially systemically important.
+
+The perception that certain banks are too big to fail tilts the playing field. Some people argue that stringent regulations on big banks counterbalance any too-big-to-fail benefits. But even if the costs and benefits of size are equal most of the time, the equation breaks when stresses emerge and the value of a perceived guarantee is suddenly much larger.
+
+Conceptually, there are a couple of possibilities for restoring balance. Regulators could adopt even tougher regulations on the largest banks. But such regulations could put a drag on the economy by raising big banks’ costs for some of the unique and critical intermediation services they provide. Or, authorities could increase the deposit insurance limit so that deposits would be more equally protected at all banks. The FDIC proposed some interesting options along those lines in a report last year. Of course, the benefits of a higher limit have to be weighed against potential costs, such as whether deposit insurance premiums would need to rise or whether a higher limit could increase moral hazard and encourage banks to take excessive risks.
+
+We have a panel on deposit insurance this afternoon, and I’m eager to hear how the panelists weigh these and other costs and benefits. Ultimately Congress would make any decisions. But I would offer just a few more reasons why the current limit may be too low.
+
+For starters, the economy has grown substantially since Congress last raised the limit in 2008. If the limit had increased since then in line with nominal gross domestic product, it would be nearly half a million dollars today. 
+
+Another reason is the invocation of the systemic risk exception to cover SVB and Signature in 2023. This was clearly the right decision to protect the economy and financial system once the banks had failed. But the need to provide insurance after the fact to depositors who weren’t supposed to receive it and whose banks had not been regulated as systemically important suggests to me the insurance limit was too low in the first place. 
+
+Lastly, I’d note the growing use of reciprocal deposit networks, which allow banks to swap deposits in excess of the limit with each other to provide depositors more insurance. Reciprocal deposits reached $379 billion in the first quarter of this year, up from $157 billion at the end of 2022. The vast majority of reciprocal deposits—89 percent—are at banks with less than $100 billion in assets. That reflects both the funding environment for smaller banks and the less-favorable regulatory treatment of very large reciprocal deposits.
+
+Reciprocal deposits can cost banks more than 10 basis points in network fees. Smaller banks’ willingness to pay this cost to work around the deposit insurance limit suggests the limit’s too low. As a society, if we’re going to provide the insurance anyway—which is what happens when banks use reciprocal deposits—we may as well increase the limit so we can avoid the costs, operational risks and regulatory mirages involved in passing deposits back and forth between banks.
+
+Still, there is lots to learn here, and I’m eager to hear all of your views.
+
+Conclusion
+Turning to our agenda, over the next day and a half, we’ll examine not only the role of deposit insurance in today’s financial system, but also the stressors that led to the events of last spring; lessons from historic financial crises; and the future of the discount window and other contingent liquidity sources. We’ll also have a roundtable discussion on what academics, bankers and regulators see as the key risks and challenges in bank funding.
+
+These discussions will deepen our understanding of banks’ funding vulnerabilities and help the industry and regulators prepare better for the future.
+
+Thank you all for joining us today, and many thanks to the entire team here and at the Atlanta Fed who worked so hard to make this conference happen. 
+
+Now, let’s welcome Arthur Lindo, who will chair today’s first session, “A look back at the regional banking stresses of 2023.”

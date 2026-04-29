@@ -1,0 +1,52 @@
+https://www.clevelandfed.org/collections/speeches/sp-20251120-financial-stability-conference
+
+Opening Remarks
+
+Beth M. Hammack
+
+11.20.2025
+
+2025 Financial Stability Conference: Financial Stability in a Time of Rapid Economic and Technological Change, Cleveland, Ohio
+
+Good morning, and welcome to the Cleveland Fed’s 2025 Financial Stability Conference.
+
+After 13 years, this series has proven its value as the place to be for financial stability researchers, regulators, and practitioners. It was created at a time when the Global Financial Crisis was still fresh in our minds. Since then, many of you have contributed to a growing body of work identifying new vulnerabilities in the financial system and developing tools to counteract shocks that come our way. The pandemic shock—and the Fed’s robust and effective response—was a sharp reminder that when it comes to financial stability, you can never let your guard down.
+
+The Fed has a strong interest in financial stability, and not only because promoting it is one of our core functions. Financial stability supports our other objectives: fostering a safe and sound banking system, an efficient payments system, community development, and our monetary policy objectives of maximum employment and stable prices.
+
+So what do we mean by financial stability? A stable financial system is one that is resilient to shocks and one in which lenders are able to provide households, communities, and businesses with the financing they need to improve economic opportunities.
+
+Right now, my view is that the financial system meets this definition. Banks are better capitalized than they were a few years ago, despite lingering effects from unrealized losses on securities and loans from some older assets. Equally important, households in the aggregate are in good financial shape. While leverage is elevated in some parts of the financial system—including among hedge funds and life insurers—the overall picture appears sound.
+
+But as the economy and financial system evolve, so do the potential shocks we may face. In that vein, Financial Stability in a Time of Rapid Economic and Technological Change feels exactly right for this year’s conference theme. And it’s reflected in the timely agenda.
+
+We have an excellent lineup of speakers and presentations to guide our discussion over the next two days. Itay Goldstein with the University of Pennsylvania and Vice Chair Philip Jefferson with the Board of Governors of the Federal Reserve System will deliver keynote addresses. I am especially happy to welcome members of the Cleveland Fed’s Financial Markets Advisory Council who were able to join us yesterday to share information and insights about the state of financial markets and emerging risks. And I want to extend a special thanks and recognition to the Cleveland Fed's Joe Haubrich, who has been a driving force behind this important conference since the beginning.
+
+To kick things off, I’d like to briefly share a few of the financial stability risks that are on my personal watchlist. To be clear, although some of the items I’ll discuss were cited in the Fed’s recent Financial Stability Report,1 these are my own views and not necessarily those of the Federal Reserve System or my colleagues on the Federal Open Market Committee.
+
+First, private credit. The high-profile bankruptcies that occurred in September—not all of which were because of private credit loans—are a reminder that this fast-growing market bears close watching. Though some might say the credit defaults were unusual because they may be tied to fraud and limited due diligence, the underlying factors—strong credit supply and strong demand for credit assets—suggest that they might not be isolated events. It’s typically at the end of a credit cycle that the riskiest lending is revealed. And as it’s been a long time since we’ve had a full credit cycle, we need to be mindful not to be complacent.
+
+Lack of transparency is another issue. Private credit and loans to private firms usually offer less in the way of public financial information compared with bank loans, bond markets, and broadly syndicated loans. Furthermore, private credit loans often include features like payment in kind that can enable riskier lending to less profitable companies. The opacity of the lending along with private credit’s liability structure make it easier to roll over loans and delay recognition of losses, keeping problem loans out of sight. If we are approaching the end of a credit cycle, I would expect an increase in such cases.
+
+Though many loans are made outside the banking sector, there are often connections to the banking industry, even if indirect. Banks are increasingly working with private-credit lenders, both directly providing leverage and serving as matchmakers with borrowers. There are reports of banks providing leverage on bank credit-risk transfers, and increased lending to private credit funds, practices which bring that risk back into the banking sector.2
+
+This is an area where the proverbial “more research and data are needed” applies. We need more information on private credit, more analysis of the connections between the banks and nonbank entities providing the funding, and more monitoring. It would be particularly helpful to shed light on ways in which regulatory policies are creating incentives for private credit to grow.
+
+Second on my watchlist are stablecoins. We are seeing huge growth in this market, with private-sector estimates putting the volume increase at 70 percent this year. While the GENIUS Act established a new regulatory framework around payment stablecoins, there are still open questions about what sort of guardrails might be called for as this sector continues to grow compared to other areas like bank deposits and money market funds.
+
+Stablecoins are an exciting emerging technology, but only time will tell what the use cases are going to be. In the meantime, we have much to learn. Will the primary use cases be domestic or international? How will stablecoins interact with fiat money payment systems? The most promising applications seem to be in expediting cross-border payments and providing a safe, easily transferable US dollar asset for foreigners to hold. What happens in the case of theft or cyber-attack on a stablecoin issuer? Without a deposit insurance scheme, even the safest of underlying portfolios would be at risk from bad actors. What types of underlying assets will these coins hold? Will it be primarily Treasuries, or would bank deposits offer higher yields, though with increased risk.
+
+These are the kinds of questions I hope some of you are contemplating as well while we evaluate the financial stability implications of this emerging platform.
+
+Finally, given the timing of these remarks I haven’t had a chance to unpack this morning’s employment situation report, but I am watching the challenges that high inflation and the softening labor market pose for the economy, for monetary policymakers, and for financial stability.
+
+Inflation has been running above the Fed’s 2 percent objective for four and a half years. Lowering interest rates to support the labor market risks prolonging this period of elevated inflation, and it could also encourage risk-taking in financial markets. Financial conditions are quite accommodative today, reflecting recent gains in equity prices and easy credit conditions. Easing policy in this environment could support risky lending. It could also further boost valuations and delay discovery of weak lending practices in credit markets. This means that whenever the next downturn comes, it could be larger than it otherwise would have been, with a larger impact on the economy. At that point, policy would have less space to further reduce rates and offset weak demand.
+
+Sometimes cutting rates is described in risk-management terms as taking out insurance against a more severe slowdown in the labor market. But we should be mindful that such insurance could come at the cost of heightened financial stability risks. There’s already a substantial body of research on how persistent inflation can increase risks for banks and put pressure on household finances. The challenging period we’re currently experiencing for monetary policy could well be the subject of future research on the financial stability implications of having both sides of the Fed’s mandate under pressure.
+
+Conclusion
+To sum up, the financial system is in good shape. But there are enough risks out there to keep all of your financial stability research agendas full. Your participation in this program is an important piece of the Fed’s work to promote a safer and sounder financial system. I thank you in advance for the insights you will be sharing with us over the next two days and in the years ahead. Have a great conference.
+
+Footnotes
+“Financial Stability Report,” Board of Governors of the Federal Reserve System, November 2025. (federalreserve.gov/publications/files/financial-stability-report-20251107.pdf) Return to 1
+See “Box 1.1: Synthetic Risk Transfers: Managing Risks or Creating New Ones?” in Global Financial Stability Report, International Monetary Fund, October 2024. imf.org/en/publications/gfsr/issues/2024/10/22/global-financial-stability-report-october-2024. Return to 2

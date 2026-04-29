@@ -1,0 +1,67 @@
+https://www.dallasfed.org/news/speeches/logan/2025/lkl250715
+
+Lorie K. Logan
+
+Opening remarks for moderated conversation at the World Affairs Council of San Antonio
+
+July 15, 2025
+
+World Affairs Council of San Antonio
+
+Thank you, Armen [Babajanian]. Thank you all for having me.
+
+I’d like to begin by offering my deepest condolences to all those who lost loved ones in the catastrophic flooding in the Texas Hill Country earlier this month. The loss of life is heartbreaking—especially, for me as a parent, the deaths of so many children. I take inspiration, though, from the heroism of first responders and residents who stepped up to help and from how communities across the area have rallied to support our neighbors. These actions show the true character of Texas.
+
+It’s a pleasure to visit the World Affairs Council of San Antonio this evening. In cities across the United States, World Affairs Councils promote engagement with global issues and deep community connections. This work is so important. The Dallas Fed frequently collaborates on events with World Affairs Councils in our region. Just last week, we partnered with the council in Dallas–Fort Worth to host a conversation with Federal Reserve Board Governor Chris Waller. I’m so glad to be with you here tonight, and I hope I’ll have many opportunities to return.
+
+I’m grateful to have many special guests in our audience, including current and former board members of the Dallas Fed. It means so much to have strong community partners like our board members who represent South Texas and who work with our branch here in San Antonio.
+
+I’m honored to share the stage this evening with our distinguished moderator, Speaker [Joe] Straus. Before we sit down to talk, I would like to share some initial remarks. As always, these are my views and not necessarily those of others in the Federal Reserve System.
+
+The Dallas Fed is one of the 12 reserve banks that, along with the Board of Governors in Washington, make up the Federal Reserve System. Relative to other public institutions, the Fed has two distinctive characteristics that are crucial to how we serve you. The Fed is not one centralized organization but rather a federated system with deep local roots. And in our monetary policy responsibilities, the Fed operates independently while remaining accountable to the public.
+
+Our network of operations across the country provides insights into communities’ unique economic circumstances. In the United States’ wonderfully varied economy, those perspectives help us make the best decisions to serve the country as a whole.
+
+But the Fed’s federated structure doesn’t just help us gather information. Each reserve bank is a separate corporation with its own board of directors. Our directors represent the public in the district. And besides sharing perspectives on economic conditions, they hold us accountable for serving the district well.
+
+To be clear, in most of our work, the Federal Reserve ultimately must act in unison to best serve the country as a whole. In monetary policy, we have to set the same interest rate target for Texas as for Tennessee. And in bank supervision, we can’t be any more or less stringent when we examine banks in San Antonio than we are in Seattle. But our local roots keep us accountable for including your voices in those national decisions.
+
+My colleagues and I at the Dallas Fed talk frequently with business and community leaders—as well as workers and families—to learn how people are experiencing the economy. Those insights especially inform our monetary policy choices, which brings me to the Fed’s second unique characteristic, monetary policy independence.
+
+Congress tasked the Fed with setting monetary policy to achieve two goals: maximum employment and stable prices. In the short run, a central bank could always temporarily boost employment by cutting interest rates. But over time, excessive rate cuts would trigger a spiral of inflation, wiping out the benefits of a hot labor market. So to have a sustainably strong economy, a central bank has to make decisions for the long run.
+
+Congress designed the Federal Reserve System to promote that long-term focus. Members of the Board of Governors are appointed by the president and confirmed by the Senate to serve 14-year terms. Reserve bank presidents, like me, are appointed to five-year terms by our local boards of directors, with approval by the Board of Governors. The long terms for these roles let us choose policies that will best serve the country over time.
+
+While the Fed’s leaders aren’t up for election, we remain accountable to the public for achieving our monetary policy goals. That accountability comes through regular testimony to Congress, extensive public dialogue and ultimately the regular turnover of governors and reserve bank presidents as terms expire.
+
+Research shows that central banks perform better on inflation when they are independent from short-term political considerations. The pattern is clear when looking around the world (perhaps a familiar vantage point for many of you as watchers of global affairs) and over history. And in my experience, the Fed’s combination of independence and accountability enables us to make thoughtful, objective, technical decisions while keeping the public interest at the center of all we do.
+
+The Fed’s long-term focus shapes my thinking about monetary policy at the current juncture.
+
+The U.S. economy has been quite stable over the past year despite substantial shifts in domestic policies and geopolitics.
+
+Starting with inflation, the price index for personal consumption expenditures, or PCE, rose 2.3 percent over the 12 months ended in May, which is the most recent figure available. That’s down substantially from the postpandemic peak of 7.2 percent. It’s still a bit above the 2 percent target of the Federal Open Market Committee (FOMC), though. And it’s only slightly lower than late last spring. While the last several monthly inflation prints have been encouraging, short streaks of good news have raised hopes before, only to disappoint people when inflation rebounded. So I'd like to see low inflation continue longer to be convinced.
+
+This morning, we received the June data for the Consumer Price Index, which measures a slightly different mix of prices. The details of the CPI report suggest annual PCE inflation through June will probably move up a bit.
+
+Meanwhile, the labor market remains solid. The unemployment rate stands at 4.1 percent. Like inflation, that’s just about the same as late last spring. Job openings, quits and businesses’ hiring and firing rates have also been moving sideways.
+
+After cutting interest rates 100 basis points in the second half of 2024, the FOMC has held the fed funds target range steady at 4.25 to 4.5 percent so far this year. Where policy goes from here depends not only on the current state of the economy but also on the outlook for the future. Changes in monetary policy take time to work their way through the financial system and economy. So we have to set a stance of policy that makes sense for where the economy is going, not where it’s been.
+
+I see two main scenarios for how the economic environment could shape the path of policy over coming quarters. My base case is that we’ll need to keep interest rates modestly restrictive for some time to complete the work of returning inflation sustainably to the 2 percent target. But it’s also possible that some combination of softer inflation and a weakening labor market will call for lower rates fairly soon.
+
+Let’s walk through the case for each of those scenarios.
+
+While tariff increases have left only a modest imprint on inflation so far, they appear likely to create additional pressure for some time. Inventories and fixed-price contracts have helped some companies temporarily hold the line, but higher tariffs will need to be priced in when contracts renew and inventories run out. Tariffs on intermediate goods, such as parts used to assemble new cars, take time to show up in the prices of finished products. And some retailers are waiting to raise prices until they see where tariff rates settle.
+
+To forecast inflation overall, it’s helpful to set aside categories of goods and services that have experienced unusually large price increases or decreases. Those big swings often reverse themselves. The Dallas Fed’s trimmed mean PCE inflation rate, which removes outliers, has historically provided a good read on the outlook for overall inflation. Through May, the trimmed mean stood at 2.5 percent over the past year and 2.7 percent over the past six months. That tells me we have more ground to cover to achieve our long-run inflation goal.
+
+Meanwhile, the environment appears favorable for demand to remain resilient. Broad financial conditions are supportive of growth. The stock market is near all-time highs. Credit spreads are near all-time lows. And in the Dallas Fed’s most recent Banking Conditions Survey, banking executives in the region told us loan volume and demand have picked up. Fiscal policy appears set to be a tailwind to aggregate growth, although the effects will vary across income levels and economic sectors. While consumer spending has stepped down from last year’s very strong pace, the solid labor market means household incomes are holding up.
+
+All this adds up, for me, to a base case in which monetary policy needs to hold tight for a while longer to bring inflation sustainably back to target—and in this base case, we can sustain maximum employment even with modestly restrictive policy.
+
+But even though that’s my base case, other possibilities are quite plausible. Inflation could turn out to be less persistent and less responsive to tariffs. There have been slight signs of cooling in the most recent labor data. Continuing unemployment claims have risen. And private sector job growth stepped down in June. While firing rates are low, so are hiring rates, which means it’s harder for people to find work when they lose their jobs or enter the labor force. House prices dipped in recent months, which could indicate cooling demand. Indicators of business and consumer sentiment, including the Dallas Fed’s Texas Business Outlook Survey, have been relatively pessimistic. If households and businesses start to act on those worries, the hard measures of economic activity could worsen. And, as this audience knows well, against a backdrop of heightened geopolitical risks, any number of unanticipated shocks could throw the economy off course. Outcomes along any of these lines could shift the inflation and employment outlook and call for reducing interest rates sooner than in my base case.
+
+In setting monetary policy, we have to balance a wide range of risks, including the risk that we misjudge which scenario the economy is in. If we cut rates too soon, inflation could get stuck above our target, and households and businesses might come to expect further price increases. History teaches that when higher inflation expectations become entrenched, the road back to price stability is longer, the labor market is weaker, and the economic scars are deeper. Yet if we don’t cut rates soon enough, the labor market could weaken more. Those job losses, too, would be painful. But we’d have the option of cutting rates further to get employment back on track. For now, I believe monetary policy is well positioned to achieve the FOMC’s goals of maximum employment and price stability and to respond appropriately as the outlook changes.
+
+Thank you again for the opportunity to join you this evening. I’d be happy to take your questions.

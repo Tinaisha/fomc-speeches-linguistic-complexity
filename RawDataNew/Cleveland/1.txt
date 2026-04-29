@@ -1,0 +1,82 @@
+https://www.clevelandfed.org/collections/speeches/sp-20250626-community-development-paying-it-forward
+
+Community Development: Paying It Forward
+
+Beth M. Hammack
+
+06.26.2025
+
+Policy Summit 2025: Building Strong and Sustainable Communities, Cleveland, OH
+
+Introduction
+Good morning and thank you all for joining us at the seventeenth Policy Summit. I’m honored to welcome you to our marquee community development event—my first as president and CEO of the Federal Reserve Bank of Cleveland.1
+
+If this is your first visit to our fair city, let me assure you Cleveland does indeed rock. I highly recommend exploring some of what this vibrant city has to offer in one of our loveliest weather months. The Rock and Roll Hall of Fame is just down the street, as is Progressive Field, where I happen to know the Guardians are playing home games over the next couple of days.
+
+But while we are participating in the summit, I’d like to acknowledge we wouldn’t all be together in person, or virtually, if it wasn’t for the efforts of the Cleveland Fed’s community development staff and our Reserve Bank and community partners. The Federal Reserve System’s Community Development Departments aim to promote economic growth and financial stability. We are honored to welcome representatives from each of the reserve banks to this summit, and I’m especially grateful to the Federal Reserve Banks of Atlanta, Boston, Chicago, Dallas, Kansas City, New York, Philadelphia, Richmond, and St. Louis for supporting the planning and execution of the event. Your dedication and collaboration made this ambitious program a reality.
+
+I’d like to recognize and thank Federal Reserve Governors Michael Barr and Lisa Cook for joining us. Governor Barr is the Community Development Oversight Governor for the Board of Governors and will share some remarks about the System’s community development efforts this afternoon. And Governor Cook will join me tomorrow for our 2025 Fed Listens session. We hope all of you will take part in that productive conversation about how monetary policy affects your lives and the lives of the people you know and serve.
+
+And before I continue, I note that the views I present will be my own and not necessarily those of the Federal Reserve System or of my colleagues on the Federal Open Market Committee.
+
+There’s a lot to look forward to, starting with Dr. Rajiv Shah’s keynote address. Dr. Shah is the president of the Rockefeller Foundation, and after his address, he will have a conversation with Lillian Kuri, the president and CEO of the Cleveland Foundation. It’s not often I get to say organizations have the Fed’s longevity, but both the Federal Reserve and the Rockefeller Foundation were founded in 1913, and the Cleveland Foundation started just one year later. All three organizations have evolved and transformed over the past century to address new challenges and serve stakeholders. I’m eagerly anticipating the discussion.
+
+The Policy Summit has a long history of bringing together community development practitioners, researchers, and community leaders with diverse perspectives to share best practices. An aim of this conference is that you will bring the information and solutions you gain here back to your home communities. It’s like the movie Pay It Forward: If each person shares what they’ve learned with three people, and those people share with three more and so on, the knowledge on how to build strong and sustainable communities will spread far beyond this ballroom.
+
+Fed 101 and Community Development
+If this is your first Policy Summit, you may wonder why the Fed is holding this event. So, I’d like to take a minute to do a quick Fed 101 on our structure and responsibilities.
+
+As you all know, the Federal Reserve System is more than 100 years old and is made up of two main parts, the Board of Governors in Washington DC and the 12 Reserve Banks. The Board is a federal government agency with seven members appointed by the US president and confirmed by the Senate. The 12 regional Reserve Banks across the country, including Cleveland, serve as operating arms of the Federal Reserve System. The Cleveland Fed represents the Fourth Federal Reserve District, encompassing Ohio and parts of Pennsylvania, Kentucky, and West Virginia. The Reserve Banks are not part of the federal government, and each one has its own board of directors drawn from different parts of the community.
+
+The Federal Reserve System has five main responsibilities: promoting financial stability; supervision and regulation; payments; monetary policy; and our fifth function, most relevant for this summit: consumer protection and community development.
+
+As many of you know, the Fed’s community development roots began in 1977, when the Community Reinvestment Act charged the Federal Reserve System, and other federal banking regulators, with encouraging local financial institutions to help meet the credit needs of the communities where they do business, including in low- and moderate-income neighborhoods.2
+
+Nearly 50 years on, the 12 Reserve Banks and the Board of Governors each have their own teams that focus on research and outreach to promote community development and protect consumers. This research focuses on many topics, including several of those featured in this conference, such as housing, the workforce, and economic development. The Fed’s decentralized structure means the System can create baseline national data, and each Reserve Bank then decides, based on the unique concerns in their respective Districts, which topics make sense to prioritize for further, more local research.
+
+Housing
+That’s in part why we know housing affordability is front of mind both nationally and in the Fourth District for many in low- and moderate-income communities.
+
+The System’s 2024 annual Community Perspectives Survey showed housing as a major concern,3 with few of those surveyed expecting any positive changes in that space over the next year. Similarly, in the Fourth District, the latest Cleveland Fed Community Issues Survey, which gathered input from those who serve low- and moderate-income individuals, pointed to rising rents and the lack of affordable housing as top challenges. More than 60 percent of respondents said there has been a decrease in the availability of affordable housing.4
+
+The results of both surveys are in line with data from across the country. According to the Atlanta Fed’s Home Ownership Affordability Monitor, home prices are broadly outpacing incomes. This is just one of many reasons why housing affordability has worsened nationally over recent decades. Another contributing factor is new housing construction not keeping up with demand.5,6 Both of these topics will be discussed during today’s plenary session on how to tackle the housing supply shortage.
+
+It is our role to elevate these types of concerns when we see them and to better understand their impact on the economy.
+
+Workforce Development
+The Federal Reserve System’s community development function prioritizes gathering information about the workforce. Employment barriers can prevent some people from fully participating in the labor market, which can be especially true for individuals from low- and moderate-income communities. As maximum employment is one side of our dual mandate, understanding those barriers and learning about possible solutions are core to our work.
+
+An example of this is the Worker Voices Project, a series of roundtables the Federal Reserve System held across the country to learn from workers how they navigated the labor market during the pandemic.7 Participant responses revealed not all individuals benefited from the tight labor market in 2021 and that workers have higher expectations around job quality.
+
+Researchers in the Fourth District decided to build on this research and collaborated with 10 external partners to pilot our Perspectives on Work survey last year. According to a new piece on clevelandfed.org, local survey respondents indicated that finding jobs that offer benefits and provide wages high enough to cover living expenses remains a challenge for job seekers.8 The information collected in our survey was also used in the community conditions section of the January 2025 Beige Book.9
+
+Sometimes insights from stakeholders can lead directly to action, which is what happened with the Occupational Mobility Explorer tool, or OME, after community development research staff were repeatedly asked during outreach visits, “how can I find a job that provides a livable wage?”
+
+To help answer this question, the Cleveland and Philadelphia Feds developed the OME, a free tool that takes a “skills-based” approach to help workers identify higher-paying occupations in their regions that match their skill sets. The OME also provides valuable information about the skills most requested by employers. Our analysis of the tool’s data determined that a variety of “social and soft” skills are the most requested nationally by employers and that these skills are important for economic mobility.10
+
+Other times we use outreach trips to develop relationships and learn more about our community partners’ ongoing work. During trips I took to MAGNET: The Manufacturing Advocacy and Growth Network in Cleveland and to Lorain County Community College, I saw how each is trying new and unique solutions to train the next generation of workers for good, high-paying jobs. We know that it may be hard for people who are so used to things the way they are to change—even if things are bad. But these visits underscore the creativity and commitment we see in the workforce development space, recognizing that initiatives may need to evolve quickly because of changing market demand.
+
+I was impressed by these two examples within our District, and I’m looking forward to this afternoon’s plenary session to learn more about what other communities are doing to increase access to good-paying jobs and long-lasting careers.
+
+Thank You
+At the Cleveland Fed, and across the Federal Reserve System, we take our responsibility as public servants seriously and rely on input from the people we serve to ensure we are doing the best job fulfilling the Bank’s mission of improving economic opportunities for all.
+
+I encourage everyone to get involved in the Fed’s work. You can become a Beige Book contact and share your perspective on the economy with our research and outreach teams. For those of you who are unfamiliar, the Beige Book summarizes anecdotal information from each of the 12 Districts. Each Beige Book is an important snapshot in time, allowing policymakers to both better understand current conditions and recognize potential trends by comparing the differences between successive Beige Books. If you’re interested in serving as a Beige Book contact, you can reach out to your local Reserve Bank to see how to get involved. You can also read stories about our critical work in this area on FedCommunities.org, which is a Systemwide effort led by the Cleveland Fed.
+
+In addition to gathering perspectives from the people we serve, the Cleveland Fed alongside the other 11 Reserve Banks provide resources and insights into community conditions. We also seek out opportunities to connect groups to build strong and sustainable communities. I hope you will consider us as a resource as you move forward with your work.
+
+And now my ask of you: Pay it forward. Take the information you learn here and share it with the communities you serve.
+
+Thank you again for your time and attendance at this summit, and now I’d like to welcome my Cleveland Fed colleague Emily Garr Pacetti, who will introduce Dr. Rajiv Shah.
+
+Footnotes
+I am grateful to Kyle Fee, Lisa Nelson and Dani Carlson for assistance with these remarks. Return to 1
+Board of Governors of the Federal Reserve System. 2024. “Community Reinvestment Act (CRA).” March 8, 2024. https://www.federalreserve.gov/consumerscommunities/cra_about.htm. Return to 2
+Federal Reserve Bank of St. Louis. “New National Survey: Poor Economic Conditions Hurting Community Improvement.” August 21, 2024. https://www.stlouisfed.org/news-releases/2024/08/community-perspectives-survey-released. Return to 3
+Klesta, Matt. 2025. “Community Issues and Insights 2025: Inflation Continues to Strain Households’ Budgets.” Community Issues and Insights. Federal Reserve Bank of Cleveland. https://doi.org/10.26509/frbc-cd-20250605. Return to 4
+Glaeser, Edward, and Joseph Gyourko. 2025. “America’s Housing Affordability Crisis and the Decline of Housing Supply.” Brookings. https://www.brookings.edu/articles/americas-housing-affordability-crisis-and-the-decline-of-housing-supply/. Return to 5
+Freddie Mac. 2021. “Housing Supply: A Growing Deficit.” Research Note. https://www.freddiemac.com/research/insight/20210507-housing-supply. Return to 6
+“Worker Voices: Shifting Perspectives and Expectations on Employment.” Fed Communities. Accessed June 13, 2025. https://fedcommunities.org/research/worker-voices/. Return to 7
+Piazza, Merissa, and Kyle D. Fee. 2025. “Gathering Perspectives on Work in the Fourth District.” Notes from the Field (blog). Federal Reserve Bank of Cleveland. June 3, 2025. https://www.clevelandfed.org/publications/notes-from-the-field/2025/nftf-20250603-perspectives-on-work-in-fourth-district. Return to 8
+“Federal Reserve Bank of Cleveland.” Board of Governors of the Federal Reserve System. Accessed June 13, 2025. https://www.federalreserve.gov/monetarypolicy/beigebook202501-cleveland.htm. Return to 9
+Fee, Kyle D. 2025. “Using the Occupational Mobility Explorer to Understand Which Skills Are Most in Demand.” Community Development Reports. Federal Reserve Bank of Cleveland. https://www.doi.org/10.26509/frbc-cd-20250425. Return to 10

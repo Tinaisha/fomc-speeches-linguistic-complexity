@@ -1,0 +1,80 @@
+https://www.dallasfed.org/news/speeches/logan/2024/lkl240405
+
+Lorie K. Logan
+
+Sustainably restoring price stability: progress so far and risks ahead
+
+April 05, 2024
+
+Duke University students, faculty and community members.
+
+Thank you for that kind introduction, Ellen [Meade]. It’s great to be here at Duke and to have a chance to talk about monetary policy with one of my favorite former Federal Reserve colleagues.
+
+Today, I’d like to discuss the progress we’ve made toward the Fed’s macroeconomic goals, as well as the risks ahead. The views I share are mine and not necessarily those of my colleagues on the Federal Open Market Committee (FOMC).
+
+As you know, inflation surged in 2021 and 2022 on the heels of the economic disruptions from the pandemic. The annual change in the price index for personal consumption expenditures (PCE) peaked at more than 7 percent, far above our 2 percent target. The FOMC responded by rapidly raising the target range for the federal funds rate—a total of 5.25 percentage points over a year and a half. These actions aimed to bring the economy into better balance so we can sustainably achieve both of our Congressionally mandated goals: stable prices and maximum employment.
+
+We have made substantial progress toward that objective. For the second half of 2023, PCE inflation was just 2.1 percent, annualized. Moreover, while the labor market cooled from its overheated pace in early 2023, it remained strong, with the unemployment rate holding below 4 percent. The combination of cooler inflation and still-strong economic activity in the second half of 2023 inspired optimism that the economy was on a benign track toward restoring price stability without too much cost to workers, businesses, families and communities.
+
+In the first two months of 2024, however, inflation data surprised to the upside. In the rest of my remarks, I’ll assess the economic outlook and risks in light of these recent developments. My bottom line is that while the benign path back to price stability remains possible, I see meaningful risks to continued progress.
+
+Some good news
+It’s remarkable how resilient the economy has been to the increases in interest rates over the past two years. While the FOMC’s rate increases were necessary to restore price stability, the rapid pace carried a risk of a nonlinear reaction in financial markets or the economy. This was one reason I supported slowing the pace in late 2022 even as I remained committed to raising rates as high as necessary to accomplish the FOMC’s dual-mandate goals.
+
+At times last year, we saw data that some interpreted as cracks in the economy and labor market, and we heard concerns from financial market and business contacts that a recession could be imminent. But today, contacts consistently tell me they see a soft landing as the most likely scenario. In the Dallas Fed’s most recent Texas Business Outlook Surveys, half of respondents said they expect demand to pick up over the next six months. The risk of an abrupt deterioration in economic activity appears to be fading.
+
+Moreover, immigration and innovation have continued to support the supply side of the economy.
+
+The Congressional Budget Office (CBO) recently reported a major upward revision in estimates of net immigration. Relative to estimates made last year, the CBO now calculates that an additional 4 million people immigrated to the United States from 2021 through 2023. And the CBO now projects 4.4 million more immigrants from 2024 through 2026, again relative to estimates made in 2023. Dallas Fed economists judge that the CBO estimates are more of an upper bound than a mid-range estimate. The calculations assume relatively high numbers of undetected border crossings and relatively low rates of unmeasured return migration. Nevertheless, the inflows are clearly very large. We’ve seen them firsthand in the Dallas Fed’s district.
+
+Because many immigrants come to the United States seeking to participate in our vibrant economy, they add significantly to the labor force. This helps explain the combination of robust payroll growth with stable unemployment and a less-tight labor market over the past year. The implications for the economic outlook, of course, depend on how long this wave of immigration continues and on whether immigration affects aggregate demand as much as aggregate supply.
+
+Turning to innovation, we could also be at the beginning of an era of stronger productivity growth.
+
+While I don’t want to be overly optimistic, generative artificial intelligence (AI) has enormous potential. We took a deep dive into how companies are using generative AI at recent meetings of the Dallas Fed’s head office and branch boards of directors. Our directors oversee the management of the bank, connect us to communities throughout the district and provide critical insights to inform our monetary policy deliberations. A number of the business and community leaders on our boards reported that they are already seeing stunning gains in productivity from generative AI, as some research has also found. One firm found that a single accountant can now conduct expense audits that used to take 10 workers. At another firm, AI has raised software engineers’ productivity by 20 percent. However, it remains uncertain how many companies have the scale needed to profit from these tools, how AI can be applied safely in life-critical fields like medicine and aviation, and what the effects will be for industrial concentration, income inequality and the structure of the labor market.
+Given the uncertainties, I’m not ready to put higher trend productivity in my baseline outlook. However, the risks to productivity appear clearly skewed to the upside. Stronger productivity growth would open space for economic activity and wages to rise without generating above-target inflation.
+
+Inflation concerns
+On the other hand, I’m increasingly concerned about upside risk to the inflation outlook. To be clear, the key risk is not that inflation might rise—though monetary policymakers must always remain on guard against that outcome—but rather that inflation will stall out and fail to follow the forecast path all the way back to 2 percent in a timely way.
+
+Assessing the inflation outlook can be challenging because large swings in the prices of a few narrow categories of goods or services can temporarily throw off the headline readings. For this reason, to judge where overall inflation is headed, I find it helpful to look at measures that remove outliers, like the Dallas Fed Trimmed Mean PCE inflation rate.
+
+Given the strength in the trimmed mean late last year, I had expected inflation to firm over the first half of 2024. Even so, January’s inflation print was disappointing. January wasn’t a story of outliers. The entire distribution of price changes shifted to the right. Residual seasonality could help explain the firm January data, but if so, the improvement in inflation in the second half of 2023 was overstated.
+
+And the data for February, though better than January’s, weren’t great. The six-month and 12-month core and trimmed mean PCE inflation rates all landed around 3 percent, and the three-month rates were somewhat higher.
+
+Against this backdrop of disappointingly firm inflation data, I wasn’t surprised when a business executive in my district shared that the company’s unions are demanding contracts that incorporate compensation for future inflation. Reports like this reinforce the importance of bringing inflation sustainably back to the FOMC’s 2 percent target. We need to fulfill our commitment to the public. And we need to keep inflation expectations anchored.
+
+The neutral interest rate
+Beyond the inflation data, I’m concerned that the stance of monetary policy may not be as restrictive as most forecasts assume. I’ve previously talked about how I assess whether broad financial conditions are sufficiently restrictive. Today, I want to share an additional dimension of my thinking. Economists often assess whether monetary policy is boosting or slowing growth and inflation by comparing the policy rate to a theoretical level, called the neutral rate, that would represent neither a headwind nor a tailwind. Failing to recognize a sustained move up in the neutral rate could lead to overaccommodative monetary policy.
+
+Now, the neutral rate—r-star for short—is notoriously uncertain and difficult to measure. But you can get a sense of where FOMC participants think it is by looking at the long-run projections for the fed funds rate in our Summary of Economic Projections (SEP). From mid-2019 through the end of last year, the median of those long-run projections was almost always 2.5 percent—implying a neutral real rate of 0.5 percent after accounting for the 2 percent inflation target. At our most recent meeting, that median ticked up to a 0.6 percent real rate.
+
+The right tail of the distribution has spread out considerably, though. Seven FOMC participants now project a long-run fed funds rate of at least 3 percent—corresponding to a neutral real rate of at least 1 percent—compared with just three participants making such projections a year ago.
+
+And, economic and financial evidence is accumulating that the long-run neutral rate has likely moved up. I divide the evidence into three buckets: fundamentals, model estimates and financial market prices.
+
+Economic theory suggests that fundamental drivers of investment and growth influence the neutral interest rate over time. Growing federal deficits have greatly expanded the supply of safe assets. Meanwhile, between the energy transition, nearshoring and the growth of AI, there are many sources of increasingly strong investment demand. And, as I mentioned earlier, we could be seeing the beginnings of higher productivity growth. All of these factors should raise the neutral rate, all else equal.
+
+Economists have also developed many models to estimate the neutral real interest rate. My team and I reviewed a suite of these models. None of them gives a point estimate as low as the 0.6 percent median in the latest SEP. Some models estimate a neutral real rate above 2 percent, corresponding to a neutral federal funds rate above 4 percent given the FOMC’s 2 percent inflation target. All of the model estimates are imprecise and have wide confidence intervals, however. And some of the models technically measure a short-run concept of the neutral rate, though in these cases the measures are highly persistent and are also informative about the long run.
+
+Finally, financial market prices reveal market participants’ views on the neutral rate. The 5-year, 5-year-forward real rate on Treasury Inflation-Protected Securities is around 2 percent. That interest rate incorporates a term premium that isn’t included in the neutral level of short-term rates. But the gap to the SEP median is larger than most model-based estimates of far-forward term premiums.
+
+The Federal Reserve Bank of New York’s Survey of Primary Dealers also suggests market participants expect higher real overnight rates in the long run. The difference between respondents’ median estimates for the long-run fed funds rate and the long-run inflation rate has risen from 0.5 percent to around 0.9 percent over the past year.
+
+Markets aggregate the information of investors across the economy. While we may not be sure exactly how much each of the fundamental factors has moved, how those moves translate into r-star, or which model is right, we can learn from what markets are saying about the combined effect. And, as I formulate my views on appropriate policy, I’m taking evidence of sustained shifts in the neutral rate into account, alongside all the other evidence on the economic and financial outlook. Although the neutral rate is uncertain, using the information we do have on it can help ensure monetary policy is set so that broad financial conditions will be sufficiently restrictive to achieve our dual-mandate goals.
+
+Conclusion
+To return to the big picture, the inflation concerns I just described are upside risks, not my baseline outlook.
+
+Nevertheless, in light of these risks, I believe it’s much too soon to think about cutting interest rates. I will need to see more of the uncertainty resolved about which economic path we’re on. And, as always, the FOMC should remain prepared to respond appropriately if inflation stops falling. A flexible approach to monetary policy will provide time to continue assessing the data and outlook and make the best choices to sustainably achieve both stable prices and maximum employment.
+
+Finally, a few words about the Fed’s asset holdings. After acquiring close to $5 trillion in assets in 2020 through 2022 to support the economy and the smooth functioning of financial markets amid the pandemic, the FOMC has been allowing some assets to mature to normalize our balance sheet. We have reduced our balance sheet by about $1.5 trillion so far.
+
+Reducing our asset holdings also removes liquidity from the financial system. So far, more than the entire reduction in our balance sheet has come out of the overnight reverse repurchase (ON RRP) agreement facility, where counterparties such as money market funds can place excess cash at the Fed. As a result, bank reserves have actually increased since 2022. But ON RRP balances are now down to somewhat above $400 billion. Once those balances are depleted, asset runoff will reduce bank reserves one for one, all else equal. Moreover, the current pace of asset runoff is about twice what it was in early 2019, the last time we normalized our balance sheet. Overly rapid reductions in bank reserves could outpace money markets’ ability to redistribute reserves to the banks that need them most. That would risk pressures that could force us to stop balance sheet normalization prematurely.
+
+We typically announce changes in our asset redemptions in advance to avoid disrupting the market. Yet it’s difficult to predict exactly when ON RRP balances will be depleted, because the rate of decrease has been volatile. It depends on many factors besides the Fed’s asset holdings—in particular, tax payments and Treasury bill issuance, which are both in flux at this time of year.
+
+So, I believe it will soon be appropriate for the FOMC to decide when to slow—not stop—the runoff of our asset holdings. A slower but still meaningful pace will provide more time for banks and money market participants to redistribute liquidity and for the FOMC to assess liquidity conditions. It will also reduce the risk of going too far. I see this as a technical decision to ensure effective policy implementation and support a smooth path to an efficient balance sheet size. It should not have much effect on broader financial conditions. And it is unrelated to considerations of the appropriate degree of policy restriction to achieve our dual-mandate goals.
+
+Thank you. I look forward to our conversation.

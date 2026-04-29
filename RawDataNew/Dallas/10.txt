@@ -1,0 +1,101 @@
+https://www.dallasfed.org/news/speeches/logan/2024/lkl241009
+
+Lorie K. Logan
+
+Foundational considerations in a changing economy
+
+October 09, 2024
+
+the Future of Global Energy Conference hosted by the Greater Houston Partnership.
+
+Thank you for that kind introduction, Katie [Pryor], and thank you for the opportunity to be part of today’s program.
+
+I would like to start by recognizing the work of the Greater Houston Partnership. The partnership connects business and community leaders to address critical issues for the region’s economy. We at the Dallas Fed are grateful for our collaboration with the GHP. Several of our directors and advisory committee members, people we rely on for real-time insight on the economy, also serve as GHP board members or staff. It is wonderful to see Dr. Ruth Simmons here today. Dr. Simmons is chair of the Dallas Fed’s Houston board as well as a member of the GHP board. And we’re so pleased that Daron Peschel, senior vice president and our Houston regional executive, is able to serve on the GHP board as well.
+
+It’s always great to visit Houston. This is an incredible city and a vital contributor to the U.S. and global economies. Houston is the energy capital of the world and an international hub for energy innovation. Its geography, infrastructure and workforce also make it a vibrant center for industries including logistics, aerospace, health care and biotechnology. Houston was the very first city I visited outside Dallas when I began a listening tour of the region after joining the Dallas Fed as president and CEO two years ago. And every time I return, I’m more impressed with the city’s dynamism, the powerful partnerships between business and community leaders, and the innovation taking place here.
+
+As you’d expect in such a dynamic place, a lot has changed since my first visit to Houston in early October of 2022—new solar, wind and carbon capture projects; the Energy Department’s selection of Houston as a hydrogen hub; continued expansion at the Texas Medical Center; and ambitious lunar plans at NASA. Still, the foundational elements of energy, geography, infrastructure and workforce that I learned about in 2022 have stayed in place.
+
+The same is true for the national economy since 2022; a lot has changed, but a lot remains the same. Today, I’ll share with you how my thinking on the economy has evolved and how I’m continuing to apply some foundational considerations to the economic challenges we face today. As always, these views are mine and not necessarily those of my colleagues on the Federal Open Market Committee (FOMC).
+
+The Federal Reserve
+When I think about what we do at the Federal Reserve, it’s all about advancing an economy where everyone has opportunities to thrive.
+
+At the Dallas Fed, we describe our work as “Building a Strong Economy Together.” The Dallas Fed is one of the 12 reserve banks that, along with the Board of Governors in Washington, D.C., make up the Federal Reserve System. We are the nation’s central bank, and we perform five functions to support a strong economy for everyone in the United States:
+
+We supervise banks to ensure they are safe and sound.
+We support the stability of the financial system as a whole.
+We operate parts of the payments system, which lets you get cash from your bank or send and receive money electronically as you do business.
+We promote consumer protection and community development.
+And—this will be my focus today—we carry out monetary policy to pursue two goals established by Congress: maximum employment and stable prices.
+Progress on inflation and the start of monetary policy normalization
+As I’m sure you recall, inflation two years ago was much too high. The FOMC aims for 2 percent annual inflation as measured by the price index for personal consumption expenditures, or PCE. But as of mid-2022, prices had risen more than 7 percent since a year earlier. Soaring prices strained the budgets of families and businesses and had the potential to destabilize our economy over time.
+
+At the same time, the labor market was incredibly strong—by many measures, unsustainably so. With companies adding jobs faster than the labor force was adding workers, wages surged. While those higher wages weren’t enough, for many workers, to keep pace with the cost of living, the wage pressures threatened to cause businesses to raise prices even more.
+
+The FOMC responded by rapidly tightening monetary policy. We raised the target range for the federal funds rate by 5.25 percentage points from early 2022 through mid-2023. We also began running off securities holdings that we had accumulated to support the economy during the pandemic.
+
+These measures helped bring the economy into much better balance. The most recent annual PCE inflation reading was 2.2 percent. Progress on inflation has been broad based; it’s not just a few outlying price categories that have cooled. You can see that in the Dallas Fed Trimmed Mean PCE inflation rate, which removes outliers and has fallen from a peak of 5 percent two years ago to 2.67 percent on an annual basis in August. And, while the labor market remains healthy, it has cooled as well.
+
+In light of this progress, I supported the FOMC’s decision last month to begin normalizing the stance of monetary policy by lowering the target range for the fed funds rate. Less-restrictive policy will help avoid cooling the labor market by more than is necessary to bring inflation back to target in a sustainable and timely way.
+
+The path ahead
+To recap, the economic and monetary policy picture today is entirely different from two years ago:
+
+Inflation and the labor market are in striking distance of our goals rather than seriously overheated.
+And the policy rate is headed down rather than up.
+What haven’t changed are the key considerations I’m applying in thinking about the FOMC’s policy choices. First among those, of course, is my commitment to sustainably achieving both of our dual-mandate goals: maximum employment and stable prices. I also continue to carefully consider the risks and uncertainties we face. The appropriate policy strategy depends on whether the path ahead is clear or cloudy. And I continue to pay close attention to financial conditions and to the information I receive from business and community contacts and the Dallas Fed’s regional surveys. While the FOMC controls the overnight fed funds rate, households and businesses usually borrow at longer tenors. Understanding how our monetary policy stance translates to broader financial conditions and the day-to-day experiences of households and businesses is crucial for understanding the economic outlook and how monetary policy may need to respond.
+
+In the rest of my remarks, I’ll share how I’m thinking about the economic outlook and upcoming monetary policy decisions in light of those considerations. I’ll discuss inflation and employment in turn. And I will argue that, following last month’s half-percentage-point cut in the fed funds rate, a more gradual path back to a normal policy stance will likely be appropriate from here to best balance the risks to our dual-mandate goals.
+
+Inflation outlook and risks
+The Fed’s inflation target is for overall inflation, including the prices of all consumer goods and services. But to get a handle on where overall inflation will head in the future, I like to focus on measures that exclude volatile outliers and unusual shocks, such as the Dallas Fed trimmed mean that I described earlier. The drop in the trimmed mean since 2022 demonstrates that we’ve reduced inflation for most goods and services. The trimmed mean has continued to move down recently, though progress has become more gradual. The 12-month measure remains somewhat elevated even as shorter-term trimmed mean measures have approached 2 percent.
+
+To understand whether monetary policy is restrictive enough to return overall inflation all the way to 2 percent, I have been paying particular attention to the inflation component that economists refer to as “core services.” This category includes services other than those related to energy, which are usually quite volatile. Because services are generally produced flexibly and domestically, core services inflation is typically more responsive to U.S. economic conditions and helps assess how monetary policy is influencing price pressures.
+
+While measures of inflation for both housing services and other core services remain above their prepandemic levels, recent trends have been encouraging. I expect that a couple of factors will help bring these components down to levels consistent with 2 percent overall inflation over time. The stance of monetary policy is still restrictive and should continue to restrain demand for both housing and other services. And longer-term inflation expectations reflected in surveys and financial market prices remain close to our 2 percent target, anchoring decisions by price and wage setters.
+
+The healing of supply chains since the pandemic has reduced inflation, too. Energy and food inflation, two categories that are susceptible to supply shocks, contributed to the inflation surge in 2021 and 2022 but are now holding down overall inflation. Core goods inflation has returned to its slightly negative prepandemic level. That’s a result not only of healthier supply chains but also of cooler goods demand.
+
+All that said, while the upside risks to inflation have diminished, they have not vanished. I continue to see a meaningful risk that inflation could get stuck above our 2 percent goal.
+
+One way such a scenario could play out would be if aggregate demand proves stronger than most forecasts currently assume. The ongoing resilience in consumption and gross domestic product (GDP) hint at the potential for unexpectedly strong demand, as do recent upward revisions to data on gross domestic income and the savings rate.
+
+Financial conditions could also boost demand beyond what the economy can sustain. As I mentioned earlier, the fed funds target influences economic activity only indirectly, because most households and businesses pay longer-term interest rates that also reflect their creditworthiness. Financial conditions have eased notably from a year ago. Mortgage rates have dropped, equity prices are near all-time highs, and credit spreads are near historic lows. Even if the current assessment of demand is on target, an unwarranted further easing in financial conditions could boost spending and push aggregate demand out of balance with supply.
+
+These risks suggest the FOMC should not rush to reduce the fed funds target to a “normal” or “neutral” level but rather should proceed gradually while monitoring the behavior of financial conditions, consumption, wages and prices.
+
+A related upside risk to inflation stems from uncertainty regarding what the “neutral” level of the federal funds rate even is. Besides examining broad financial conditions, economists often consider whether monetary policy is boosting or slowing growth and inflation by comparing the policy rate to a theoretical level that would represent neither a headwind nor a tailwind. That neutral rate is notoriously uncertain and difficult to measure. But you can get a sense for it from economic fundamentals, models, surveys and market prices. And all of these suggest the neutral rate may be higher than before the pandemic.
+
+Structural changes in the economy, like the energy transition and advances in artificial intelligence, are a prime driver. These developments are fueling strong investment demand as well as potential increases in productivity. You can see the changes in investment firsthand throughout Texas, in projects like the enormous liquefied natural gas plants under construction along the Gulf Coast, the semiconductor fabs encouraged by the CHIPS [Creating Helpful Incentives to Produce Semiconductors] Act, as well as new data centers and the energy sources to supply them.
+
+Importantly, though, uncertainty about the neutral rate has also risen, perhaps because these changes in the economy are quite recent and will take time to fully assess. The FOMC’s own projections display the uncertainty. Four times a year, we release our projections for the fed funds rate as well as unemployment, inflation and GDP growth. Around the FOMC table, participants’ projections for the longer-run fed funds rate now vary by more than 1 percentage point, compared with a spread less than half that wide two years ago. In this uncertain environment, lowering the policy rate gradually would allow time to judge how restrictive monetary policy may or may not be and reduce the risk of inadvertently boosting inflation by bringing the policy rate below its neutral level.
+
+Finally, I remain attentive to inflation risks from supply chains and geopolitical developments. I am closely watching the aftermath of the recent strike at the Port of Houston and other Gulf Coast and East Coast ports. The Dallas Fed’s contacts tell us the three-day work stoppage isn’t likely to leave a lasting mark on supply chains. But workers and port operators have agreed to revisit their contract in January, so risks remain. I am also closely watching the conflict in the Middle East. As Federal Reserve Chair Jerome Powell has said, while the human toll is devastating, the Federal Reserve’s institutional role is a limited one: to monitor the economic implications. U.S. and global energy markets are currently somewhat slack, which has held down risk premiums in oil markets. However, the potential for more significant disruptions and price impacts cannot be ruled out.
+
+Employment outlook and risks
+Turning to the employment side of the FOMC’s dual mandate, labor markets appear close to balanced. Job gains have slowed from their torrid pace two years ago. However, as the most recent employment report showed, firms are continuing to hire workers across a broad range of sectors. The unemployment rate has risen from historic lows. It averaged 4.2 percent over the past three months, which is near or just below most experts’ judgments of the rate consistent with stable inflation.
+
+Still, the labor market remains healthy. There are more job openings than unemployed workers nationally. The rise in unemployment over the past year is due mainly to labor force growth and slower hiring rather than more people losing jobs. Layoffs and initial claims for unemployment insurance remain low.
+
+Strong consumption and investment growth continue to support the job market. Real GDP grew at a 3 percent annual rate, seasonally adjusted, in the second quarter. Timely measures of economic activity, such as the Dallas Fed’s Weekly Economic Index and the Atlanta Fed’s GDPNow tracker, suggest strong growth in the third quarter as well. And results from the Dallas Fed’s most recent Texas Business Outlook Surveys indicate that firms generally expect activity to remain solid over the next six months. 
+
+Nonetheless, as the labor market has cooled, we face more risk that it will cool beyond what is needed to sustainably return inflation to 2 percent or that the employment situation may even deteriorate abruptly.
+
+Assessing the labor market risks is challenging because the data are unusually uncertain of late. Over the summer, the Bureau of Labor Statistics significantly lowered its estimates of payroll job growth through last March, due largely to changing estimates of how many businesses have formed or closed. The bureau could further revise the figures as additional benchmarking data become available. Faster immigration, meanwhile, makes it more difficult to precisely judge the rate of job growth that’s consistent with a stable labor market. And because it takes time for new immigrants to integrate into the labor market, they could temporarily raise the unemployment rate even if the market remains strong. Storms and strikes, meanwhile, will complicate the interpretation of this month’s jobs report. In light of these uncertainties, just as with inflation, I believe the FOMC can best balance the labor market risks for now by normalizing policy gradually—neither waiting too long to act nor moving too quickly and risking going too far.
+
+Conclusion
+To sum up, the economy is much closer to sustainably achieving the FOMC’s goals of maximum employment and price stability now than it was two years ago. The changes in the economy call for a different stance of monetary policy. But the considerations I’m applying in assessing the appropriate stance remain the same:
+
+A strong commitment to sustainably achieving both parts of the FOMC’s dual mandate—maximum employment and stable prices.
+Careful consideration of how the risk environment affects our strategy.
+And attention to how monetary policy transmits through broader financial conditions and ultimately influences the economic lives of households and businesses.
+As I consider the economic statistics, financial conditions, and reports from business and community contacts, two takeaways stand out to me. First, the economy is strong and stable. But second, meaningful uncertainties remain in the outlook. Downside risks to the labor market have increased, balanced against diminished but still real upside risks to inflation. And many of these risks are complex to assess and measure. As we complete the return to price stability and a well-balanced labor market, the path ahead is cloudy, not clear.
+
+If the economy evolves as I currently expect, a strategy of gradually lowering the policy rate toward a more normal or neutral level can help manage the risks and achieve our mandated goals. It should go without saying, though, that the future is uncertain. Any number of shocks could influence what that path to normal will look like, how fast policy should move and where rates should settle. Policy should not follow a preset course. In my view, the FOMC will need to remain nimble and willing to adjust if appropriate.
+
+Thank you.
+
+Note
+
+I am grateful to Sam Schulhofer-Wohl and Rebecca Zarutskie for assistance in preparing these remarks.

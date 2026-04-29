@@ -1,0 +1,107 @@
+https://www.dallasfed.org/news/speeches/logan/2025/lkl250925
+
+Lorie Logan
+
+The case for modernizing the FOMC’s operating target rate
+
+September 25, 2025
+
+Federal Reserve Bank of Richmond CORE Week Workshop: The Fed’s Balance Sheet.
+
+Thank you for inviting me to participate in this important workshop. These in-depth discussions about how the Fed implements monetary policy are incredibly valuable. I’m going to get back to the very basics: the target interest rate that policy implementation aims to control.
+
+As everyone here surely knows, the Federal Open Market Committee (FOMC) primarily adjusts the stance of monetary policy by changing the target range for the federal funds rate. For almost as long as the FOMC has issued post-meeting FOMC statements, they have reported what the committee decided about the fed funds target. And the FOMC has repeatedly affirmed the centrality of the fed funds target in establishing its policy stance.
+
+My aim today is to argue that the time has come for the FOMC to prepare to target a different short-term interest rate. I will make four points.
+
+First, the Fed has evolved its operating targets through the years to maintain influence over monetary conditions as the financial system evolved. Updating the target from time to time is part of how we manage the central bank efficiently and effectively on the public’s behalf.
+Second, money markets have changed greatly since the FOMC began publicly targeting the fed funds rate in the mid-1990s. The fed funds target is outdated.
+Third, while targeting fed funds currently provides effective control of broader monetary conditions, the connections are fragile and could break suddenly. The FOMC should take that risk off the table.
+And fourth, this isn’t a hard problem. A repo rate would provide a more robust target and allow us to adjust proactively and planfully.
+Modernizing the target rate would not interfere with continuing to carry out the FOMC’s principles and plans for normalizing the Fed’s balance sheet. As I’ve said before, the Fed is supplying too many reserves and must bring them down to an efficient level. If anything, a more robust target rate would allow that process to proceed more smoothly.
+
+Let me also emphasize that modernizing the target rate would not change the FOMC’s monetary policy strategy. The operating target specifies how the FOMC measures and influences monetary conditions. It’s entirely separate from the question of how restrictive or accommodative those conditions should be to achieve the FOMC’s macroeconomic goals.
+
+My remarks will cover the highlights of a longer essay that my colleague Sam Schulhofer-Wohl and I published today. Needless to say, these views are mine and not necessarily those of my FOMC colleagues.
+
+A very brief history of the Fed’s operating targets
+When the FOMC decides whether monetary conditions should tighten, ease or stay the same, it’s not enough to talk about monetary conditions in general. You need a specific, quantitative target. That target guides the concrete actions the New York Fed’s Open Market Trading Desk will take to achieve the desired conditions. Since the mid-1990s, the target has also had a second, even more important role: to transparently communicate the stance to the public and allow the public to hold the Fed accountable for its choices.
+
+Over the years, the Fed has changed its operating targets to adapt to shifts in the economic and financial environment.
+
+In the 1950s, when reserve requirements strongly influenced bank lending, the Fed focused on controlling the banking system’s free reserves. In the 1960s, the fed funds market was growing, and studies suggested that variables other than free reserves might have more predictable economic effects. By 1967, daily open market operations sought to control borrowed reserves and the fed funds rate.
+
+By the late 1970s, policymakers thought the Fed needed to tightly control monetary aggregates to bring down inflation. The Fed moved to target reserve growth and allowed the fed funds rate to swing by as much as several hundred basis points in a day.
+
+Then, in the early 1980s, changes in the regulation of interest rates on bank accounts disrupted the relationship between economic activity and monetary aggregates. The FOMC reverted to targeting borrowed reserves. The Desk monitored the fed funds rate to assess whether it should add or drain reserves to hit the target.
+
+Throughout this history, the targets were internal, not communications vehicles. Market participants had to infer the target from the Desk’s actions.
+
+That changed in the 1990s when the FOMC began issuing post-meeting statements. While the world has become accustomed to the statements giving a target for the fed funds rate, they didn’t start out that way. The first post-FOMC press release, on Feb. 4, 1994, said simply: “Chairman Alan Greenspan announced today that the Federal Open Market Committee decided to increase slightly the degree of pressure on reserve positions. The action is expected to be associated with a small increase in short-term money market interest rates.” Since January 1996, the FOMC has announced the fed funds target rather than intended pressures on reserve supply.
+
+Changes in money markets since the mid-1990s
+That was three decades ago. A lot has changed since then, and the fed funds target is showing its age.
+
+The fed funds market involves unsecured loans between banks or other institutions that are eligible to hold deposits at the Fed. The fed funds rate is the average overnight rate on these loans. Besides commercial banks, the participants can include government-sponsored enterprises (GSEs), particularly Federal Home Loan Banks (FHLBs).
+
+In the mid-1990s, the fed funds rate was well suited as a guide to money market conditions. Bank reserves at the time didn’t pay interest. With market rates typically hundreds of basis points above zero, any bank that had excess reserves was highly motivated to lend them out to peers that were short of required reserves. These incentives created a vibrant unsecured interbank market where the interest rate closely reflected banks’ marginal cost of funds.
+
+That is not the world we live in anymore.
+
+The Global Financial Crisis (GFC) revealed many dangers. One of them is that unsecured, short-term loans between banks can amplify a crisis. Lenders can suddenly lose money because they don’t have collateral to fall back on. And borrowers can be caught short of cash if their lenders suddenly notice the risk and pull back.
+
+Post-GFC regulations aimed to make the financial system safer by mitigating these risks. The regulations make unsecured short-term interbank lending less attractive for banks on both sides of the loan. That’s a good thing. It keeps depositors’ money safe, and it ensures banks can keep lending to America’s families and businesses through thick and thin. But it means fed funds is no longer where banks normally look to lend or borrow short-term cash.
+
+Another important change is in the way the Fed implements monetary policy. In the 1990s, the Fed kept reserve supply below the quantity banks would have wanted to hold if reserves had paid a market interest rate. That system let the New York Fed’s trading desk control money market rates by making slight adjustments in reserve supply. But the artificial scarcity had a serious cost. Scarce reserves meant banks were effectively taxed on their use of liquidity. They couldn’t serve their customers and the economy efficiently.
+
+In 2008, the Fed fixed that problem. With Congress’s authorization, reserves now pay interest. And the Fed now supplies as many reserves as banks demand with market rates close to the interest rate on reserves. We call this a system of ample reserves.
+
+It’s a more modern and efficient way to implement monetary policy. U.S. dollar reserves are the safest and most liquid asset in the world, an asset that greases the wheels of the banking, financial and payments systems. With ample reserves, banks don’t need to artificially economize on safety and liquidity. The financial system is more stable and resilient. Payments flow more smoothly. And by the criterion of Nobel Prize-winning economist Milton Friedman, it’s efficient for society.
+
+But by law, only depository institutions are legally eligible for interest on reserves. Government-sponsored enterprises aren’t. So the ample reserves regime, beneficial as it is, changed the fed funds market from one that redistributed scarce reserves and set banks’ marginal cost of funds to one where GSEs and banks primarily arbitrage access to interest on reserves. The funds rate now also reflects banks’ balance sheet costs for that arbitrage and bargaining power between banks and GSEs, not just the cost of funds. Put that together with the post-GFC banking rules, as well as reforms that made money market funds safer, and unsecured markets like fed funds just aren’t very relevant anymore.
+
+The center of gravity in U.S. money markets now lies in repo markets, where loans are secured by Treasury securities or other collateral. Overnight and open-dated repo volume averages more than $4.5 trillion per day. By contrast, fed funds volume runs only a bit over $100 billion. Repo rates represent a marginal cost of funds for a wide swathe of borrowers and lenders. And a repo rate, the Secured Overnight Financing Rate (SOFR), has replaced the London interbank offered rate (LIBOR) as the dominant reference rate in U.S. financial contracts.
+
+The fragility of connections between fed funds and other markets
+That said, for the moment, fed funds remains a viable target. Rates continue to transmit well between fed funds and other markets. So fed funds still gives us a good gauge of broader monetary conditions, and controlling fed funds still influences broader monetary conditions.
+
+But the connection is fragile.
+
+Fed funds already moves noticeably less than Treasury repo rates. Money market developments earlier this month provide an instructive example. In the first week of September, repo rates rose 3 to 8 basis points relative to the end of August as markets digested a settlement of Treasury securities. Repo rates partly retraced in the second week of September. Then, on September 15, a tax payment date coincided with another Treasury settlement. Tri-party repo rates rose 10 basis points to 4.50 percent, or 17 basis points above the level at the end of August. They’ve since come back down. And yet, through this entire period, until the FOMC cut rates last Wednesday, the fed funds rate remained precisely 4.33 percent, exactly where it had been every trading day since December of last year.
+
+The stability of the fed funds rate isn’t due to virtuosic open market operations by the Desk or, more generally, to the FOMC targeting fed funds. The target range is 25 basis points wide. The stability comes from concentration in the fed funds market. With only the 11 FHLBs as major lenders, and relatively few bank borrowers, fed funds relationships are long-lasting. A participant who tried to chase a few basis points from day to day would have to weigh those small profits against the risk to the relationship.
+
+Such a concentrated market could abruptly grow more idiosyncratic. The Federal Home Loan Banks have been exploring options for increasing their investments in bank deposits. New early morning maturity tri-party repo products may also attract FHLBs. With only 11 FHLBs, any change could quickly reach the entire market.
+
+The market is also vulnerable to any stress that leads the FHLBs to pull back on fed funds lending. We saw this in March 2023. Banking stresses led commercial banks to seek more term advances from FHLBs. The FHLBs appeared to meet those demands in part by reducing fed funds investments, and fed funds volume fell 64 percent in two business days.
+
+Alternative rate options
+One might say that since all is fine for now, there’s no need to act. But if transmission between fed funds and other money markets ever broke down, we’d need to quickly find a replacement target. And I don’t think making important decisions under time pressure is the best way to promote a strong economy and financial system.
+
+To fix this, the FOMC should plan ahead and prepare to transition proactively to a different rate.
+
+Good alternative targets are available.
+
+Options fall in three broad categories. The first includes administered rates, such as interest on reserves or the rate on the Overnight Reverse Repurchase Agreement Facility or the Standing Repo Facility. The second category involves measures of the constellation of money market rates. And the third category entails switching to a different single market rate.
+
+I’m not a fan of targeting an administered rate. The FOMC should say what market conditions it’s aiming for. And the public should be able to verify the FOMC is delivering those conditions. Targeting an administered rate short-circuits that accountability: Administered rates will always be exactly what the Fed wants them to be, regardless of market conditions.
+
+Targeting the constellation of market rates is also unattractive. Which rates should you include? Should you weight all rates equally or count some more than others? If the FOMC refers only to a qualitative level, how can the public hold the committee accountable? To put it in technical terms, it’s a mess. Monetary policy needs to influence money market rates broadly, but the way to do that is to target a single rate that transmits well to others.
+
+So which single rate is best? Overnight repo markets are the center of gravity. Within those markets, repos against Treasury collateral make the most appropriate target, because when risk-managed appropriately, they are essentially riskless.
+
+Participants in dollar funding markets have widely adopted SOFR as a reference rate. It covers north of $2.5 trillion a day in overnight Treasury repos.
+
+But SOFR isn’t currently a clean gauge of funding costs. SOFR combines two main market segments: tri-party repos that take place primarily between cash investors and large dealers, and centrally cleared repos that take place primarily between large dealers and smaller ones or leveraged investors. Large dealers have some market power in intermediating between the segments, so rates in the centrally cleared segment can partly reflect market power rather than the cost of funds.
+
+The tri-party general collateral rate (TGCR) is cleaner, and I think it would currently offer the best target. It incorporates more than $1 trillion a day in risk-free transactions that represent a marginal cost of funds and marginal return on investment for a large number of participants. It is calculated with a robust methodology. It transmits well across money markets.
+
+And the Fed’s existing tools already provide effective control of TGCR. Let me be clear that by control, I don’t mean pinpoint control to the basis point. In an ample reserves regime, money market rates should average close to interest on reserves, but there can be some fluctuations around that average. It would be perfectly fine, in my view, for TGCR to move up and down from day to day, much as it has for many years. After all, the target range is 25 basis points wide. A tolerance for modest volatility would allow us to maintain rate control with our current simple and efficient tools, without large, frequent or complex operations.
+
+The shift in private activity toward secured markets makes it very likely, in my view, that the target rate will eventually need to change. If the target rate must change, the best time for a change would be when markets are functioning smoothly and market participants can have plenty of advance notice. Proactively adopting TGCR as the target would allow for an orderly transition. The alternative, waiting for evidence that a change is urgent, could force a rapid switch in a more challenging environment.
+
+An intermediate option would be to announce a contingency plan but not implement it for the time being. That could allow more time to assess how the Securities and Exchange Commission’s mandate for broader central clearing affects the pros and cons of targeting TGCR versus SOFR. But it’s not my preferred approach, because while a contingency plan is better than no plan, it might still have to be implemented quickly in case of sudden stress.
+
+In conclusion, there are many aspects of selecting an operating target that I didn’t have time to get into. So I hope you’ll read our full essay. And to reiterate, these are only my views. But I believe the FOMC should modernize the target rate.
+
+Thank you.

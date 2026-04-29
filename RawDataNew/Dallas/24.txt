@@ -1,0 +1,42 @@
+https://www.dallasfed.org/news/speeches/logan/2025/lkl251008
+
+Lorie Logan
+
+Keynote speaker introduction for the Chicago Payments Symposium
+
+October 08, 2025
+
+Chicago Payments Symposium.
+
+Good afternoon, my name is Lorie Logan, and I serve as the president and CEO of the Federal Reserve Bank of Dallas.
+
+I’m happy to join you all here today at the Chicago Payments Symposium and to congratulate the Federal Reserve Bank of Chicago on the 25th annual gathering of this conference. Year after year the Chicago Fed fills this room with industry leaders with a wide range of backgrounds who share a passion for the integrity, resiliency, accessibility and safety of our payments system. The connections and dialogue fostered here have made a lasting impact on the evolution of payments, and I look forward to seeing where the conversations this week lead.
+
+The Fed provides payments services that are inclusive, accessible and easy to use. I sit on the Federal Reserve Banks’ Payments Committee, which oversees the reserve banks’ payments business. For many financial institutions, payments is a strategic component of their core business. And for us at the Fed, it’s a critical part of our mission. It’s an exciting time to be in payments, and the Fed is helping to drive some of the progress in this area.
+
+Before I introduce our keynote speaker, McKinsey & Co. Global Co-Head of Payments Jon Steitz, I’ll highlight some of the Fed’s steps to modernize the payments system and innovate to meet evolving needs while maintaining the Fed’s commitment to safety, security and accessibility.
+Modernization
+Many of you are familiar with FedWire Funds, the Fed’s electronic funds transfer service that banks, businesses and government agencies rely on for mission-critical, large dollar same-day transactions. The service handles nearly $5 trillion a day in payments. This summer, we successfully implemented the ISO 20022 global message standard in a one-day cutover. This was important because the standard advances the modernization of payment processes by providing a common language that is easily exchanged between business and banking systems. To implement the standard, every single financial institution that sends payments on the Fed network, their technology partners and all of their systems needed to change—on the same day, at the same time, for everyone across the country. It took an entire community of people across the Fed, financial institutions, their vendors, service providers and industry partners to make it happen. Many of you here today were part of this effort, and I would like to thank you for your contributions to this success.
+
+While we’ve made significant strides in digital payment modernization, we must also recognize the importance of physical currency in the payments ecosystem. Demand remains strong for U.S. currency both domestically and globally, with more than $2.4 trillion in circulation. Cash is important for many people who lack access to financial services and continues to be a safe and stable store of value. And to anticipate possible needs, the Fed is taking a critical look at our operations and making data-driven decisions on how we will meet cash demand in the future.
+
+The Federal Reserve is also in the process of replacing our high-speed currency authentication systems, which are more than 30 years old. The new machines will feature more advanced capabilities to streamline operations while ensuring the U.S. currency remains secure. In 2023, Dallas was selected as one of the four pilot sites for these new machines, and our team played an integral role in developing the procedures that support these updated systems. It’s been rewarding for us in Dallas to be part of this process and exemplify how we’re modernizing even our most traditional services.
+
+Innovation
+As the Fed advances our modernization efforts, we’re simultaneously working on innovative payment solutions that address the growing demand for speed, efficiency and accessibility. Instant payments has been one of the most revolutionary developments in this space. Since the launch of the FedNow service in 2023, nearly 1,500 financial institutions (including banks of all sizes across all 50 states) and 40 service providers have joined the platform, with volumes increasing quarter over quarter.
+
+The Bureau of Fiscal Service recently enabled FedNow as an option to process certain types of federal disaster relief payments. For businesses and households impacted by disasters or emergencies, the ability to quickly receive these payments is critically important. We’ve also introduced new functionality, such as the recent account activity threshold controls, that allow financial institutions to strengthen risk mitigation efforts by defining dollar value and transaction velocity thresholds based on customer segments. Next month, we plan to raise the maximum transaction limit from $1 million to $10 million to meet increased demand.
+
+The Federal Reserve is also conducting research on emerging technologies. For example, we are examining tokenization, smart contracts and artificial intelligence to better understand how private sector innovators may use these tools to improve payments. In addition, this research will help us identify opportunities to enhance our critical payment infrastructures.
+
+Safety
+As payments evolve, so do the associated challenges. Frauds and scams, including check fraud, are growing concerns in the industry. As an operator and catalyst for system improvements, the Federal Reserve focuses on working collaboratively with the industry to enhance payment system safety. The Fed provides risk management tools and services that participating institutions may use as part of their fraud detection, prevention and mitigation programs. In June, the Federal Reserve Board, the Federal Deposit Insurance Corp. and the Office of the Comptroller of the Currency issued an interagency request for information to seek public input on potential actions to help consumers, businesses and financial institutions mitigate the risk of fraud. The comment period recently closed, and we are now working together to consider next steps, including what actions we at the Federal Reserve can take as a payments operator.
+
+We’re continuously looking for ways to enhance the safety of the services we offer. For example, Automated Clearing House (ACH) is the Fed’s largest payment service and supports the payments business nationwide, enabling the functionality of many of the popular payment avenues we all use. The ACH network processes over 85 million transactions per day, with electronic payment transfers continually increasing in number and value. We recently introduced a feature allowing subscribers to receive notifications when our systems detect suspicious activity.
+
+At the Federal Reserve we will continue to balance modernization and innovation with safety and resilience across our payments rails. Ongoing coordination and collaboration with the private sector remain essential to address challenges that emerge and to create opportunities that benefit consumers, businesses and financial institutions.
+
+Keynote speaker
+To dive deeper into the emerging technologies and innovation in the digital payments landscape, we will hear from today’s keynote speaker, Jon Steitz. It is my pleasure to introduce Jon, who is the global co-head of payments at McKinsey, where he advises banks and other payment providers on consumer needs and digital innovations. Jon has made several key contributions to McKinsey’s work in this space, including guiding the launch of new digital payments products for global and domestic financial institutions. In his remarks, Jon will cover the changing payments environment with a focus on what AI and agentic commerce could mean for financial institutions and their customers. Jon holds a bachelor’s degree in molecular biophysics and biochemistry as well as a law degree from Yale University.
+
+Please join me in welcoming Jon to the stage. Thank you.

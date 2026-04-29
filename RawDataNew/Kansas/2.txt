@@ -1,0 +1,89 @@
+https://www.kansascityfed.org/speeches/agriculture-and-the-federal-reserve-html/
+
+Agriculture and the Federal Reserve
+
+USDA’s 101st Agricultural Outlook Forum
+
+February 27, 2025
+
+Jeffrey Schmid
+
+
+by: Jeffrey Schmid
+Key Points
+The Federal Reserve System was built around the idea that monetary policy is too important to be centralized and instead needs to be informed by conditions across the immense variety of industries and geographies that make up the American economy.
+It may be beneficial to include food costs when measuring core inflation due to their importance in household budgets.
+Across commercial banks, 80 percent of agricultural credit is provided by community banks—that is banks with less than $10 billion in assets—and close to 700 of the nation’s roughly 4,400 community banks are based in the Kansas City Fed district.
+Introduction
+Thank you for the invitation to this prestigious and long-standing forum. The Federal Reserve has many ties to agriculture, both historic and current, and this is especially true for the Kansas City Fed. Today I will review this relationship before offering a few words on the outlook for the economy and monetary policy.
+
+I was appointed president of the Federal Reserve Bank of Kansas City about a year-and a-half ago. I come to the job familiar with the relationship between the agriculture industry and banking. For most of my adult life, I was a Nebraska banker. I grew up in Papillion just outside of Omaha, and as I am sure you can appreciate, agriculture is a key part of the economy and was extremely important to our banking business. But my appreciation for agriculture goes deeper than that. After my father finished his service in the Air Force, he planned to go into farming. Unfortunately, the farm economy at that time was really struggling as the result of a drought, and so he ended up taking a job in a bank mailroom instead. That put him on an entirely different career path. If there had been a little better growing season, I might be speaking to you today as a second-generation farmer instead of a second-generation banker.
+
+A Historical Perspective
+Starting with history. The Fed was created in 1913 in part because farmers demanded it. Prior to the Fed, small agricultural lenders in the Midwest relied on large money center banks in New York City and Chicago. One common complaint was that the supply of liquidity provided by these banks was inelastic, such that it did not flex to accommodate seasonal changes in credit demand.
+
+Agriculture was, and is, a credit-intensive industry, with forecastable changes in seasonal demand for liquidity. With no flexibility in reserve supply, banks were forced to pass through cyclical movements in credit demand into interest rates. Even without this disruptive seasonal cycle, the pre-Fed system also exposed credit-dependent farmers to the regular bank runs and financial crises that plagued the final decades of the 19th and beginning of the 20th century. Financial instability in New York would mechanically spill over the whole country given the favored role of city banks in allocating liquidity across the economy.
+
+By providing flexibility in the supply of liquidity, the Fed was able to meet the economy’s and farmers’ demands for currency and credit, while providing more stability in interest rates and less financial volatility (though not without some hiccups). Notably, the Fed, and the stability it provided, also underpinned the growth of the dollar as the central currency of global commerce. Prior to the creation of the Fed in 1913, the dollar played only a small role in global trade. Now, with the Fed and the growth of the U.S. economy, a large share of worldwide trade is priced in dollars, including most global agricultural trade. Such pricing is beneficial to American farmers as it lessens their exposure to exchange rate risk and provides deep financial markets through which they can insure other risks.
+
+The central role of the dollar is also supported by the depth and security of the U.S. payment system. Payments can take many different forms, including cash, check, and wire transfer, and the Fed plays a role in ensuring the security and efficiency of all of these. Fedwire, for example, transfers and processes more than $4 trillion on average each business day. The dominant role of the dollar, supported by our payment system, as well as the strength and stability of our financial system and sound monetary policy, provide tremendous advantages to the United States, advantages we should not take for granted nor tamper with lightly.
+
+More specific to the Kansas City Fed, the varied economic condition of farmers and our region relative to other industries and areas of the country underpin the Fed’s design with 12 distinct geographically defined regional banks augmenting the Board of Governors in Washington. The system was built around the idea that monetary policy is too important to be centralized in New York City or Washington, D.C., and instead needs to be informed by conditions across the immense variety of industries and geographies that make up the American economy. The system distributes decision-making power rather than concentrating it in Washington.
+
+This system continues to serve our nation well today. Through our offices in Kansas City, Denver, Oklahoma City, and Omaha, my staff and I gather information, insight, and perspectives from the seven states that make up our district. I then bring this perspective to the discussion at Federal Open Market Committee meetings and the decisions around monetary policy.
+
+Importantly, the views of agricultural and rural communities are a key part of our contribution to the dialogue. And this is a place where we have made considerable investment in developing expertise with further investments planned. Nate Kauffman, our Branch executive in Omaha, spearheads much of this interaction and is on the conference program later today.
+
+One area of focus, unsurprisingly given the history I have just discussed, is the agricultural credit market. The Kansas City Fed does regular surveys of ag credit conditions and hosts a National Ag Credit Conference. Nate will provide more details later today, but it goes without saying that understanding ag credit is vital in our discussion of district economic conditions.
+
+Ag Finance and the Kansas City Fed
+Smaller financial institutions play an outsized role in agricultural finance, and smaller financial institutions have an outsized presence in our District. Across commercial banks, 80 percent of agricultural credit is provided by community banks—that is banks with less than $10 billion in assets—and close to 700 of the nation’s roughly 4,400 community banks are based in the Kansas City Fed district.
+
+The large presence of community banks in my district and the discussions I take part in help inform my positions on monetary policy. This is how the regional Fed system works, with District Banks, such as the Kansas City Fed, listening and learning from local communities.
+
+Let me give you two examples.
+
+First, regarding the Fed’s balance sheet. As part of the policy response to the pandemic, the Fed embarked on a historic expansion of its balance sheet, purchasing trillions of dollars of Treasurys and mortgage-backed securities. With the short-term policy interest rate stuck at zero, the purpose of these purchases was to depress longer term interest rates and stimulate economic activity. With the economy recovering and price pressures growing, the Fed appropriately started to reverse these purchases in the middle of 2022, allowing maturing securities to roll off and shrinking its balance sheet by $2 trillion relative to its peak.
+
+My preference is to continue to shrink the balance sheet, and the Fed’s financial footprint, as much as possible consistent with the Fed’s current operating framework. Our large balance sheet continues to weigh on these yields and flatten the yield curve. Traditional bank business models rely on an upward sloping yield curve to provide credit to households and businesses. While the yield curve is no longer inverted, it remains flat relative to the typical spread between short and long rates that prevailed before the start of the Fed’s large-scale asset purchases. For the longer-term health of the banking system, especially the many community banks and ag lenders across the country and in my District, it is important that we reduce our footprint in financial markets and allow the yield curve to fully steepen.
+
+My second example of the importance of our regional connections involves the distribution of liquidity across financial institutions. As the Fed shrinks its balance sheet, it is removing bank reserves from the financial system. As the supply of reserves shrinks, we will eventually reach a point where supply is no longer abundant relative to demand, and we could see upward pressure on short-term interest rates relative to the Fed’s announced policy rate target.
+
+But in addition to the overall supply of and demand for reserves, short-term interest rates will be importantly affected by the capacity and flexibility of the financial system to reallocate liquidity from banks with an excess of reserves to banks with a need for reserves. The less flexible the system of reallocation, the more likely the draining of reserves will expose some idiosyncratic spikes in reserve demand on which the whole project could run aground. Here, with the interbank trading of reserves relatively brittle, the Fed can play an important role in providing liquidity, especially to smaller institutions with more limited alternatives, through the discount window. More active use of the discount window could help prevent liquidity strains from arising and ultimately support the further reduction of the Fed’s balance sheet.
+
+Agriculture and Inflation
+Of course, it is not only in relation to banking and credit markets that the Fed has an interest in the ag economy. Developments in agriculture are also important for inflation and output, affecting the Fed’s ability to achieve its dual mandate of price stability and full employment. This is most clearly seen in relation to inflation, where food prices are important for understanding inflation dynamics.
+
+Food prices are measured in inflation—both through the price of restaurant meals as well as prices paid for food consumed at home. Focusing on food at home, food prices were an important contributor to the spike in inflation in 2022 and 2023, pushing up inflation in the middle of 2022 and contributing to an overall inflation rate of 7 percent.[1]Many of the same factors that pushed up overall inflation also drove food price inflation through this period.
+
+Pandemic-related disruptions depressed supply, while fiscal transfers and a shift in spending patterns towards goods boosted demand. Less supply and more demand led to higher prices. As the effects of the pandemic faded, supply recovered and demand shifted back towards historical patterns, lessening price pressures and easing inflation both for food as well as for overall goods and services in the economy. More recently, we have seen a bit of a pick up in food price inflation, with an important contribution from eggs. With avian flu devastating poultry stocks, the supply of eggs has been disrupted, pushing up prices almost 50 percent over the past year.
+
+Zooming out, food prices have historically entered the inflation discussion a bit differently than other prices in the economy. Along with energy prices, food prices are excluded from what we commonly refer to as core inflation.
+
+I would like to spend a minute or two reviewing the concept of core inflation and making the radical suggestion that it might be time to rethink the measure. As a starting point, it is important to note that references to core inflation do not, and I repeat do not, reflect a lack of concern or a down-weighting of food and energy prices in policymakers’ consideration of inflation. Food and energy prices are some of the most salient and impactful prices that consumers face and play an outsized role in consumer inflation expectations. It is for this reason that the Fed targets overall, or headline, inflation. It is 2 percent headline inflation, including food and energy prices, that the Fed aims for, not core inflation.
+
+So, if the target is headline inflation, why do policymakers often refer to core inflation? It is because food and energy prices historically have been volatile—so volatile that core inflation is often thought to be a better predictor of where headline inflation is going than headline inflation itself. That is to say that core is a better measure of trend inflation.
+
+For energy, it is not hard to find examples where outsized spikes or declines in oil prices led to temporary changes in inflation that were clearly not informative of the trend. But how about for food?
+
+When the measure of core inflation was first introduced in the mid-1970s, the contribution of food to overall inflation was in fact very volatile, actually more volatile than energy prices if you can believe it. But that is no longer true. While the food price component is almost twice as volatile as overall inflation, energy prices are nearly 10 times as volatile.
+
+Moreover, recent research at the Kansas City Fed has shown that food prices are increasingly behaving like other prices in the economy. Commodity prices are having less passthrough to food prices, and food prices are reacting more to labor market tightness and other factors that are common across many other prices in the economy.[2]
+
+Here I would like to raise a question. If food prices are not all that much more volatile than other prices and respond to the same factors driving overall inflation, should they still be excluded from core inflation? This could be approached as a question of cost versus benefit. Does excluding food from core inflation produce a better measure of trend inflation? This is an empirical question that I leave to the experts. My guess is if so, it is probably not by much. On the other hand, excluding food from core inflation can lead to communication challenges given the importance of food in the average household budget. While these communication challenges are not insurmountable, I might ask, in agricultural terms, is the juice worth the squeeze? I am not sure that it is. I might prefer replacing the current core inflation with a measure of inflation excluding only energy prices.
+
+The Outlook for Inflation and Unemployment
+I would like to wrap up with a discussion of the current outlook and some thoughts on the path of monetary policy. When it comes to monetary policy, the FOMC is guided by a dual mandate to achieve price stability and full employment. Currently, the data suggests that we are close to achieving that mandate, although inflation has been firmer than I would like and a bit sticky. The labor market remains strong. The unemployment rate, at 4 percent, is close to many economists’ estimate of equilibrium.
+
+However, there are risks that could make our monetary policy decisions increasingly difficult. The recent inflation data raise concern. Over the past year, inflation has run at 2½ percent, above our 2 percent objective, but not by much. Inflation excluding energy is firmer at 2¾ percent and has been more or less stuck at that rate over the past year. In a speech I gave in early January, I expressed optimism that inflation would continue to ease. However, I have become more cautious. One factor I highlighted in January was that inflation expectations appeared anchored at a level consistent with 2 percent inflation, but the last two months have seen a sharp upward movement in some measures of expected inflation. Certainly, survey measures of inflation expectations are imperfect and subject to noise, but with inflation just recently at a 40-year high, now is not the time to let down our guard. It could be argued that some of the factors driving up inflation expectations are likely one-off transitory developments, but again given recent experience, I am not willing to take any chances when it comes to maintaining the Fed’s credibility on inflation.
+
+While the risks to inflation appear to be to the upside, discussions with contacts in my district, as well as some recent data, suggest that elevated uncertainty might weigh on growth. This presents the possibility that the Fed could have to balance inflation risks against growth concerns. When contemplating this balance, I recall two lasting lessons of the 1970s and 1980s. First, that loosening monetary policy in response to softening data before inflation is beat can allow inflation to gain a hold in expectations and the price-setting process. And second, that once inflation is embedded in expectations it becomes much more painful to vanquish. It took more than just easing economic tightness to bring down inflation in the 1980s. It took the Fed building credibility as an inflation fighter, credibility that came at the cost of a steep increase in unemployment and a recession.
+
+In part informed by this history, I intend to keep my eye focused on inflation. It is essential that the Fed remain vigilant and maintain its hard-fought credibility.
+
+Endnotes
+1
+The discussion here is in terms of PCE inflation, the basis of the Fed’s 2 percent inflation objective.
+
+2
+See Cowley, Scott, Lusompa, Rodziewicz, and Dice; “The Passthrough of Agricultural Commodity Prices to Food Prices.” Kansas City Fed Research Working Paper 24-16 December 2024. For factors driving food prices, see Scott “Commodity Prices Have Limited Influence on US Food Inflation.” Economic Bulletin Sept. 23, 2022; and Scott and Kreitman “Tight Labor Markets Have Been a Key Contributor to High Food Inflation.” Economic Bulletin, April 19, 2023.
